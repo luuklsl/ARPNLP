@@ -5,41 +5,67 @@
         {
             "source": {
                 "id": null,
-                "name": "Gamespot.com"
+                "name": "Windsorstar.com"
             },
-            "author": "Mat Elfring",
-            "title": "Captain Marvel: Why Some People Think She's A Man - GameSpot",
-            "description": "The latest Captain Marvel trailer from Marvel is out and some people are mad or confused about the character's sex. Here's a quick explainer.",
-            "url": "https://www.gamespot.com/articles/why-people-think-captain-marvel-is-a-man/1100-6463619/",
-            "urlToImage": "https://static.gamespot.com/uploads/screen_kubrick/1562/15626911/3470692-7.jpg",
+            "author": null,
+            "title": "Cows can be pessimistic and it affects their ability to cope with stress: study - Windsor Star",
+            "description": "VANCOUVER \u2014 Dairy cows can be optimistic or pessimistic from a young age and their inherent outlook can predict their ability to cope with stress, new research from the University of British \u2026",
+            "url": "https://windsorstar.com/news/weird/cows-can-be-pessimistic-and-it-affects-their-ability-to-cope-with-stress-study/wcm/12c1d5e6-56a1-4a49-a375-7589f9dc5a16",
+            "urlToImage": "https://postmediacanoe.files.wordpress.com/2018/12/cpt130-the-canadian-press.jpg",
+            "publishedAt": "2018-12-04T21:48:04Z",
+            "content": "VANCOUVER \u2014 Dairy cows can be optimistic or pessimistic from a young age and their inherent outlook can predict their ability to cope with stress, new research from the University of British Columbia says. Benjamin Lecorps, a PhD student in the animal welfare\u2026 [+1904 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": null,
+            "title": "Moe and Notley call on Trudeau to include oil price 'crisis' at first ministers meeting - CBC News",
+            "description": "Saskatchewan Premier Scott Moe and Alberta Premier Rachel Notley are calling on Prime Minister Justin Trudeau to address the \"crisis facing the energy industry\" at this week's first ministers meeting.",
+            "url": "https://www.cbc.ca/news/canada/saskatchewan/moe-notley-trudeau-oil-crisis-1.4931760",
+            "urlToImage": "https://i.cbc.ca/1.4931832.1543945123!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/notley-and-moe.jpg",
+            "publishedAt": "2018-12-04T21:37:00Z",
+            "content": "Saskatchewan Premier Scott Moe and Alberta Premier Rachel Notley are calling on Prime Minister Justin Trudeau to address the \"crisis facing the energy industry\" at this week's first ministers meeting. Moe and Notley sent a joint letter to Trudeau urging him t\u2026 [+2639 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mobilesyrup.com"
+            },
+            "author": null,
+            "title": "Qualcomm's 2019 flagship chipset is called the Snapdragon 855 - MobileSyrup",
+            "description": "The Snapdragon 855 will power the next-generation of high-end Android devices, Qualcomm announced at its annual Snapdragon Tech Summit.",
+            "url": "https://mobilesyrup.com/2018/12/04/qualcomms-2019-flagship-chipset-is-called-the-snapdragon-855/",
+            "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2018/12/snapdragon-855-alternate-header-1024x522.jpg",
             "publishedAt": "2018-12-04T21:00:00Z",
-            "content": "While we're still months away from Marvel's next movie, Captain Marvel, the second trailer has arrived, and yes, she's still punching old women in the face. The character has a very confusing history, which has led to a few people to question who this charact\u2026 [+2493 chars]"
+            "content": "Qualcomm will market its next flagship mobile chipset as the Snapdragon 855, the San Diego-based chipmaker announced on Tuesday at its third annual Snapdragon Tech Summit in Hawaii. The system-on-a-chip (SoC), briefly known as the Snapdragon 8150 in pre-relea\u2026 [+1222 chars]"
         },
         {
             "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
+                "id": null,
+                "name": "Thechronicleherald.ca"
             },
-            "author": null,
-            "title": "Workers to qualify for PTSD coverage due to work-related trauma - CBC.ca",
-            "description": "The proposed changes must be approved by MHAs before they would take effect next July.",
-            "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/changes-workplace-safety-act-compensation-1.4931512",
-            "urlToImage": "https://i.cbc.ca/1.4666943.1526567881!/fileImage/httpImage/image.png_gen/derivatives/16x9_620/sherry-gambin-walsh.png",
-            "publishedAt": "2018-12-04T20:26:00Z",
-            "content": "Employees diagnosed with PTSD after suffering a traumatic event at work will presumptively qualify for workers' compensation if changes to existing legislation are approved in the House of Assembly. The proposed amendments to the Workplace Health, Safety and \u2026 [+4772 chars]"
+            "author": "John McPhee",
+            "title": "IWK emergency department to double in size - TheChronicleHerald.ca",
+            "description": "The emergency department at the Atlantic region\u2019s main hospital for women and children will double in size thanks to provincial funding announced Tuesday.\r\n\r\nThe expansion will address increasing pressure on the IWK Health Centre\u2019s",
+            "url": "https://www.thechronicleherald.ca/news/local/iwk-emergency-department-to-double-in-size-265339/",
+            "urlToImage": "https://www.thechronicleherald.ca/media/photologue/photos/cache/B97864697Z.1_20181204151812_000G98MO5PL.1-1_medium.jpg",
+            "publishedAt": "2018-12-04T20:28:58Z",
+            "content": "The emergency department at the Atlantic region\u2019s main hospital for women and children will double in size thanks to provincial funding announced Tuesday. The expansion will address increasing pressure on the IWK Health Centre\u2019s emergency department. There ha\u2026 [+3665 chars]"
         },
         {
             "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
+                "id": null,
+                "name": "Ctvnews.ca"
             },
             "author": null,
-            "title": "SaskPower provide update after 3 major power stations lose generation in Sask., causing widespread outages - CBC News",
-            "description": "SaskPower says it does not yet know the cause of the outage that has left an estimated \"tens of thousands\" of people in the province without electricity.",
-            "url": "https://www.cbc.ca/news/canada/saskatoon/sask-power-outage-1.4931616",
-            "urlToImage": "https://i.cbc.ca/1.4932036.1543949621!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/power-outage-businesses-closed-downtown-regina.JPG",
-            "publishedAt": "2018-12-04T20:05:00Z",
-            "content": "SaskPower says it does not yet know the cause of the outage that has left an estimated \"tens of thousands\" of people in Saskatchewan without electricity. Jordan Jackle, a spokesperson for SaskPower, said at a news conference Tuesday afternoon that hundreds of\u2026 [+9067 chars]"
+            "title": "Newborn baby dies in hospital after being found in B.C. dumpster - CTV News",
+            "description": "Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission, B.C.",
+            "url": "https://www.ctvnews.ca/canada/newborn-baby-dies-in-hospital-after-being-found-in-b-c-dumpster-1.4204351",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4192974.1543270371!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2018-12-04T20:13:00Z",
+            "content": "MISSION, B.C. - Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission, B.C. The RCMP say the infant was found in a dumpster in the Fraser Valley community on Nov. 23. Police say the baby was rushed to hospit\u2026 [+245 chars]"
         },
         {
             "source": {
@@ -57,54 +83,28 @@
         {
             "source": {
                 "id": null,
-                "name": "Castanet.net"
+                "name": "Sportsnet.ca"
             },
-            "author": null,
-            "title": "Dumpster baby dies - BC News - Castanet.net",
-            "description": "Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission.",
-            "url": "https://www.castanet.net/news/BC/243634/Dumpster-baby-dies",
-            "urlToImage": "https://www.castanet.net/content/2018/12/image_p3356148.jpg",
-            "publishedAt": "2018-12-04T19:50:00Z",
-            "content": "Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission. The RCMP say the infant was found in a dumpster in the Fraser Valley community on Nov. 23. Police say the baby was rushed to hospital and remained in cr\u2026 [+224 chars]"
-        },
-        {
-            "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
-            },
-            "author": null,
-            "title": "Inflation, NHL style: Fees skyrocket as Seattle scores franchise - CBC.ca",
-            "description": "A closer look at the day's most notable stories with The National's Jonathon Gatehouse: NHL franchise fees are climbing at a dizzying rate; there are some surprising things you can do to greatly reduce your carbon footprint; this year's Canadian Cannabis Awar\u2026",
-            "url": "https://www.cbc.ca/news/thenational/national-today-newsletter-nhl-carbon-footprint-cannabis-1.4929847",
-            "urlToImage": "https://i.cbc.ca/1.4932019.1543949035!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/gasm103.jpg",
-            "publishedAt": "2018-12-04T19:44:00Z",
-            "content": "Welcome to The National Today newsletter, which takes a closer look at what's happening around some of the day's most notable stories. Sign up here and it will be delivered directly to your inbox Monday to Friday. TODAY: The cost of admission to the National \u2026 [+14214 chars]"
+            "author": "Iain MacIntyre",
+            "title": "Canucks, Seattle franchise's shared identity breeds natural rivalry - Sportsnet.ca",
+            "description": "The Canucks have seen rivalries come and go, but Seattle is different. Seattle is permanent. It's going to be a Vancouver rival forever, and you can bet your last latte that Canucks fans will care more about playing Seattle than Ottawa.",
+            "url": "https://www.sportsnet.ca/hockey/nhl/canucks-seattle-franchises-shared-identity-breeds-natural-rivalry/",
+            "urlToImage": "https://assets2.sportsnet.ca/wp-content/uploads/2018/10/boeser-pettersson-bench.jpg",
+            "publishedAt": "2018-12-04T19:13:00Z",
+            "content": "VANCOUVER \u2014 From the Peace Arch Border Crossing at the southern edge of Metro Vancouver, its a 90-minute straight shot down Interstate-5 to Seattle. But ideologically, its closer than that. There has always been a kind of kinship between the great cities of t\u2026 [+5553 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Www.tsn.ca"
+                "name": "Www.cfl.ca"
             },
-            "author": "TSN.ca Staff",
-            "title": "Stamps QB, MOP Mitchell highlights CFL All-Stars - TSN",
-            "description": "2018 Most Outstanding Player Bo Levi Mitchell highlighted the 2018 CFL All-Stars, which were announced Tuesday. The Winnipeg Blue Bombers, Hamilton Tiger-Cats, and BC Lions topped the list with five CFL All-Stars each.",
-            "url": "https://www.tsn.ca/stamps-qb-mop-mitchell-highlights-cfl-all-stars-1.1220751",
-            "urlToImage": "https://www.tsn.ca/polopoly_fs/1.1171387!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/bo-levi-mitchell.jpg",
-            "publishedAt": "2018-12-04T19:03:56Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cnet.com"
-            },
-            "author": "Ben Fox Rubin",
-            "title": "Qualcomm plots out 5G future: Everything from its Snapdragon Tech Summit - CNET",
-            "description": "The 5G fun starts in 2019. Plus, Qualcomm unveiled the Snapdragon 855 mobile chip and an ultrasonic fingerprint reader.",
-            "url": "https://www.cnet.com/news/qualcomm-snapdragon-tech-summit-watch-5g-keynote-live-now/",
-            "urlToImage": "https://cnet2.cbsistatic.com/img/3kRo8PgCjQtlqWrHcNsbb5US33U=/724x407/2018/12/04/a12719ec-d6f3-409a-997c-d497c97a1ed0/screen-shot-2018-12-04-at-11-41-05-am.png",
-            "publishedAt": "2018-12-04T19:02:00Z",
-            "content": "The 5G phones are coming. At Qualcomm's Snapdragon Technology Summit on Tuesday, company president Cristiano Amon showed off onstage a prototype 5G device that could tap into 5G networks at the event. Samsung said it will also present a 5G phone reference des\u2026 [+1015 chars]"
+            "author": "",
+            "title": "Stars Aligned: 2018 CFL All-Stars unveiled - CFL.ca",
+            "description": "The Canadian Football League announced the 2018 All-Stars on Tuesday.",
+            "url": "https://www.cfl.ca/2018/12/04/stars-aligned-2018-cfl-stars-unveiled/",
+            "urlToImage": "https://d3ham790trbkqy.cloudfront.net/wp-content/uploads/2018/12/Duke_Williams_2018-1600x902.jpg",
+            "publishedAt": "2018-12-04T19:00:45Z",
+            "content": "TORONTO \u2014 The Canadian Football League (CFL) unveiled the 2018 CFL All-Stars on Tuesday. The All-Stars were selected by the Football Reporters of Canada (FRC) and the leagues head coaches. This is the 56 th year in which the CFL has named an All-Star team in \u2026 [+1978 chars]"
         },
         {
             "source": {
@@ -118,6 +118,19 @@
             "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4143971.1540216151!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
             "publishedAt": "2018-12-04T18:54:00Z",
             "content": "FREDERICTON -- A Fredericton man accused of murdering two police officers and two civilians in an August shooting spree has been found fit to stand trial. Matthew Raymond is charged with the first-degree murders of Fredericton constables Sara Burns and Robb C\u2026 [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Foxcarolina.com"
+            },
+            "author": "Jennifer Lindman",
+            "title": "Walking Dead 'bad guy' adopts SC donkey and emu odd couple who cannot be separated, AP reports - FOX Carolina",
+            "description": "Jack and Diane, an odd couple, were rescued from Kershaw, South Carolina, when their owner vanished, rescue officials say. The donkey and emu couple are inseparable and reportedly sleep together.",
+            "url": "https://www.foxcarolina.com/news/south_carolina/walking-dead-bad-guy-adopts-sc-donkey-and-emu-odd/article_cdb4d9f4-f7f4-11e8-83b6-171748b65480.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/foxcarolina.com/content/tncms/assets/v3/editorial/a/43/a43f383c-f7f7-11e8-b696-234f6047798a/5c06d07d43093.image.jpg?resize=640%2C360",
+            "publishedAt": "2018-12-04T18:45:00Z",
+            "content": "Kershaw, S.C. (FOX Carolina/AP) -- Jack and Diane, an odd couple, were rescued from Kershaw, South Carolina, when their owner vanished, rescue officials say. The donkey and emu couple are inseparable and reportedly sleep together. Carolina Waterfowl Rescue Fo\u2026 [+664 chars]"
         },
         {
             "source": {
@@ -147,19 +160,6 @@
         },
         {
             "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Bob Bryan",
-            "title": "Trump calls himself 'Tariff Man' during raging tweetstorm on China trade war, and the stock market tanks - Business Insider",
-            "description": "President Donald Trump expressed optimism about trade talks with China, but warned he could also escalate the trade war because he is a \"Tariff Man.\"",
-            "url": "https://www.businessinsider.com/trump-twitter-tariff-man-china-trade-war-negotiations-xi-jinping-2018-12",
-            "urlToImage": "https://amp.businessinsider.com/images/5c06c87f4598b569a7526477-1920-960.png",
-            "publishedAt": "2018-12-04T17:54:17Z",
-            "content": "President Donald Trump warned as part of a Tuesday tweetstorm that a trade deal with China could still fall through but said preliminary negotiations with Chinese President Xi Jinping were encouraging. \"President Xi and I want this deal to happen, and it prob\u2026 [+4645 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Ottawacitizen.com"
             },
@@ -170,19 +170,6 @@
             "urlToImage": "https://postmediaottawacitizen2.files.wordpress.com/2018/12/118306-lockdown-301.jpg",
             "publishedAt": "2018-12-04T17:47:03Z",
             "content": "Ottawa Public Health is investigating the possibility that 150 students and some staff at Ridgemont High School were exposed to a student with active tuberculosis. The students, their parents and the staff have received a letter recommending they be tested fo\u2026 [+3242 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kitguru.net"
-            },
-            "author": "Damien Mason",
-            "title": "Epic opens its store to third-party developers with less than half the revenue split of Steam - KitGuru",
-            "description": "Last week, Valve announced changes to the revenue split within the Steam Store, cutting its take as a game\u2019s profit steadily increases. While this is sure to benefit triple A games, this leaves many i",
-            "url": "https://www.kitguru.net/gaming/damien-cox/epic-opens-its-store-to-third-party-developers-with-less-than-half-the-revenue-split-of-steam/",
-            "urlToImage": "https://www.kitguru.net/wp-content/uploads/2018/12/Epic_Games_Store-1-732x330.jpg",
-            "publishedAt": "2018-12-04T17:08:37Z",
-            "content": "Last week, Valve announced changes to the revenue split within the Steam Store, cutting its take as a games profit steadily increases. While this is sure to benefit triple A games, this leaves many indie titles in the dust, but there could be a saving grace o\u2026 [+3401 chars]"
         },
         {
             "source": {
@@ -238,29 +225,42 @@
         },
         {
             "source": {
-                "id": "the-globe-and-mail",
-                "name": "The Globe And Mail"
+                "id": "nbc-news",
+                "name": "NBC News"
             },
-            "author": null,
-            "title": "Aphria shares fall again as company disputes short-seller claims - The Globe and Mail",
-            "description": "Marijuana grower\u2019s stock fell 15 per cent in early trading in Toronto after shedding almost 28 per cent a day earlier",
-            "url": "https://www.theglobeandmail.com/cannabis/article-aphria-shares-fall-again-as-company-disputes-short-seller-claims/",
-            "urlToImage": "https://www.theglobeandmail.com/resizer/OBFzEqlrg7gIeEaID2VnuBJJ164=/1200x0/filters:quality(80)/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/CUHCS4QU3BED3FWA3PVMAEX4XE.JPG",
-            "publishedAt": "2018-12-04T15:39:40Z",
-            "content": "Aphria Inc.s stock opened sharply lower Tuesday, a day after a widely read short-sellers report raised questions about one of the cannabis companys recent acquisitions. Shares of the Leamington, Ont.-based marijuana grower plunged 15 per cent in early trading\u2026 [+2718 chars]"
+            "author": "Minyvonne Burke, Emily Pandise",
+            "title": "Woman says Hilton employee secretly filmed her naked in hotel room and tried to extort her - NBCNews.com",
+            "description": "A woman in Chicago alleges in a lawsuit that an employee at the Hampton Inn and Suites in Albany, New York secretly filmed her in the shower, posted the video online and then shared it with her colleagues.",
+            "url": "https://www.nbcnews.com/news/us-news/woman-says-hilton-employee-secretly-filmed-her-naked-hotel-room-n943431",
+            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2018_49/2669376/181204-hampton-inn-mc-1352_1dd34eba2db32fb9867811a26d28b720.1200;630;7;70;5.JPG",
+            "publishedAt": "2018-12-04T15:44:00Z",
+            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Dec. 4, 2018 / 3:44 PM GMT A woman in Chicago is suing Hilton Worldwide for $100 million after she said an employee at an Albany, New York, h\u2026 [+2998 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Thestar.com"
+                "name": "Cjme.com"
             },
-            "author": null,
-            "title": "Integrity watchdog urged to probe Taverner\u2019s appointment as OPP commissioner - Toronto Star",
-            "description": "The province\u2019s integrity watchdog is being called upon to investigate the appointment of a long-time Ford family friend as commissioner of the Ontario Provincial Police.",
-            "url": "https://www.thestar.com/news/queenspark/2018/12/04/integrity-watchdog-urged-to-probe-taverners-appointment-as-opp-commissioner.html",
-            "urlToImage": "https://images.thestar.com/cHM3uEvASm4y4w03DznbG2mRzxg=/1200x800/smart/filters:cb(1543942121762)/https://www.thestar.com/content/dam/thestar/news/queenspark/2018/12/04/integrity-watchdog-urged-to-probe-taverners-appointment-as-opp-commissioner/taverner.jpg",
-            "publishedAt": "2018-12-04T15:11:21Z",
-            "content": "The 51-year police veteran is a unit commander in charge of Etobicoke divisions and a close friend of the premier. He succeeds Vince Hawkes, 56, who retired earlier this year. On Tuesday, Democracy Watch wrote to integrity commissioner David Wake asking him t\u2026 [+1944 chars]"
+            "author": "CJME News",
+            "title": "Widespread power outages in Saskatchewan - News Talk 980 CJME",
+            "description": "SaskPower is reporting widespread power outages affecting various cities and towns across the province from Re...",
+            "url": "https://www.cjme.com/2018/12/04/widespread-power-outages-affecting-south-sask/",
+            "urlToImage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/648/files/2018/12/Frost-on-Sask-Power-lines.jpg",
+            "publishedAt": "2018-12-04T15:17:00Z",
+            "content": "SaskPower is reporting widespread power outages affecting various cities and towns across the province from Regina to Moose Jaw and Weyburn as well as a massive area around Humboldt and Wadena. According to the website, SaskPower is now calling this a major o\u2026 [+7842 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "Singed and sooty, SpaceX\u2019s Falcon 9 rocket still looked brilliant Monday - Ars Technica",
+            "description": "\u201cObviously, aesthetics are a minor factor in rocket design.\"",
+            "url": "https://arstechnica.com/science/2018/12/singed-and-sooty-spacexs-falcon-9-rocket-still-looked-brilliant-monday/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/45257565835_07881431cc_k-760x380.jpg",
+            "publishedAt": "2018-12-04T13:55:00Z",
+            "content": "60 with 42 posters participating, including story author SpaceX launched the same Falcon 9 rocket first stage for the third time on Monday. Clear skies at Vandenberg Air Force Base in California made for some great views of the launch. The rocket performed no\u2026 [+2089 chars]"
         }
     ]
 }

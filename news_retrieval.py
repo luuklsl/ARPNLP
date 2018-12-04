@@ -2,6 +2,7 @@ from newsapi import NewsApiClient
 from pprint import pprint
 import json
 import spacy
+from spacy import displacy
 
 from API import API_KEY
 
@@ -50,6 +51,10 @@ def do_NLP_magic():
     doc = nlp(article_contents)
     for ent in doc.ents:
         print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+    # Render results to text displayer, go to http://127.0.0.1:5000/ to view the results of this
+    displacy.serve(doc, style='ent')
+
 
 
 get_news(API_KEY)   #Turn this off so you don't do API calls all the time
