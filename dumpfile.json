@@ -4,263 +4,263 @@
     "articles": [
         {
             "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Norman",
+            "title": "China sends mixed messages on arrest of ex-Canadian diplomat amid Huawei legal battle - Fox News",
+            "description": "The former Canadian diplomat detained this week by China -- amid the furor over the arrest in Canada of a top Chinese tech executive\u00a0-- remained locked up Wednesday, with China's spin careening from denying the man's detention to claiming he's a national secu\u2026",
+            "url": "https://www.foxnews.com/world/china-sends-mixed-messages-on-arrest-of-ex-canadian-diplomat-amid-huawei-legal-battle",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/12/Michael-Kovrig.jpg",
+            "publishedAt": "2018-12-12T19:04:01Z",
+            "content": "The former Canadian diplomat detained this week by China -- amid the furor over the arrest in Canada of a top Chinese tech executive -- remained locked up Wednesday, with China's spin careening from denying the man's detention to claiming he's a national secu\u2026 [+3622 chars]"
+        },
+        {
+            "source": {
                 "id": null,
-                "name": "Windsorstar.com"
+                "name": "Fieldgulls.com"
+            },
+            "author": "Mookie Alexander",
+            "title": "Report: Seahawks lose Mychal Kendricks for the season with broken tibia - Field Gulls",
+            "description": "Seattle Seahawks linebacker Mychal Kendricks\u2019 return from his suspension for insider trading will apparently last all of one game. ESPN\u2019s Adam Schefter has delivered the bad news that Kendricks...",
+            "url": "https://www.fieldgulls.com/2018/12/12/18138056/report-seahawks-lose-mychal-kendricks-season-broken-tibia-nfl-news-injury",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3feeYh8_8jG5KRYFxnUJf2InckI=/0x0:3696x1935/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13618759/1071547668.jpg.jpg",
+            "publishedAt": "2018-12-12T18:56:47Z",
+            "content": "Seattle Seahawks linebacker Mychal Kendricks return from his suspension for insider trading will apparently last all of one game. ESPNs Adam Schefter has delivered the bad news that Kendricks suffered a broken tibia during Monday nights win against the Minnes\u2026 [+1292 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theathletic.com"
+            },
+            "author": "Amy Parlapiano",
+            "title": "NFL Power Rankings Week 14: Finally, the Chiefs stand alone... - The Athletic",
+            "description": "There was plenty of movement this week among the Top 10.",
+            "url": "https://theathletic.com/705437/2018/12/12/nfl-power-rankings-week-14-finally-the-chiefs-are-alone-at-the-top/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2018/12/12134145/PR_wk14-1024x682.jpg",
+            "publishedAt": "2018-12-12T18:53:43Z",
+            "content": "Welcome to our Athletic NFL Power Rankings. Every week, we ask all of our NFL writers the local scribes and the national team, this week 30 voters total to rank the teams from first to worst. Here are the collective results after 13 weeks of the 2018 season. \u2026 [+677 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Chaim Gartenberg",
+            "title": "Apple might be making its own cellular chips to compete with Qualcomm - The Verge",
+            "description": "Apple is apparently working on its own, in-house developed modem to allow it to better compete with Qualcomm, according to several new Apple job listings that task engineers to design and develop a layer 1 cellular PHY chip \u2014 implying that the company is work\u2026",
+            "url": "https://www.theverge.com/circuitbreaker/2018/12/12/18137816/apple-modem-qualcomm-intel-iphone-competition-engineer-hiring",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/SmRNCEVQpI2_AUNRLU1XXSPYUro=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13315921/akrales_181019_3014_0261.jpg",
+            "publishedAt": "2018-12-12T18:52:59Z",
+            "content": "Apple is apparently working on its own, in-house developed modem to allow it to better compete with Qualcomm, according to several new Apple job listings that task engineers to design and develop a layer 1 cellular PHY chip implying that the company is workin\u2026 [+3049 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lucas Matney",
+            "title": "Facebook settles Oculus VR lawsuit with ZeniMax - TechCrunch",
+            "description": "Nearly five years after announcing its acquisition of Oculus VR, Facebook is finally ready to put behind it the drama surrounding its founding. Gaming giant ZeniMax Media\u2019s lawsuit against Facebook over the misuse of intellectual property related to the found\u2026",
+            "url": "https://techcrunch.com/2018/12/12/facebook-settles-oculusvr-lawsuit-with-zenimax/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-953545880.jpg?w=608",
+            "publishedAt": "2018-12-12T18:23:05Z",
+            "content": "Nearly five years after announcing its acquisition of Oculus VR, Facebook is finally ready to put behind it the drama surrounding its founding. Gaming giant ZeniMax Media\u2019s lawsuit against Facebook over the misuse of intellectual property related to the found\u2026 [+1125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Americamagazine.org"
             },
             "author": null,
-            "title": "Cows can be pessimistic and it affects their ability to cope with stress: study - Windsor Star",
-            "description": "VANCOUVER \u2014 Dairy cows can be optimistic or pessimistic from a young age and their inherent outlook can predict their ability to cope with stress, new research from the University of British \u2026",
-            "url": "https://windsorstar.com/news/weird/cows-can-be-pessimistic-and-it-affects-their-ability-to-cope-with-stress-study/wcm/12c1d5e6-56a1-4a49-a375-7589f9dc5a16",
-            "urlToImage": "https://postmediacanoe.files.wordpress.com/2018/12/cpt130-the-canadian-press.jpg",
-            "publishedAt": "2018-12-04T21:48:04Z",
-            "content": "VANCOUVER \u2014 Dairy cows can be optimistic or pessimistic from a young age and their inherent outlook can predict their ability to cope with stress, new research from the University of British Columbia says. Benjamin Lecorps, a PhD student in the animal welfare\u2026 [+1904 chars]"
+            "title": "Cardinal Pell, top advisor to Pope Francis, found guilty of 'historical sexual offenses' - America Magazine",
+            "description": "The cardinal is the most senior churchman yet to be convicted of historical sexual offenses. His conviction is a grave blow not only to the church in Australia but also to Pope Francis.",
+            "url": "https://www.americamagazine.org/faith/2018/12/12/cardinal-pell-top-advisor-pope-francis-found-guilty-historical-sexual-offenses",
+            "urlToImage": "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/20181212T1214-22929-CNS-PELL-TRIAL.jpg.png?itok=fP_km_IT",
+            "publishedAt": "2018-12-12T18:21:14Z",
+            "content": "An Australian jury has found Cardinal George Pell, 77, guilty on five charges of historical child sexual offenses that go back decades, according to various media reports and confirmed by America. The 12-member jury gave their unanimous verdict in the County \u2026 [+6518 chars]"
         },
         {
             "source": {
-                "id": "cbc-news",
-                "name": "CBC News"
+                "id": "cbs-news",
+                "name": "CBS News"
             },
-            "author": null,
-            "title": "Moe and Notley call on Trudeau to include oil price 'crisis' at first ministers meeting - CBC News",
-            "description": "Saskatchewan Premier Scott Moe and Alberta Premier Rachel Notley are calling on Prime Minister Justin Trudeau to address the \"crisis facing the energy industry\" at this week's first ministers meeting.",
-            "url": "https://www.cbc.ca/news/canada/saskatchewan/moe-notley-trudeau-oil-crisis-1.4931760",
-            "urlToImage": "https://i.cbc.ca/1.4931832.1543945123!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/notley-and-moe.jpg",
-            "publishedAt": "2018-12-04T21:37:00Z",
-            "content": "Saskatchewan Premier Scott Moe and Alberta Premier Rachel Notley are calling on Prime Minister Justin Trudeau to address the \"crisis facing the energy industry\" at this week's first ministers meeting. Moe and Notley sent a joint letter to Trudeau urging him t\u2026 [+2639 chars]"
+            "author": "Kate Gibson",
+            "title": "California text tax: California considers a tax on text messages - CBS News",
+            "description": "Regulators to vote on surcharge to bolster state program that helps make phone service affordable for poor people",
+            "url": "https://www.cbsnews.com/news/california-text-tax-california-considers-a-tax-on-text-messages/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/01/04/21777b88-622a-4292-8514-91022c4452b2/thumbnail/1200x630/b7a2decf5fdcf3932599963affeaa6c4/smartphone.jpg",
+            "publishedAt": "2018-12-12T18:21:00Z",
+            "content": "Californians may or may not type OMG at the news, but texting may soon come with an extra fee on their mobile phone bills. State regulators are weighing a tax on text messaging to help fund a program that makes phone service available to low-income residents.\u2026 [+1623 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Mobilesyrup.com"
-            },
-            "author": null,
-            "title": "Qualcomm's 2019 flagship chipset is called the Snapdragon 855 - MobileSyrup",
-            "description": "The Snapdragon 855 will power the next-generation of high-end Android devices, Qualcomm announced at its annual Snapdragon Tech Summit.",
-            "url": "https://mobilesyrup.com/2018/12/04/qualcomms-2019-flagship-chipset-is-called-the-snapdragon-855/",
-            "urlToImage": "https://cdn.mobilesyrup.com/wp-content/uploads/2018/12/snapdragon-855-alternate-header-1024x522.jpg",
-            "publishedAt": "2018-12-04T21:00:00Z",
-            "content": "Qualcomm will market its next flagship mobile chipset as the Snapdragon 855, the San Diego-based chipmaker announced on Tuesday at its third annual Snapdragon Tech Summit in Hawaii. The system-on-a-chip (SoC), briefly known as the Snapdragon 8150 in pre-relea\u2026 [+1222 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thechronicleherald.ca"
-            },
-            "author": "John McPhee",
-            "title": "IWK emergency department to double in size - TheChronicleHerald.ca",
-            "description": "The emergency department at the Atlantic region\u2019s main hospital for women and children will double in size thanks to provincial funding announced Tuesday.\r\n\r\nThe expansion will address increasing pressure on the IWK Health Centre\u2019s",
-            "url": "https://www.thechronicleherald.ca/news/local/iwk-emergency-department-to-double-in-size-265339/",
-            "urlToImage": "https://www.thechronicleherald.ca/media/photologue/photos/cache/B97864697Z.1_20181204151812_000G98MO5PL.1-1_medium.jpg",
-            "publishedAt": "2018-12-04T20:28:58Z",
-            "content": "The emergency department at the Atlantic region\u2019s main hospital for women and children will double in size thanks to provincial funding announced Tuesday. The expansion will address increasing pressure on the IWK Health Centre\u2019s emergency department. There ha\u2026 [+3665 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ctvnews.ca"
-            },
-            "author": null,
-            "title": "Newborn baby dies in hospital after being found in B.C. dumpster - CTV News",
-            "description": "Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission, B.C.",
-            "url": "https://www.ctvnews.ca/canada/newborn-baby-dies-in-hospital-after-being-found-in-b-c-dumpster-1.4204351",
-            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4192974.1543270371!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-            "publishedAt": "2018-12-04T20:13:00Z",
-            "content": "MISSION, B.C. - Police say a newborn baby girl has died in hospital after being found in a dumpster last month in Mission, B.C. The RCMP say the infant was found in a dumpster in the Fraser Valley community on Nov. 23. Police say the baby was rushed to hospit\u2026 [+245 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bbc.com"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "US mid-term elections: Republican committee reports hacking to FBI - BBC News",
-            "description": "Senior campaign officials had email accounts hacked ahead of this year's elections, it has emerged.",
-            "url": "https://www.bbc.com/news/world-us-canada-46446722",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/22B1/production/_104618880_gettyimages-960290950.jpg",
-            "publishedAt": "2018-12-04T19:50:26Z",
-            "content": "Image copyright Getty Images Campaign officials for the US Republican Party had their email accounts hacked ahead of this year's mid-term elections, it has emerged. The National Republican Congressional Committee (NRCC) said it was the victim of a cyber intru\u2026 [+1175 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sportsnet.ca"
-            },
-            "author": "Iain MacIntyre",
-            "title": "Canucks, Seattle franchise's shared identity breeds natural rivalry - Sportsnet.ca",
-            "description": "The Canucks have seen rivalries come and go, but Seattle is different. Seattle is permanent. It's going to be a Vancouver rival forever, and you can bet your last latte that Canucks fans will care more about playing Seattle than Ottawa.",
-            "url": "https://www.sportsnet.ca/hockey/nhl/canucks-seattle-franchises-shared-identity-breeds-natural-rivalry/",
-            "urlToImage": "https://assets2.sportsnet.ca/wp-content/uploads/2018/10/boeser-pettersson-bench.jpg",
-            "publishedAt": "2018-12-04T19:13:00Z",
-            "content": "VANCOUVER \u2014 From the Peace Arch Border Crossing at the southern edge of Metro Vancouver, its a 90-minute straight shot down Interstate-5 to Seattle. But ideologically, its closer than that. There has always been a kind of kinship between the great cities of t\u2026 [+5553 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Www.cfl.ca"
+                "name": "Npr.org"
             },
             "author": "",
-            "title": "Stars Aligned: 2018 CFL All-Stars unveiled - CFL.ca",
-            "description": "The Canadian Football League announced the 2018 All-Stars on Tuesday.",
-            "url": "https://www.cfl.ca/2018/12/04/stars-aligned-2018-cfl-stars-unveiled/",
-            "urlToImage": "https://d3ham790trbkqy.cloudfront.net/wp-content/uploads/2018/12/Duke_Williams_2018-1600x902.jpg",
-            "publishedAt": "2018-12-04T19:00:45Z",
-            "content": "TORONTO \u2014 The Canadian Football League (CFL) unveiled the 2018 CFL All-Stars on Tuesday. The All-Stars were selected by the Football Reporters of Canada (FRC) and the leagues head coaches. This is the 56 th year in which the CFL has named an All-Star team in \u2026 [+1978 chars]"
+            "title": "What To Know About The No-Confidence Vote Facing British Prime Minister Theresa May - NPR",
+            "description": "Britain's prime minister faces a no-confidence vote in Parliament on Wednesday evening. Why do members of her own party want to sack her?",
+            "url": "https://www.npr.org/2018/12/12/676098883/what-to-know-about-the-no-confidence-vote-facing-british-prime-minister-theresa",
+            "urlToImage": "https://media.npr.org/assets/img/2018/12/12/ap_18346405195041_wide-b7cfc2334aebed0fa47acea129ef14296ec184f2.jpg?s=1400",
+            "publishedAt": "2018-12-12T18:19:00Z",
+            "content": "Britain's Prime Minister Theresa May leaves 10 Downing Street to attend the weekly Prime Ministers' Questions session on Wednesday. Tim Ireland/AP The United Kingdom is embroiled in its biggest political crisis in decades. On Wednesday evening, members of Par\u2026 [+5133 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Ctvnews.ca"
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
             },
-            "author": "Kevin Bissett",
-            "title": "Accused Fredericton shooter found fit to stand trial, asks to be set free - CTV News",
-            "description": "A Fredericton man accused of murdering two police officers and two civilians in an August shooting spree has been found fit to stand trial.",
-            "url": "https://www.ctvnews.ca/canada/accused-fredericton-shooter-found-fit-to-stand-trial-asks-to-be-set-free-1.4204215",
-            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4143971.1540216151!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-            "publishedAt": "2018-12-04T18:54:00Z",
-            "content": "FREDERICTON -- A Fredericton man accused of murdering two police officers and two civilians in an August shooting spree has been found fit to stand trial. Matthew Raymond is charged with the first-degree murders of Fredericton constables Sara Burns and Robb C\u2026 [+2398 chars]"
+            "author": "Leah Greenblatt",
+            "title": "Emily Blunt brings most of the magic in Mary Poppins Returns: EW review - Entertainment Weekly News",
+            "description": "Spoonfuls of sugar help the movie magic go down.",
+            "url": "https://ew.com/movie-reviews/2018/12/12/mary-poppins-returns-ew-review/",
+            "urlToImage": "https://ewedit.files.wordpress.com/2018/11/marypoppinsreturns5bea6bd1ce4061.jpg?crop=0px%2C0px%2C3000px%2C1575px&resize=1200%2C630",
+            "publishedAt": "2018-12-12T18:10:00Z",
+            "content": "Who dares to reboot the supercallifragilistic nanny, already practically perfect in every way? For more than half a century after Julie Andrews first drifted down from pearly London skies and into Disney legend, her legacy was left largely one could even say \u2026 [+2275 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Foxcarolina.com"
+                "name": "Tmz.com"
             },
-            "author": "Jennifer Lindman",
-            "title": "Walking Dead 'bad guy' adopts SC donkey and emu odd couple who cannot be separated, AP reports - FOX Carolina",
-            "description": "Jack and Diane, an odd couple, were rescued from Kershaw, South Carolina, when their owner vanished, rescue officials say. The donkey and emu couple are inseparable and reportedly sleep together.",
-            "url": "https://www.foxcarolina.com/news/south_carolina/walking-dead-bad-guy-adopts-sc-donkey-and-emu-odd/article_cdb4d9f4-f7f4-11e8-83b6-171748b65480.html",
-            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/foxcarolina.com/content/tncms/assets/v3/editorial/a/43/a43f383c-f7f7-11e8-b696-234f6047798a/5c06d07d43093.image.jpg?resize=640%2C360",
-            "publishedAt": "2018-12-04T18:45:00Z",
-            "content": "Kershaw, S.C. (FOX Carolina/AP) -- Jack and Diane, an odd couple, were rescued from Kershaw, South Carolina, when their owner vanished, rescue officials say. The donkey and emu couple are inseparable and reportedly sleep together. Carolina Waterfowl Rescue Fo\u2026 [+664 chars]"
+            "author": "TMZ Staff",
+            "title": "Kathie Lee Gifford Says Her Replacement on 'Today' Will Be Hoda Kotb's Pick - TMZ",
+            "description": "Kathie Lee Gifford implies that Hoda Kotb will have final say on her 'Today' replacement.",
+            "url": "https://www.tmz.com/2018/12/12/kathie-lee-gifford-replacement-today-show-nbc-hoda-kotb/",
+            "urlToImage": "https://images.tmz.com/2018/12/12/121218-kathie-lee-and-hoda-v2-primary-1200x630.jpg",
+            "publishedAt": "2018-12-12T18:01:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Therecord.com"
-            },
-            "author": "TheRecord.com",
-            "title": "Journey to Space exhibit coming soon to Waterloo Regional Museum - TheRecord.com",
-            "description": "Visitors to the Waterloo Region Museum this winter will get a hands-on, climb-aboard experience at what it takes to live and work in space. This new interactive exhibit called Journey to Space launches Feb. 1, 2019.",
-            "url": "https://www.therecord.com/news-story/9065927-journey-to-space-exhibit-coming-soon-to-waterloo-regional-museum/",
-            "urlToImage": "https://dynamicmedia.zuza.com/zz/m/original_/9/5/9554bb1b-d2b1-46a2-9a9c-a06b1801e1bf/b1f3677537a241dcb99d2cc0537f53d4 b1f3677537a241dcb99d2cc0537f53d4 0_Super_Portrait.jpg",
-            "publishedAt": "2018-12-04T18:35:16Z",
-            "content": "Visitors to the Waterloo Region Museum this winter will get a hands-on, climb-aboard experience at what it takes to live and work in space. This new interactive exhibit called Journey to Space launches Feb. 1, 2019. \u201cOur new Journey to Space exhibit is very t\u2026 [+1241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Iphoneincanada.ca"
-            },
-            "author": "Christopher Baugh",
-            "title": "Apple Reallocating Staff in 'Fire Drill' to Bolster iPhone XS, XR Demand: Bloomberg - iPhone in Canada",
-            "description": "Apple is exploring new marketing strategies as part of a broader effort to bolster iPhone XS and iPhone XR demand.",
-            "url": "https://www.iphoneincanada.ca/news/apple-fire-drill/",
-            "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2018/11/iphone-xr-red-select-201809_AV3.jpeg",
-            "publishedAt": "2018-12-04T18:11:27Z",
-            "content": "Apple is exploring new marketing strategies as part of a broader effort to bolster iPhone XS and iPhone XR demand. According to a new report from Bloomberg, Apple has reallocated staff in a \u201cfire drill\u201d to spark sales of the latest iPhones, which are apparent\u2026 [+1581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ottawacitizen.com"
+                "name": "Yahoo.com"
             },
             "author": null,
-            "title": "150 students and some staff at Ridgemont High School possibly exposed to tuberculosis - Ottawa Citizen",
-            "description": "Ottawa Public Health is investigating the possibility that 150 students and some staff at Ridgemont High School were exposed to a student with active tuberculosis.The students, their parents and th\u2026",
-            "url": "https://ottawacitizen.com/news/local-news/150-students-and-some-staff-at-ridgemont-high-school-possibly-exposed-to-tuberculosis",
-            "urlToImage": "https://postmediaottawacitizen2.files.wordpress.com/2018/12/118306-lockdown-301.jpg",
-            "publishedAt": "2018-12-04T17:47:03Z",
-            "content": "Ottawa Public Health is investigating the possibility that 150 students and some staff at Ridgemont High School were exposed to a student with active tuberculosis. The students, their parents and the staff have received a letter recommending they be tested fo\u2026 [+3242 chars]"
+            "title": "Tencent Music debut strikes a chord with investors - Yahoo Finance",
+            "description": "Spotify is an investor in the Chinese company.  The IPO raised $1.1 billion in proceeds and is one of the largest by a Chinese company in the United States this year, behind the $2.4 billion raised by video streaming company iQiyi, the $1.6 billion garnered b\u2026",
+            "url": "https://finance.yahoo.com/news/chinas-tencent-music-jumps-11-172444090.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BLyfZoAD_Bbk40rhSsK3Ew--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/images/SG_AHTTP_OLINTECH_Wrapper_NewFeed_1/2018-12-12T172444Z_1_LYNXMPEEBB1LL_RTROPTP_3_TENCENT-RESULTS_original.jpg",
+            "publishedAt": "2018-12-12T17:24:00Z",
+            "content": "(Reuters) - Shares of China-based music streaming company Tencent Music Entertainment rose about 11 percent in their U.S. debut on Wednesday, as investors shrugged off volatile markets to grab a piece of the fast-growing music streaming industry. The company'\u2026 [+2772 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "AP",
+            "title": "\"Scary\" warming in the Arctic at unusual times and places - CBS News",
+            "description": "The report also finds record low winter ice and increased toxic algae",
+            "url": "https://www.cbsnews.com/news/climate-report-finds-second-warmest-year-on-record-in-the-arctic/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/12/12/03ff3e18-b844-4aaa-93fd-0d213cf5e27f/thumbnail/1200x630/7a732e4faa8d25b478f0297273c43e1f/gettyimages-925621364.jpg",
+            "publishedAt": "2018-12-12T17:24:00Z",
+            "content": "WASHINGTON \u2014 Scientists are seeing surprising melting in Earth's polar regions at times they don't expect, like winter, and in places they don't expect, like eastern Antarctica. New studies and reports issued this week at a major Earth sciences conference pai\u2026 [+4544 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ctvnews.ca"
+                "name": "Aol.com"
+            },
+            "author": "Carrie Healey",
+            "title": "Dow rallies more than 350 points amid optimism surrounding US-China trade talks - AOL",
+            "description": "Stocks surged Wednesday as signs of thawing trade tensions helped lift the mood on Wall Street following a bruising few weeks for global markets.",
+            "url": "https://www.aol.com/article/finance/2018/12/12/dow-rallies-more-than-350-points-amid-optimism-surrounding-us-china-trade-talks/23616384/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/4647x3047+0+0/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-12%2F3df16410-fe32-11e8-afef-0db84f21de25",
+            "publishedAt": "2018-12-12T17:22:05Z",
+            "content": "Stocks surged Wednesday as signs of thawing trade tensions helped lift the mood on Wall Street following a bruising few weeks for global markets. The Dow Jones Industrial Average jumped 1.5%, or about 360 points. The Nasdaq Composite rose 2%, and the S&amp;P \u2026 [+2350 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
             },
             "author": null,
-            "title": "'You will be caught,' ministers vow ahead of compulsory breath tests for drivers - CTV News",
-            "description": "If you choose to get behind the wheel after drinking, you will be caught under incoming federal impaired driving rules, the ministers responsible are cautioning. This direct warning comes in light of new drunk driving rules coming into force in two weeks, dur\u2026",
-            "url": "https://www.ctvnews.ca/politics/you-will-be-caught-ministers-vow-ahead-of-compulsory-breath-tests-for-drivers-1.4203905",
-            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.4204261.1543950898!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
-            "publishedAt": "2018-12-04T16:46:00Z",
-            "content": "OTTAWA If you choose to get behind the wheel after drinking, you will be caught under incoming federal impaired driving rules, the ministers responsible are cautioning. This direct warning comes in light of new drunk driving rules coming into force in two wee\u2026 [+3436 chars]"
+            "title": "Michael Cohen, former Trump attorney, gets 3 years in prison for tax fraud, campaign finance violations, lying - Fox News",
+            "description": "Michael Cohen, the president\u2019s former fixer who once famously claimed he was willing to \"take a bullet\" for Donald Trump before later turning against his boss, was sentenced to three years in prison Wednesday by a federal judge in New York after pleading guil\u2026",
+            "url": "https://www.foxnews.com/politics/cohen-slams-trumps-dirty-deeds-ahead-of-sentencing",
+            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2018/12/12/694940094001_5978641655001_5978638110001-vs.jpg",
+            "publishedAt": "2018-12-12T17:12:19Z",
+            "content": "Michael Cohen, the president\u2019s former fixer who once famously claimed he was willing to \"take a bullet\" for Donald Trump before later turning against his boss, was sentenced to three years in prison Wednesday by a federal judge in New York after pleading guil\u2026 [+5027 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Globalnews.ca"
+                "name": "Washingtonexaminer.com"
             },
-            "author": "Katie Scott",
-            "title": "Pete Davidson shares struggle with borderline personality disorder - Global News",
-            "description": "Pete Davidon, who was diagnosed with BPD in 2017, told his Instagram followers that he's not going to \"kill myself.\"",
-            "url": "https://globalnews.ca/news/4727355/pete-davidson-mental-health/",
-            "urlToImage": "https://shawglobalnews.files.wordpress.com/2018/12/pete-davidson.jpg?quality=70&strip=all&w=720&h=480&crop=1",
-            "publishedAt": "2018-12-04T16:21:00Z",
-            "content": "Pete Davidson broke his silence in an Instagram post following the end of his engagement with Ariana Grande. On Monday, the comedian addressed his struggle with borderline personality disorder (BPD) and the bullying he said he\u2019s had to endure because of the m\u2026 [+3769 chars]"
+            "author": "https://www.washingtonexaminer.com/author/eddie-scarry",
+            "title": "Liberals condescend to Nancy Pelosi after her meeting with Trump - Washington Examiner",
+            "description": "Any normal person who watched the on-camera Oval Office back-and-forth between President Trump and House Minority Leader Nancy Pelosi, D-Calif., would come away thinking, \u201cWow, they have some disagreements. I wonder if they\u2019ll work that out before a governmen\u2026",
+            "url": "https://www.washingtonexaminer.com/opinion/columnists/liberals-condescend-to-nancy-pelosi-after-her-meeting-with-trump",
+            "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/08c4010/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd4%2Fc4%2F4359a35040ab87be9a4648e1e365%2Fap-18345641861526.jpg",
+            "publishedAt": "2018-12-12T17:00:00Z",
+            "content": "A ny normal person who watched the on-camera Oval Office back-and-forth between President Trump and House Minority Leader Nancy Pelosi, D-Calif., would come away thinking, Wow, they have some disagreements. I wonder if theyll work that out before a government\u2026 [+2690 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Streaming shows dominate SAG Awards TV nominations - Engadget",
+            "description": "Online TV shows thrived in the SAG Award nominations, to the point where one category had nothing but streaming shows.",
+            "url": "https://www.engadget.com/2018/12/12/sag-awards-streaming-shows-dominate/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2018-12%252F96eda320-fe38-11e8-bfde-2478a2e4fc89%26client%3Da1acac3e1b3290917d92%26signature%3De7b70a351622dcc696bb7b675d5f5ea3c786b2c5&client=amp-blogside-v2&signature=2ab8aa2a3df22018fc322228cadead07950827c2",
+            "publishedAt": "2018-12-12T16:48:01Z",
+            "content": "As for the frontrunners? Netflix's Ozark wins in terms of sheer quantity with four nominations (including two for a female actor in a drama), while GLOW, Maisel and Netflix's The Kominsky Method are up for three apiece. Other internet noms include The Handmai\u2026 [+450 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Bill Hutchinson",
+            "title": "Video shows missing mom, baby at store before she vanished - ABC News",
+            "description": "A video shows Kelsey Berreth at a Colorado store the day she vanished.",
+            "url": "https://abcnews.go.com/US/security-video-shows-missing-colorado-mother-kelsey-berreth/story?id=59773440",
+            "urlToImage": "https://s.abcnews.com/images/US/kelsey-barreth-woodland-park-safeway-01v-ht-jc-181212_hpMain_16x9_992.jpg",
+            "publishedAt": "2018-12-12T16:45:00Z",
+            "content": "A security video of a young Colorado mother shopping at a grocery store with her baby on Thanksgiving Day was released by police in hopes it will prompt new leads in her mysterious disappearance. The video released Tuesday night by Woodland Park, Colorado, po\u2026 [+3010 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nationalpost.com"
+                "name": "Ijr.com"
             },
-            "author": null,
-            "title": "Canadian astronaut David Saint-Jacques \u2019astounded\u2019 by voyage to International Space Station - National Post",
-            "description": "Speaking in French, he described his first sunrise seen from space as \u2018breathtaking,\u2019 and said \u2018it\u2019s just the beginning\u2019 of the discoveries ahead of him",
-            "url": "https://nationalpost.com/news/canadian-astronaut-david-saint-jacques-astounded-by-voyage-to-international-space-station",
-            "urlToImage": "https://nationalpostcom.files.wordpress.com/2018/12/nasa2222.jpg",
-            "publishedAt": "2018-12-04T15:47:00Z",
-            "content": "LONGUEUIL, Que. \u2014 Canadian astronaut David Saint-Jacques boarded the International Space Station Monday afternoon, declaring himself \u201castounded\u201d by the journey and excited for the discoveries ahead of him. After the hatch opened at 2:37 p.m. Eastern, Saint-Ja\u2026 [+4960 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Blackburnnews.com"
-            },
-            "author": "",
-            "title": "Get ready to pay hundreds of dollars more for groceries - BlackburnNews.com",
-            "description": "A new report says the average Canadian family will pay another $411 for groceries in 2019.",
-            "url": "https://blackburnnews.com/windsor/windsor-news/2018/12/04/get-ready-pay-hundreds-dollars-groceries/",
-            "urlToImage": "https://blackburnnews.com/wp-content/uploads/2017/05/20170503_123305-400x250.jpg",
-            "publishedAt": "2018-12-04T15:45:00Z",
-            "content": "BlackburnNews.com file photo. By Adelle Loiselle December 4, 2018 10:45am @ALoiselleNews A new report by the University of Guelph and Dalhousie University says the average Canadian family will pay another $411 for groceries in 2019. Canada\u2019s Food Price Report\u2026 [+1659 chars]"
+            "author": "https://www.facebook.com/sydney.unabridged/",
+            "title": "Sarah Sanders Breaks Silence on John Kelly's Exit - Independent Journal Review",
+            "description": "\u201cI think he brought a lot of structure to the White House that was needed at the time he came in.\" <a class=\"g1-link g1-link-more\" href=\"https://ijr.com/sarah-sanders-john-kelly-exit/\">More</a>",
+            "url": "https://ijr.com/sarah-sanders-john-kelly-exit/",
+            "urlToImage": "https://ijr.com/wp-content/uploads/2018/12/GettyImages-1062423696-e1544629984409.jpg",
+            "publishedAt": "2018-12-12T16:36:48Z",
+            "content": "Sarah Huckabee Sanders broke her silence on Chief of Staff John Kelly\u2019s decision to step down at the end of the year. During a discussion at Politico\u2019s Women\u2019s Leadership Summit, Sanders shared her view on the situation and what they are looking for in a repl\u2026 [+1226 chars]"
         },
         {
             "source": {
                 "id": "nbc-news",
                 "name": "NBC News"
             },
-            "author": "Minyvonne Burke, Emily Pandise",
-            "title": "Woman says Hilton employee secretly filmed her naked in hotel room and tried to extort her - NBCNews.com",
-            "description": "A woman in Chicago alleges in a lawsuit that an employee at the Hampton Inn and Suites in Albany, New York secretly filmed her in the shower, posted the video online and then shared it with her colleagues.",
-            "url": "https://www.nbcnews.com/news/us-news/woman-says-hilton-employee-secretly-filmed-her-naked-hotel-room-n943431",
-            "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2018_49/2669376/181204-hampton-inn-mc-1352_1dd34eba2db32fb9867811a26d28b720.1200;630;7;70;5.JPG",
-            "publishedAt": "2018-12-04T15:44:00Z",
-            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Dec. 4, 2018 / 3:44 PM GMT A woman in Chicago is suing Hilton Worldwide for $100 million after she said an employee at an Albany, New York, h\u2026 [+2998 chars]"
+            "author": "Associated Press",
+            "title": "Parents of Antwon Rose Jr. sue former employer of officer who fatally shot him - NBCNews.com",
+            "description": "The parents of Antwon Rose, Jr., who was fatally shot as he fled a traffic stop, are suing East Pittsburgh police officer Michael Rosfeld's former employer\u2014 the University of Pittsburgh.",
+            "url": "https://www.nbcnews.com/news/us-news/parents-antwon-rose-jr-sue-former-employer-officer-who-killed-n946961",
+            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2018_26/2478896/180627-antwon-rose-cropped-mn-0825_8f57f5a0646e8e46039d20ada90c6999.1200;630;7;70;5.jpg",
+            "publishedAt": "2018-12-12T16:30:00Z",
+            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Dec. 12, 2018 / 4:30 PM GMT PITTSBURGH The parents of an unarmed black teenager who was fatally shot by an East Pittsburgh police officer as \u2026 [+2354 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Cjme.com"
+                "name": "Si.com"
             },
-            "author": "CJME News",
-            "title": "Widespread power outages in Saskatchewan - News Talk 980 CJME",
-            "description": "SaskPower is reporting widespread power outages affecting various cities and towns across the province from Re...",
-            "url": "https://www.cjme.com/2018/12/04/widespread-power-outages-affecting-south-sask/",
-            "urlToImage": "https://media.socastsrm.com/wordpress/wp-content/blogs.dir/648/files/2018/12/Frost-on-Sask-Power-lines.jpg",
-            "publishedAt": "2018-12-04T15:17:00Z",
-            "content": "SaskPower is reporting widespread power outages affecting various cities and towns across the province from Regina to Moose Jaw and Weyburn as well as a massive area around Humboldt and Wadena. According to the website, SaskPower is now calling this a major o\u2026 [+7842 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Eric Berger",
-            "title": "Singed and sooty, SpaceX\u2019s Falcon 9 rocket still looked brilliant Monday - Ars Technica",
-            "description": "\u201cObviously, aesthetics are a minor factor in rocket design.\"",
-            "url": "https://arstechnica.com/science/2018/12/singed-and-sooty-spacexs-falcon-9-rocket-still-looked-brilliant-monday/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/45257565835_07881431cc_k-760x380.jpg",
-            "publishedAt": "2018-12-04T13:55:00Z",
-            "content": "60 with 42 posters participating, including story author SpaceX launched the same Falcon 9 rocket first stage for the third time on Monday. Clear skies at Vandenberg Air Force Base in California made for some great views of the launch. The rocket performed no\u2026 [+2089 chars]"
+            "author": "Chris Ballard",
+            "title": "Golden State Warriors, 2018 Sportsperson of the Year: Secrets of franchise - Sports Illustrated",
+            "description": "From big accomplishments (a third title) to countless little things (about coach Steve Kerr\u2019s beers\u2026), the Sportsperson of the Year award recipients\u00a0took care of business in a sometimes-trying 2018, with an indelible ethos that has made them a joy to watch an\u2026",
+            "url": "https://www.si.com/nba/2018/12/12/golden-state-warriors-2018-sportsperson-of-the-year-inside-the-organization",
+            "urlToImage": "https://imagesvc.timeincapp.com/v3/mm/image?url=https://cdn-s3.si.com/images/golden-state-warriors-sportsperson-lead.jpg&w=1200&h=628&c=sc&poi=face&q=85",
+            "publishedAt": "2018-12-12T15:56:12Z",
+            "content": "This story appears in the Dec. 17-24, 2018, issue of Sports Illustrated. For more great storytelling and in-depth analysis, subscribe to the magazineand get up to 94% off the cover price. Click here for more. The beers are warm. But then they should be. The f\u2026 [+39159 chars]"
         }
     ]
 }
