@@ -4,94 +4,55 @@
     "articles": [
         {
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "cnbc",
+                "name": "CNBC"
             },
-            "author": "Greg Norman",
-            "title": "China sends mixed messages on arrest of ex-Canadian diplomat amid Huawei legal battle - Fox News",
-            "description": "The former Canadian diplomat detained this week by China -- amid the furor over the arrest in Canada of a top Chinese tech executive\u00a0-- remained locked up Wednesday, with China's spin careening from denying the man's detention to claiming he's a national secu\u2026",
-            "url": "https://www.foxnews.com/world/china-sends-mixed-messages-on-arrest-of-ex-canadian-diplomat-amid-huawei-legal-battle",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/12/Michael-Kovrig.jpg",
-            "publishedAt": "2018-12-12T19:04:01Z",
-            "content": "The former Canadian diplomat detained this week by China -- amid the furor over the arrest in Canada of a top Chinese tech executive -- remained locked up Wednesday, with China's spin careening from denying the man's detention to claiming he's a national secu\u2026 [+3622 chars]"
+            "author": "Hugh Son",
+            "title": "Goldman Sachs says it was lied to in 1MDB scandal that has plagued its stock - CNBC",
+            "description": "Goldman Sachs is fighting back against criminal charges from the Malaysian government.",
+            "url": "https://www.cnbc.com/2018/12/17/goldman-sachs-says-it-was-lied-to-in-1mdb-scandal-that-has-plagued-its-stock.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/08/01/104625371-GettyImages-642385958.1910x1000.jpg",
+            "publishedAt": "2018-12-17T18:45:38Z",
+            "content": "Goldman Sachs is fighting back against criminal charges from the Malaysian government, saying it was the victim of deceptive Malaysian officials in a scandal that has rocked the bank's shares this year. The bank was criminally charged Monday by Malaysian auth\u2026 [+1664 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Minyvonne Burke",
+            "title": "Officer makes heartfelt plea to speeders after catching teen driving 100 mph - NBC News",
+            "description": "On officer with the North Ridgeville Police Department in Ohio penned a letter to a teenager pulled over for speeding.",
+            "url": "https://www.nbcnews.com/news/us-news/officer-makes-heartfelt-plea-speeders-after-catching-teen-driving-100-n948856",
+            "urlToImage": "https://media2.s-nbcnews.com/j/newscms/2018_51/2686176/181217-ohio-speeding-ticket-cs-1116a_e3b2ce2be39658d7de868faed9c0c868.1200;630;7;70;5.jpg",
+            "publishedAt": "2018-12-17T18:17:00Z",
+            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Dec. 17, 2018 / 6:17 PM GMT An Ohio officer's Facebook message to an 18-year-old he clocked going 100 mph on a highway is gaining speed on so\u2026 [+1886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Editorial",
+            "title": "UK's Labour calls May no confidence vote over Brexit vote timing - Reuters",
+            "description": "The leader of Britain's main opposition Labour Party, Jeremy Corbyn, said he was calling for a no confidence vote in Prime Minister Theresa May -- a largely symbolic gesture -- for not putting her Brexit plan to a vote by lawmakers immediately.",
+            "url": "https://www.reuters.com/article/us-britain-eu-labour-confidence/uks-labour-calls-may-no-confidence-vote-over-brexit-vote-timing-idUSKBN1OG21B",
+            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20181217&t=2&i=1336247862&w=1200&r=LYNXMPEEBG1N5",
+            "publishedAt": "2018-12-17T18:15:00Z",
+            "content": "LONDON (Reuters) - The leader of Britain\u2019s main opposition Labour Party, Jeremy Corbyn, said he was calling for a no confidence vote in Prime Minister Theresa May a largely symbolic gesture for not putting her Brexit plan to a vote by lawmakers immediately. \u201c\u2026 [+826 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fieldgulls.com"
+                "name": "Deadspin.com"
             },
-            "author": "Mookie Alexander",
-            "title": "Report: Seahawks lose Mychal Kendricks for the season with broken tibia - Field Gulls",
-            "description": "Seattle Seahawks linebacker Mychal Kendricks\u2019 return from his suspension for insider trading will apparently last all of one game. ESPN\u2019s Adam Schefter has delivered the bad news that Kendricks...",
-            "url": "https://www.fieldgulls.com/2018/12/12/18138056/report-seahawks-lose-mychal-kendricks-season-broken-tibia-nfl-news-injury",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3feeYh8_8jG5KRYFxnUJf2InckI=/0x0:3696x1935/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13618759/1071547668.jpg.jpg",
-            "publishedAt": "2018-12-12T18:56:47Z",
-            "content": "Seattle Seahawks linebacker Mychal Kendricks return from his suspension for insider trading will apparently last all of one game. ESPNs Adam Schefter has delivered the bad news that Kendricks suffered a broken tibia during Monday nights win against the Minnes\u2026 [+1292 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theathletic.com"
-            },
-            "author": "Amy Parlapiano",
-            "title": "NFL Power Rankings Week 14: Finally, the Chiefs stand alone... - The Athletic",
-            "description": "There was plenty of movement this week among the Top 10.",
-            "url": "https://theathletic.com/705437/2018/12/12/nfl-power-rankings-week-14-finally-the-chiefs-are-alone-at-the-top/",
-            "urlToImage": "https://cdn.theathletic.com/app/uploads/2018/12/12134145/PR_wk14-1024x682.jpg",
-            "publishedAt": "2018-12-12T18:53:43Z",
-            "content": "Welcome to our Athletic NFL Power Rankings. Every week, we ask all of our NFL writers the local scribes and the national team, this week 30 voters total to rank the teams from first to worst. Here are the collective results after 13 weeks of the 2018 season. \u2026 [+677 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Chaim Gartenberg",
-            "title": "Apple might be making its own cellular chips to compete with Qualcomm - The Verge",
-            "description": "Apple is apparently working on its own, in-house developed modem to allow it to better compete with Qualcomm, according to several new Apple job listings that task engineers to design and develop a layer 1 cellular PHY chip \u2014 implying that the company is work\u2026",
-            "url": "https://www.theverge.com/circuitbreaker/2018/12/12/18137816/apple-modem-qualcomm-intel-iphone-competition-engineer-hiring",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/SmRNCEVQpI2_AUNRLU1XXSPYUro=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13315921/akrales_181019_3014_0261.jpg",
-            "publishedAt": "2018-12-12T18:52:59Z",
-            "content": "Apple is apparently working on its own, in-house developed modem to allow it to better compete with Qualcomm, according to several new Apple job listings that task engineers to design and develop a layer 1 cellular PHY chip implying that the company is workin\u2026 [+3049 chars]"
-        },
-        {
-            "source": {
-                "id": "techcrunch",
-                "name": "TechCrunch"
-            },
-            "author": "Lucas Matney",
-            "title": "Facebook settles Oculus VR lawsuit with ZeniMax - TechCrunch",
-            "description": "Nearly five years after announcing its acquisition of Oculus VR, Facebook is finally ready to put behind it the drama surrounding its founding. Gaming giant ZeniMax Media\u2019s lawsuit against Facebook over the misuse of intellectual property related to the found\u2026",
-            "url": "https://techcrunch.com/2018/12/12/facebook-settles-oculusvr-lawsuit-with-zenimax/",
-            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-953545880.jpg?w=608",
-            "publishedAt": "2018-12-12T18:23:05Z",
-            "content": "Nearly five years after announcing its acquisition of Oculus VR, Facebook is finally ready to put behind it the drama surrounding its founding. Gaming giant ZeniMax Media\u2019s lawsuit against Facebook over the misuse of intellectual property related to the found\u2026 [+1125 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Americamagazine.org"
-            },
-            "author": null,
-            "title": "Cardinal Pell, top advisor to Pope Francis, found guilty of 'historical sexual offenses' - America Magazine",
-            "description": "The cardinal is the most senior churchman yet to be convicted of historical sexual offenses. His conviction is a grave blow not only to the church in Australia but also to Pope Francis.",
-            "url": "https://www.americamagazine.org/faith/2018/12/12/cardinal-pell-top-advisor-pope-francis-found-guilty-historical-sexual-offenses",
-            "urlToImage": "https://www.americamagazine.org/sites/default/files/styles/article_image_750_x_503_/public/main_image/20181212T1214-22929-CNS-PELL-TRIAL.jpg.png?itok=fP_km_IT",
-            "publishedAt": "2018-12-12T18:21:14Z",
-            "content": "An Australian jury has found Cardinal George Pell, 77, guilty on five charges of historical child sexual offenses that go back decades, according to various media reports and confirmed by America. The 12-member jury gave their unanimous verdict in the County \u2026 [+6518 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "Kate Gibson",
-            "title": "California text tax: California considers a tax on text messages - CBS News",
-            "description": "Regulators to vote on surcharge to bolster state program that helps make phone service affordable for poor people",
-            "url": "https://www.cbsnews.com/news/california-text-tax-california-considers-a-tax-on-text-messages/",
-            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/01/04/21777b88-622a-4292-8514-91022c4452b2/thumbnail/1200x630/b7a2decf5fdcf3932599963affeaa6c4/smartphone.jpg",
-            "publishedAt": "2018-12-12T18:21:00Z",
-            "content": "Californians may or may not type OMG at the news, but texting may soon come with an extra fee on their mobile phone bills. State regulators are weighing a tax on text messaging to help fund a program that makes phone service available to low-income residents.\u2026 [+1623 chars]"
+            "author": "Patrick Redford",
+            "title": "Jared Goff Is Really Struggling - Deadspin",
+            "description": "There is plenty to discuss about Jared Goff and the suddenly mortal Los Angeles Rams, but Goff\u2019s panicked third quarter interception was so inexplicable that it\u2019d be a disservice to push it any further down this post, so.",
+            "url": "https://deadspin.com/jared-goff-is-really-struggling-1831150082",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--ssODWhiK--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/bfxzj1af3gmdylceflze.jpg",
+            "publishedAt": "2018-12-17T17:57:00Z",
+            "content": "There is plenty to discuss about Jared Goff and the suddenly mortal Los Angeles Rams, but Goffs panicked third quarter interception was so inexplicable that itd be a disservice to push it any further down this post, so. The Jared Goff who seemed like an obvio\u2026 [+2818 chars]"
         },
         {
             "source": {
@@ -99,103 +60,142 @@
                 "name": "Npr.org"
             },
             "author": "",
-            "title": "What To Know About The No-Confidence Vote Facing British Prime Minister Theresa May - NPR",
-            "description": "Britain's prime minister faces a no-confidence vote in Parliament on Wednesday evening. Why do members of her own party want to sack her?",
-            "url": "https://www.npr.org/2018/12/12/676098883/what-to-know-about-the-no-confidence-vote-facing-british-prime-minister-theresa",
-            "urlToImage": "https://media.npr.org/assets/img/2018/12/12/ap_18346405195041_wide-b7cfc2334aebed0fa47acea129ef14296ec184f2.jpg?s=1400",
-            "publishedAt": "2018-12-12T18:19:00Z",
-            "content": "Britain's Prime Minister Theresa May leaves 10 Downing Street to attend the weekly Prime Ministers' Questions session on Wednesday. Tim Ireland/AP The United Kingdom is embroiled in its biggest political crisis in decades. On Wednesday evening, members of Par\u2026 [+5133 chars]"
-        },
-        {
-            "source": {
-                "id": "entertainment-weekly",
-                "name": "Entertainment Weekly"
-            },
-            "author": "Leah Greenblatt",
-            "title": "Emily Blunt brings most of the magic in Mary Poppins Returns: EW review - Entertainment Weekly News",
-            "description": "Spoonfuls of sugar help the movie magic go down.",
-            "url": "https://ew.com/movie-reviews/2018/12/12/mary-poppins-returns-ew-review/",
-            "urlToImage": "https://ewedit.files.wordpress.com/2018/11/marypoppinsreturns5bea6bd1ce4061.jpg?crop=0px%2C0px%2C3000px%2C1575px&resize=1200%2C630",
-            "publishedAt": "2018-12-12T18:10:00Z",
-            "content": "Who dares to reboot the supercallifragilistic nanny, already practically perfect in every way? For more than half a century after Julie Andrews first drifted down from pearly London skies and into Disney legend, her legacy was left largely one could even say \u2026 [+2275 chars]"
+            "title": "Senate Intelligence Reports On Russia Detail Broad Disinformation Plan - NPR",
+            "description": "The studies for the Senate intelligence committee assess how broadly Russians wielded social media in order to reach millions of Americans and suppress Democratic and black voting.",
+            "url": "https://www.npr.org/2018/12/17/677390345/new-reports-detail-expansive-russia-disinformation-scheme-targeting-u-s",
+            "urlToImage": "https://media.npr.org/assets/img/2018/12/17/ap_18047741124562_wide-b87785aba1a1eb040b265ac17331a5e1e7a2f46d.jpg?s=1400",
+            "publishedAt": "2018-12-17T17:55:00Z",
+            "content": "A Facebook posting, released by the House intelligence committee, for a group called \"Secured Borders.\" It and others like it were created by Russian specialists posing as Americans. Jon Elswick/AP Two new reports produced for Senate investigators say that Ru\u2026 [+4347 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Tmz.com"
+                "name": "Bbc.com"
             },
-            "author": "TMZ Staff",
-            "title": "Kathie Lee Gifford Says Her Replacement on 'Today' Will Be Hoda Kotb's Pick - TMZ",
-            "description": "Kathie Lee Gifford implies that Hoda Kotb will have final say on her 'Today' replacement.",
-            "url": "https://www.tmz.com/2018/12/12/kathie-lee-gifford-replacement-today-show-nbc-hoda-kotb/",
-            "urlToImage": "https://images.tmz.com/2018/12/12/121218-kathie-lee-and-hoda-v2-primary-1200x630.jpg",
-            "publishedAt": "2018-12-12T18:01:00Z",
-            "content": null
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Democrat Chris Coons: Trump sounds 'like a mob boss' - BBC News",
+            "description": "A senator says Mr Trump sounded \"more like a mob boss than president of the United States\".",
+            "url": "https://www.bbc.com/news/world-us-canada-46597645",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32D7/production/_104851031_reutersgetty.jpg",
+            "publishedAt": "2018-12-17T17:52:58Z",
+            "content": "Image copyright Reuters/Getty Images Image caption Democrat Chris Coons (left) has criticised the president's language as being \"mob\"-like US President Donald Trump has been accused of sounding like a mafia kingpin after he called his convicted former lawyer \u2026 [+3688 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Frederic Lardinois",
+            "title": "The Google Assistant can now alert you of potential flight delays - TechCrunch",
+            "description": "If you\u2019re an experienced traveler, you know that plenty of your delays are due to your plane being stuck somewhere else or because the weather at your local or arrival airport isn\u2019t ideal (I\u2019m looking at you, fogged-in SFO in the morning). So you also know to\u2026",
+            "url": "https://techcrunch.com/2018/12/17/the-google-assistant-can-now-alert-you-of-potential-flight-delays/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-645872780.jpg?w=600",
+            "publishedAt": "2018-12-17T17:28:36Z",
+            "content": "If you\u2019re an experienced traveler, you know that plenty of your delays are due to your plane being stuck somewhere else or because the weather at your local or arrival airport isn\u2019t ideal (I\u2019m looking at you, fogged-in SFO in the morning). So you also know to\u2026 [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "David Taylor",
+            "title": "Why did a little Guatemalan girl die after crossing the US border? - The Guardian",
+            "description": "The circumstances of Jakelin Caal Maquin\u2019s death are being seized upon as evidence both for and against the Trump administration\u2019s hardline approach to immigration",
+            "url": "https://www.theguardian.com/us-news/2018/dec/17/guatemalan-girl-jakelin-caal-maquin-death-crossing-us-border",
+            "urlToImage": "https://i.guim.co.uk/img/media/519d1df83e047bcd75d3d2755e894e3a0413667f/0_384_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=da6cedffe4e12ae88899347be5325c7c",
+            "publishedAt": "2018-12-17T17:17:00Z",
+            "content": "After a final stretch on foot along a dirt road through high desert, a father and his young daughter crossed into the United States at the end of a 2,000-mile journey through Mexico. It was after dark and they were part of a group of 163 people, apparently in\u2026 [+8642 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo.com"
+                "name": "Marketwatch.com"
             },
-            "author": null,
-            "title": "Tencent Music debut strikes a chord with investors - Yahoo Finance",
-            "description": "Spotify is an investor in the Chinese company.  The IPO raised $1.1 billion in proceeds and is one of the largest by a Chinese company in the United States this year, behind the $2.4 billion raised by video streaming company iQiyi, the $1.6 billion garnered b\u2026",
-            "url": "https://finance.yahoo.com/news/chinas-tencent-music-jumps-11-172444090.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BLyfZoAD_Bbk40rhSsK3Ew--~B/aD01MzM7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/http://globalfinance.zenfs.com/images/SG_AHTTP_OLINTECH_Wrapper_NewFeed_1/2018-12-12T172444Z_1_LYNXMPEEBB1LL_RTROPTP_3_TENCENT-RESULTS_original.jpg",
-            "publishedAt": "2018-12-12T17:24:00Z",
-            "content": "(Reuters) - Shares of China-based music streaming company Tencent Music Entertainment rose about 11 percent in their U.S. debut on Wednesday, as investors shrugged off volatile markets to grab a piece of the fast-growing music streaming industry. The company'\u2026 [+2772 chars]"
-        },
-        {
-            "source": {
-                "id": "cbs-news",
-                "name": "CBS News"
-            },
-            "author": "AP",
-            "title": "\"Scary\" warming in the Arctic at unusual times and places - CBS News",
-            "description": "The report also finds record low winter ice and increased toxic algae",
-            "url": "https://www.cbsnews.com/news/climate-report-finds-second-warmest-year-on-record-in-the-arctic/",
-            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2018/12/12/03ff3e18-b844-4aaa-93fd-0d213cf5e27f/thumbnail/1200x630/7a732e4faa8d25b478f0297273c43e1f/gettyimages-925621364.jpg",
-            "publishedAt": "2018-12-12T17:24:00Z",
-            "content": "WASHINGTON \u2014 Scientists are seeing surprising melting in Earth's polar regions at times they don't expect, like winter, and in places they don't expect, like eastern Antarctica. New studies and reports issued this week at a major Earth sciences conference pai\u2026 [+4544 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Aol.com"
-            },
-            "author": "Carrie Healey",
-            "title": "Dow rallies more than 350 points amid optimism surrounding US-China trade talks - AOL",
-            "description": "Stocks surged Wednesday as signs of thawing trade tensions helped lift the mood on Wall Street following a bruising few weeks for global markets.",
-            "url": "https://www.aol.com/article/finance/2018/12/12/dow-rallies-more-than-350-points-amid-optimism-surrounding-us-china-trade-talks/23616384/",
-            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/4647x3047+0+0/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-12%2F3df16410-fe32-11e8-afef-0db84f21de25",
-            "publishedAt": "2018-12-12T17:22:05Z",
-            "content": "Stocks surged Wednesday as signs of thawing trade tensions helped lift the mood on Wall Street following a bruising few weeks for global markets. The Dow Jones Industrial Average jumped 1.5%, or about 360 points. The Nasdaq Composite rose 2%, and the S&amp;P \u2026 [+2350 chars]"
+            "author": "Mark DeCambre",
+            "title": "The last key death cross is poised to engulf the stock market - MarketWatch",
+            "description": "Ominous-sounding death crosses have been cropping up in the stock market like weeds, with the latest\u2014and arguably, the last important such cross\u2014about to take hold in the Dow.",
+            "url": "https://www.marketwatch.com/story/the-last-key-death-cross-is-poised-to-engulf-the-stock-market-2018-12-17",
+            "urlToImage": "http://s.marketwatch.com/public/resources/MWimages/MW-HA484_dow_de_ZG_20181217100843.png",
+            "publishedAt": "2018-12-17T17:13:00Z",
+            "content": "Ominous-sounding death crosses have been emerging in the stock market like weeds, with the latestand arguably, the last important such crossabout to take hold in the Dow. The Dow Jones Industrial Average DJIA, -0.72% is on the verge of joining other major equ\u2026 [+2438 chars]"
         },
         {
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "author": null,
-            "title": "Michael Cohen, former Trump attorney, gets 3 years in prison for tax fraud, campaign finance violations, lying - Fox News",
-            "description": "Michael Cohen, the president\u2019s former fixer who once famously claimed he was willing to \"take a bullet\" for Donald Trump before later turning against his boss, was sentenced to three years in prison Wednesday by a federal judge in New York after pleading guil\u2026",
-            "url": "https://www.foxnews.com/politics/cohen-slams-trumps-dirty-deeds-ahead-of-sentencing",
-            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2018/12/12/694940094001_5978641655001_5978638110001-vs.jpg",
-            "publishedAt": "2018-12-12T17:12:19Z",
-            "content": "Michael Cohen, the president\u2019s former fixer who once famously claimed he was willing to \"take a bullet\" for Donald Trump before later turning against his boss, was sentenced to three years in prison Wednesday by a federal judge in New York after pleading guil\u2026 [+5027 chars]"
+            "author": "Kaitlyn Schallhorn",
+            "title": "Would a government shutdown impact holiday travel, mail? - Fox News",
+            "description": "It\u2019s appearing increasingly likely that Congress and the White House will get a partial government shutdown just in time for Christmas.",
+            "url": "https://www.foxnews.com/politics/would-a-government-shutdown-impact-holiday-travel-mail-plans",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/12/OHare-AP-1.jpg",
+            "publishedAt": "2018-12-17T17:09:02Z",
+            "content": "It\u2019s appearing increasingly likely that Congress and the White House will get a partial government shutdown just in time for Christmas. Parts of the federal government will shutter at midnight Friday if Congress and the White House can\u2019t strike a deal. But th\u2026 [+2624 chars]"
+        },
+        {
+            "source": {
+                "id": "cnbc",
+                "name": "CNBC"
+            },
+            "author": "Michael Sheetz",
+            "title": "Jeffrey Gundlach says the S&P 500 is headed to new lows: 'I'm pretty sure this is a bear market' - CNBC",
+            "description": "DoubleLine Capital CEO Jeffrey Gundlach said on Monday that he \"absolutely\" believes the S&P 500  will go below lows hit early in 2018.",
+            "url": "https://www.cnbc.com/2018/12/17/jeffrey-gundlach-says-the-sp-500-is-headed-to-new-lows-im-pretty-sure-this-is-a-bear-market.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2015/05/05/102649276-20150504-4619-1267.1910x1000.jpg",
+            "publishedAt": "2018-12-17T17:01:59Z",
+            "content": "DoubleLine Capital CEO Jeffrey Gundlach said Monday that he \"absolutely\" believes the S&amp;P 500 will go below the lows that the index hit early in 2018. div &gt; div.group &gt; p:first-child\"&gt; \"I'm pretty sure this is a bear market,\" Gundlach told Scott \u2026 [+2702 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Washingtonexaminer.com"
+                "name": "Vanityfair.com"
             },
-            "author": "https://www.washingtonexaminer.com/author/eddie-scarry",
-            "title": "Liberals condescend to Nancy Pelosi after her meeting with Trump - Washington Examiner",
-            "description": "Any normal person who watched the on-camera Oval Office back-and-forth between President Trump and House Minority Leader Nancy Pelosi, D-Calif., would come away thinking, \u201cWow, they have some disagreements. I wonder if they\u2019ll work that out before a governmen\u2026",
-            "url": "https://www.washingtonexaminer.com/opinion/columnists/liberals-condescend-to-nancy-pelosi-after-her-meeting-with-trump",
-            "urlToImage": "https://mediadc.brightspotcdn.com/dims4/default/08c4010/2147483647/strip/true/crop/2290x1202+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd4%2Fc4%2F4359a35040ab87be9a4648e1e365%2Fap-18345641861526.jpg",
-            "publishedAt": "2018-12-12T17:00:00Z",
-            "content": "A ny normal person who watched the on-camera Oval Office back-and-forth between President Trump and House Minority Leader Nancy Pelosi, D-Calif., would come away thinking, Wow, they have some disagreements. I wonder if theyll work that out before a government\u2026 [+2690 chars]"
+            "author": "Richard Lawson",
+            "title": "Dick Cheney Biopic Vice Is as Subtle as a Shot to the Face - Vanity Fair",
+            "description": "Adam McKay's film doesn't know what to do with Christian Bale's beguiling act of transformation.",
+            "url": "https://www.vanityfair.com/hollywood/2018/12/review-dick-cheney-biopic-vice-is-as-subtle-as-a-shot-to-the-face",
+            "urlToImage": "https://media.vanityfair.com/photos/5c17b3e35519152d3483ccd5/16:9/w_1200,h_630,c_limit/vice-film-review.jpg",
+            "publishedAt": "2018-12-17T17:00:00Z",
+            "content": "After Adam McKay explained the 2008 financial crisis\u2014or, at least, a particularly sinister facet of it\u2014with The Big Short, and was rewarded with a screenplay Oscar for his troubles, it makes sense that he\u2019d want to return to the well of recent history to educ\u2026 [+5888 chars]"
+        },
+        {
+            "source": {
+                "id": "the-new-york-times",
+                "name": "The New York Times"
+            },
+            "author": null,
+            "title": "Cuomo to Push Legalizing Recreational Marijuana in New York by Early 2019 - The New York Times",
+            "description": "The move could bring in more than $1.7 billion in sales each year and put New York in line with several neighboring states.",
+            "url": "https://www.nytimes.com/2018/12/17/nyregion/marijuana-legalization-cuomo.html",
+            "urlToImage": "https://static01.nyt.com/images/2018/12/18/nyregion/18cuomo/18cuomo-facebookJumbo.jpg",
+            "publishedAt": "2018-12-17T16:59:38Z",
+            "content": "The idea is expected to win support in Albany, where Democrats captured the State Senate in November for the first time in a decade. Members of the Assembly, which is dominated by New York City Democrats, have supported such a measure as well. It follows a re\u2026 [+969 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Nina Golgowski",
+            "title": "Farm Linked To E. Coli Outbreak In Romaine Lettuce Recalls More Produce - HuffPost",
+            "description": "Adam Bros. Farming, Inc. announced a voluntary recall of red leaf lettuce, green leaf lettuce and cauliflower.",
+            "url": "https://www.huffingtonpost.com/entry/recalled-produce-e-coli_us_5c17b075e4b05d7e5d844253",
+            "urlToImage": "https://img.huffingtonpost.com/asset/5c17bcfd2400006d049a3488.jpeg?cache=tkWi6sQv1b&ops=1200_630",
+            "publishedAt": "2018-12-17T16:59:00Z",
+            "content": "A California farm linked to recent outbreaks of E. coli infections found in romaine lettuce is recalling additional produce \u201cout of an abundance of caution,\u201d the company announced last week. Adam Bros. Farming, Inc. in Santa Maria said Thursday that it is vol\u2026 [+1770 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": null,
+            "title": "U.S. diplomats hold talks with Taliban on ending Afghanistan war - The Washington Post",
+            "description": "Saudi, Pakistani and United Arab Emirates officials also were participating in the meeting in the UAE.",
+            "url": "https://www.washingtonpost.com/world/us-diplomats-hold-talks-with-taliban-on-ending-afghan-war/2018/12/17/c25be5d0-01f3-11e9-9122-82e98f91ee6f_story.html",
+            "urlToImage": "https://www.washingtonpost.com/resizer/A-tU6QV-w2F_mJRL0cA0UMR-MCY=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6JDXXUQB7EI6TEJCQLUY7EPON4.jpg",
+            "publishedAt": "2018-12-17T16:57:04Z",
+            "content": "KABUL U.S. diplomats held talks with Taliban delegates on Monday in the United Arab Emirates to discuss ways to end the war in Afghanistan, a Taliban spokesman and Afghan government officials said. Saudi, Pakistani and UAE officials also were participating in\u2026 [+4172 chars]"
         },
         {
             "source": {
@@ -203,64 +203,64 @@
                 "name": "Engadget"
             },
             "author": "Jon Fingas",
-            "title": "Streaming shows dominate SAG Awards TV nominations - Engadget",
-            "description": "Online TV shows thrived in the SAG Award nominations, to the point where one category had nothing but streaming shows.",
-            "url": "https://www.engadget.com/2018/12/12/sag-awards-streaming-shows-dominate/",
-            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2018-12%252F96eda320-fe38-11e8-bfde-2478a2e4fc89%26client%3Da1acac3e1b3290917d92%26signature%3De7b70a351622dcc696bb7b675d5f5ea3c786b2c5&client=amp-blogside-v2&signature=2ab8aa2a3df22018fc322228cadead07950827c2",
-            "publishedAt": "2018-12-12T16:48:01Z",
-            "content": "As for the frontrunners? Netflix's Ozark wins in terms of sheer quantity with four nominations (including two for a female actor in a drama), while GLOW, Maisel and Netflix's The Kominsky Method are up for three apiece. Other internet noms include The Handmai\u2026 [+450 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "Bill Hutchinson",
-            "title": "Video shows missing mom, baby at store before she vanished - ABC News",
-            "description": "A video shows Kelsey Berreth at a Colorado store the day she vanished.",
-            "url": "https://abcnews.go.com/US/security-video-shows-missing-colorado-mother-kelsey-berreth/story?id=59773440",
-            "urlToImage": "https://s.abcnews.com/images/US/kelsey-barreth-woodland-park-safeway-01v-ht-jc-181212_hpMain_16x9_992.jpg",
-            "publishedAt": "2018-12-12T16:45:00Z",
-            "content": "A security video of a young Colorado mother shopping at a grocery store with her baby on Thanksgiving Day was released by police in hopes it will prompt new leads in her mysterious disappearance. The video released Tuesday night by Woodland Park, Colorado, po\u2026 [+3010 chars]"
+            "title": "Fitbit's updated smartwatch OS provides more fitness info at a glance - Engadget",
+            "description": "Fitbit's latest OS aims to make your Ionic or Versa a better fitness companion.",
+            "url": "https://www.engadget.com/2018/12/17/fitbit-os-3/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2000%252C1333%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2018-12%252F5cf2d390-0214-11e9-959e-554ed78dc537%26client%3Da1acac3e1b3290917d92%26signature%3D5551c8898edaf4809b817bbb7c3930d44a93bd42&client=amp-blogside-v2&signature=d7d406ec2bb032e38e85210f84b1e6156e9fded7",
+            "publishedAt": "2018-12-17T16:55:13Z",
+            "content": "There's more potential under the hood. New Exercise and Scientific programming kits helps developers build fitness, health and research apps that use their own algorithms. App creators are already it in apps that track skiing and skateboarding. There are a ho\u2026 [+660 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Ijr.com"
+                "name": "Sciencemag.org"
             },
-            "author": "https://www.facebook.com/sydney.unabridged/",
-            "title": "Sarah Sanders Breaks Silence on John Kelly's Exit - Independent Journal Review",
-            "description": "\u201cI think he brought a lot of structure to the White House that was needed at the time he came in.\" <a class=\"g1-link g1-link-more\" href=\"https://ijr.com/sarah-sanders-john-kelly-exit/\">More</a>",
-            "url": "https://ijr.com/sarah-sanders-john-kelly-exit/",
-            "urlToImage": "https://ijr.com/wp-content/uploads/2018/12/GettyImages-1062423696-e1544629984409.jpg",
-            "publishedAt": "2018-12-12T16:36:48Z",
-            "content": "Sarah Huckabee Sanders broke her silence on Chief of Staff John Kelly\u2019s decision to step down at the end of the year. During a discussion at Politico\u2019s Women\u2019s Leadership Summit, Sanders shared her view on the situation and what they are looking for in a repl\u2026 [+1226 chars]"
-        },
-        {
-            "source": {
-                "id": "nbc-news",
-                "name": "NBC News"
-            },
-            "author": "Associated Press",
-            "title": "Parents of Antwon Rose Jr. sue former employer of officer who fatally shot him - NBCNews.com",
-            "description": "The parents of Antwon Rose, Jr., who was fatally shot as he fled a traffic stop, are suing East Pittsburgh police officer Michael Rosfeld's former employer\u2014 the University of Pittsburgh.",
-            "url": "https://www.nbcnews.com/news/us-news/parents-antwon-rose-jr-sue-former-employer-officer-who-killed-n946961",
-            "urlToImage": "https://media1.s-nbcnews.com/j/newscms/2018_26/2478896/180627-antwon-rose-cropped-mn-0825_8f57f5a0646e8e46039d20ada90c6999.1200;630;7;70;5.jpg",
-            "publishedAt": "2018-12-12T16:30:00Z",
-            "content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE Dec. 12, 2018 / 4:30 PM GMT PITTSBURGH The parents of an unarmed black teenager who was fatally shot by an East Pittsburgh police officer as \u2026 [+2354 chars]"
+            "author": null,
+            "title": "This may be the most distant object in our solar system - Science Magazine",
+            "description": "\u201cFarout\u201d dwarf planet spotted during search for hypothesized ninth planet",
+            "url": "http://www.sciencemag.org/news/2018/12/may-be-most-distant-object-our-solar-system",
+            "urlToImage": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/farout_16x9.jpg?itok=8csfQMM5",
+            "publishedAt": "2018-12-17T16:46:58Z",
+            "content": "By Paul Voosen Dec. 17, 2018, 11:45 AM Astronomers today announced the discovery of the solar systems most distant resident, a tiny dwarf planet located at a distance 120 times farther than Earth is from the sun. The planet, given the provisional designation \u2026 [+785 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Si.com"
+                "name": "Aol.com"
             },
-            "author": "Chris Ballard",
-            "title": "Golden State Warriors, 2018 Sportsperson of the Year: Secrets of franchise - Sports Illustrated",
-            "description": "From big accomplishments (a third title) to countless little things (about coach Steve Kerr\u2019s beers\u2026), the Sportsperson of the Year award recipients\u00a0took care of business in a sometimes-trying 2018, with an indelible ethos that has made them a joy to watch an\u2026",
-            "url": "https://www.si.com/nba/2018/12/12/golden-state-warriors-2018-sportsperson-of-the-year-inside-the-organization",
-            "urlToImage": "https://imagesvc.timeincapp.com/v3/mm/image?url=https://cdn-s3.si.com/images/golden-state-warriors-sportsperson-lead.jpg&w=1200&h=628&c=sc&poi=face&q=85",
-            "publishedAt": "2018-12-12T15:56:12Z",
-            "content": "This story appears in the Dec. 17-24, 2018, issue of Sports Illustrated. For more great storytelling and in-depth analysis, subscribe to the magazineand get up to 94% off the cover price. Click here for more. The beers are warm. But then they should be. The f\u2026 [+39159 chars]"
+            "author": "Kamini Ramdeen",
+            "title": "Michael Flynn associates arrested on illegal lobbying charges - AOL",
+            "description": "Two men involved in a Turkish lobbying campaign led by Flynn have been charged with illegally lobbying in a case related to Mueller's investigation.",
+            "url": "https://www.aol.com/article/news/2018/12/17/michael-flynn-associates-arrested-on-illegal-lobbying-charges/23620503/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/crop/1497x982+0+0/resize/1028x675!/format/jpg/quality/85/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2018-12%2Fac91fc80-f82f-11e8-8efd-437529fbeb0a",
+            "publishedAt": "2018-12-17T16:45:00Z",
+            "content": "ALEXANDRIA, Va. (AP) Two men involved in a Turkish lobbying campaign led by former National Security adviser Michael Flynn have been charged with illegally lobbying in a case related to special counsel Robert Mueller's investigation. The case unsealed Monday \u2026 [+9929 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macrumors.com"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Offering 10% Bonus When Adding Funds Directly to Apple ID - Mac Rumors",
+            "description": "Apple is rolling out a new promotion that offers customers a 10 percent bonus when adding funds directly to their Apple ID account in the United...",
+            "url": "https://www.macrumors.com/2018/12/17/apple-id-funds-bonus/",
+            "urlToImage": "https://cdn.macrumors.com/article-new/2018/12/apple-id-funds.jpg?retina",
+            "publishedAt": "2018-12-17T16:38:00Z",
+            "content": "I like your thinking. ;) I am sure there is some fine print Im sure they didnt think of that. This is great, but also great have been those eBay promotions where you get a $100 iTunes gift card for $85 (a 15% discount). Discounts are very uncharacteristic for\u2026 [+941 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chloe Melas, CNN",
+            "title": "Jeff Bridges to be honored at the Golden Globes - CNN",
+            "description": "Jeff Bridges will be honored with a lifetime achievement award at the 76th Golden Globes.",
+            "url": "https://www.cnn.com/2018/12/17/entertainment/jeff-bridges-cecil-b-demille-award-golden-globes/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170129205046-sag-jeff-bridges-super-tease.jpg",
+            "publishedAt": "2018-12-17T16:35:00Z",
+            "content": null
         }
     ]
 }

@@ -1,16 +1,15 @@
-from newsapi import NewsApiClient
-from pprint import pprint
 import json
+
+from newsapi import NewsApiClient
 import spacy
-from spacy import displacy
 import textacy
-import sqlite3
+
+import sql
 
 from API import API_KEY
 
 nlp = spacy.load('en_core_web_sm')
 en = textacy.load_spacy('en_core_web_sm')
-con = sqlite3.connect('storage.db')
 
 
 def get_news(API_KEY):
@@ -44,64 +43,72 @@ def do_NLP_magic(data):
     for ent in doc.ents:
         print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
-    # Render results to text displayer, go to http://127.0.0.1:5000/ to view the results of this
-    # displacy.serve(doc, style='ent')
+# Render results to text displayer, go to http://127.0.0.1:5000/ to view the results of this
+# displacy.serve(doc, style='ent')
 
 
-def load_data_from_dumpfile():
+def load_and_process_data():
     # Read the file we just created, as we are in early stages i recommend keeping this here
     with open('dumpfile.json') as file:
         x = json.loads(file.read())
-        # print(x)
 
     # horrible code, but it makes clear what it does, if not, use prints ;)
-    # article = dict((x['articles'][4]))
-    # print(len(((x['articles']))))
-    # pprint(x['articles'])
+
     data = []
     for article in x['articles']:
-        # print (article)
-        # title_pre = article['title']
-        # description_pre = article['description']
-        # content_pre = article['content']
-        # print (title_pre + "\n" + description_pre +"\n" + content_pre)
+
         if article['title'] is not None and (article['content'] is not None):
-            # print (article['content'] == article['description'])
-            result = {'title': textacy.preprocess_text(article['title'], lowercase=True, no_punct=True),
-                      'description': textacy.preprocess_text(article['description'], lowercase=True, no_punct=True),
-                      'content': textacy.preprocess_text(article['content'], lowercase=True, no_punct=True)}
+            """""Build a dict with non-processed and processed data (for manual checking later on)"""
+            result = {'title': article['title'],
+                      'description': article['description'],
+                      'content': article['content'],
+                      'title_pre': textacy.preprocess_text(article['title'], lowercase=True, no_punct=True),
+                      'description_pre': textacy.preprocess_text(article['description'], lowercase=True, no_punct=True),
+                      'content_pre': textacy.preprocess_text(article['content'], lowercase=True, no_punct=True)}
             data.append(result)
 
-    pprint(data)
+    # pprint(data)
+    return_data = []
+    """Everything within the loop below will be dumped to sql later on"""
     for entry in data:
+        data_store = dict(entry)
         for key_val in entry.keys():
-            # print(entry[key_val])
-            # print('\n')
+            # print(key_val)
+            entities, tokens, dependencies = str(), str(), str()
+
             doc = nlp(entry[key_val])
             for ent in doc.ents:
-                print(ent.text, ent.start_char, ent.end_char, ent.label_)
-            print('\n')
+                # print(ent.text, ent.start_char, ent.end_char, ent.label_)
+                entities += str(ent.text) + ", " + str(ent.label_) + "; "
 
-            # for ents in entry[key_val]:
-            #     print (ents)
+            for token in doc:
+                # print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+                #       token.shape_, token.is_alpha, token.is_stop)
+                tokens += str(token.text) + ", " + str(token.lemma_) + ", " + str(token.pos_) + ", " + str(
+                    token.tag_) + ", " + str(token.dep_) + "; "
 
-        # article_contents = (title + "\n" + description + "\n" + content)
-    # print(article_contents)
+            for token in doc:
+                # print(token.text, token.dep_, token.head.text, token.head.pos_, [child for child in token.children])
+                dependencies += str(token.text) + ", " + str(token.dep_) + ", " + str(token.head.text) + ", " + str(
+                    token.head.pos_) + ", " + str([child for child in token.children]) + "; "
+            # print(entities + '\n\n' + tokens + '\n\n' + dependencies)
 
-    # doc = textacy.Doc(article_contents, lang=en)
-    # pre_doc = textacy.preprocess_text(article_contents,lowercase=True,no_punct=True)
+            data_store[str(key_val) + "_" + "entities"] = entities
+            data_store[str(key_val) + "_" + "tokens"] = tokens
+            data_store[str(key_val) + "_" + "dependencies"] = dependencies
 
-    # print(doc)
-    # print("")
-    # print(pre_doc)
-    # print("")
-    return data
+            # print('\n')
+        return_data.append(data_store)
+        # print('\n')
+    assert (len(return_data) == len(data))
+    return return_data
 
 
 # get_news(API_KEY)   #Turn this off so you don't do API calls all the time
 
-x = load_data_from_dumpfile()
-# print(x)
+data = load_and_process_data()
 
 
-# do_NLP_magic(x)
+print(type(data))
+
+sql.dump_data(data)
