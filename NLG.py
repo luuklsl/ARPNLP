@@ -1,10 +1,7 @@
 import sqlite3
 import nltk
-#nltk.download('averaged_perceptron_tagger')
-from mlconjug import mlconjug
+
 from nltk.stem.snowball import EnglishStemmer
-
-
 
 def transform_to_past(tag):
     ps = EnglishStemmer()
@@ -159,10 +156,14 @@ for sentence in result:
 
 # optie om meer info te geven als de mensen dat willen? Dan bijv de intro printen?
 
+pressed_button = False
+
+if pressed_button == True:
+    con = sqlite3.connect('storage.db')
+    result = con.execute('SELECT content FROM DATA').fetchall()
+    print(result)
 
 
-
-# transform to past tense (as it already happened)
 
 
 
