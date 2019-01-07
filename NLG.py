@@ -147,6 +147,12 @@ for sentence in result:
         print("len split", len(split))
         if len(split) > 1 and len(split[1]) > 14:
             sentence = str(split[1])
+            if 'said' in split[1] or 'mentioned' in split[1]:
+                print("yes!")
+                sentence = str(split[0])
+        # elif len(split) > 1 and 'said' in split[1]:
+        #     print("yes!")
+                sentence = str(split[0])
         else:
             sentence = str(split)
 
