@@ -109,11 +109,20 @@ def transform_to_past(tag):
 
 con = sqlite3.connect('storage.db')
 
-result = con.execute('SELECT title, title_tokens FROM DATA').fetchall()
+result = con.execute('SELECT title, category FROM DATA').fetchall()
 
-#print("result", result)
+print("result", result)
 
-for sentence in result:
+sentences_business = []
+sentences_entertainment = []
+sentences_general = []
+sentences_health = []
+sentences_science = []
+sentences_sports = []
+sentences_tech = []
+
+
+def sentence_generation(sentence):
    # print("sentence", sentence)
     sentence = sentence[0]
     sentence_pos = nltk.word_tokenize(sentence)
@@ -132,42 +141,88 @@ for sentence in result:
                 sentence = sentence.replace(tag0, tag0after)
         else:
             continue
-
-
     sentence = nltk.re.sub(r"\!", ",", sentence)
     #sentence = nltk.re.sub(r"\?", ",", sentence)
     sentence = nltk.re.sub(r"\:", ",", sentence)
     sentence = nltk.re.sub(r"\-", ",", sentence)
     if '?' in sentence:
-        continue
-    elif ',' in sentence:
+       sentence = 'pech'
+  #  elif ',' in sentence:
+    else:
         print("whole sentence", sentence)
         split = sentence.split(',')
         split = split[:-1]
         print("len split", len(split))
         if len(split) > 1 and len(split[1]) > 14:
             sentence = str(split[1])
-            if 'said' in split[1] or 'mentioned' in split[1]:
-                print("yes!")
-                sentence = str(split[0])
-        # elif len(split) > 1 and 'said' in split[1]:
-        #     print("yes!")
-                sentence = str(split[0])
+            if 'said' in split[1] or 'mentioned' in split[1] or 'reports' in split[1] or 'claimed'in split[1] or 'found' in split[1]:
+                #print("yes!")
+                #sentence = str(split[0])
+                sentence = 'pech'
+        elif len(split) > 2:
+            sentence = 'pech'
         else:
-            sentence = str(split)
+            #sentence = str(split)
+            sentence = 'pech'
+    print("sentence", sentence)
+    return sentence
 
-    temp_1 = print("Did you hear that " + sentence + "? " + "Do you like that? Why?")
 
-    temp_2 = print(sentence + ". What do you think of this?")
+def creating_sentence_lists():
+    for sentence in result:
+        category = sentence[1]
+        print("category", category)
+        generated = sentence_generation(sentence)
+        if generated is not 'pech':
+            if category == 'business':
+                generated = "Business is very busy. I heard that " + generated + ". Do you like this or not?"
+                sentences_business.append(generated)
+            if category == 'entertainment':
+               # generated = sentence_generation(sentence)
+                generated = "A lot happens in the entertainment scene. Today I heard that " + generated + ". What do you think of this?"
+                sentences_entertainment.append(generated)
+            if category == 'general':
+                #generated = sentence_generation(sentence)
+                generated = generated + ". What do you think of this?"
+                sentences_general.append(generated)
+            if category == 'health':
+               # generated = sentence_generation(sentence)
+                generated = "Staying healthy is important. Someone told me that " + generated + ". Do you like this?"
+                sentences_health.append(generated)
+            if category == 'science':
+               # generated = sentence_generation(sentence)
+                generated = "We all love science. I heard that " + generated + ". Did you hear about this already?"
+                sentences_science.append(generated)
+            if category == 'sports':
+               # generated = sentence_generation(sentence)
+                generated = "Did you know about the sport scene that " + generated +" ?. What do you think of this?"
+                sentences_sports.append(generated)
+            if category == 'technology':
+               # generated = sentence_generation(sentence)
+                generated = 'Something happened in the technology world, namely ' + generated + ". Do you think this is great or not?"
+                sentences_tech.append(generated)
 
-# optie om meer info te geven als de mensen dat willen? Dan bijv de intro printen?
 
-pressed_button = False
+    return sentences_business, sentences_entertainment, sentences_general, sentences_health, sentences_science, sentences_sports, sentences_tech
 
-if pressed_button == True:
-    con = sqlite3.connect('storage.db')
-    result = con.execute('SELECT content FROM DATA').fetchall()
-    print(result)
+
+sentences_business, sentences_entertainment, sentences_general, sentences_health, sentences_science, sentences_sports, sentences_tech = creating_sentence_lists()
+
+print("sentences_business", sentences_business)
+print("sentences_entertainment", sentences_entertainment)
+print("sentences_general", sentences_general)
+print("sentences_health", sentences_health)
+print("sentences_science", sentences_science)
+print("sentences_sports", sentences_sports)
+print("sentences_tech", sentences_tech)
+
+
+    # temp_1 = print("Did you hear that " + sentence + "? " + "Do you like that? Why?")
+    #
+    # temp_2 = print(sentence + ". What do you think of this?")
+    # return template
+
+
 
 
 
