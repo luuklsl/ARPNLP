@@ -205,7 +205,7 @@ def creating_sentence_lists():
 
     return sentences_business, sentences_entertainment, sentences_general, sentences_health, sentences_science, sentences_sports, sentences_tech
 
-
+#Deze aanroepen :)
 sentences_business, sentences_entertainment, sentences_general, sentences_health, sentences_science, sentences_sports, sentences_tech = creating_sentence_lists()
 
 print("sentences_business", sentences_business)
