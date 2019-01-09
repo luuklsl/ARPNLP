@@ -1,0 +1,916 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Tom Phillips",
+            "title": "Assassin's Creed Odyssey will finally let you tinker with its auto-levelling - Eurogamer.net",
+            "description": "January brings two free quests, a new boss, and Aya.",
+            "url": "https://www.eurogamer.net/articles/2019-01-09-assassins-creed-odyssey-will-finally-let-you-tinker-with-its-auto-levelling",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-09-12-02/assassins-creed-odyssey-will-finally-let-you-tinker-with-its-auto-levelling-1547035345495.jpg/EG11/thumbnail/1920x1080/format/jpg/2017055.jpg",
+            "publishedAt": "2019-01-09T11:57:31Z",
+            "content": "The enormous and brilliant Assassin's Creed Odyssey will get even bigger this month via another round of free missions, another chapter of paid DLC, and some long-requested new features. Those new features include the ability to tinker with the game's level s\u2026 [+2349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Emma Kent",
+            "title": "Dirty Bomb scraps microtransactions as development winds down - Eurogamer.net",
+            "description": "No need to payloads.",
+            "url": "https://www.eurogamer.net/articles/2019-01-09-dirty-bomb-scraps-monetisation-as-development-winds-down",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-09-11-27/dirty-bomb-scraps-monetisation-as-development-winds-down-1547033231604.jpg/EG11/thumbnail/1920x1080/format/jpg/2017051.jpg",
+            "publishedAt": "2019-01-09T11:45:13Z",
+            "content": "Hey! You there! That's right, you - there's free stuff coming your way if you play Dirty Bomb after Tuesday 15th January. The catch is active development will be ending along with this. You may recall that in October last year, developer Splash Damage announc\u2026 [+1564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bit-tech.net"
+            },
+            "author": "Gareth Halfacree",
+            "title": "Windows 10 to reserve 7GB storage for Windows Update - bit-tech.net",
+            "description": "Will pop temp files, caches in there too.",
+            "url": "https://bit-tech.net/news/tech/software/windows-10-to-reserve-7gb-storage-for-windows-update/1/",
+            "urlToImage": "https://bit-tech.net/media/image/2019/1/05432626-c8db-43cb-8d63-b62e61cb97ee.jpeg",
+            "publishedAt": "2019-01-09T11:19:37Z",
+            "content": "Microsoft has announced a plan to make Windows 10 updates install more reliably, and it's not going to be welcome news to those using low-end devices with limited storage space: The company will begin reserving at least 7GB of space for updates as well as cac\u2026 [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendolife.com"
+            },
+            "author": "Nintendo Life",
+            "title": "Yoshi's Crafted World Is Getting A Physical Release In Japan With Just A Download Code Inside - Nintendo Life",
+            "description": "No cartridge, no hassle",
+            "url": "http://www.nintendolife.com/news/2019/01/yoshirs_crafted_world_is_getting_a_physical_release_in_japan_with_just_a_download_code_inside",
+            "urlToImage": "http://images.nintendolife.com/news/2019/01/yoshirs_crafted_world_is_getting_a_physical_release_in_japan_with_just_a_download_code_inside/large.jpg",
+            "publishedAt": "2019-01-09T11:00:00Z",
+            "content": "Several hours ago, Yoshi's Crafted World was finally given a solid release date for Nintendo Switch, with the game officially launching on 29th March. If you happen to live in Japan, or if you really enjoy import fees, you'll be able to get your hands on a ra\u2026 [+1156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Tom Phillips",
+            "title": "Zelda 2, Blaster Master are your next Nintendo Switch Online games - Eurogamer.net",
+            "description": "Da-da-da-daaaa.",
+            "url": "https://www.eurogamer.net/articles/2019-01-09-zelda-2-blaster-master-are-your-next-nintendo-switch-online-games",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-09-10-36/-1547030164352.jpg/EG11/thumbnail/1920x1080/format/jpg/2017021.jpg",
+            "publishedAt": "2019-01-09T10:47:05Z",
+            "content": "Nintendo Switch Online's next additions are Zelda 2: The Adventure of Link and Blaster Master. Both games will be available to play next week, from Wednesday 16th January. Around 30 NES games are now available in the catalogue, which comes as part of Nintendo\u2026 [+479 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pistonheads.com"
+            },
+            "author": null,
+            "title": "Liberty Walk Jimny - update! - Pistonheads.com",
+            "description": "The Jimny that looks like a G-Class has now been shot with its spiritual big brother - here are the pics | PistonHeads",
+            "url": "https://www.pistonheads.com/news/general/liberty-walk-jimny--update/38544",
+            "urlToImage": null,
+            "publishedAt": "2019-01-09T10:26:06Z",
+            "content": "UPDATE - 09/01/2019 Much was said of the Jimny's mini-me G-Class aesthetic even before Liberty Walk's overhaul. Now with both Suzuki and Mercedes complete by the Japanese tuners, the similarities are even more pronounced. The silhouette, the details, the stan\u2026 [+1523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Emma Kent",
+            "title": "Gang Beasts for Xbox One delayed yet again - Eurogamer.net",
+            "description": "Stuck between The Rock and a hard place.",
+            "url": "https://www.eurogamer.net/articles/2019-01-09-gang-beasts-for-xbox-delayed-a-second-time",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-09-09-59/gang-beasts-for-xbox-delayed-a-second-time-1547027982779.jpg/EG11/thumbnail/1920x1080/format/jpg/2017005.jpg",
+            "publishedAt": "2019-01-09T10:10:42Z",
+            "content": "Despite initially being planned for release in 2018, it seems Gang Beasts for Xbox is still wrestling with a few problems, as the port has been delayed a second time. In a tweet yesterday, Gang Beasts explained \"a number of issues\" were preventing the Xbox ve\u2026 [+882 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "AJ Dellinger",
+            "title": "Bose wants to keep the sounds of the road out of your vehicle - Engadget",
+            "description": "Bose's QuietComfort Road Noise Control aims to keep the sounds of the road outside of your car.",
+            "url": "https://www.engadget.com/2019/01/09/bose-quietcomfort-road-noise-control/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1440%252C783%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C870%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-01%252F63f85490-1393-11e9-b6f5-1139356d0318%26client%3Da1acac3e1b3290917d92%26signature%3D500f292fab740373b083119f6ceb15fba3238ae9&client=amp-blogside-v2&signature=917413a1fb815096ed158b547ea9f37f7c82a2a9",
+            "publishedAt": "2019-01-09T09:44:36Z",
+            "content": "According to Bose, its new sound-canceling system utilizes a combination of accelerometers, proprietary signal-processing software, microphones and the vehicle's audio system to electronically combat unwanted sounds. The accelerometers are mounted to the body\u2026 [+864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Topgear.com"
+            },
+            "author": "Stephen Dobie",
+            "title": "The brand new Porsche 911 Cabriolet is here - Top Gear",
+            "description": "The 992's lost its roof, with no drop in performance",
+            "url": "https://www.topgear.com/car-news/supercars/brand-new-porsche-911-cabriolet-here",
+            "urlToImage": "https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/images/news-article/2019/01/58701ac451c4145a98841df100721132/p19_0029_a4_rgbleader.jpg?itok=upnkyiPr",
+            "publishedAt": "2019-01-09T09:40:13Z",
+            "content": "Just as night follows day and the January slog follows Christmas the Porsche 911 Cabriolet has arrived rather swiftly after the coupe. This is the all-new, 992-generation drop-top, and it doesnt look in the least bit surprising. Indeed, if your brain is still\u2026 [+1264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pistonheads.com"
+            },
+            "author": null,
+            "title": "30th Anniversary Mazda MX-5 due at Chicago - Pistonheads.com",
+            "description": "Yep, it really has been three decades of the Mazda roadster - first details of the special edition here | PistonHeads",
+            "url": "https://www.pistonheads.com/news/general/30th-anniversary-mazda-mx-5-due-at-chicago/39418",
+            "urlToImage": null,
+            "publishedAt": "2019-01-09T09:24:40Z",
+            "content": "Here's a fun fact for your next (hopefully car themed) pub quiz: it was the Chicago Auto Show where the Mazda MX-5 was first shown in 1989, Mazda presumably keen to tap into the American demand for roadsters. Next month, exactly three decades years later and \u2026 [+1263 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Ivan Mehta",
+            "title": "No, Samsung isn\u2019t pre-installing Facebook on your phone - The Next Web",
+            "description": "Early this morning, Bloomberg reported that Samsung doesn\u2019t let users uninstall the Facebook app from some of its phones. The story states that Facebook\u2019s app comes pre-installed in select Samsung devices and users can only disable it, but can\u2019t delete it fro\u2026",
+            "url": "https://thenextweb.com/finance/2019/01/09/no-samsung-isnt-pre-installing-facebook-on-your-phone/",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F08%2FSamsung-Galaxy-S8-S8-14-of-17.jpg&signature=8259c946f9b8f1d12bb9ed0e08f771db",
+            "publishedAt": "2019-01-09T09:16:45Z",
+            "content": "Early this morning, Bloomberg reported that Samsung doesnt let users uninstall the Facebook app from some of its phones. The story states that Facebooks app comes pre-installed in select Samsung devices and users can only disable it, but cant delete it from t\u2026 [+2177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vg247.com"
+            },
+            "author": null,
+            "title": "Destiny 2: Black Armory - Niobe Labs puzzles solved - VG247",
+            "description": "The Niobe Labs are now live in Destiny 2, complete with a new puzzle to solve. Update: The puzzle remains unfinished this morning, though many players have scrambled to solve as much of it as possible. Here\u2019s everything we\u2019ve learned so far: First section of \u2026",
+            "url": "https://www.vg247.com/2019/01/09/destiny-2-black-armory-niobe-labs-guide/",
+            "urlToImage": "https://assets.vg247.com/current//2019/01/Destiny-2_20181204191033.png",
+            "publishedAt": "2019-01-09T09:15:00Z",
+            "content": "The Niobe Labs are now live in Destiny 2, complete with a new puzzle to solve. Update: The puzzle remains unfinished this morning, though many players have scrambled to solve as much of it as possible. Here\u2019s everything we\u2019ve learned so far: The Niobe Labs ca\u2026 [+5524 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.co.uk"
+            },
+            "author": "Andrew Orlowski",
+            "title": "Before dipping a toe in the new ThinkPad high-end, make sure your desk is compatible - The Register",
+            "description": "As in, big enough",
+            "url": "https://www.theregister.co.uk/2019/01/09/premium_business_thinkpads_ces2019/",
+            "urlToImage": "https://regmedia.co.uk/2019/01/08/x1_yoga_keyboard_w642.jpg",
+            "publishedAt": "2019-01-09T09:03:00Z",
+            "content": "Lenovo has given its Carbon and Yoga business flagships a makeover but you won't be able to use one in anger until June. As well as a revised styling, the 7th generation X1 Carbon features better audio four speakers and far-field microphones, the latter in th\u2026 [+1611 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Chris Plante",
+            "title": "New Super Mario Bros U Deluxe review: 2019\u2019s first great Switch game - Polygon",
+            "description": "New Super Mario Bros. U Deluxe brings 2012\u2019s underrated Wii U game to the Nintendo Switch. The platformer now includes Super Luigi U, a collection of difficult and remixed stages. Our review explains why it\u2019s the perfect companion for Super Mario Odyssey.",
+            "url": "https://www.polygon.com/reviews/2019/1/9/18173941/new-super-mario-bros-u-deluxe-review-nintendo-switch",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KqwqFFy1pY-lA7KZr7gtB_EEs-s=/0x75:1920x1080/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13677200/Switch_NSMBU-Deluxe_090618_PressKit_SCRN_17.0.jpg",
+            "publishedAt": "2019-01-09T09:00:09Z",
+            "content": "For a moment, it seemed inevitable that a half-dozen or so excellent games from arguably the most influential video game publisher ever would be relegated to the status of historical footnote. In 2012, Nintendo followed its mainstream motion-control phenomeno\u2026 [+8322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "David Snelling",
+            "title": "Latest Amazon Echo update reveals more bad news for UK Amazon customers - Express",
+            "description": "AMAZON'S hugely popular Echo Dot suffers another setback leaving customers unable to buy one until the end of February.",
+            "url": "https://www.express.co.uk/life-style/science-technology/1069238/Amazon-Echo-Dot-update-buy-out-of-stock-stock-UK",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/59/750x445/1069238.jpg",
+            "publishedAt": "2019-01-09T06:45:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Hyundai i20 review: an underrated supermini with surprising sparkle - The Telegraph",
+            "description": "You&rsquo;d be forgiven for approaching a review of a Korean supermini with a yawn.",
+            "url": "https://www.telegraph.co.uk/cars/hyundai/hyundai-i20-review-underrated-supermini-surprising-sparkle/",
+            "urlToImage": "https://www.telegraph.co.uk/cars/images/2019/01/08/hyundai-i20-f34-action-facing-left-xlarge_trans_NvBQzQNjv4BqOAAqyfl4Cf2cgYQt34VQfFIt_9KwUlZGUeR5sSrQDfs.jpg",
+            "publishedAt": "2019-01-09T06:02:00Z",
+            "content": "Y oud be forgiven for approaching a review of a Korean supermini with a yawn. The Hyundai i20, eh? youre probably thinking. Boring. Itll be average everywhere, get three stars and thats that. Now, wheres that BMW M2 Competition review ? Hold your horses, thou\u2026 [+434 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Apple recruits prominent Facebook critic for privacy team - Financial Times",
+            "description": "Sandy Parakilas worked at social network before becoming a vocal opponent",
+            "url": "https://www.ft.com/content/a10b54e0-1352-11e9-a581-4ff78404524e",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fae0aa87c-1356-11e9-a168-d45595ad076d?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-01-09T04:01:00Z",
+            "content": "A former Facebook employee who became one of the social networks most prominent critics has been recruited by Apple. Sandy Parakilas monitored software developers privacy and policy compliance at Facebook for a year and a half before he left the social networ\u2026 [+3879 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Grant Rollings",
+            "title": "Proud owners share bizarre snaps of all the daft places cats have run to at the vet\u2019s \u2014 but could not hide - The Sun",
+            "description": "We pick the best of the wuss-puss brigade who freaked out at the consulting room",
+            "url": "https://www.thesun.co.uk/news/8151401/cat-owners-daft-snaps-hiding-places/",
+            "urlToImage": "https://i0.wp.com/www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000460486825-e1546992962882.jpg?crop=35px%2C279px%2C488px%2C325px&resize=1200%2C800&ssl=1",
+            "publishedAt": "2019-01-09T00:45:00Z",
+            "content": "\u00a9News Group Newspapers Limited in England No. 679215 Registered office: 1 London Bridge Street, London, SE1 9GF. \"The Sun\", \"Sun\", \"Sun Online\" are registered trademarks or trade names of News Group Newspapers Limited. This service is provided on News Group N\u2026 [+538 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whathifi.com"
+            },
+            "author": "https://www.facebook.com/whathifi.com",
+            "title": "5 key highlights from Sony at CES 2019 - What Hi-Fi?",
+            "description": "Featuring 8K TVs, a Bluetooth turntable and a brand new sound format",
+            "url": "https://www.whathifi.com/news/5-key-highlights-from-sony-at-ces-2019",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/7zWnvQXD6dnvyxa7gyj6WW-1200-80.jpg",
+            "publishedAt": "2019-01-09T00:23:00Z",
+            "content": "In a move that will go down in infamy, Sony decided to announce almost no products on-stage during its CES 2019 press conference, but instead announce them via email while the press conference was taking place. Weird? You betcha. That said, we're really just \u2026 [+2491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Filiz Mehmedova",
+            "title": "EE has a huge announcement about the new Samsung Galaxy phone - DigitalSpy.com",
+            "description": "You can register to get further notifications.",
+            "url": "https://www.digitalspy.com/tech/samsung/a25806329/ee-announcement-new-samsung-galaxy-phone/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/samsung-galaxy-1546987041.png?crop=1xw:0.9330143540669856xh;center,top&resize=1200:*",
+            "publishedAt": "2019-01-08T22:37:00Z",
+            "content": "EE has just confirmed that the new Samsung Galaxy phone is on its way to its stores. The mobile provider tweeted the big reveal on its Twitter account and customers can register their interest if they want to be notified when the phone is available on EE. Adv\u2026 [+1141 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Ian Morris",
+            "title": "Royole FlexPai: World's first folding smartphone launches at CES - Mirror Online",
+            "description": "Royole's FlexPai is now on sale",
+            "url": "https://www.mirror.co.uk/tech/worlds-first-folding-smartphone-royole-13831310",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13831328.ece/ALTERNATES/s1200/0_IMG_0916.jpg",
+            "publishedAt": "2019-01-08T22:33:00Z",
+            "content": "We knew that Royle's FlexPai was coming, as the handset was announced last year for the Chinese market. But at CES 2019 the company announced more widespread availability. The phone is being demonstrated on the show floor, but we got a look at it in the hands\u2026 [+1665 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.co.uk"
+            },
+            "author": null,
+            "title": "CES 2019: Lenovo and Google Figured Out the Perfect Alarm Clock - Gizmodo UK",
+            "description": "But is this good idea worth its price tag?",
+            "url": "http://www.gizmodo.co.uk/2019/01/ces-2019-lenovo-and-google-figured-out-the-perfect-alarm-clock/",
+            "urlToImage": "http://media.gizmodo.co.uk/wp-content/uploads/2019/01/vaphiekooefabxftyqmt.jpg",
+            "publishedAt": "2019-01-08T21:30:00Z",
+            "content": "It took a couple of years, but we finally have the perfect application of Google Assistantan alarm clock. The Lenovo Smart Clock with Google Assistant looks like a sibling to Googles Home Hub and Home Mini. Only instead of being a hub for smart home control, \u2026 [+2616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Liam Martin",
+            "title": "PS4 Pro SHOCK NEWS: Powerful next-gen NVIDIA machine revealed at CES - Express",
+            "description": "SONY and Microsoft face some stiff competition in 2019, as a powerful new machine enters the race at CES.",
+            "url": "https://www.express.co.uk/entertainment/gaming/1068828/PS4-Pro-update-news-Sony-next-gen-CES-NVIDIA-RTX-laptop",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/143/750x445/1068828.jpg",
+            "publishedAt": "2019-01-08T20:20:00Z",
+            "content": "The PS4 Pro faces some stiff competition, as NVIDIA announces plans to bring its RTX cards to a wide range of laptops. According to NVIDIA CEO Jensen Huang, RTX 2060, 2070 and 2080 cards will be available in more than 40 laptops. And as The Verge points out, \u2026 [+1153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Google Assistant Connect is a new platform to make it easier to add Assistant to connected devices - 9to5Google",
+            "description": "With voice commands arriving in everything nowadays, Google is making it easier for device makers to integrate the tech into their new devices. The new Google Assistant Connect platform is being pr\u2026",
+            "url": "https://9to5google.com/2019/01/08/google-assistant-connect-platform/",
+            "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2018/01/google_assistant_logo_11.jpg?quality=82&strip=all&w=1600",
+            "publishedAt": "2019-01-08T20:06:00Z",
+            "content": "With voice commands arriving in everything nowadays, Google is making it easier for device makers to integrate the tech into their new devices. The new Google Assistant Connect platform is being previewed this week at CES 2019. A new set of tools for develope\u2026 [+1863 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pushsquare.com"
+            },
+            "author": "Push Square",
+            "title": "PSVR Gets Its First Officially Licensed Foot Controller - Push Square",
+            "description": "No, really",
+            "url": "http://www.pushsquare.com/news/2019/01/psvr_gets_its_first_officially_licensed_foot_controller",
+            "urlToImage": "http://images.pushsquare.com/news/2019/01/psvr_gets_its_first_officially_licensed_foot_controller/large.jpg",
+            "publishedAt": "2019-01-08T20:04:31Z",
+            "content": "Locomotion can be a real headache with PlayStation VR, lets be honest. The PSVR Aim Controller is great because it comes with dual analogue sticks, but the PlayStation Move wands tend to rely on tilting or teleportation a mechanic that not everyones fond of. \u2026 [+836 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku.co.uk"
+            },
+            "author": null,
+            "title": "Call Of Duty's Latest Microtransaction Is a Tiny Red Dot - Kotaku UK",
+            "description": "For a game that\u2019s already taking heat from its player base for the price of its extra cosmetic items, <em>Black Ops 4</em>'s latest offering seems especially difficult to swallow.",
+            "url": "http://www.kotaku.co.uk/2019/01/08/call-of-dutys-latest-microtransaction-is-a-tiny-red-dot",
+            "urlToImage": "http://cms.kotaku.co.uk/wp-content/uploads/2019/01/byhqizmvl5657skvlrsn.png",
+            "publishedAt": "2019-01-08T19:58:00Z",
+            "content": "For a game thats already taking heat from its player base for the price of its extra cosmetic items, Black Ops 4 's latest offering seems especially difficult to swallow. A red dot reticle showed up in the Black Ops 4 Black Market on 25 December, wearing a pr\u2026 [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autocar.co.uk"
+            },
+            "author": null,
+            "title": "New Mercedes CLA to be sportiest compact yet in range - Autocar",
+            "description": "Bigger, tech-packed second-generation coup\u00e9 will put dynamics to the fore and get a 404bhp flagship",
+            "url": "https://www.autocar.co.uk/car-news/new-cars/new-mercedes-cla-be-sportiest-compact-yet-range",
+            "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/18c0973_087.jpg",
+            "publishedAt": "2019-01-08T19:35:39Z",
+            "content": "At 4688mm long and 1830mm wide, the new CLA is 48mm longer and 53mm wider than its predecessor, and its 2729mm wheelbase has been extended by 30mm. Mercedes said this, along with the cars lower centre of gravity, helps to ensure it has improved driving dynami\u2026 [+1767 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Google unveils instant language translator that lets people hold conversations in real time - The Telegraph",
+            "description": "The days of arriving at a hotel when abroad only to be lost for words when unable to understand the receptionist could be over after Google unveiled a real-life Babel fish system for translating foreign languages.",
+            "url": "https://www.telegraph.co.uk/technology/2019/01/08/google-unveils-instant-language-translator-people-hold-conversations/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/technology/2019/01/08/TELEMMGLPICT000177342542-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg",
+            "publishedAt": "2019-01-08T19:07:00Z",
+            "content": "T he days of arriving at a hotel when abroad only to be lost for words when unable to understand the receptionist could be over after Google unveiled a real-life Babel fish system for translating foreign languages. The tech giant has unveiled an interpreter m\u2026 [+445 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Chris Velazco",
+            "title": "Lenovo\u2019s new Smart Clock brings Google Assistant to your nightstand - Engadget",
+            "description": "Google and Lenovo made waves last year when they revealed the first Assistant-powered smart display in Las Vegas, and the months that followed saw those scr...",
+            "url": "https://www.engadget.com/2019/01/08/lenovo-smart-clock-hands-on/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=80&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2019-01%2F07%2F5c32f797fcd67b3a10d94589%2F5c32f869e39d150671450428_o_U_v1.jpg&client=amp-blogside-v2&signature=efdf6b590588fdd2d0559a0979191ea3beaa4f85",
+            "publishedAt": "2019-01-08T19:00:56Z",
+            "content": "As it turns out, though, size really does matter: because there isn't as much real estate to work with on these screens, Google had to pare down what people can actually use Smart Clocks for. Don't worry about watching YouTube videos (you can't) or making fac\u2026 [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trustedreviews.com"
+            },
+            "author": "Mark Wilson",
+            "title": "DJI\u2019s Smart Controller is your Mavic 2 drone\u2019s new best friend - TrustedReviews",
+            "description": "CES 2019: DJI has released a new Smart Controller for its Mavic 2 Pro and Mavic 2 Zoom drones, complete with a super-bright screen and weather-proofing.",
+            "url": "https://www.trustedreviews.com/news/djis-new-smart-controller-mavic-2-drones-new-best-friend-3642257",
+            "urlToImage": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/01/DJISmartController-1.png",
+            "publishedAt": "2019-01-08T18:48:00Z",
+            "content": "DJI has released a new Smart Controller with a built-in screen for its Mavic 2 drones, for those who want to upgrade from using their smartphone with the bundled controllers. The existing controllers for the DJI Mavic 2 Pro and Mavic 2 Zoom have adjustable ar\u2026 [+2024 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Uploadvr.com"
+            },
+            "author": "David Heaney",
+            "title": "Oculus Headsets Lineup Explained: Should You Wait For Quest? - UploadVR",
+            "description": "What's the difference between Oculus Go and Oculus Rift? Should you wait for Oculus Quest? Which one should you buy? Here's an explanation.",
+            "url": "https://uploadvr.com/oculus-go-vs-rift-vs-quest/",
+            "urlToImage": "https://cdn.uploadvr.com/wp-content/uploads/2019/01/GoRiftQuest2.png",
+            "publishedAt": "2019-01-08T18:31:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Matt Wales",
+            "title": "Paradox Interactive picks up the rights to Prison Architect - Eurogamer.net",
+            "description": "New 'Architect' games a possibility.",
+            "url": "https://www.eurogamer.net/articles/2019-01-08-paradox-interactive-picks-up-the-rights-to-prison-architect",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-08-18-23/paradox-interactive-picks-up-the-rights-to-prison-architect-1546971835639.jpg/EG11/thumbnail/1920x1080/format/jpg/2016940.jpg",
+            "publishedAt": "2019-01-08T18:24:51Z",
+            "content": "Paradox Interactive has acquired the rights to developer Introversion Software's enormously successful prison management sim, Prison Architect. As part of the deal's official announcement, Paradox CEO Ebba Ljungerud called Prison Architect \"a natural fit\" for\u2026 [+1436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Alienware Area 51m Hands-on: Most Powerful Gaming Laptop - Windows Central",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=PTY5A84xv5s",
+            "urlToImage": null,
+            "publishedAt": "2019-01-08T18:24:28Z",
+            "content": "[[getSimpleString(data.title)]] [[getSimpleString(data.description)]] [[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whathifi.com"
+            },
+            "author": "https://www.facebook.com/whathifi.com",
+            "title": "Audio Technica serves up a platter of tasteful budget turntables at CES - What Hi-Fi?",
+            "description": "Seven decks, all between \u00a399 and \u00a3299",
+            "url": "https://www.whathifi.com/news/audio-technica-serves-up-a-platter-of-tasteful-budget-turntables-at-ces",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/xETVKEjFBkodSJJ4Tw8sC6-1200-80.jpg",
+            "publishedAt": "2019-01-08T18:08:00Z",
+            "content": "Audio Technica may have built a reliable reputation for turning out good turntables \u2013 the veterans have over 55 years experience in the turntable and phono cartridge business \u2013 but that hasn\u2019t led the company to rest on its laurels when it comes to attracting\u2026 [+4040 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "https://www.facebook.com/TechRadar",
+            "title": "Dell XPS 13 (2019) hands on review - TechRadar",
+            "description": "The webcam has moved at last",
+            "url": "https://www.techradar.com/reviews/dell-xps-13-2019",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QVKmxDZtY4uSN3Pu5mQjc6-1200-80.jpg",
+            "publishedAt": "2019-01-08T18:00:00Z",
+            "content": "For CES 2019, Dell has a present for its long-time XPS laptop fans: an XPS 13 with the webcam where it belongs. This is about the only major design change to the laptop, but it\u2019s enough. With this major bugbear out of the way, and with the latest Intel proces\u2026 [+3903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dexerto.com"
+            },
+            "author": null,
+            "title": "Riot Games have revealed the next champion coming to League of Legends. - Dexerto.com",
+            "description": "The next League of Legends champion has been revealed.",
+            "url": "https://www.dexerto.com/league-of-legends/riot-games-have-revealed-the-next-champion-coming-to-league-of-legends-277553",
+            "urlToImage": "https://s3.dexerto.com/thumbnails/_thumbnailLarge/league-of-legends-new-champion-sylas-revealed.jpg",
+            "publishedAt": "2019-01-08T17:46:30Z",
+            "content": "Riot Games have revealed the latest champion joining the League of Legends roster. Shortly after showing off some initial teaser images, Riot have now fully revealed Sylas, the Unchained as the new champion, as some fans had correctly theorized. Sylas is a ma\u2026 [+989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchestereveningnews.co.uk"
+            },
+            "author": "Courtney Pochin, Stuart Greer",
+            "title": "This app guarantees that your children will reply to your texts and calls - Manchester Evening News",
+            "description": "Sick of his teenage son not getting back to him, a tech savvy dad invented an app to solve the problem",
+            "url": "https://www.manchestereveningnews.co.uk/news/uk-news/replyasap-app-parents-children-phone-15647304",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article15647561.ece/ALTERNATES/s1200/3_GettyImages-473838686.jpg",
+            "publishedAt": "2019-01-08T17:38:00Z",
+            "content": "Deciding when to get your child a smartphone is one of parenting's many quandaries because once they've got one, it's glued to their hand. It is therefore a massive frustration when they don't respond to your calls and texts quickly enough. But now one parent\u2026 [+2644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamespot.com"
+            },
+            "author": "Chris Pereira",
+            "title": "Fortnite Patch Finally Nerfs The Stormwing Plane, Here's What's New - GameSpot",
+            "description": "The new content update for the 7.10 patch has launched on PC, PS4, Xbox One, Switch, and mobile, and it attempts to address complaints about the game's overpowered flying vehicle.",
+            "url": "https://www.gamespot.com/articles/fortnite-patch-finally-nerfs-the-stormwing-plane-h/1100-6464245/",
+            "urlToImage": "https://static.gamespot.com/uploads/screen_kubrick/123/1239113/3485357-8881101514-34722.png",
+            "publishedAt": "2019-01-08T17:38:00Z",
+            "content": "Since its debut late last year, Fortnite : Battle Royale's X-4 Stormwing--the game's first flying vehicle--has been a source of complaints from many who feel it's overpowered. Now, with the release of the third and final content update of the 7.10 patch, Epic\u2026 [+1881 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "https://www.facebook.com/TechRadar",
+            "title": "TicWatch E2 and TicWatch S2 announced, and both are ready to go in the pool - TechRadar",
+            "description": "Sequels to two of our favorite smartwatches",
+            "url": "https://www.techradar.com/news/ticwatch-e2-and-ticwatch-s2-announced-and-both-are-ready-to-go-in-the-pool",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kw9BcZgCTUiznpwbRgUTJa-1200-80.jpg",
+            "publishedAt": "2019-01-08T17:00:00Z",
+            "content": "Two of our best smartwatches are getting sequels as Chinese company Mobvoi has announced the TicWatch S2 and TicWatch E2 at CES 2019. The new devices aren't dissimilar to the original TicWatch E and TicWatch S variants, but there are a few improvements here, \u2026 [+2176 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Wesley Yin-Poole",
+            "title": "Resident Evil 2 remake demo lasts just 30 minutes and then it's game over forever - Eurogamer.net",
+            "description": "Dead cool.",
+            "url": "https://www.eurogamer.net/articles/2019-01-08-resident-evil-2-remake-30-minute-1-shot-demo-announced",
+            "urlToImage": "https://d2skuhm0vrry40.cloudfront.net/2019/articles/2019-01-08-16-28/resident-evil-2-remake-30-minute-1-shot-demo-announced-1546964929862.jpg/EG11/thumbnail/1920x1080/format/jpg/2016922.jpg",
+            "publishedAt": "2019-01-08T16:48:52Z",
+            "content": "Capcom has announced a demo for the Resident Evil 2 remake - and it lasts for just 30 minutes. The \"1-shot\" demo, which goes live on 11th January for PC via Steam, PlayStation 4 and Xbox One, is set on a 30-minute timer. This means you've got half an hour of \u2026 [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gamespot.com"
+            },
+            "author": "Steve Watts",
+            "title": "Resident Evil 2 Remake Demo Coming Soon, And It's An Unusual One - GameSpot",
+            "description": "Soon you'll be able to step into Raccoon City once again, but only for a very, very limited time.",
+            "url": "https://www.gamespot.com/articles/resident-evil-2-getting-a-demo-and-its-an-unusual-/1100-6464244/",
+            "urlToImage": "https://static.gamespot.com/uploads/screen_kubrick/1585/15855271/3485344-trailer_residentevil2_20190108_site.jpg",
+            "publishedAt": "2019-01-08T16:45:00Z",
+            "content": "The release of the Resident Evil 2 remake is creeping closer and closer, and soon you'll get a taste of the action. But true to the tense survival-horror tone of the series, it's going to be a race against the clock that tests your skills and wits, and once t\u2026 [+1394 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pushsquare.com"
+            },
+            "author": "Push Square",
+            "title": "Resident Evil 2 '1-Shot' Demo Lurches Onto PS4 This Week - Push Square",
+            "description": "One shot, one kill",
+            "url": "http://www.pushsquare.com/news/2019/01/resident_evil_2_1-shot_demo_lurches_onto_ps4_this_week",
+            "urlToImage": "http://images.pushsquare.com/news/2019/01/resident_evil_2_1-shot_demo_lurches_onto_ps4_this_week/large.jpg",
+            "publishedAt": "2019-01-08T16:14:22Z",
+            "content": "And there's your confirmation. As speculated, the playable Resident Evil 2 demo will indeed launch this week on PlayStation 4. Officially dubbed the '1-Shot' demo, you'll be given 30 minutes to get through it. Once the time's up, the demo will end, and that's\u2026 [+204 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pushsquare.com"
+            },
+            "author": "Push Square",
+            "title": "Sony: We'll Bring More Enhanced Experiences and Highly Anticipated Games in 2019 - Push Square",
+            "description": "Company will continue to evolve",
+            "url": "http://www.pushsquare.com/news/2019/01/sony_well_bring_more_enhanced_experiences_and_highly_anticipated_games_in_2019",
+            "urlToImage": "http://images.pushsquare.com/news/2019/01/sony_well_bring_more_enhanced_experiences_and_highly_anticipated_games_in_2019/large.jpg",
+            "publishedAt": "2019-01-08T15:26:28Z",
+            "content": "Sonys plans for 2019 are pretty much shrouded in secrecy so far. We know that the company wont be attending E3 2019 and we also know that its got Days Gone coming out in the near future, but beyond that well, your guess is as good as ours. Among various piece\u2026 [+1047 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "CES 2019: The 10 best technologies coming out of Las Vegas - Telegraph.co.uk",
+            "description": "The biggest technology convention in the world is well under way among the bright lights of Las Vegas at the Consumer Electronics Show.",
+            "url": "https://www.telegraph.co.uk/technology/2019/01/08/ces-2019-10-best-technologies-coming-las-vegas/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/PortalPictures/January-2019/CES_8582-xlarge.jpg",
+            "publishedAt": "2019-01-08T15:16:00Z",
+            "content": "T he biggest technology convention in the world is well under way among the bright lights of Las Vegas at the Consumer Electronics Show. Everything from friendly robots to driverless cars, shape-shifting TVs and super-fast computers have been on display. Here\u2026 [+114 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitguru.net"
+            },
+            "author": "Matthew Wilson",
+            "title": "CES 2019: MSI unleashes new laptop lineup with Nvidia RTX graphics - KitGuru",
+            "description": "The first day of CES was dominated by Nvidia, with news of the RTX 2060, G-Sync updates and RTX for laptops all coming out at once. We'll be hearing more about RTX laptops over the course of this week",
+            "url": "https://www.kitguru.net/tech-news/featured-tech-news/matthew-wilson/ces-2019-msi-unleashes-new-laptop-lineup-with-nvidia-rtx-graphics/",
+            "urlToImage": "https://www.kitguru.net/wp-content/uploads/2019/01/MSI_NB_GS75-Stealth_photo04-732x330.png",
+            "publishedAt": "2019-01-08T15:01:08Z",
+            "content": "The first day of CES was dominated by Nvidia, with news of the RTX 2060, G-Sync updates and RTX for laptops all coming out at once. We\u2019ll be hearing more about RTX laptops over the course of this week, as gaming laptop makers continue to announce their upgrad\u2026 [+2104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.co.uk"
+            },
+            "author": null,
+            "title": "CES 2019: Razer's Full Suite of Haptic Feedback Peripherals Made My Booty Shake - Gizmodo UK",
+            "description": "The Razer Hypersense concept adds rumble to a chair, mouse, and even a keyboard armrest.",
+            "url": "http://www.gizmodo.co.uk/2019/01/ces-2019-razers-full-suite-of-haptic-feedback-peripherals-made-my-booty-shake/",
+            "urlToImage": "http://media.gizmodo.co.uk/wp-content/uploads/2019/01/cfzjhhlcpjxm1wihpabt.jpg",
+            "publishedAt": "2019-01-08T14:45:00Z",
+            "content": "Razers gotten a little more realistic with its concepts recently. It used to be it would show off things like a three-screen laptop that defied logic. Now its showing off concepts that feel like natural progressions of what the company has on the market. Take\u2026 [+1925 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "Alex Hern",
+            "title": "Fall of the iCurtain: Apple brings iTunes to Samsung smart TVs - The Guardian",
+            "description": "Surprise move signals wider opening up of Apple ecosystem as tech firm seeks new revenue",
+            "url": "https://www.theguardian.com/technology/2019/jan/08/fall-icurtain-apple-itunes-samsung-smart-tv",
+            "urlToImage": "https://i.guim.co.uk/img/media/1a33c4c835e82c6f1e9df1e992d16300e8a0ae87/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=7dd35a41d3614206899e707ab3bc41f5",
+            "publishedAt": "2019-01-08T14:17:00Z",
+            "content": "Apple has announced that iTunes films will be available on Samsung smart TVs, ending the companys insistence that users buy an Apple TV to watch their purchases on a big screen. Fifteen years after Steve Jobs launched iTunes for Windows, quipping that he was \u2026 [+3018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hexus.net"
+            },
+            "author": "Mark Tyson",
+            "title": "HTC unveils Vive Cosmos PC VR headset - Peripherals - News - HEXUS",
+            "description": "And the Vive Pro Eye was introduced: an updated Vive Pro with eye tracking technology.",
+            "url": "https://hexus.net/tech/news/peripherals/126062-htc-unveils-vive-cosmos-pc-vr-headset/",
+            "urlToImage": "https://hexus.net/media/uploaded/2019/1/1d5cc31a-eca2-4fe1-a24e-d3842903f124.jpg",
+            "publishedAt": "2019-01-08T14:11:00Z",
+            "content": "Last year at CES 2018, HTC announced the Vive Pro HMD with higher resolution screens, and showed off its wireless adapter. This year, at CES 2019, HTC has just announced an all-new PC HMD called the Vive Cosmos, as well as a precision eye-tracking enabled ver\u2026 [+2293 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.co.uk"
+            },
+            "author": "Andrew Orlowski",
+            "title": "Sorry, Samsung. Seems nobody is immune to peak smartphone - The Register",
+            "description": "Chaebol warns operating profit to fall 29%",
+            "url": "https://www.theregister.co.uk/2019/01/08/smartphone_recession_now_its_samsungs_turn_to_howl/",
+            "urlToImage": "https://regmedia.co.uk/2018/09/20/shutterstock_yelling.jpg",
+            "publishedAt": "2019-01-08T14:07:00Z",
+            "content": "Smartphones are experiencing their first ever recession, and Samsung is feeling the pain too. The electronics giant lowered its outlook for its fourth quarter of fiscal 2018 yesterday, citing \"mounting macro uncertainties\". It warned that revenue would be dow\u2026 [+1013 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Anthony Cuthbertson",
+            "title": "CES 2019: LG unveils futuristic roll-up TV that disappears into its base - The Independent",
+            "description": "The Signature Series OLED 4K\u00a0television appears at the touch of a button",
+            "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/ces-2019-lg-roll-up-tv-signature-series-oled-4k-technology-a8716826.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/10/lg-tv-roll-up-television.jpg",
+            "publishedAt": "2019-01-08T13:09:00Z",
+            "content": "LG has unveiled the world's first consumer-ready rollable television at the CES 2019 trade show in Las Vegas. The South Korean electronics giant said the \"revolutionary form factor\" of its Signature OLED TV R will define the next generation of television. A c\u2026 [+15884 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Telecoms.com"
+            },
+            "author": "http://telecoms.com/author/daviesj/",
+            "title": "AT&T is now effectively lying to its customers - Telecoms.com",
+            "description": "AT&T customers might have noticed a new symbol appearing in the top corner of their devices and for those who aren\u2019t paying attention, they might be duped into thinking the telco is offering 5G connectivity.",
+            "url": "http://telecoms.com/494482/att-rebrands-lte-a-as-5ge/",
+            "urlToImage": "http://telecoms.com/wp-content/blogs.dir/1/files/2019/01/Liar-Trap-Incentive-300x213.jpg",
+            "publishedAt": "2019-01-08T12:58:00Z",
+            "content": "AT&amp;T customers might have noticed a new symbol appearing in the top corner of their devices and for those who arent paying attention, they might be duped into thinking the telco is offering 5G connectivity. AT&amp;T has now switched on its 5G Evolution se\u2026 [+2222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Denofgeek.com"
+            },
+            "author": null,
+            "title": "30 must-play video games for 2019 - Den of Geek UK",
+            "description": "Schedule in some sofa time with 2019\u2019s most exciting new games...",
+            "url": "https://www.denofgeek.com/uk/games/2019-games/62557/30-must-play-biggest-new-video-games-2019",
+            "urlToImage": "https://cdn-static.denofgeek.com/sites/denofgeek/files/2019/01/must_play_games_of_2019_1.jpg",
+            "publishedAt": "2019-01-08T12:50:39Z",
+            "content": "Thought you were going to prise your bum off the sofa at some point this year? Well, think again! 2019 is set to be another bumper year for new video games, with fresh franchises and old favourites battling for dominance in the major leagues, offset as ever b\u2026 [+18288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trustedreviews.com"
+            },
+            "author": "Alastair Stevenson",
+            "title": "Intel Ice Lake: Everything you need to know about the new 10nm CPUs - TrustedReviews",
+            "description": "We've just had a sneak peek at 2019's Intel Ice Lake processor family and can tell you everything that's known so far about the new 10nm CPUs.",
+            "url": "https://www.trustedreviews.com/news/intel-ice-lake-release-date-specs-price-3642152",
+            "urlToImage": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/01/Intel-News-Event-2.jpg",
+            "publishedAt": "2019-01-08T12:49:00Z",
+            "content": "Intel has finally lifted the lid on its next generation 10nm processors, unveiling its new Ice Lake CPU family for all to see at CES 2019 in Las Vegas. The new processor technology was shown off at this year\u2019s Consumer Electronics Show, with Intel promising t\u2026 [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "CES 2019: Would you upload your house key to the cloud? - BBC News",
+            "description": "Company shows digital solution for lost keys at the CES technology show in Las Vegas.",
+            "url": "https://www.bbc.co.uk/news/technology-46795616",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8AB6/production/_105101553_f3579a65-19cb-4ad2-8ea5-730b535d1bd8.jpg",
+            "publishedAt": "2019-01-08T12:44:43Z",
+            "content": "Image caption Losing house keys can be an expensive experience A digital solution for lost house keys has been revealed at the CES tech show. KeyHero will scan and upload a precise image of a key to the cloud for free, but it can only be accessed in one of th\u2026 [+1408 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fortniteintel.com"
+            },
+            "author": null,
+            "title": "Fortnite v7.10 Content Update #3 Patch Notes - Suppressed Sniper Rifle, Dual Pistols, and more - FortniteINTEL",
+            "description": "The final v7.10 Content Update for Fortnite has arrived! Below you can find the full Patch Notes including the Suppressed Sniper Rifle, Dual Pistols, and more. v7.10 Content Update #3 also brings a load of balancing adjustments to controversial items such as \u2026",
+            "url": "https://fortniteintel.com/fortnite-v7-10-content-update-3-patch-notes-suppressed-sniper-rifle-dual-pistols-and-more/9750/",
+            "urlToImage": "https://fortniteintel.com/wp-content/uploads/2019/01/Fortnite_patch-notes_v7-10-content-update-3_br-header-v7-10-content-update-3_BR07_Social_Winter_SuppressedSniperRifle-1920x1080-b0ad03ad57ad04fcf57d5b2210f30a6b47b52133.jpg",
+            "publishedAt": "2019-01-08T12:42:00Z",
+            "content": "WHAT\u2019S NEW? Suppressed Sniper Rifle Trade power for stealth with the Suppressed Sniper Rifle. Drop in now and sneak up on your enemies! The Block Drop to The Block and explore the newest community creation! Bounce around in the DM Arena made by KojackNumber2.\u2026 [+1518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Indy100.com"
+            },
+            "author": null,
+            "title": "Blizzard confirms that another Overwatch superhero is LGBT+ - indy100",
+            "description": "Blizzard Entertainment has confirmed that the Overwatch character Soldier: 76 identifies as gay.\u00a0 In a new short story called 'Bastet', published on the official Overwatch\u00a0Twitter account, an image",
+            "url": "https://www.indy100.com/article/blizzard-overwatch-soldier-76-lgbt-hero-superhero-bastet-short-story-8716886",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/11/soldier76-0.png",
+            "publishedAt": "2019-01-08T12:15:00Z",
+            "content": "Blizzard Entertainment has confirmed that the Overwatch character Soldier: 76 identifies as gay. In a new short story called 'Bastet', published on the official Overwatch Twitter account, an image and a discussion between two of the main heroes, Ana and Soldi\u2026 [+2746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techspot.com"
+            },
+            "author": "Rob Thubron",
+            "title": "Nintendo says it might stop making consoles if the market changes - TechSpot",
+            "description": "In an interview with Nikkei (translated by Nintendo Everything), Furukawa said \u201cwe (Nintendo) aren\u2019t really fixated on our consoles.\u201d",
+            "url": "https://www.techspot.com/news/78161-nintendo-might-stop-making-consoles-if-market-changes.html",
+            "urlToImage": "https://static.techspot.com/images2/news/ts3_thumbs/2019/01/2019-01-08-ts3_thumbs-f74.jpg",
+            "publishedAt": "2019-01-08T12:03:00Z",
+            "content": "Why it matters: For the last 30 year, the Nintendo name has been synonymous with video game consoles, but company president Shuntaro Furukawa said it is prepared to abandon the machinesif the market demands it. In an interview with Nikkei (translated by Ninte\u2026 [+1584 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theinquirer.net"
+            },
+            "author": null,
+            "title": "Microsoft offers GitHub private code repository access for free - The INQUIRER",
+            "description": "Looks to win over users after Microsoft's acquisition,Developer ,Github,Microsoft,code",
+            "url": "https://www.theinquirer.net/inquirer/news/3068940/microsoft-offers-github-private-code-repository-access-for-free",
+            "urlToImage": "http://www.theinquirer.net/w-images/ec30f5eb-3b21-4894-8cb4-1f5fbf870f27/2/GitHub-370x229.png",
+            "publishedAt": "2019-01-08T11:58:44Z",
+            "content": "HEY CHEAP CODE LOVERS GREAT NEWS ; GitHub is providing its private code repositories for free, with the ability to carry out unlimited private projects with up to three others. Previously free GitHub use was under the proviso that users' code was made open to\u2026 [+2014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Topgear.com"
+            },
+            "author": "Ollie Kew",
+            "title": "The Lamborghini Hurac\u00e1n Evo configurator beckons - Top Gear",
+            "description": "Dive head-first into a world of lairy paint hues, OTT leathers and infinite carbon fibre options",
+            "url": "https://www.topgear.com/car-news/supercars/lamborghini-huracan-evo-configurator-beckons",
+            "urlToImage": "https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/images/news-article/2019/01/ffef05547dab722efbdfb915d9e637d8/1huracanevospec.png?itok=oxEtdcX8",
+            "publishedAt": "2019-01-08T11:58:35Z",
+            "content": "A day is a long time in supercars. Yesterday, Lamborghini revealed the new Hurac\u00e1n Evo, with new power, new fangs, and new future-predicting technology to stop you crashing. Today, youre invited to create your bespoke version. Your Hurac\u00e1n Me-vo, if you will.\u2026 [+856 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku.co.uk"
+            },
+            "author": null,
+            "title": "GRIS Trailer Gets Banned From Facebook For \"Sexually Suggestive\" Content - Kotaku UK",
+            "description": "Only, there was nothing sexually suggestive about it.",
+            "url": "http://www.kotaku.co.uk/2019/01/08/gris-trailer-gets-banned-from-facebook-for-sexually-suggestive-content",
+            "urlToImage": "http://cms.kotaku.co.uk/wp-content/uploads/2019/01/yfmbd1cvhypmxl2fpmqi.jpg",
+            "publishedAt": "2019-01-08T11:05:00Z",
+            "content": "Earlier today Devolver Digital, the publishers of GRIS one of our Games Of The Year tweeted this: Facebook rejected a GRIS launch trailer ad for this sexually suggestive scene so this year is going great so far. pic.twitter.com/frVaYOXIHe Devolver Digital (@d\u2026 [+854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mspoweruser.com"
+            },
+            "author": null,
+            "title": "Update: Alien: Blackout is not an Isolation sequel despite using the same main character - MSPoweruser",
+            "description": "Update: Fox\u2019s upcoming survival horror mobile game Alien: Blackout is not a sequel to 2014\u2019s Alien Isolation. In response to whether or not Blackout would continue the story of Isolation\u2019s Amanda Ripley, the protagonist of both games, Blackout\u2019s PR company Fo\u2026",
+            "url": "https://mspoweruser.com/alien-blackout-is-not-an-isolation-sequel-same-main-character/",
+            "urlToImage": "https://mspoweruser.com/wp-content/uploads/2019/01/alien-blackout-picture.jpg",
+            "publishedAt": "2019-01-08T11:01:00Z",
+            "content": "Update: Fox\u2019s upcoming survival horror mobile game Alien: Blackout is not a sequel to 2014\u2019s Alien Isolation. In response to whether or not Blackout would continue the story of Isolation\u2019s Amanda Ripley, the protagonist of both games, Blackout\u2019s PR company Fo\u2026 [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitguru.net"
+            },
+            "author": "Matthew Wilson",
+            "title": "CES 2019: ASUS unveils three new ROG HDR gaming monitors - KitGuru",
+            "description": "CES 2019 is off to a great start, we've already seen some interesting new announcements from ASUS for laptops and GPUs, but those aren't the only things drawing our attention this week. ASUS is also l",
+            "url": "https://www.kitguru.net/peripherals/monitors/matthew-wilson/ces-2019-asus-unveils-three-new-rog-hdr-gaming-monitors/",
+            "urlToImage": "https://www.kitguru.net/wp-content/uploads/2019/01/Strix-43-618x330.jpg",
+            "publishedAt": "2019-01-08T10:01:53Z",
+            "content": "CES 2019 is off to a great start, we\u2019ve already seen some interesting new announcements from ASUS for laptops and GPUs, but those aren\u2019t the only things drawing our attention this week. ASUS is also launching three brand new ROG monitors, each one with a big \u2026 [+2290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pocketnow.com"
+            },
+            "author": "officialADN",
+            "title": "Fragrant Red and Comet Blue Huawei Mate 20 Pro coming this week - PocketNow",
+            "description": "The Huawei Mate 20 Pro will become available later this week in two new colors. They're listed already in China and they are Fragrant Red and Comet Blue.",
+            "url": "https://pocketnow.com/mate-20-pro-new-colors",
+            "urlToImage": "https://pocketnow.com/wp-content/uploads/2019/01/Mate-20-Pro-Red.png",
+            "publishedAt": "2019-01-08T09:00:00Z",
+            "content": "We\u2019ve known for quite some time that Huawei is preparing new colors for the Mate 20 Pro. No, we\u2019re not talking about the celebratory special edition Mate 20 Pro \u2014 that reminds everyone of the 200 million units the company shipped this year \u2014 but we\u2019re rather \u2026 [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Audi brings Disney VR to back seat - BBC News",
+            "description": "The car maker worked with Disney to create a concept that reacts to the movements of the car a passenger is riding in.",
+            "url": "https://www.bbc.co.uk/news/av/technology-46788110/audi-brings-disney-vr-to-back-seat",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9A0F/production/_105093493_p06xfxt6.jpg",
+            "publishedAt": "2019-01-08T08:52:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Protesters chant 'Soubry is a Nazi' during live BBC News interview - Guardian News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=Btt6d7ykvVg",
+            "urlToImage": null,
+            "publishedAt": "2019-01-08T08:27:21Z",
+            "content": "[[getSimpleString(data.title)]] [[getSimpleString(data.description)]] [[getSimpleString(data.videoCountText)]]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Whathifi.com"
+            },
+            "author": "https://www.facebook.com/whathifi.com",
+            "title": "Panasonic's flagship GZ2000 OLED TV features Dolby Vision and Atmos speakers - What Hi-Fi?",
+            "description": "The GZ2000 is the first TV to support HDR10+ and Dolby Vision",
+            "url": "https://www.whathifi.com/news/panasonics-flagship-gz2000-oled-tv-features-dolby-vision-and-atmos-speakers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/AXN9wA9d5FcyrkSpLjbWPX-1200-80.jpg",
+            "publishedAt": "2019-01-08T05:00:00Z",
+            "content": "Panasonic has a brand new flagship OLED TV, the GZ2000, featuring HDR10+, Dolby Vision and integrated Dolby Atmos upward-firing speakers tuned by Technics. Promising to be \"the world's most cinematic TV\", it features a currently unrivalled level of support fo\u2026 [+2174 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Ian Morris",
+            "title": "Ring's new doorbell is the perfect choice for people who want simple security - Mirror Online",
+            "description": "Ring Door View Cam offers both a high-tech and low-tech solution for home security",
+            "url": "https://www.mirror.co.uk/tech/rings-new-doorbell-perfect-choice-13826970",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13826972.ece/ALTERNATES/s1200/2_IMG_0872.jpg",
+            "publishedAt": "2019-01-08T01:48:00Z",
+            "content": "Ring, the smarthome and high tech doorbell company, has announced a brand new way to keep your home safe and secure. The Ring Door View Cam is a great solution because it is fitted to an existing peephole in a front door. Anyone with one of these can unscrew \u2026 [+2082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Harry Pettit, Senior Digital Technology and Science Reporter",
+            "title": "Apple takes HUGE dig at Google and Amazon with giant data privacy billboard at CES 2019 - The Sun",
+            "description": "Apple has stuck a cheeky billboard right outside this year's CES convention centre",
+            "url": "https://www.thesun.co.uk/tech/8139693/apple-dig-google-amazon-data-privacy-billboard-ces/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000460308524.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-01-07T17:30:00Z",
+            "content": "APPLE has taken a huge swipe at some of its biggest rivals with a cheeky billboard at the CES 2019 conference in Las Vegas. The Cupertino firm has erected an enormous banner flaunting its solid track record on data privacy just around the corner from the conv\u2026 [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Shivali Best",
+            "title": "WhatsApp is about to add THESE features - and they'll transform the way you use the app - Mirror Online",
+            "description": "The new features were spotted by WABetaInfo, and look set to be added in the next 2.19.10 iOS update",
+            "url": "https://www.mirror.co.uk/tech/whatsapp-add-features-theyll-transform-13824585",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article8642945.ece/ALTERNATES/s1200/4_Whatsapp-app-logo.jpg",
+            "publishedAt": "2019-01-07T14:39:00Z",
+            "content": "Its the go-to messaging app for many people around the world, and now WhatsApp looks set to add a host of new features. The new features were spotted by WABetaInfo, and look set to be added in the next 2.19.10 iOS update - although it's unclear when this will\u2026 [+2047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Trustedreviews.com"
+            },
+            "author": null,
+            "title": "Samsung 75-inch MicroLED first look Review - TrustedReviews",
+            "description": "Samsung's 75-inch micro LED TV looks amazing",
+            "url": "https://www.trustedreviews.com/reviews/samsung-75-inch-microled",
+            "urlToImage": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2019/01/Samsung-FL2019_JH-Han_On-the-stage3-1024x683.jpg",
+            "publishedAt": "2019-01-07T14:37:00Z",
+            "content": "Samsung 75-inch MicroLED first look: The tech looks amazing but don\u2019t expect it to come cheap The 2019 CES hasnt even started, but we already have a prime contender for the product wed love to own but wont have a hope in hell of affording award. Ladies and ge\u2026 [+5552 chars]"
+        }
+    ]
+}

@@ -10,6 +10,7 @@ newsapi-python = ""
 spacy = ""
 textacy = "*"
 cld2-cffi = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.7"

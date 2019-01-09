@@ -11,6 +11,7 @@ from API import API_KEY
 nlp = spacy.load('en_core_web_sm')
 en = textacy.load_spacy('en_core_web_sm')
 
+categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology']
 
 def get_news(API_KEY):
     """"A rudimentary way to retrieve some recent news will be improved upon, but serves purpose so far. Also dumps
@@ -26,11 +27,13 @@ def get_news(API_KEY):
     # articles = newsapi.get_everything(sources='reuters')
     # print(articles)
 
-    top_articles = newsapi.get_top_headlines(country='us')
 
-    with open('dumpfile.json', 'w') as file:
-        json.dump(top_articles, file, indent=4)
-        print('dumped')
+    for cat in categories:
+        top_articles = newsapi.get_top_headlines(country='gb', category=cat, page_size=100)
+
+        with open('dumpfile'+str(cat)+'.json', 'w') as file:
+            json.dump(top_articles, file, indent=4)
+            print('dumped')
 
 
 def do_NLP_magic(data):
@@ -47,9 +50,9 @@ def do_NLP_magic(data):
 # displacy.serve(doc, style='ent')
 
 
-def load_and_process_data():
+def load_and_process_data(cat):
     # Read the file we just created, as we are in early stages i recommend keeping this here
-    with open('dumpfile.json') as file:
+    with open('dumpfile'+str(cat)+'.json') as file:
         x = json.loads(file.read())
 
     # horrible code, but it makes clear what it does, if not, use prints ;)
@@ -57,7 +60,7 @@ def load_and_process_data():
     data = []
     for article in x['articles']:
 
-        if article['title'] is not None and (article['content'] is not None):
+        if (article['title'] is not None) and (article['content'] is not None) and (article['description'] is not None):
             """""Build a dict with non-processed and processed data (for manual checking later on)"""
             result = {'title': article['title'],
                       'description': article['description'],
@@ -106,9 +109,10 @@ def load_and_process_data():
 
 # get_news(API_KEY)   #Turn this off so you don't do API calls all the time
 
-data = load_and_process_data()
+for cat in categories:
+    data = load_and_process_data(cat)
 
+    # print(data[0])
+    # print(type(data))
 
-print(type(data))
-
-sql.dump_data(data)
+    sql.dump_data(data, cat)

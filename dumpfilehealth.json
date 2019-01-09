@@ -1,0 +1,916 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Are YOU brushing your teeth wrong? Dentists reveal four tips for better dental health - Daily Mail",
+            "description": "Clement Seeballuck and Professor Nicola Innes, paediatric dentists based at the University of Dundee, say you should not eat or drink anything except water after brushing at night.",
+            "url": "https://www.dailymail.co.uk/health/article-6572643/Are-brushing-teeth-wrong-Dentists-reveal-four-tips-better-dental-health.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/11/8306306-0-image-a-3_1547032408717.jpg",
+            "publishedAt": "2019-01-09T11:13:00Z",
+            "content": "We all know the advice for healthy teeth brush twice daily and don't eat too much sugar. So why do those of us following these instructions find we sometimes need a filling when we visit the dentist? The truth is, there's a little more to preventing tooth dec\u2026 [+6095 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Japan lifts 23-year ban on British beef imposed after BSE crisis - Financial Times",
+            "description": "Move to restart bovine imports comes as PM Shinzo Abe visits UK",
+            "url": "https://www.ft.com/content/cd8bac26-13e4-11e9-a581-4ff78404524e",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F02c083b4-13fc-11e9-a168-d45595ad076d?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-01-09T10:54:00Z",
+            "content": "Japan has lifted its ban on imports of British beef after almost quarter of a century as Prime Minister Shinzo Abe sets off to visit the UK. The ban was put in place in 1996 after the outbreak of bovine spongiform encephalopathy (BSE) in the UK. Commonly know\u2026 [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Ana Sandoiu",
+            "title": "Does this common food additive stop us exercising? - Medical News Today",
+            "description": "New research, conducted in both mice and humans, finds a strong link between the consumption of phosphate and reduced levels of physical activity.",
+            "url": "https://www.medicalnewstoday.com/articles/324131.php",
+            "urlToImage": "https://cdn1.medicalnewstoday.com/content/images/hero/324/324131/324131_1100.jpg",
+            "publishedAt": "2019-01-09T08:01:29Z",
+            "content": "A two-part study that examined both mice and humans revealed a strong link between inorganic phosphate, a food additive that is prevalent in the \"Western diet,\" and a lack of physical activity. According to the latest statistics from the United States Departm\u2026 [+3409 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "Ploy Radford",
+            "title": "How music helps connect people living with dementia | Ploy Radford - The Guardian",
+            "description": "A new campaign aims to show how listening and playing music can help patients be happier, healthier and more harmonious",
+            "url": "https://www.theguardian.com/society/2019/jan/09/music-connects-people-dementia-campaign",
+            "urlToImage": "https://i.guim.co.uk/img/media/b0c686687d25975573db0dac8aca101ad6a62f81/0_124_1600_960/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=34aceb7a9ce3edfadd0744d2bb4614d8",
+            "publishedAt": "2019-01-09T07:30:00Z",
+            "content": "W hen Eileen Pegg developed dementia in 2015, she became very anxious and easily agitated. Her carers at MHA Weston and Queensway care home in Stafford were determined to find a way to make her happier, so they decided to see if music would help. The care hom\u2026 [+6573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Matt Atherton",
+            "title": "High blood pressure - the best sandwich filling to prevent deadly hypertension symptoms - Express",
+            "description": "HIGH blood pressure risk could be lowered by making some diet or lifestyle changes. You could lower your chances of developing deadly hypertension symptoms and signs by eating more of this lunchtime sandwich filling.",
+            "url": "https://www.express.co.uk/life-style/health/1068591/high-blood-pressure-diet-hypertension-symptoms-signs-tuna",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1068591.jpg",
+            "publishedAt": "2019-01-09T04:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Thomas Moore, science correspondent",
+            "title": "World's biggest tobacco company vows to phase out cigarettes - Sky News",
+            "description": "Philip Morris International - which makes Marlboro and other leading brands - is moving into smoke-free products.",
+            "url": "https://news.sky.com/story/worlds-biggest-tobacco-company-vows-to-phase-out-cigarettes-11602153",
+            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-cigarettes-marlboro_4540898.jpg?20190108170310",
+            "publishedAt": "2019-01-09T01:48:49Z",
+            "content": "In a swish research centre on the edge of a Swiss lake, the world's biggest cigarette company is re-inventing itself. Philip Morris International - which makes Marlboro and several other leading brands - has vowed to phase out cigarettes and move into smoke-f\u2026 [+2270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kptv.com"
+            },
+            "author": "Kelsey Watts",
+            "title": "Flu-related visitor restrictions going into effect at Providence hospitals, clinics - KPTV.com",
+            "description": "PORTLAND, OR (KPTV) - Flu-related visitor restrictions will be going into effect tomorrow at all Providence hospitals and clinics across Oregon, in an effort to keep patients and visitors healthy.",
+            "url": "https://www.kptv.com/news/flu-related-visitor-restrictions-going-into-effect-at-providence-hospitals/article_e1f208de-13af-11e9-b015-07e81349ff74.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kptv.com/content/tncms/assets/v3/editorial/8/87/88744104-13b0-11e9-8145-3f69d670ed6d/5c3552cc4ed66.image.jpg?resize=1120%2C630",
+            "publishedAt": "2019-01-09T01:42:00Z",
+            "content": "PORTLAND, OR (KPTV) - Flu-related visitor restrictions will be going into effect tomorrow at all Providence hospitals and clinics across Oregon, in an effort to keep patients and visitors healthy. While its been a mild flu season so far, data from the Oregon \u2026 [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Nick McDermott, Health Editor",
+            "title": "Embarrassment about vaginal and anal cancer symptoms could KILL 6million Brits - The Sun",
+            "description": "One-in-five adults have delayed seeing their GP because they were too embarrassed to talk about symptoms affecting their privates",
+            "url": "https://www.thesun.co.uk/news/8151291/vaginal-anal-cancer-embarrassing-sympton-fears/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000399387413.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-01-09T00:12:00Z",
+            "content": "MILLIONS of people with potential cancer symptoms affecting their privates are too embarrassed to seek medical help. They are among one-in-five adults who have delayed seeing their GP despite early diagnosis being crucial in boosting cancer survival. Colon ca\u2026 [+1629 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "Denis Campbell",
+            "title": "Childhood abuse increases risk of adult suicide, finds research - The Guardian",
+            "description": "Largest study of its kind shows \u2018devastating\u2019 impact of sexual, physical and emotional abuse",
+            "url": "https://www.theguardian.com/society/2019/jan/09/childhood-abuse-increases-risk-of-adult-suicide-finds-research",
+            "urlToImage": "https://i.guim.co.uk/img/media/44e15bbdc208f5f4ba39aaf45f7470a3372801d8/0_0_5491_3295/master/5491.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=b17a32d15a5ce3d066c3f997ce35a0fd",
+            "publishedAt": "2019-01-09T00:01:40Z",
+            "content": "People who experienced sexual, physical or emotional abuse as children are two to three times more likely to kill themselves as adults, new research has found. Experts said the findings confirmed the devastating effects of child abuse on mental wellbeing, whi\u2026 [+3431 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Carillion' Midland Metropolitan hospital to be years late and \u00a3250m over budget - The Times",
+            "description": "The biggest emergencies-only hospital in Europe will take three years longer than expected to build and cost nearly twice its original budget. The Midland Metropolitan Hospital was intended to...",
+            "url": "https://www.thetimes.co.uk/article/carillion-midland-metropolitan-hospital-to-be-years-late-and-250m-over-budget-2td8kfpbt",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F69e85756-1393-11e9-8239-c0a124428b01.jpg?crop=932%2C524%2C32%2C79",
+            "publishedAt": "2019-01-09T00:01:00Z",
+            "content": "The biggest emergencies-only hospital in Europe will take three years longer than expected to build and cost nearly twice its original budget. The Midland Metropolitan Hospital was intended to treat 170,000 A&amp;E patients a year from this summer but will no\u2026 [+538 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Are you SURE you have the flu? Or is it just a common cold? - Daily Mail",
+            "description": "If you begin experiencing dizziness and chest pain it could be a sign the flu has turned into something more serious, two internists told DailyMail.com.",
+            "url": "https://www.dailymail.co.uk/health/article-6570729/Are-SURE-flu-just-common-cold.html",
+            "urlToImage": "https://i.dailymail.co.uk/i/pix/2018/01/19/17/4851DB8A00000578-0-image-a-17_1516381442064.jpg",
+            "publishedAt": "2019-01-08T21:31:00Z",
+            "content": "The common cold and flu share multiple symptoms that can make it nearly impossible to identify which one you're suffering from until it is too late. Sneezing, coughing and congestion can be either illness, but having a fever and body aches come on fast and st\u2026 [+4950 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Drug to clear 'zombie cells' from body could be first anti-ageing treatment after \u2018impressive\u2019 human trial - Telegraph.co.uk",
+            "description": "A drug to fight ageing may finally be on the horizon after the first trial in humans showed &lsquo;impressive&rsquo; results.",
+            "url": "https://www.telegraph.co.uk/science/2019/01/08/drug-clear-zombie-cells-body-could-first-anti-ageing-treatment/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/health-fitness/2018/07/09/TELEMMGLPICT000153130262-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg",
+            "publishedAt": "2019-01-08T21:00:00Z",
+            "content": "A drug to fight ageing may finally be on the horizon after the first trial in humans showed impressive results. For many years scientists have known that an accumulation of senescent cells in the body is linked to ageing symptoms such as frailty and arthritis\u2026 [+442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timminstoday.com"
+            },
+            "author": null,
+            "title": "It's Alzheimer awareness month in Timmins - TimminsToday",
+            "description": "Read the full story and comment on TimminsToday.",
+            "url": "https://www.timminstoday.com/local-news/its-alzheimer-awareness-month-in-timmins-1187198",
+            "urlToImage": "https://vmcdn.ca/f/files/timminstoday/images/city-of-timmins/2019-01-08-alzheimer-month-sup.jpg;w=630",
+            "publishedAt": "2019-01-08T19:00:00Z",
+            "content": "January has officially been proclaimed Alzheimer Awareness Month in Timmins. Timmins Mayor George Pirie was joined by Alzheimer Society Timmins-Porcupine executive director Tracy Koskamp-Bergeron as well as other employees to make the proclamation and raise a\u2026 [+677 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "'Bio-scaffold' that could speed by the healing of wounds has been created by scientists - Daily Mail",
+            "description": "In a world first, scientists at Imperial College London  have designed materials that 'talk' to the body's injured tissue to support its repair through every stage of the healing process.",
+            "url": "https://www.dailymail.co.uk/health/article-6569565/Bio-scaffold-speed-healing-wounds-created-scientists.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/16/8276216-0-image-a-44_1546966093986.jpg",
+            "publishedAt": "2019-01-08T17:00:00Z",
+            "content": "Scientists have created a 'bio-scaffold' that could speed up the healing of wounds. In a world first, the researchers designed materials that 'talk' to the body's injured tissue to support its repair through every stage of the healing process. Known as tracti\u2026 [+3381 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Fears of a new killer virus as scientists discover bats carrying a pathogen similar to Ebola - Daily Mail",
+            "description": "Researchers from Singapore's Duke-NUS Medical School have found the Mengla virus in fruit bats in the south of China and warn it could spread between species and to humans.",
+            "url": "https://www.dailymail.co.uk/health/article-6569573/Fears-new-killer-virus-scientists-discover-bats-carrying-pathogen-similar-Ebola.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/16/8275150-0-image-a-53_1546965860529.jpg",
+            "publishedAt": "2019-01-08T16:49:00Z",
+            "content": "A new virus similar to Ebola has been discovered in fruit bats in China, scientists have revealed. Experts fear the Mengla virus, named after the province where it was discovered, could have 'devastating consequences' if it was spread to people. It is part of\u2026 [+4564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchestereveningnews.co.uk"
+            },
+            "author": "Stuart Greer",
+            "title": "Woman puts erectile dysfunction cream in eye after prescription blunder and suffers chemical injuries - Manchester Evening News",
+            "description": "The patient was treated for a chemical injury at A&E in after the unfortunate error",
+            "url": "https://www.manchestereveningnews.co.uk/news/uk-news/erectile-dysfunction-cream-prescription-blunder-15646850",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article15647073.ece/ALTERNATES/s1200/0_eye-691269_1920.jpg",
+            "publishedAt": "2019-01-08T16:07:00Z",
+            "content": "A woman suffered chemical injuries after being mistakenly prescribed erectile dysfunction cream for a dry eye. The patient had to be treated at A&amp;E after receiving Vitaros cream instead of the ocular lubricant VitA-POS. She was treated with antibiotics, l\u2026 [+2327 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gazettelive.co.uk"
+            },
+            "author": "Paige Oldfield, Sophie Dishman",
+            "title": "Dog flu and canine vomiting virus cases sparks warning to Teesside pet owners - Gazette Live",
+            "description": "A warning has been issued to dog owners about the infection",
+            "url": "https://www.gazettelive.co.uk/news/teesside-news/dog-flu-canine-vomiting-virus-15644679",
+            "urlToImage": "https://i2-prod.gazettelive.co.uk/incoming/article15644884.ece/ALTERNATES/s1200/1_Generic-picture-of-a-dog.jpg",
+            "publishedAt": "2019-01-08T16:00:00Z",
+            "content": "A nasty dog virus is sweeping the country and a warning has been issued to owners on Teesside. It comes after a vet in a town in Derbyshire issued a warning to owners of pooches about the painful bacterial infection, Gastroenteritis. Gastroenteritis, which is\u2026 [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "'Virus hunters' identify common European birds as hosts of deadly Asian virus - Telegraph.co.uk",
+            "description": "Common swallows and crows in Europe have been identified as potential hosts for a virus endemic in parts of Asia which can be fatal in humans.",
+            "url": "https://www.telegraph.co.uk/news/0/virus-hunters-identify-common-european-birds-hosts-deadly-asian/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/01/08/TELEMMGLPICT000001122196-xlarge_trans_NvBQzQNjv4BqOHNs0Y5vwBZmXiYbjSVrpN_dsy-qTAFoavC3BPx0G5w.jpeg",
+            "publishedAt": "2019-01-08T15:35:00Z",
+            "content": "C ommon swallows and crows in Europe have been identified as potential hosts for a virus endemic in parts of Asia which can be fatal in humans. Researchers have identified the wildlife species around the world which are most likely to harbour a group of virus\u2026 [+897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lincolnshirelive.co.uk"
+            },
+            "author": "Matty Hewitt",
+            "title": "Warning to pet owners over Alabama Rot as four more dogs die of the deadly disease - Lincolnshire Live",
+            "description": "Here's how to keep your pet safe",
+            "url": "https://www.lincolnshirelive.co.uk/news/warning-pet-owners-over-alabama-2383613",
+            "urlToImage": "https://i2-prod.lincolnshirelive.co.uk/incoming/article2384458.ece/ALTERNATES/s1200/0_LECHO-Alabama-Rot.jpg",
+            "publishedAt": "2019-01-08T14:45:00Z",
+            "content": "Pet owners are being warned to be extra vigilant as the freezing weather that looks set to hit Lincolnshire could trigger Alabama Rot. The deadly dog disease is a flesh-eating bug that flourishes in cold weather, and with temperatures set to drop below freezi\u2026 [+3891 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theconversation.com"
+            },
+            "author": "Clement Seeballuck, Nicola Innes",
+            "title": "You're probably brushing your teeth wrong \u2013 here are four tips for better dental health - The Conversation - UK",
+            "description": "You may think you know everything about keeping your teeth healthy, but what you don't know might surprise you...",
+            "url": "http://theconversation.com/youre-probably-brushing-your-teeth-wrong-here-are-four-tips-for-better-health-103959",
+            "urlToImage": "https://images.theconversation.com/files/252862/original/file-20190108-32145-17m7v5x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2019-01-08T13:33:00Z",
+            "content": "We all know the advice for healthy teeth brush twice daily and dont eat too much sugar. So why do those of us following these instructions find we sometimes need a filling when we visit the dentist? The truth is, theres a little more to preventing tooth decay\u2026 [+5191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Multiplesclerosisnewstoday.com"
+            },
+            "author": null,
+            "title": "Immune Cells in the Gut Can Suppress Brain Inflammation in MS - Multiple Sclerosis News Today",
+            "description": "Read about a mouse study that found how a population of immune cells present in the gut can reduce neuroinflammation in multiple sclerosis patients.",
+            "url": "https://multiplesclerosisnewstoday.com/2019/01/08/immune-cells-gut-can-suppress-brain-inflammation-in-multiple-sclerosis/",
+            "urlToImage": "https://multiplesclerosisnewstoday.com/wp-content/uploads/2018/02/shutterstock_328588697.jpg",
+            "publishedAt": "2019-01-08T13:00:56Z",
+            "content": "Immune cells in the intestine may reduce neuroimflammation in multiple sclerosis (MS) patients, a pre-clinical study suggests. Moreover, the augmented number of these cells was sufficient to suppress brain inflammation in an MS mouse model. The findings were \u2026 [+5122 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Could HISTAMINE relieve dementia? Chemical boosts our long-term memories - Daily Mail",
+            "description": "A study by the University of Tokyo found that giving 38 adults a drug that boosts the level of histamine in the brain made them better able to recall objects they had seen days before.",
+            "url": "https://www.dailymail.co.uk/health/article-6568677/Could-HISTAMINE-relieve-dementia-Chemical-boosts-long-term-memories.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/12/8268016-0-image-a-26_1546951965243.jpg",
+            "publishedAt": "2019-01-08T13:00:00Z",
+            "content": "Histamine is a source of misery for millions of allergy sufferers, causing everything from itchy eyes to a runny nose every time they come across pollen or pets. But new research suggests the naturally-occurring chemical boosts our long-term memories and may \u2026 [+7859 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Panama sees rise in deadly virus - The Telegraph",
+            "description": "Visitors to the central American country of Panama are being urged to be vigilant after the country reported a big increase in the number of cases of a rare virus over the last year.",
+            "url": "https://www.telegraph.co.uk/news/0/panama-sees-rise-deadly-virus/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/01/07/TELEMMGLPICT000174208908-xlarge_trans_NvBQzQNjv4Bq-LJS7LKjeK9Zr8QxHnNHG7WmUWN4JPh7xJS2j89Q238.jpeg",
+            "publishedAt": "2019-01-08T11:28:00Z",
+            "content": "P rofessor Daniel Bausch director of the UK Public Health Rapid Support Team at the London School of Hygiene &amp; Tropical Medicine and Public Health England, and an expert in emerging infectious diseases said the increase in the number of cases was probably\u2026 [+994 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Tim Newman",
+            "title": "Bowel cancer: New biomarker may also boost treatment - Medical News Today",
+            "description": "Researchers investigating a new biomarker for colorectal cancer have also uncovered a novel intervention that might help treat a range of cancer types.",
+            "url": "https://www.medicalnewstoday.com/articles/324114.php",
+            "urlToImage": "https://cdn1.medicalnewstoday.com/content/images/hero/324/324114/324114_1100.jpg",
+            "publishedAt": "2019-01-08T11:03:29Z",
+            "content": "A recent study identifies a new biomarker for colorectal cancer. The protein in question might also lead the way to a novel treatment for colorectal and other cancers. Each year in the United States, doctors diagnose more than 140,000 cases of colorectal canc\u2026 [+3565 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Over-the-counter painkillers like aspirin and ibuprofen may make C.difficile more aggressive - Daily Mail",
+            "description": "A study by Vanderbilt University found just 20 per cent of mice treated with the non-steroidal anti-inflammatory drug indomethacin before being exposed to C.difficile survived the infection.",
+            "url": "https://www.dailymail.co.uk/health/article-6568457/Over-counter-painkillers-like-aspirin-ibuprofen-make-C-difficile-aggressive.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/10/8264288-0-image-a-10_1546945068660.jpg",
+            "publishedAt": "2019-01-08T11:00:00Z",
+            "content": "Over-the-counter painkillers like aspirin and ibuprofen may make the potentially deadly superbug C.difficile more aggressive, research suggests. Just a fifth of mice treated with the non-steroidal anti-inflammatory drug (NSAID) indomethacin survived being exp\u2026 [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "How I found unexpected joy after being diagnosed with terminal cancer - The Telegraph",
+            "description": "Yippee!",
+            "url": "https://www.telegraph.co.uk/men/thinking-man/found-unexpected-joy-diagnosed-terminal-cancer/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/men/2019/01/07/scrabble-edit-xlarge_trans_NvBQzQNjv4BqM-hTxehQNxPASQ_ZH4lNZV7Gd_mI8z41N51nkypYd2Y.jpg",
+            "publishedAt": "2019-01-08T10:38:00Z",
+            "content": "Y ippee! I know when I am going to die! Well, not exactly the oncologists recent prognosis is a year to 18 months. I have wondered for some time just how my end will come I have long dreaded having a heart attack or a stroke and now I know roughly where I am.\u2026 [+443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Karolina Kaminska",
+            "title": "Dementia: Four ways to reduce your risk of developing the brain disease - Express",
+            "description": "DEMENTIA affects around 850,000 people in the UK, with numbers set to rise. There\u2019s no direct way to prevent the brain disease from developing, but there are ways to reduce your risk.",
+            "url": "https://www.express.co.uk/life-style/health/1068802/dementia-risk-factors-causes-vascular-dementia-reduce-risk",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1068802.jpg",
+            "publishedAt": "2019-01-08T10:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Huffingtonpost.co.uk"
+            },
+            "author": "Emma Youle",
+            "title": "Government Slammed For Forcing Contaminated Blood Widow Into Financial Ruin Days After Husband\u2019s Death - HuffPost UK",
+            "description": "The plug was pulled on support payments, leaving grieving widow Su Gorman penniless.",
+            "url": "https://www.huffingtonpost.co.uk/entry/contaminated-blood-government-criticised-over-delayed-widow-payment-su-gorman-after-husbands-death_uk_5c335f6ce4b0d75a98332746",
+            "urlToImage": "https://img.huffingtonpost.com/asset/5c3392a42400003200c3374a.jpeg?cache=1GMHDlkOTm&ops=1200_630",
+            "publishedAt": "2019-01-08T09:57:00Z",
+            "content": "The government has come under fire for its treatment of widows of the NHS contaminated blood scandal as a delay in death payments has left one bereaved woman penniless and facing homelessness. Shortly before Christmas, Su Gorman held Steve Dymond\u2019s hand as hi\u2026 [+6716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Miranda Larbi, Digital Health & Fitness Reporter",
+            "title": "Fitbits can trigger \u2018dangerous weight loss and fuel eating disorders\u2019, experts warn - The Sun",
+            "description": "Fitbits do come with health warnings which include not using the device in a sauna - rather than advice about overtraining",
+            "url": "https://www.thesun.co.uk/fabulous/8144023/fitbits-weight-loss-eating-disorders-experts-warn/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000303539991.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-01-08T09:46:00Z",
+            "content": "FITBITS are being blamed for sparking dangerous weight loss in people with eating disorders, experts claim. The fitness trackers, which count steps and calorie burn, may encourage \"perfectionism\" in already vulnerable people. Fitbits may be fuelling disordere\u2026 [+5344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchestereveningnews.co.uk"
+            },
+            "author": "Erin Cardiff",
+            "title": "Sarah thought a brain tumour had stolen her chance of motherhood. Now she is expecting a miracle baby - Manchester Evening News",
+            "description": "Sarah Gaffney-Lang, 32, who had to have brain surgery whilst awake, was warned by doctors that treatment would likely leave her infertile",
+            "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/sarah-thought-brain-tumour-stolen-15644121",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article15644123.ece/ALTERNATES/s1200/1_PA-Real-Life-Sarah-Gaffney-Lang-Trekstock.jpg",
+            "publishedAt": "2019-01-08T09:27:00Z",
+            "content": "A woman who feared the tumour that saw her have brain surgery whilst awake had robbed her of her chance of motherhood is now expecting a miracle baby. Previously fit and healthy, Sarah Gaffney-Lang, 32, suddenly suffered a huge seizure in her sleep and was ho\u2026 [+7168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ladbible.com"
+            },
+            "author": "https://www.facebook.com/rebecca.shepherd.1690",
+            "title": "Teaching Assistant Proudly Poses In Underwear To Show Off Stoma Bag - LADbible",
+            "description": "Bethany Gallagher was diagnosed with Crohn's disease aged 15 - now she's created an Instagram account to promote body confidence",
+            "url": "http://www.ladbible.com/community/uk-teaching-assistant-proudly-poses-in-underwear-to-show-off-stoma-bag-20190108",
+            "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/23b5a8575c3424ce96dcd3dbe71b8e14.png",
+            "publishedAt": "2019-01-08T08:54:30Z",
+            "content": "There's a lot of negativity on social media these days (and that's putting it lightly), so we can't help but feel refreshed when people try to encourage and inspire others. Like this teaching assistant who has set up an Instagram account where she posts pictu\u2026 [+4442 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "News-medical.net"
+            },
+            "author": null,
+            "title": "Biomarkers identified that could predict the risk of stroke - News-Medical.net",
+            "description": "Researchers have successfully developed two biomarkers that could help predict the risk of a heart condition and stroke.",
+            "url": "https://www.news-medical.net/news/20190107/Biomarkers-identified-that-could-predict-the-risk-of-stroke.aspx",
+            "urlToImage": "https://www.news-medical.net/image.axd?picture=2019%2f1%2fshutterstock_1023133846.jpg",
+            "publishedAt": "2019-01-08T04:42:00Z",
+            "content": "Researchers have successfully developed two biomarkers that could help predict the risk of a heart condition and stroke. The study titled, \u201cData-driven discovery and validation of circulating blood-based biomarkers associated with prevalent atrial fibrillatio\u2026 [+3635 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "'Cheap junk food to blame' for obesity in Wales - BBC News",
+            "description": "A charity is calling on the Welsh Government to help people shop more healthily.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-46784821",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5EA5/production/_105092242_jamiecomp.png",
+            "publishedAt": "2019-01-08T04:28:58Z",
+            "content": "Image copyright Cancer Research UK Image caption Jaimie Treharne said she lost four stone in four months after changing her eating habits Cheap junk food is largely to blame for obesity in Wales, according to a charity calling on the Welsh Government to help \u2026 [+3813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sciencedaily.com"
+            },
+            "author": null,
+            "title": "Clues into early development of autism spectrum disorder: Neurons from people with autism exhibit different patterns of growth and develop at a faster rate - Science Daily",
+            "description": "Researchers compared stem cells created from individuals with autism spectrum disorder (ASD) against stem cells created from those without ASD to uncover, for the first time, measurable differences in the patterns and speed of development in the ASD-derived c\u2026",
+            "url": "https://www.sciencedaily.com/releases/2019/01/190107185800.htm",
+            "urlToImage": "/images/2019/01/190107185800_1_540x360.jpg",
+            "publishedAt": "2019-01-08T00:50:31Z",
+            "content": "Autism spectrum disorder (ASD) is a relatively common developmental disorder of communication and behavior that affects about 1 in 59 children in the US, according to the Centers for Disease Control and Prevention. Despite its prevalence, it is still unclear \u2026 [+4513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cbs19news.com"
+            },
+            "author": "News Staff",
+            "title": "CDC confirms woman's death caused by rabies from dog bite in India - CBS19 News",
+            "description": "The Centers for Disease Control and Prevention has confirmed that a Virginia woman died in 2017 of rabies, which she contracted from a dog bite in India.",
+            "url": "https://www.cbs19news.com/content/news/CDC-confirms-womans-death-caused-by-rabies-from-dog-bite-in-India-504024271.html",
+            "urlToImage": "https://media.graytvinc.com/images/CDC+Sign.jpg",
+            "publishedAt": "2019-01-08T00:32:55Z",
+            "content": "WASHINGTON (CBS19 NEWS) -- The Centers for Disease Control and Prevention has confirmed that a Virginia woman died in 2017 of rabies, which she contracted from a dog bite in India. According to a CDC report, the Virginia Department of Health was notified on M\u2026 [+2981 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kentonline.co.uk"
+            },
+            "author": "Geoffrey Bew",
+            "title": "People in Kent trying the Keto diet - Kent Online",
+            "description": "Growing numbers of people are turning to a low-carb diet that goes against traditional healthy eating advice.",
+            "url": "https://www.kentonline.co.uk/kent/news/dangerous-diet-warning-196503/",
+            "urlToImage": "https://www.kentonline.co.uk/_media/img/RI817XBK0MZF0Z54AFDM.jpg",
+            "publishedAt": "2019-01-08T00:01:00Z",
+            "content": "Growing numbers of people in Kent are embracing a diet branded \"dangerous\" by some health professionals. The Ketogenic lifestyle appears to go against all conventional advice in that it involves consuming high amounts of fat and reducing carbohydrates to as l\u2026 [+8903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Millions of patients to see doctor by Skype under NHS plan - The Times",
+            "description": "Millions of patients will use Skype for hospital appointments in a \u201cwholesale transformation of the NHS\u201d intended to reduce face-to-face consultations by a third and save billions of pounds.",
+            "url": "https://www.thetimes.co.uk/article/millions-of-patients-to-see-doctor-by-skype-under-nhs-plan-jj9fwmlk6",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F8e963e36-12c3-11e9-8239-c0a124428b01.jpg?crop=2980%2C1676%2C76%2C346",
+            "publishedAt": "2019-01-08T00:01:00Z",
+            "content": "Millions of patients will use Skype for hospital appointments in a wholesale transformation of the NHS intended to reduce face-to-face consultations by a third and save billions of pounds. Digital appointments with consultants will become the norm under a pla\u2026 [+509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Why positive thinking is the best way to get a grip - The Times",
+            "description": "The power of positive thinking has been backed up by science. The more meaningful you believe your life to be, the faster you will walk, the stronger your grip will be and the less chronic pain you...",
+            "url": "https://www.thetimes.co.uk/article/why-positive-thinking-is-the-best-way-to-get-a-grip-h97dqfhnj",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fea0ca7b4-12c3-11e9-8239-c0a124428b01.jpg?crop=2483%2C1397%2C777%2C1747",
+            "publishedAt": "2019-01-08T00:01:00Z",
+            "content": "The power of positive thinking has been backed up by science. The more meaningful you believe your life to be, the faster you will walk, the stronger your grip will be and the less chronic pain you will suffer, a study says. Researchers from University Colleg\u2026 [+455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "AI can see genetic disorders in your face - The Times",
+            "description": "Scientists have developed an artificial intelligence system that can identify rare genetic conditions from a photograph of a patient\u2019s face. The DeepGestalt system offers new hope for parents of...",
+            "url": "https://www.thetimes.co.uk/article/ai-can-see-genetic-disorders-in-your-face-nbv9nwg3l",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F445014f6-12c2-11e9-8239-c0a124428b01.jpg?crop=1600%2C900%2C0%2C0",
+            "publishedAt": "2019-01-08T00:01:00Z",
+            "content": "Scientists have developed an artificial intelligence system that can identify rare genetic conditions from a photograph of a patients face. The DeepGestalt system offers new hope for parents of children who suffer developmental delays because of genetic varia\u2026 [+552 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kidspot.com.au"
+            },
+            "author": "Claire Haiek",
+            "title": "Study reveals breastfeeding affects whether baby will be right or left handed - Kidspot",
+            "description": "While handedness is believed to be set early in fetal life and is also affected by genetics, how you feed your baby could play a role too.",
+            "url": "https://www.kidspot.com.au/baby/feeding/breastfeeding/study-finds-breastfeeding-affects-hand-preference-in-babies/news-story/1a0d0cafbcfe1023d3bcd98aae83f4cf",
+            "urlToImage": "https://cdn.newsapi.com.au/image/v1/e7a05f63365cc7f3fde7764684298f90",
+            "publishedAt": "2019-01-07T23:43:00Z",
+            "content": "While handedness is believed to be set early in fetal life and is also affected by genetics, how you feed your baby could play a role too. We've all heard of the great many benefits of breastfeeding and that's not what we're here to debate. Breastfeeding does\u2026 [+2121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sciencealert.com"
+            },
+            "author": "Carly Cassella",
+            "title": "Sperm Could Be a Bigger Factor in Miscarriages Than We've Been Led to Believe - ScienceAlert",
+            "description": "We all know it takes two to tango, but even though males contribute half the genetics of a pregnancy, they are too often left out of the picture.\u00a0This is especially true when it comes to studies on miscarriage and recurrent pregnancy loss (RPL).",
+            "url": "https://www.sciencealert.com/it-s-not-just-women-faulty-sperm-can-contribute-to-repeated-miscarriages",
+            "urlToImage": "https://www.sciencealert.com/images/2019-01/processed/MiscarriageSperm_web_1024.jpg",
+            "publishedAt": "2019-01-07T23:26:33Z",
+            "content": "We all know it takes two to tango, but even though males contribute half the genetics of a pregnancy, they are too often left out of the picture. This is especially true when it comes to studies on miscarriage and recurrent pregnancy loss (RPL). A growing bod\u2026 [+3323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popsugar.co.uk"
+            },
+            "author": "Tamara Pridgett",
+            "title": "Want to Know If You Have a Slow Metabolism? The Signs to Look For, According to an Expert - POPSUGAR United Kingdom",
+            "description": "As fitness continues to become more individualised, scientific topics such as metabolism will continue to become more mainstream. Having a better understanding",
+            "url": "https://www.popsugar.co.uk/fitness/Signs-You-Have-Slow-Metabolism-45654148",
+            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/97YiuHu2eQrEA_MLyMd8BC7CdhM/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2019/01/07/640/n/1922729/a014af9a5c336092bd6078.40872465_.jpg",
+            "publishedAt": "2019-01-07T21:55:00Z",
+            "content": "As fitness continues to become more individualised, scientific topics such as metabolism will continue to become more mainstream. Having a better understanding as to how your body functions is essential to optimising your health, but it's important to get thi\u2026 [+3093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chroniclelive.co.uk"
+            },
+            "author": "Kathryn Riddell",
+            "title": "North East news LIVE: Latest breaking news, sport, weather, traffic and travel - ChronicleLive",
+            "description": "ChronicleLive's breaking news service including Tuesday's traffic, travel, weather, sport and more covering Newcastle and the North East",
+            "url": "https://www.chroniclelive.co.uk/news/north-east-news/north-east-news-live-updates-15638606",
+            "urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article14000698.ece/ALTERNATES/s1200/SGP_NEC_061217SUN02JPG.jpg",
+            "publishedAt": "2019-01-07T21:33:00Z",
+            "content": "Warning after outbreak of deadly disease kills four rabbits Vets have issued a warning to pet owners after the outbreak of a deadly rabbit disease in County Durham. (Image: handout) Four bunnies have died in the Consett and Stanley area recently after contrac\u2026 [+2306 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Woman given erectile dysfunction cream for dry eye in prescription mix-up - The Telegraph",
+            "description": "Experts have said GPs must use block capitals when writing prescriptions after a woman was mistakenly given erectile dysfunction cream for a dry eye.",
+            "url": "https://www.telegraph.co.uk/news/2019/01/07/woman-given-erectile-dysfunction-cream-dry-eye-prescription/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/01/07/TELEMMGLPICT000173074685-xlarge_trans_NvBQzQNjv4Bq4GoSUj5tx--cOXjJHDSbw8HVFIRe1LfTRcFJro6tXCE.jpeg",
+            "publishedAt": "2019-01-07T21:30:00Z",
+            "content": "E xperts have said GPs must use block capitals when writing prescriptions after a woman was mistakenly given erectile dysfunction cream for a dry eye. The unnamed patient, from Glasgow, had to be treated in hospital after she was given the wrong medication du\u2026 [+833 chars]"
+        },
+        {
+            "source": {
+                "id": "the-guardian-au",
+                "name": "The Guardian (AU)"
+            },
+            "author": "",
+            "title": "Learning to deal with mental health issues - The Guardian",
+            "description": "Letters: Readers respond to research suggesting that the link between social media use and depressive symptoms is stronger for girls than boys",
+            "url": "https://www.theguardian.com/society/2019/jan/07/learning-to-deal-with-mental-health-issues",
+            "urlToImage": "https://i.guim.co.uk/img/media/be3a6b547d4d1139af9f4123d0d20e95d2bb2982/0_363_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=f8296c575a89841e3e3f740f3b5ff8b3",
+            "publishedAt": "2019-01-07T18:18:00Z",
+            "content": "The latest findings by University College London support our own research that found girls are significantly more likely than boys to be harassed and bullied online ( Depression in girls tied to social media use, 4 January). We found nearly half (48%) of girl\u2026 [+4732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chroniclelive.co.uk"
+            },
+            "author": "Sophie Doughty",
+            "title": "Warning after outbreak of deadly disease kills four rabbits in County Durham - Chronicle Live",
+            "description": "Four bunnies have been killed by the 'highly contagious' condition in Consett and Stanley",
+            "url": "https://www.chroniclelive.co.uk/news/north-east-news/warning-after-outbreak-deadly-disease-15642724",
+            "urlToImage": "https://i2-prod.chroniclelive.co.uk/incoming/article15642794.ece/ALTERNATES/s1200/0_sdr_070118_Louise-Allmark-and-Biscuit-2JPG.jpg",
+            "publishedAt": "2019-01-07T18:00:00Z",
+            "content": "Vets have issued a warning to pet owners after the outbreak of a deadly rabbit disease in County Durham. Four bunnies have died in the Consett and Stanley area recently after contracting what is suspected to be a strain of Rabbit Viral Haemorrhagic Disease (R\u2026 [+2279 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Trendy Fitbits can spark 'very dangerous 'weight loss in eating-disorder sufferers, expert warns - Daily Mail",
+            "description": "Tom Quinn, director of external affairs at the Norfolk-based eating-disorder charity Beat, warns the apps can 'take over' until the desire to reach a number of steps becomes an obsession.",
+            "url": "https://www.dailymail.co.uk/health/article-6565889/Trendy-Fitbits-spark-dangerous-weight-loss-eating-disorder-sufferers-expert-warns.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/17/8234908-0-image-a-4_1546883055097.jpg",
+            "publishedAt": "2019-01-07T17:18:00Z",
+            "content": "Experts have warned fitness devices like Fitbits can spark dangerous weight-loss in those with eating disorders. The wristbands - which link to apps to record the number of steps taken, calories burned and steps climbed - may encourage 'perfectionism' in alre\u2026 [+4237 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Where will the world's next Zika, West Nile or dengue come from? - Daily Mail",
+            "description": "Researchers at the University of California, Davis, have studied thousands of species of animals and birds to work out where reservoirs of contagious, mosquito-borne viruses could be.",
+            "url": "https://www.dailymail.co.uk/health/article-6565799/Where-worlds-Zika-West-Nile-dengue-come-from.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/16/8230958-0-image-a-14_1546878537564.jpg",
+            "publishedAt": "2019-01-07T17:16:00Z",
+            "content": "The countries most likely to be responsible an outbreak of a contagious killer virus such as Zika or dengue have been revealed by scientists. Researchers have created heat maps to show viral hot-spots around the world, by working out which animals are most li\u2026 [+6848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Popsugar.com"
+            },
+            "author": "Jenny Sugar",
+            "title": "Experts Agree Walking Can Help You Lose Weight \u2014 Here's How Many Calories You'll Burn - POPSUGAR",
+            "description": "While doing some HIIT workouts or strength training are proven to help you lean out, walking can absolutely help you drop pounds. What's great about walking is",
+            "url": "https://www.popsugar.com/fitness/How-Many-Calories-I-Burn-Walking-45563179",
+            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/V-2qB1TJh3Gs79OHXawfwDK4RaU/fit-in/1200x630/filters:format_auto-!!-:strip_icc-!!-:fill-!white!-/2019/01/07/661/n/1922729/925d94a75c3367a9e56f99.49753220_.jpg",
+            "publishedAt": "2019-01-07T17:00:05Z",
+            "content": "While doing some HIIT workouts or strength training are proven to help you lean out, walking can absolutely help you drop pounds. What's great about walking is it's easy on the joints so it's something most people can do, it's free, and you don't have to get \u2026 [+1619 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Exercise hormone may delay dementia onset, say scientists - The Times",
+            "description": "A hormone produced by exercise may slow the progress of Alzheimer\u2019s disease and delay the onset of dementia, research suggests. Previous studies have hinted that physical exercise may benefit...",
+            "url": "https://www.thetimes.co.uk/article/exercise-hormone-may-delay-dementia-onset-say-scientists-l2k6mdzr7",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F997a4338-1287-11e9-94cd-1357d20693b3.jpg?crop=8256%2C4644%2C0%2C430",
+            "publishedAt": "2019-01-07T17:00:00Z",
+            "content": "A hormone produced by exercise may slow the progress of Alzheimers disease and delay the onset of dementia, research suggests. Previous studies have hinted that physical exercise may benefit people with neurodegenerative disorders such as Alzheimers. New rese\u2026 [+525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Echo-news.co.uk"
+            },
+            "author": "Matthew Critchell",
+            "title": "Family's bid to give Vince a fighting chance as NHS cancer treatment ends - Echo",
+            "description": "A WOMAN is raising money to support her cancer-battling cousin who beat the disease, only for it to return and spread.",
+            "url": "https://www.echo-news.co.uk/news/17340301.familys-bid-to-give-vince-a-fighting-chance-as-nhs-cancer-treatment-ends/",
+            "urlToImage": "https://www.echo-news.co.uk/resources/images/9258770/",
+            "publishedAt": "2019-01-07T17:00:00Z",
+            "content": "A WOMAN is raising money to support her cancer-battling cousin who beat the disease, only for it to return and spread. Vince Holland, 49, from Leigh, was diagnosed with stomach cancer last June. But after a successful operation, he was given the all-clear in \u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Abigail O'Leary",
+            "title": "'Exercise pill' mimicking effect of gym workout 'could prevent Alzheimer's disease' - Mirror Online",
+            "description": "A team of researchers found a brain boosting hormone called irisin released by muscles during physical activity is reduced in patients with the neurological condition",
+            "url": "https://www.mirror.co.uk/news/uk-news/exercise-pill-mimicking-effect-gym-13825095",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article12945782.ece/ALTERNATES/s1200/0_Mature-woman-sitting-alone-in-her-living-room.jpg",
+            "publishedAt": "2019-01-07T16:45:00Z",
+            "content": "An 'exercise pill' mimicking the effects of a gym workout could prevent Alzheimer's disease, according to an international study. A team of researchers found a brain boosting hormone called irisin released by muscles during physical activity is reduced in pat\u2026 [+4503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Matt Atherton",
+            "title": "Eczema - the BEST time of day to moisturise to get rid of dry and itchy skin at home - Express",
+            "description": "ECZEMA could be treated with creams, ointments and moisturisers. But how can you get rid of the dry skin condition at home? This is the best time of day to moisturise to relieve the itchy and sore signs of eczema.",
+            "url": "https://www.express.co.uk/life-style/health/1068497/eczema-treatment-moisturiser-dry-itchy-skin-cream",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1068497.jpg",
+            "publishedAt": "2019-01-07T16:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Miriam Stoppard",
+            "title": "Dr Miriam Stoppard: Even a cuppa can be bad for unborn baby - Mirror Online",
+            "description": "For every additional 100mg of caffeine a day \u2013 around half a cup of coffee \u2013 during the first trimester, birth weight can be lowered by up 2.5 ounces",
+            "url": "https://www.mirror.co.uk/lifestyle/health/dr-miriam-stoppard-even-cuppa-13824852",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13824726.ece/ALTERNATES/s1200/0_Close-up-of-woman-drinking-hot-beverage-from-a-cup.jpg",
+            "publishedAt": "2019-01-07T16:29:00Z",
+            "content": "Oh dear, it seems more and more food and drink carries hazards for mums-to-be. Now pregnant mums cant even enjoy a cup of tea. A new study from the University College Dublin says even women who drink less than the safe cut-off amount of two mugs of instant co\u2026 [+2357 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Being bullied at school SHRINKS the brain leading to a higher risk of mental health problems - Daily Mail",
+            "description": "Study of over 600 youngsters by Kings College London found those that were bullied had smaller brains which could alter learning, emotional processing and motivation, experts said.",
+            "url": "https://www.dailymail.co.uk/health/article-6565619/Being-bullied-school-SHRINKS-brain-leading-higher-risk-mental-health-problems.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/15/8227238-0-image-a-12_1546873808781.jpg",
+            "publishedAt": "2019-01-07T16:28:00Z",
+            "content": "Being bullied could shrink the brain and lead to heightened risk of anxiety, a study has found. Scientists claim it is the first time they have found changes in the size of the brain of victims of chronic bullying, compared to those who were not bullied. Thes\u2026 [+3779 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailyrecord.co.uk"
+            },
+            "author": "Barnaby Kellaway, Cheryl McEvoy",
+            "title": "Healthy boy, 10, dies in hospital after kidney stones op goes tragically wrong - Daily Record",
+            "description": "Luke Glendenning suffered fatal complications in what should have been a routine procedure.",
+            "url": "https://www.dailyrecord.co.uk/news/uk-world-news/healthy-10-year-old-dies-13825061",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article13825066.ece/ALTERNATES/s1200/0_JS172162058.jpg",
+            "publishedAt": "2019-01-07T16:28:00Z",
+            "content": "A \"fit and able\" 10-year-old boy admitted to hospital with kidney stones tragically died 72 hours after a routine operation to remove them. Luke Glendenning was \"perfectly healthy\" when he went in for surgery but fatal complications meant he died just days la\u2026 [+4158 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Man sues after false cancer diagnosis led him to have his prostate REMOVED - Daily Mail",
+            "description": "Rickie Lee Huitt, 67, has filed a lawsuit against the Iowa Clinic and Dr Joy Trueblood saying the urinary incontinence and erectile dysfunction side effects strained his relationship with his wife.",
+            "url": "https://www.dailymail.co.uk/health/article-6565381/Man-sues-false-cancer-diagnosis-led-prostate-REMOVED.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/15/8228446-0-image-a-9_1546876432597.jpg",
+            "publishedAt": "2019-01-07T16:22:00Z",
+            "content": "Pathologist Dr Joy Trueblood (pictured) mixed up Rickie Lee Huitt's prostate biopsy results with those of another patient in January 2017, leading to a prostate cancer diagnosis An Iowa man says he underwent surgery to have his prostate removed to treat cance\u2026 [+3953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netdoctor.co.uk"
+            },
+            "author": "Jenny Cook",
+            "title": "Norovirus: symptoms and treatment - Netdoctor",
+            "description": "What exactly is the winter vomiting bug and what symptoms should you watch out for?",
+            "url": "https://www.netdoctor.co.uk/conditions/infections/a27365/what-to-do-norovirus/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/norovirus-1546872469.jpg?crop=1.00xw:0.670xh;0,0.178xh&resize=1200:*",
+            "publishedAt": "2019-01-07T15:25:00Z",
+            "content": "The Norovirus, also known as the winter vomiting bug, is one of the most common stomach bugs in the UK, affecting up to one million people each year. Typical symptoms include a sudden feeling of sickness followed by projectile vomiting and severe diarrhoea, o\u2026 [+4791 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Autism could be diagnosed with a hearing test at birth, study says - Daily Mail",
+            "description": "The technique by Lake Erie College of Osteopathic Medicine in Pennsylvania measures pressure changes in the middle ear in response to sounds.",
+            "url": "https://www.dailymail.co.uk/health/article-6565503/Autism-diagnosed-hearing-test-birth-study-says.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/14/8228198-0-image-a-4_1546872740711.jpg",
+            "publishedAt": "2019-01-07T15:00:00Z",
+            "content": "Children with autism could be diagnosed at birth with a simple hearing test, according to new research. It would enable treatments to begin years before symptoms develop - when they are more likely to work. The technique measures pressure changes in the middl\u2026 [+5241 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sophia Mitrokostas, INSIDER",
+            "title": "13 surprising things that may increase your cancer risk - Business Insider",
+            "description": "Not all cancer-causing habits are obvious. Here are a few little things you\u2019re doing that might actually be raising your cancer risk.",
+            "url": "https://www.businessinsider.com/things-that-increase-your-cancer-risk-2019-1",
+            "urlToImage": "https://amp.businessinsider.com/images/5c336873bde70f6f9f585839-2732-1366.jpg",
+            "publishedAt": "2019-01-07T14:56:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Sophie Evans, Richard Mills",
+            "title": "Cancer patient who set up antique shop as dying wish still alive and trading 20 YEARS on - Mirror Online",
+            "description": "David Rolfe, 65, says he has lived \"20 years longer\" than he thought he would - but he will be sadly shutting his shop later this month",
+            "url": "https://www.mirror.co.uk/news/uk-news/cancer-patient-who-set-up-13824315",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13824595.ece/ALTERNATES/s1200/3_BEN-RQ-RIP-Antique-shop-owner-who-started-business-as-dying-wish-after-cancer-diagnosis-says-he-ha.jpg",
+            "publishedAt": "2019-01-07T14:39:00Z",
+            "content": "A cancer patient who fulfilled his dying wish by setting up his own antique shop is still alive and trading more than two decades on. David Rolfe, 65, says he has lived \"for about 20 years longer\" than he thought he would following his devastating cancer diag\u2026 [+6017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Getthegloss.com"
+            },
+            "author": "Get The Gloss",
+            "title": "Time Restricted Eating: why when you eat matters - Get The Gloss",
+            "description": "TRE, or time restricted eating, is fast becoming a diet buzzword for 2019. Here\u2019s why some experts reckon that eating within a specific window has benefits for",
+            "url": "https://www.getthegloss.com/news/time-restricted-eating-why-when-you-eat-matters",
+            "urlToImage": "https://www.getthegloss.com/media/image/time-restricted-eating.jpg",
+            "publishedAt": "2019-01-07T14:14:51Z",
+            "content": "TRE, or time restricted eating, is fast becoming a diet buzzword for 2019. Heres why some experts reckon that eating within a specific window has benefits for everything from weight loss to dental health Dr Michael Mosley has been at the forefront of the succ\u2026 [+5688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Physicsworld.com"
+            },
+            "author": null,
+            "title": "Clinical trial to develop breath test for multiple cancers - physicsworld.com",
+            "description": "Examining exhaled breath for multiple cancer biomarkers could pave the way for a universal breath test",
+            "url": "https://physicsworld.com/a/clinical-trial-to-develop-breath-test-for-multiple-cancers/",
+            "urlToImage": "https://physicsworld.com/wp-content/uploads/2019/01/breath-test.jpg",
+            "publishedAt": "2019-01-07T13:58:46Z",
+            "content": "Breath Biopsy technology is the first to test across multiple cancer types. (Courtesy: Owlstone Medical Ltd) Breath tests offer the potential for non-invasive detection of cancer at an early stage, when treatment is more likely to be effective. UK researchers\u2026 [+3449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Katrina Turrill",
+            "title": "How to get rid of visceral fat: Five foods to avoid to cut down on the harmful belly fat - Express",
+            "description": "HOW TO get rid of visceral fat: This type of body fat is deemed the most dangerous because of where it\u2019s stored in the body. But what can you do to get rid of it? Simple changes to your diet can lead to a fast and effective result - in particular avoiding fiv\u2026",
+            "url": "https://www.express.co.uk/life-style/health/1068406/how-to-get-rid-of-visceral-fat-diet-foods-to-avoid-rice-bread-pasta-potatoes-cereal",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1068406.jpg",
+            "publishedAt": "2019-01-07T13:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Diabetes.co.uk"
+            },
+            "author": null,
+            "title": "Low Carb Program app approved by NHS Digital - Diabetes.co.uk",
+            "description": "Diabetes Digital Media's Low Carb Program app has been accepted into the NHS apps library. The decision is part of health secretary Matt Hancock's pledge to embrace technology as part of a wider effort to tackle high diabetes rates, as well as related conditi\u2026",
+            "url": "https://www.diabetes.co.uk/news/2019/jan/low-carb-program-app-approved-by-nhs-digital-92320989.html",
+            "urlToImage": "http://www.diabetes.co.uk/news/images/92320989-full.jpg",
+            "publishedAt": "2019-01-07T13:10:20Z",
+            "content": "Diabetes Digital Media's Low Carb Program app has been accepted into the NHS apps library. The decision is part of health secretary Matt Hancock's pledge to embrace technology as part of a wider effort to tackle high diabetes rates, as well as related conditi\u2026 [+2006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailyrecord.co.uk"
+            },
+            "author": "Stuart Macdonald",
+            "title": "Erectile dysfunction cream used to treat Glasgow woman's sore eye in prescription mix-up - Daily Record",
+            "description": "The lady ended up needing hospital treatment after she was given the wrong medication in error.",
+            "url": "https://www.dailyrecord.co.uk/news/scottish-news/erectile-dysfunction-cream-used-treat-13823987",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article13824072.ece/ALTERNATES/s1200/1_JS98328509.jpg",
+            "publishedAt": "2019-01-07T12:31:00Z",
+            "content": "A woman had to be treated in hospital after she was mistakenly given erectile dysfunction cream for a dry eye. The female patient from Glasgow was given the wrong medication to treat her condition following a mix-up with her prescription. She suffered discomf\u2026 [+2178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cosmopolitan.com"
+            },
+            "author": "Catriona Harvey-Jenner",
+            "title": "Intermittent fasting: 5 mistakes everyone makes - cosmopolitan.com (UK)",
+            "description": "Your fasting plan can be healthy - but only if you do it right.",
+            "url": "https://www.cosmopolitan.com/uk/body/diet-nutrition/a25289769/intermittent-fasting-fat-loss/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/intermittent-fasting-1542986489.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+            "publishedAt": "2019-01-07T12:30:00Z",
+            "content": "For many people, the start of their health and fitness 'journey' (for want of a less philosophical-sounding phrase) is fat loss. It might not be much fat you want to shift before you get started on strengthening and toning, or that might be the majority of yo\u2026 [+5457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Karolina Kaminska",
+            "title": "Vitamin B12 deficiency: The best foods containing vitamin B12 to add to your diet - Express",
+            "description": "VITAMIN B12 deficiency can sometimes be caused by not including enough vitamin B12 in your diet. If you are experiencing symptoms of a deficiency, eat more of these B12-rich foods.",
+            "url": "https://www.express.co.uk/life-style/health/1068365/vitamin-B12-deficiency-foods-diet-symptoms",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/11/750x445/1068365.jpg",
+            "publishedAt": "2019-01-07T12:24:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "A&E patients to wait longer under new plan, says NHS chief - The Times",
+            "description": "Doctors have warned the head of the NHS not to make patients wait longer by quietly ditching key targets. A ten-year plan for the NHS did not commit it to meeting its main targets on A&E and...",
+            "url": "https://www.thetimes.co.uk/edition/news/a-e-patients-to-wait-longer-under-new-plan-says-nhschief-2kbcmjkbh",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7484d7c2-126a-11e9-94cd-1357d20693b3.jpg?crop=3409%2C1917%2C36%2C45",
+            "publishedAt": "2019-01-07T12:00:00Z",
+            "content": "Doctors have warned the head of the NHS not to make patients wait longer by quietly ditching key targets. A ten-year plan for the NHS did not commit it to meeting its main targets on A&amp;E and routine surgery, which Theresa May suggested were likely to be c\u2026 [+446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nottinghampost.com"
+            },
+            "author": "Paige Oldfield",
+            "title": "Vets warning over dog infection that's hit East Midlands - Nottinghamshire Live",
+            "description": "He's treating five dogs a week",
+            "url": "https://www.nottinghampost.com/news/uk-world-news/vets-warning-over-painful-dog-2400370",
+            "urlToImage": "https://i2-prod.leicestermercury.co.uk/incoming/article1992992.ece/ALTERNATES/s1200/0_GettyImages-838257314.jpg",
+            "publishedAt": "2019-01-07T07:18:00Z",
+            "content": "A vet has issued a warning after a painful dog virus arrived in the East Midlands. Dr John Rosie says he has seen a spike in cases of gastroenteritis in dogs in the last fortnight. The infection often involves abdominal discomfort, pain, diarrhoea and vomitin\u2026 [+901 chars]"
+        }
+    ]
+}
