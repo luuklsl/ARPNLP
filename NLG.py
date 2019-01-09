@@ -155,7 +155,7 @@ def sentence_generation(sentence):
         print("len split", len(split))
         if len(split) > 1 and len(split[1]) > 14:
             sentence = str(split[1])
-            if 'said' in split[1] or 'mentioned' in split[1] or 'reports' in split[1] or 'claimed'in split[1] or 'found' in split[1]:
+            if 'said' in split[1] or 'mentioned' in split[1] or 'reports' in split[1] or 'claimed'in split[1] or 'found' in split[1] or 'but' in split[1]:
                 #print("yes!")
                 #sentence = str(split[0])
                 sentence = 'pech'
