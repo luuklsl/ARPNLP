@@ -153,9 +153,9 @@ def sentence_generation(sentence):
         split = sentence.split(',')
         split = split[:-1]
         print("len split", len(split))
-        if len(split) > 1 and len(split[1]) > 14:
+        if len(split) > 1 and len(split) < 3 and len(split[1]) > 14:
             sentence = str(split[1])
-            if 'said' in split[1] or 'mentioned' in split[1] or 'reports' in split[1] or 'claimed'in split[1] or 'found' in split[1] or 'but' in split[1]:
+            if 'said' in split[1] or 'mentioned' in split[1] or 'reports' in split[1] or 'claimed'in split[1] or 'found' in split[1] or 'but' in split[1] or 'say' in split[1]:
                 #print("yes!")
                 #sentence = str(split[0])
                 sentence = 'pech'
@@ -175,7 +175,7 @@ def creating_sentence_lists():
         generated = sentence_generation(sentence)
         if generated is not 'pech':
             if category == 'business':
-                generated = "Business is very busy. I heard that " + generated + ". Do you like this or not?"
+                generated = "Business is an interesting field. I heard that " + generated + ". Do you like this or not?"
                 sentences_business.append(generated)
             if category == 'entertainment':
                # generated = sentence_generation(sentence)
@@ -195,7 +195,7 @@ def creating_sentence_lists():
                 sentences_science.append(generated)
             if category == 'sports':
                # generated = sentence_generation(sentence)
-                generated = "Did you know about the sport scene that " + generated +" ?. What do you think of this?"
+                generated = "Did you know about the sport scene that " + generated +" ? What do you think of this?"
                 sentences_sports.append(generated)
             if category == 'technology':
                # generated = sentence_generation(sentence)
