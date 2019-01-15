@@ -177,37 +177,37 @@ def creating_sentence_lists():
         if generated is not 'pech':
             if category == 'business':
                 generated = "Business is an interesting field. I heard that " + generated + ". Do you like this or not?"
-                generated = json.dumps(generated)
+
                 sentences_business.append(generated)
             if category == 'entertainment':
                # generated = sentence_generation(sentence)
                 generated = "A lot happens in the entertainment scene. Today I heard that " + generated + ". What do you think of this?"
-                generated = json.dumps(generated)
+
                 sentences_entertainment.append(generated)
             if category == 'general':
                 #generated = sentence_generation(sentence)
                 generated = generated + ". What do you think of this?"
-                generated = json.dumps(generated)
+                #generated = json.dumps(generated)
                 sentences_general.append(generated)
             if category == 'health':
                # generated = sentence_generation(sentence)
                 generated = "Staying healthy is important. Someone told me that " + generated + ". Do you like this?"
-                generated = json.dumps(generated)
+ 
                 sentences_health.append(generated)
             if category == 'science':
                # generated = sentence_generation(sentence)
                 generated = "We all love science. I heard that " + generated + ". Did you hear about this already?"
-                generated = json.dumps(generated)
+
                 sentences_science.append(generated)
             if category == 'sports':
                # generated = sentence_generation(sentence)
                 generated = "Did you know about the sport scene that " + generated +"? What do you think of this?"
-                generated = json.dumps(generated)
+
                 sentences_sports.append(generated)
             if category == 'technology':
                # generated = sentence_generation(sentence)
                 generated = 'Something happened in the technology world, namely ' + generated + ". Do you think this is great or not?"
-                generated = json.dumps(generated)
+
                 sentences_tech.append(generated)
 
 
@@ -216,7 +216,20 @@ def creating_sentence_lists():
 
 #Deze aanroepen :)
 sentences_business, sentences_entertainment, sentences_general, sentences_health, sentences_science, sentences_sports, sentences_tech = creating_sentence_lists()
-
+with open('bsentences.json','w') as outfile:
+    json.dump(sentences_business, outfile)
+with open('esentences.json','w') as outfile:
+    json.dump(sentences_entertainment, outfile)
+with open('gsentences.json','w') as outfile:
+    json.dump(sentences_general, outfile)
+with open('hsentences.json','w') as outfile:
+    json.dump(sentences_health, outfile)
+with open('scsentences.json','w') as outfile:
+    json.dump(sentences_science, outfile)
+with open('spsentences.json','w') as outfile:
+    json.dump(sentences_sports, outfile)
+with open('tsentences.json','w') as outfile:
+    json.dump(sentences_tech, outfile)
 print("sentences_business", sentences_business)
 print("sentences_entertainment", sentences_entertainment)
 print("sentences_general", sentences_general)
