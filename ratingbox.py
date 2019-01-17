@@ -31,7 +31,7 @@ def wfr(): #wait for rating
     global r
     r = None
     while r is None:
-        if GPIO.event_detected(10):
+        if GPIO.event_detected(8):
             GPIO.remove_event_detect(10)
             GPIO.remove_event_detect(12)
             GPIO.remove_event_detect(16)
@@ -39,7 +39,7 @@ def wfr(): #wait for rating
             GPIO.remove_event_detect(11)
             GPIO.remove_event_detect(8)
             time.sleep(0.2)
-            r = -1
+            r=100
         elif GPIO.event_detected(12):
             GPIO.remove_event_detect(10)
             GPIO.remove_event_detect(12)
@@ -48,7 +48,7 @@ def wfr(): #wait for rating
             GPIO.remove_event_detect(11)
             GPIO.remove_event_detect(8)
             time.sleep(0.2)
-            r = -0.5
+            r = 0.5
             #GPIO.remove_event_detect(12)
         elif GPIO.event_detected(16):
             GPIO.remove_event_detect(10)
@@ -68,7 +68,7 @@ def wfr(): #wait for rating
             GPIO.remove_event_detect(11)
             GPIO.remove_event_detect(8)
             time.sleep(0.2)
-            r = 0.5
+            r = -1
             #GPIO.remove_event_detect(15)
         elif GPIO.event_detected(11):
             GPIO.remove_event_detect(10)
@@ -78,56 +78,61 @@ def wfr(): #wait for rating
             GPIO.remove_event_detect(11)
             GPIO.remove_event_detect(8)
             time.sleep(0.2)
-            r = 1
+            r = -0.5
             #GPIO.remove_event_detect(11)
-        #elif GPIO.event_detected(8):    #3 seconden vasthouden
-        #    time.sleep(2)
-         #   if GPIO.event_detected(8):
-         #       quit()
-    print (r)
+        elif GPIO.event_detected(10):
+            GPIO.remove_event_detect(10)
+            GPIO.remove_event_detect(12)
+            GPIO.remove_event_detect(16)
+            GPIO.remove_event_detect(15)
+            GPIO.remove_event_detect(11)
+            GPIO.remove_event_detect(8)
+            time.sleep(0.2)
+            r = 1
+            
 
-    q[max(q.items(), key=operator.itemgetter(1))[0]]=(1-alpha)*q[max(q.items(), key=operator.itemgetter(1))[0]]+ alpha * r
-
-
-    print ("ik zou klaar moeten zijn")
-    saveqtable(q)
 
 
 q = opentable()
-
+os.system('flite -voice /home/pi/Downloads/cmu_us_rms.flitevox -t "let me tell you something. i came here to read some sentences and have bugs, and i am all out of bugs!"')
 run = 1
 while run == 1:
 
 
-    GPIO.setwarnings(False) # Ignore warning for now
-    GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
-    GPIO.setup(8, GPIO.IN, pull_up_down=GPIO.PUD_DOWN) # Set pin 10 to be an input pin and set initial value to be pulled low (off)
-    GPIO.setup(10, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-    GPIO.setup(12, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-    GPIO.setup(16, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-    GPIO.setup(15, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
-    GPIO.setup(11, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+	GPIO.setwarnings(False) # Ignore warning for now
+	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
+	GPIO.setup(8, GPIO.IN, pull_up_down=GPIO.PUD_DOWN) # Set pin 10 to be an input pin and set initial value to be pulled low (off)
+	GPIO.setup(10, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+	GPIO.setup(12, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+	GPIO.setup(16, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+	GPIO.setup(15, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
+	GPIO.setup(11, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)
 
 
 
-    print("push the button!")
+	print("push the button!")
 
-    channel = GPIO.wait_for_edge(8, GPIO.RISING, timeout=5000)
-    if channel is None:
-        print('Timeout occurred')
-    else:
-        print('Edge detected on channel', channel)
-        print(max(q.items(), key=operator.itemgetter(1))[0],max(q.items(), key=operator.itemgetter(1))[1])
-        senfilname = max(q.items(), key=operator.itemgetter(1))[0]
-        print (senfilname)
-        with open('%s'  %senfilname,'r') as zin:
-            vragen = json.load(zin)
-        secure_random = random.SystemRandom()
-        vraag = secure_random.choice(vragen)
-        print(vraag)
-        os.system('flite -voice /home/pi/Downloads/cmu_us_rms.flitevox -t "%s"'  %vraag)
-        print("how do you like this subject?")
-        wfr()
+	channel = GPIO.wait_for_edge(8, GPIO.RISING, timeout=5000)
+	if channel is None:
+		print('Timeout occurred')
+	else:
+		print('Edge detected on channel', channel)
+		print(max(q.items(), key=operator.itemgetter(1))[0],max(q.items(), key=operator.itemgetter(1))[1])
+		senfilname = max(q.items(), key=operator.itemgetter(1))[0]
+		print (senfilname)
+		with open('%s'  %senfilname,'r') as zin:
+			vragen = json.load(zin)
+		secure_random = random.SystemRandom()
+		vraag = secure_random.choice(vragen)
+		print(vraag)
+		os.system('flite -voice /home/pi/Downloads/cmu_us_rms.flitevox -t "%s"'  %vraag)
+		print("how do you like this subject?")
+		wfr()
+		if r < 2 and r > -2:
+			print(r)
+			q[max(q.items(), key=operator.itemgetter(1))[0]]=(1-alpha)*q[max(q.items(), key=operator.itemgetter(1))[0]]+ alpha * r
+			print ("ik zou klaar moeten zijn")
+			saveqtable(q)
 
 
 
