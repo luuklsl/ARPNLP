@@ -111,6 +111,7 @@ def transform_to_past(tag):
 con = sqlite3.connect('storage.db')
 
 result = con.execute('SELECT title, category FROM DATA').fetchall()
+con.close()
 
 print("result", result)
 
