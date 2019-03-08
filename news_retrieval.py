@@ -1,4 +1,5 @@
 import json
+import re
 
 from newsapi import NewsApiClient
 import spacy
@@ -12,6 +13,7 @@ nlp = spacy.load('en_core_web_sm')
 en = textacy.load_spacy('en_core_web_sm')
 
 categories = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology']
+
 
 def get_news(API_KEY):
     """"A rudimentary way to retrieve some recent news will be improved upon, but serves purpose so far. Also dumps
@@ -27,11 +29,10 @@ def get_news(API_KEY):
     # articles = newsapi.get_everything(sources='reuters')
     # print(articles)
 
-
     for cat in categories:
         top_articles = newsapi.get_top_headlines(country='gb', category=cat, page_size=100)
 
-        with open('dumpfile'+str(cat)+'.json', 'w') as file:
+        with open('dumpfile' + str(cat) + '.json', 'w') as file:
             json.dump(top_articles, file, indent=4)
             print('dumped')
 
@@ -46,13 +47,14 @@ def do_NLP_magic(data):
     for ent in doc.ents:
         print(ent.text, ent.start_char, ent.end_char, ent.label_)
 
+
 # Render results to text displayer, go to http://127.0.0.1:5000/ to view the results of this
 # displacy.serve(doc, style='ent')
 
 
 def load_and_process_data(cat):
     # Read the file we just created, as we are in early stages i recommend keeping this here
-    with open('dumpfile'+str(cat)+'.json') as file:
+    with open('dumpfile' + str(cat) + '.json') as file:
         x = json.loads(file.read())
 
     # horrible code, but it makes clear what it does, if not, use prints ;)
@@ -62,6 +64,7 @@ def load_and_process_data(cat):
 
         if (article['title'] is not None) and (article['content'] is not None) and (article['description'] is not None):
             """""Build a dict with non-processed and processed data (for manual checking later on)"""
+
             result = {'title': article['title'],
                       'description': article['description'],
                       'content': article['content'],
@@ -77,6 +80,8 @@ def load_and_process_data(cat):
         data_store = dict(entry)
         for key_val in entry.keys():
             # print(key_val)
+            if key_val == 'title':
+                entry[key_val] = re.sub(r'( - [a-zA-Z ]+$)', '', entry[key_val])
             entities, tokens, dependencies = str(), str(), str()
 
             doc = nlp(entry[key_val])
