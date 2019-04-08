@@ -1,19 +1,19 @@
 {
     "status": "ok",
-    "totalResults": 34,
+    "totalResults": 20,
     "articles": [
         {
             "source": {
-                "id": "next-big-future",
-                "name": "Next Big Future"
+                "id": null,
+                "name": "Sciencenews.org"
             },
-            "author": "Brian Wang",
-            "title": "SpaceX StarHopper is in One Piece and Could Fly in 4 Weeks - Next Big Future",
-            "description": "The SpaceX StarHopper is in one piece. SpaceX is targeting a first flight in four weeks if everything goes rig",
-            "url": "https://www.nextbigfuture.com/2019/01/spacex-starhopper-is-in-one-piece-and-could-fly-in-4-weeks.html",
-            "urlToImage": "https://mk0nextbigfuturj5ioe.kinstacdn.com/wp-content/uploads/2019/01/Screen-Shot-2019-01-08-at-10.02.59-PM.png",
-            "publishedAt": "2019-01-09T06:08:56Z",
-            "content": "The SpaceX StarHopper is in one piece. SpaceX is targeting a first flight in four weeks if everything goes right. SpaceX has put this together with astonishing speed. The StarHopper will test technology that will be built into the second stage Starship. The S\u2026 [+4205 chars]"
+            "author": "Maria Temming",
+            "title": "How deadly pyroclastic flows cheat friction - Science News",
+            "description": "Mixtures of hot volcanic rock and gas called pyroclastic flows travel so far by gliding on air, a new study suggests.",
+            "url": "https://www.sciencenews.org/article/how-deadly-fast-moving-flows-volcanic-rock-and-gas-cheat-friction",
+            "urlToImage": "https://www.sciencenews.org/sites/default/files/2019/04/main/articles/040519_mt_pyroclastic-flow_feat.jpg",
+            "publishedAt": "2019-04-08T15:00:05Z",
+            "content": "Dumping literal tons of hot volcanic material down a lab flume may finally have revealed how searing mixtures of hot gas and rock travel so far from volcanic eruptions. These pyroclastic flows can travel tens to hundreds of kilometers over rough terrain and e\u2026 [+2393 chars]"
         },
         {
             "source": {
@@ -21,272 +21,103 @@
                 "name": "Daily Mail"
             },
             "author": "https://www.facebook.com/DailyMail",
-            "title": "Tiny 33-gram finch found in the Galapagos Islands packs a bite 320 times more powerful than a T-REX - Daily Mail",
-            "description": "Galapagos large ground finch is only six inches long - about the size of T-Rex's tooth. But\u00a0pound for pound, its bite has been found to be 320 times stronger.",
-            "url": "https://www.dailymail.co.uk/news/article-6571471/Tiny-33-gram-finch-Galapagos-Islands-packs-bite-320-times-powerful-T-REX.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/01/8293094-0-image-a-65_1546997480080.jpg",
-            "publishedAt": "2019-01-09T01:32:00Z",
-            "content": "A tiny finch weighing scarcely an ounce has jaws more powerful for its size than a mighty T-Rex dinosaur, research has revealed. At six inches long, the Galapagos large ground finch is about the size of a T-Rex tooth. But pound for pound, its bite is 320 time\u2026 [+716 chars]"
+            "title": "First-ever direct image of a black hole's dusty ring around a black hole is taken - Daily Mail",
+            "description": "The VLA telescope in New Mexico captured evidence and the world's first imagery of a dusty ring - a torus - around a large and very bright black hole spewing out radio waves.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-6899045/First-direct-image-black-holes-dusty-ring-black-hole-taken.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/14/12007832-0-image-a-18_1554731152749.jpg",
+            "publishedAt": "2019-04-08T13:49:14Z",
+            "content": "Astronomers have taken the first-ever direct image of a dusty doughnut swirling around a supermassive black hole. The ring - known as a torus - was imaged around the black hole at the centre of Cygnus A, one of the most powerful radio galaxies in the Universe\u2026 [+3771 chars]"
         },
         {
             "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
+                "id": "daily-mail",
+                "name": "Daily Mail"
             },
-            "author": "Nicola Davis",
-            "title": "Moonlight influences opening and closing of oysters' shells - The Guardian",
-            "description": "Molluscs not only have tidal and circadian clocks but are attuned to lunar rhythms, experts say",
-            "url": "https://www.theguardian.com/food/2019/jan/09/moon-influences-opening-of-oyster-shells",
-            "urlToImage": "https://i.guim.co.uk/img/media/55e68c082bbffdbe112870e7a04682564a46cb29/0_142_4272_2563/master/4272.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=3f7cfd79f492f3cdb4a38875bce0e544",
-            "publishedAt": "2019-01-09T00:01:48Z",
-            "content": "The gentle glow of moonlight on water has moved musicians, poets and painters and, it turns out, molluscs. Researchers have discovered the opening and shutting of oysters shells appears to be tied to the lunar cycle. Biological clocks have intrigued scientist\u2026 [+3259 chars]"
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Stunning footage reveals the moment the moon SWALLOWS Saturn - Daily Mail",
+            "description": "This celestial event lasted for 1 hour 44 minutes and was captured by photographer\u00a0Cory Schmitz in Johannesburg.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-6898647/Stunning-footage-reveals-moment-moon-SWALLOWS-Saturn.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/14/12007462-0-image-a-7_1554730402205.jpg",
+            "publishedAt": "2019-04-08T12:24:12Z",
+            "content": "Cassini launched from Cape Canaveral, Florida in 1997, then spent seven years in transit followed by 13 years orbiting Saturn. An artist's impression of the Cassini spacecraft studying Saturn In 2000 it spent six months studying Jupiter before reaching Saturn\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spaceflightinsider.com"
+            },
+            "author": "Patrick Attwell",
+            "title": "SpaceX's 2nd Falcon Heavy to launch Arabsat-6A - SpaceFlight Insider",
+            "description": "SpaceX is poised to conduct the first commercial launch of its Falcon Heavy rocket with the Arabsat-6A mission as early as this week.",
+            "url": "https://www.spaceflightinsider.com/organizations/space-exploration-technologies/spacexs-2nd-falcon-heavy-to-launch-arabsat-6a/",
+            "urlToImage": "https://www.spaceflightinsider.com/wp-content/uploads/2019/04/D3kJOrPUIAA6Kqs.jpg",
+            "publishedAt": "2019-04-08T12:01:36Z",
+            "content": "SpaceX readies its first Block 5 Falcon Heavy for flight inside the horizontal integration hangar just outside Kennedy Space Center\u2019s Launch Complex 39A. Photo Credit: SpaceX KENNEDY SPACE CENTER, Fla. SpaceX is poised to conduct the first commercial launch o\u2026 [+4046 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Phys.org"
             },
-            "author": null,
-            "title": "Bee mite arrival in Hawaii causes pathogen changes in honeybee predators - Phys.org",
-            "description": "The reddish-brown varroa mite, a parasite of honeybees and accidentally introduced in the Big Island of Hawaii in 2007-08, is about the size of a pinhead. Yet, its effects there are concerning to entomologists because the mite is found nearly everywhere honey\u2026",
-            "url": "https://phys.org/news/2019-01-bee-mite-hawaii-pathogen-honeybee.html",
-            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/2019/1-beemitearriv.jpg",
-            "publishedAt": "2019-01-09T00:00:12Z",
-            "content": "Kevin Loope excavates a yellowjacket nest in Volcano, Hawaii. Credit: Jessica Purcell, UC Riverside. The reddish-brown varroa mite, a parasite of honeybees and accidentally introduced in the Big Island of Hawaii in 2007-08, is about the size of a pinhead. Yet\u2026 [+5569 chars]"
+            "author": "Ren\u00e9 Bobe And Susana Carvalho",
+            "title": "Humans are not off the hook for extinctions of large herbivores \u2013 then or now - Phys.Org",
+            "description": "What triggered the decline and eventual extinction of many megaherbivores, the giant plant-eating mammals that roamed the Earth millions of years ago, has long been a mystery. These animals, which weighed 1,000kg or more and included the ancient relatives of \u2026",
+            "url": "https://phys.org/news/2019-04-humans-extinctions-large-herbivores.html",
+            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2019/humansarenot.jpg",
+            "publishedAt": "2019-04-08T11:27:07Z",
+            "content": "What triggered the decline and eventual extinction of many megaherbivores, the giant plant-eating mammals that roamed the Earth millions of years ago, has long been a mystery. These animals, which weighed 1,000kg or more and included the ancient relatives of \u2026 [+6466 chars]"
         },
         {
             "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
+                "id": "metro",
+                "name": "Metro"
             },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "A long way from home: NASA spacecraft grabs stunning snapshot of Earth from 70 MILLION miles away - Daily Mail",
-            "description": "NASA's Osiris-Rex spacecraft took the picture  before going into orbit around asteroid Bennu. Earth appears as a white dot in the lower left, with the moon an even smaller dot but still clearly visible",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-6571175/A-long-way-home-NASA-spacecraft-grabs-stunning-snapshot-Earth-70-MILLION-miles-away.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/23/8289982-0-image-a-9_1546990803076.jpg",
-            "publishedAt": "2019-01-08T23:45:00Z",
-            "content": "An asteroid-circling spacecraft has captured a unique snapshot of home. NASA's Osiris-Rex spacecraft took the picture days before going into orbit around asteroid Bennu on New Year's Eve. The tiny asteroid - barely one-third of a mile (500 meters) across - ap\u2026 [+10845 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Discovermagazine.com"
-            },
-            "author": null,
-            "title": "SpaceX's Starship Prototype Could Make First Test Flight in Just Weeks - D-brief - Discover Magazine",
-            "description": "The prototype of SpaceX's Starship vehicle could make its first test flight soon.",
-            "url": "http://blogs.discovermagazine.com/d-brief/2019/01/08/spacexs-starship-prototype-make-first-test-flight-just-weeks/",
-            "urlToImage": "http://blogs.discovermagazine.com/d-brief/files/2019/01/spacex.jpg",
-            "publishedAt": "2019-01-08T21:29:01Z",
-            "content": "SpaceX gave the public a glimpse of what their Starship vehicle may look like with an illustration. (Credit: SpaceX) Testing the Starship SpaceX is on the verge of launching a prototype of the spacecraft that could one day carry humans to the moon and Mars. O\u2026 [+2232 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "Wells drilled into Martian ice could provide enough water for mankind to survive on the Red Planet - Daily Mail",
-            "description": "A NASA study examined how drills first used in Greenland in the 1960s could be used on the red planet to provide water for manned missions.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-6570125/Wells-drilled-Martian-ice-provide-water-mankind-survive-Red-Planet.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/19/8279656-0-image-a-7_1546976478148.jpg",
-            "publishedAt": "2019-01-08T19:42:00Z",
-            "content": "One of the biggest hurdles the first human visitors to Mars will face is a lack of water. Needed for drinking, growing food and even making rocket fuel for their return journey, a lack of accessible liquid water is a major issue. However, Mars does have huge \u2026 [+8498 chars]"
+            "author": "Jasper Hamill",
+            "title": "International Space Station under attack by space bugs, Nasa warns - Metro.co.uk",
+            "description": "It's feared tiny bacteria could affect the 'structural stability' of humanity's orbiting space base.",
+            "url": "https://metro.co.uk/2019/04/08/international-space-station-attack-mutant-space-bugs-nasa-warns-9131920/",
+            "urlToImage": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2018/10/sei_35135416-100d_1554717399.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
+            "publishedAt": "2019-04-08T09:51:00Z",
+            "content": "The International Space Station is being attacked by powerful space bugs, Nasa has revealed. A new study has revealed that the ISS is infested with bacteria and fungus, adding to previous warnings about superbugs living aboard the orbiting space base. The bac\u2026 [+2523 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Fastcompany.com"
+                "name": "Sky.com"
             },
-            "author": "Melissa Locker",
-            "title": "Whoa, scientists want to use CRISPR to make one spicy tomato! - Fast Company",
-            "description": "Finally using CRISPR\u2019s powers for good",
-            "url": "https://www.fastcompany.com/90289713/scientists-want-to-use-crispr-to-make-one-spicy-tomato",
-            "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2019/01/p-1-crispr-can-make-one-spicy-tomato.jpg",
-            "publishedAt": "2019-01-08T19:25:00Z",
-            "content": "In the future, making salsa could involve simply forking a spicy tomato with a tortilla chip. Some presumably spaghetti-al\u2019arrabiata-loving scientists have realized that CRISPR can be used to make spicy tomatoes by using the gene-editing technology to turn on\u2026 [+1846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sciencedaily.com"
-            },
-            "author": null,
-            "title": "Space microbes aren't so alien after all: Genetic evidence shows bacteria on the International Space Station are adapting to survive, not to harm - Science Daily",
-            "description": "A new study has found that -- despite its seemingly harsh conditions -- the ISS is not causing bacteria to mutate into dangerous, antibiotic-resistant superbugs. The bacteria are instead simply responding, and perhaps evolving, to survive in a stressful envir\u2026",
-            "url": "https://www.sciencedaily.com/releases/2019/01/190108141336.htm",
-            "urlToImage": "/images/2019/01/190108141336_1_540x360.jpg",
-            "publishedAt": "2019-01-08T19:23:38Z",
-            "content": "Microbes stranded in the International Space Station (ISS) are just trying to survive, man. A new Northwestern University study has found that -- despite its seemingly harsh conditions -- the ISS is not causing bacteria to mutate into dangerous, antibiotic-re\u2026 [+3349 chars]"
+            "author": "Sky",
+            "title": "Scientists to unveil first ever real picture of black hole - Sky News",
+            "description": "A new project to examine the supermassive black hole at the centre of our galaxy is about to announce the results of its scans.",
+            "url": "https://news.sky.com/story/scientists-to-unveil-first-ever-real-picture-of-black-hole-11687509",
+            "urlToImage": "https://e3.365dm.com/18/04/1600x900/skynews-black-hole-black-holes_4273211.jpg?20180404154022",
+            "publishedAt": "2019-04-08T07:52:30Z",
+            "content": null
         },
         {
             "source": {
                 "id": null,
                 "name": "Phys.org"
             },
-            "author": null,
-            "title": "Nature's magnifying glass reveals unexpected intermediate mass exoplanets - Phys.org",
-            "description": "Astronomers have found a new exoplanet that could alter the standing theory of planet formation. With a mass that's between that of Neptune and Saturn, and its location beyond the \"snow line\" of its host star, an alien world of this scale was supposed to be r\u2026",
-            "url": "https://phys.org/news/2019-01-nature-magnifying-glass-reveals-unexpected.html",
-            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2019/naturesmagni.jpg",
-            "publishedAt": "2019-01-08T19:15:22Z",
-            "content": "Planet OGLE-2012-BLG-0950Lb was detected through gravitational microlensing, a phenomenon that acts as nature's magnifying glass. Credit: LCO/D. BENNETT Astronomers have found a new exoplanet that could alter the standing theory of planet formation. With a ma\u2026 [+7770 chars]"
+            "author": "Sue Mitchell",
+            "title": "Air temperatures in the Arctic are driving system change - Phys.org",
+            "description": "A new paper shows that air temperature is the \"smoking gun\" behind climate change in the Arctic, according to John Walsh, chief scientist for the UAF International Arctic Research Center.",
+            "url": "https://phys.org/news/2019-04-air-temperatures-arctic.html",
+            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2019/airtemperatu.jpg",
+            "publishedAt": "2019-04-08T07:05:05Z",
+            "content": "A new paper shows that air temperature is the \"smoking gun\" behind climate change in the Arctic, according to John Walsh, chief scientist for the UAF International Arctic Research Center. \"The Arctic system is trending away from its 20th century state and int\u2026 [+3297 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sci-news.com"
-            },
-            "author": null,
-            "title": "Astrophysicists Find First Observational Evidence for 'Dark Matter Heating' | Astronomy - Sci-News.com",
-            "description": "An international team of astrophysicists from the University of Surrey, Carnegie Mellon University and ETH Z\u00fcrich has found evidence that dark matter can be heated up and moved around, as a result of star formation in galaxies.",
-            "url": "http://www.sci-news.com/astronomy/dark-matter-heating-06793.html",
-            "urlToImage": "http://cdn.sci-news.com/images/2019/01/image_6793-Dark-Matter-Heating.jpg",
-            "publishedAt": "2019-01-08T18:23:52Z",
-            "content": "An international team of astrophysicists from the University of Surrey, Carnegie Mellon University and ETH Z\u00fcrich has found evidence that dark matter can be heated up and moved around, as a result of star formation in galaxies. Star formation in dwarf galaxie\u2026 [+2616 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thesun.co.uk"
-            },
-            "author": "Harry Pettit, Senior Digital Technology and Science Reporter",
-            "title": "Incredible Nasa image shows the nearby Triangulum galaxy packed with 40BILLION stars - The Sun",
-            "description": "The space snap was captured by the huge Hubble Space Telescope",
-            "url": "https://www.thesun.co.uk/tech/8148774/nasa-hubble-triangulum-galaxy-image/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/NasaTriangulumSnap-e1546966781912.png?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2019-01-08T17:32:00Z",
-            "content": "AN incredible new image of a nearby galaxy has been snapped by Nasa and the European Space Agency (Esa). Taken by the Hubble Space Telescope, the picture reveals Triangulum, a 40billion star galaxy and one of the most distant objects that can be seen from Ear\u2026 [+1581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express.co.uk"
-            },
-            "author": "Sean Martin",
-            "title": "Mirror universe where time runs BACKWARDS created by Big Bang \u2013 shock claim - Express.co.uk",
-            "description": "A MIRROR image of the universe where space and time runs backwards was created by the Big Bang according to an astonishing and revolutionary claim from physicists.",
-            "url": "https://www.express.co.uk/news/science/1069056/universe-big-bang-physics-news-discovery-space-time",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1069056.jpg",
-            "publishedAt": "2019-01-08T17:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express.co.uk"
-            },
-            "author": "Athena Chrysanthou",
-            "title": "Huge skull of SEA MONSTER stuns scientists - \u2018It\u2019s worth the wait!\u2019 - Express",
-            "description": "FOR the first time since its discovery decades ago, the skull of giant sea monster has been studied - and revealed to be the biggest ever found of its kind.",
-            "url": "https://www.express.co.uk/news/uk/1068996/dinosaur-skeleton-discovery-skull-uk-news",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1068996.jpg",
-            "publishedAt": "2019-01-08T15:45:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Astronomynow.com"
+                "name": "Israelnationalnews.com"
             },
             "author": null,
-            "title": "TESS on track to revolutionise exoplanet astronomy \u2013 Astronomy Now - Astronomy Now Online",
-            "description": null,
-            "url": "https://astronomynow.com/2019/01/08/28318/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T15:44:55Z",
-            "content": "NASA\u2019s Transiting Exoplanet Survey Satellite \u2013 TESS \u2013 seen here during final preparations for launch last April. In its first three months of observations, TESS has chalked up three confirmed exoplanet discoveries and 280 candidates. Image: NASA NASA\u2019s Transi\u2026 [+4215 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sciencebusiness.net"
-            },
-            "author": null,
-            "title": "In the eye of a science storm: China's genetically edited babies scandal, and what happened next - Science Business",
-            "description": null,
-            "url": "https://sciencebusiness.net/eye-science-storm-chinas-genetically-edited-babies-scandal-and-what-happened-next",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T12:58:07Z",
-            "content": "Last week, Chinese science was on a high after successfully landing a probe on the far side of the moon. That achievement is a resounding demonstration of the countrys scientific and technological prowess. But Chinas position as science superpower should also\u2026 [+6799 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Unilad.co.uk"
-            },
-            "author": "Emily Brown",
-            "title": "Uranus Is Lopsided Because It Was Smashed By A Massive Rock - UNILAD",
-            "description": null,
-            "url": "https://www.unilad.co.uk/science/uranus-is-lopsided-because-it-was-smashed-by-a-massive-rock/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T10:53:40Z",
-            "content": "An astronomy researcher has explained Uranus is lopsided because it was smashed by a massive rock. You read that right. The seventh planet from the sun is different to all the other planets in our solar system because of the unique way it spins. The huge plan\u2026 [+3257 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Theregister.co.uk"
-            },
-            "author": "Richard Speed",
-            "title": "Chinese rover pootles about... on the far side of the friggin' MOON - The Register",
-            "description": "Plus: SpaceX gets back to some Falcon work",
-            "url": "https://www.theregister.co.uk/2019/01/08/space_roundup/",
-            "urlToImage": "https://regmedia.co.uk/2019/01/07/yutu_2.jpg",
-            "publishedAt": "2019-01-08T09:04:00Z",
-            "content": "Roundup In the week that New Horizons snapped its snowman, China took its rover out for a spin on the lunar surface and SpaceX fired up another Falcon 9. China continued stoking the fires of space fanbois desperate for an Apollo-style space race as its rover \u2026 [+4273 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Spaceflightnow.com"
-            },
-            "author": null,
-            "title": "SpaceX about one month away from first commercial crew test flight - Spaceflight Now",
-            "description": null,
-            "url": "https://spaceflightnow.com/2019/01/07/spacex-about-one-month-away-from-first-commercial-crew-test-flight/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T04:47:49Z",
-            "content": "The crew access arm at launch pad 39A extended to the Crew Dragon spacecraft shortly after the Falcon 9 rocket was erected vertical Jan. 3. Credit: SpaceX SpaceX founder Elon Musk said this weekend that the company is about one month away from launching the f\u2026 [+4744 chars]"
-        },
-        {
-            "source": {
-                "id": "vice-news",
-                "name": "Vice News"
-            },
-            "author": "Daniel Oberhaus",
-            "title": "Scientists Made Plasma That Is 50 Times Colder Than Deep Space - Motherboard",
-            "description": "Scientists have created a laser-cooled neutral plasma for the first time that will be used to simulate some of the hottest and most exotic matter in the universe.",
-            "url": "https://motherboard.vice.com/en_us/article/7xyygx/scientists-made-plasma-that-is-50-times-colder-than-deep-space",
-            "urlToImage": "https://video-images.vice.com/articles/5c339ae06221b40007909c6e/lede/1546885979234-0702_PLASMA-tl-12-lg-pie246.jpeg?crop=1xw:0.84375xh;center,center&resize=1200:*",
-            "publishedAt": "2019-01-08T02:34:00Z",
-            "content": "Physicists at Rice University have simulated the kind of ultra-hot plasma found in the center of dead stars in a lab by creating laser-cooled plasma that is roughly fifty times colder than the ambient temperature in deep space. The paradoxical work brings us \u2026 [+3665 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sciencedaily.com"
-            },
-            "author": null,
-            "title": "Evolution used same genetic formula to turn animals monogamous - Science Daily",
-            "description": "According to a new study that looked at 10 species of vertebrates, evolution used a kind of universal formula for turning non-monogamous species into monogamous species -- turning up the activity of some genes and turning down others in the brain.",
-            "url": "https://www.sciencedaily.com/releases/2019/01/190107150740.htm",
-            "urlToImage": "/images/2019/01/190107150740_1_540x360.jpg",
-            "publishedAt": "2019-01-08T02:24:57Z",
-            "content": "Why are some animals committed to their mates and others are not? According to a new study led by researchers at The University of Texas at Austin that looked at 10 species of vertebrates, evolution used a kind of universal formula for turning non-monogamous \u2026 [+2821 chars]"
-        },
-        {
-            "source": {
-                "id": "the-telegraph",
-                "name": "The Telegraph"
-            },
-            "author": null,
-            "title": "House plants back in fashion as health-conscious millennials buying them for wellness reasons, RHS says - The Telegraph",
-            "description": "A few short years ago, filling one's living room with spider plants and peace lillies would have been seen by interior designers as unforgivably retro.",
-            "url": "https://www.telegraph.co.uk/news/2019/01/07/house-plants-back-fashion-health-conscious-millennials-buying/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/01/07/ss-composite-image-2019-1-7-16-12-xlarge_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png",
-            "publishedAt": "2019-01-07T23:59:00Z",
-            "content": "M atthew Pottage, Curator, RHS Garden Wisley, explained: Social media shows that this is a huge and growing trend hashtags such as #plantsofinstagram and #houseplants are used in their millions and tweets on houseplants often receive thousands of retweets. In\u2026 [+1437 chars]"
+            "title": "Beresheet spacecraft completes maneuver around the moon - Arutz Sheva",
+            "description": "Israel's first spacecraft successfully completes maneuver around the moon, just days before scheduled lunar landing.",
+            "url": "http://www.israelnationalnews.com/News/News.aspx/261532",
+            "urlToImage": "http://k6s3v6r4.ssl.hwcdn.net/pictures/893/893494.jpg",
+            "publishedAt": "2019-04-08T06:25:00Z",
+            "content": "The Israeli spacecraft Beresheet successfully completed a maneuver around the moon Monday morning, just days ahead of the spacecraft\u2019s scheduled lunar landing. Beresheet, Israel\u2019s first spacecraft, is slated to touchdown on the moon on Thursday, April 11th, r\u2026 [+982 chars]"
         },
         {
             "source": {
@@ -294,155 +125,142 @@
                 "name": "Stuff.co.nz"
             },
             "author": null,
-            "title": "The reason behind the 'meteor' that lit up New Zealand skies - Stuff.co.nz",
-            "description": "The bright object falling from the sky was likely an old satellite, but where did it land, and will it happen again?",
-            "url": "https://www.stuff.co.nz/national/109785238/the-reason-behind-the-meteor-that-lit-up-new-zealand-skies",
-            "urlToImage": "https://resources.stuff.co.nz/content/dam/images/1/t/c/d/k/v/image.related.StuffLandscapeSixteenByNine.1420x800.1td2ty.png/1546904901704.jpg",
-            "publishedAt": "2019-01-07T23:48:00Z",
-            "content": "It was an astronomically exciting weekend for stargazers - people from around the North Island witnessed a possible meteor or space junk sighting about 9pm on Saturday. The rare event tore across the sky above the Sri Lanka versus New Zealand cricket match at\u2026 [+4525 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "asteroid that killed off the dinosaurs caused a tsunami a MILE high through the Gulf of Mexico - Daily Mail",
-            "description": "The nine mile wide asteroid believed to have killed off the dinosaurs caused a tsunami wave a mile high, a new study led by Michigan researchers has found.",
-            "url": "https://www.dailymail.co.uk/sciencetech/article-6566753/asteroid-killed-dinosaurs-caused-tsunami-MILE-high-Gulf-Mexico.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/07/21/8242100-0-image-a-27_1546897983273.jpg",
-            "publishedAt": "2019-01-07T21:55:00Z",
-            "content": "The nine mile wide asteroid believed to have killed off the dinosaurs caused a tsunami wave a mile high, a new study has found. The tsunami through the Gulf of Mexico caused chaos throughout the world's oceans. Experts have now simulated the effects for the f\u2026 [+7966 chars]"
+            "title": "Indoor plants have become a ridiculous status symbol and I'm done with them - Stuff.co.nz",
+            "description": "OPINION: For us \"plant murderers\", the pressure to have an Instagram-worthy indoor garden is simply too much.",
+            "url": "https://www.stuff.co.nz/life-style/homed/living/111883802/indoor-plants-have-become-a-ridiculous-status-symbol-and-im-done-with-them",
+            "urlToImage": "https://resources.stuff.co.nz/content/dam/images/1/u/m/2/u/l/image.related.StuffLandscapeSixteenByNine.1420x800.1um23e.png/1554699860047.jpg",
+            "publishedAt": "2019-04-08T05:04:00Z",
+            "content": "OPINION: I'm not one to make grand sweeping statements, (I am. Actually, I do it all the time, boldly and without further thought), but here comes one I believe to be true: indoor plants are ruining our lives. In the last few years they have become the unoffi\u2026 [+4692 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eurekalert.org"
+                "name": "Sciencealert.com"
+            },
+            "author": "Jacinta Bowler",
+            "title": "NASA's Glowing Aurora Research Looks Like an \"Alien Attack\" in This Stunning Footage - ScienceAlert",
+            "description": "Two successful rocket launches in Norway on Friday have left locals stunned, confused, and in awe of an incredible artificial light show.",
+            "url": "https://www.sciencealert.com/look-at-these-stunning-glowing-clouds-aurora-researchers-made-with-rockets",
+            "urlToImage": "https://www.sciencealert.com/images/2019-04/processed/NASAglowingCloudAuroras_1024.jpg",
+            "publishedAt": "2019-04-08T03:31:41Z",
+            "content": "Two successful rocket launches in Norway on Friday have left locals stunned, confused, and in awe of an incredible artificial light show. After two orange dots launched through the air, expanding glowing clouds and colourful lights appeared suddenly but it wa\u2026 [+2301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Annabel Murphy",
+            "title": "NASA Hubble Telescope uncovers \u2018gateway to heaven\u2019 at centre of the universe, wacky conspiracy theorists cla - The Sun",
+            "description": "The strange image of a black hole was first released in 1992",
+            "url": "https://www.thesun.co.uk/tech/8812239/hubble-telescope-crucifix-space/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/NINTCHDBPICT000481511339.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-07T21:14:26Z",
+            "content": "CONSPIRACY theorists say this NASA image from 1992 shows a gateway to heaven at the centre of the universe. Taken from the Hubble Space Telescope, the photo depicts an X-shaped structure that appears to resemble a crucifix 1,100 light-years from Earth. NASA's\u2026 [+1812 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Scitechdaily.com"
             },
             "author": null,
-            "title": "How the brain decides whether to hold 'em or fold 'em - EurekAlert",
-            "description": "Why do people make high-risk decisions -- in casinos or in other aspects of their lives -- even when they know the odds are stacked against them?",
-            "url": "https://www.eurekalert.org/pub_releases/2019-01/jhu-htb010419.php",
-            "urlToImage": "https://www.eurekalert.org/multimedia/pub/web/189609_web.jpg",
-            "publishedAt": "2019-01-07T20:04:21Z",
-            "content": "IMAGE: Why do people make high-risk decisions, even against the odds? Johns Hopkins researchers say bias that develops over time may make people view risk differently. view more Credit: Jennifer E. Fairman, CMI, FAMI. \u00a9 2019, Johns Hopkins University, AAM. Pi\u2026 [+5393 chars]"
+            "title": "Astronomers Discover a Heavy Metal Fragment of a Planet - SciTechDaily",
+            "description": "Astronomers discover a fragment of a planet in a disc of debris formed from destroyed planets, which the star ultimately consumes.",
+            "url": "https://scitechdaily.com/astronomers-discover-a-heavy-metal-fragment-of-a-planet/",
+            "urlToImage": "https://scitechdaily.com/images/Heavy-Metal-Planet-Fragment-Discovered.jpg",
+            "publishedAt": "2019-04-07T15:09:27Z",
+            "content": "Artist\u2019s impression. A planetary fragment orbits the star SDSS J122859.93+104032.9, leaving a tail of gas in its wake. Credit: University of Warwick/Mark Garlick A fragment of a planet that has survived the death of its star has been discovered by University \u2026 [+5536 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Nasaspaceflight.com"
+                "name": "Gizmodo.co.uk"
             },
             "author": null,
-            "title": "Hera adds objectives to planetary defense test mission - NASASpaceflight.com",
-            "description": null,
-            "url": "https://www.nasaspaceflight.com/2019/01/hera-objectives-planetary-defense-mission/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-07T20:02:11Z",
-            "content": "An international planetary defense mission involving NASA and ESA will now include two CubeSats. APEX (Asteroid Prospection Explorer) and Juventas will ride with ESA\u2019s Hera spacecraft, which is set to arrive at the Didymos binary asteroid system shortly after\u2026 [+6115 chars]"
+            "title": "Huge Lava Lamp-Like Blobs Spotted in 40-Year-Old Observations of the Sun - Gizmodo UK",
+            "description": "The mysterious blobs are 500 times larger than the Earth and were noticed in stored spacecraft data from the 1970s.",
+            "url": "http://www.gizmodo.co.uk/2019/04/huge-lava-lamp-like-blobs-spotted-in-40-year-old-observations-of-the-sun",
+            "urlToImage": "https://media.gizmodo.co.uk/wp-content/uploads/2019/04/d3kt0frqhspm9erz03ss.jpg",
+            "publishedAt": "2019-04-07T13:00:00Z",
+            "content": "Scientists have found lava lamp-like blobs up to 500 times larger than the Earth in the solar wind, in data from a pair of spacecraft that launched in the 1970s. Theres a tonne we dont know about the matter blasted into space by the Sunthats why scientists ha\u2026 [+2321 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Phys.org"
+                "name": "Earthsky.org"
+            },
+            "author": "Paul Scott Anderson",
+            "title": "Scientists close in on mysterious Mars methane - EarthSky",
+            "description": "For the first time, an in-situ measurement of methane on Mars - made by NASA's Curiosity rover - has been independently confirmed from orbit, by ESA's Mars Express. Could it be a clue to Mars life?",
+            "url": "https://earthsky.org/space/methane-spike-june-2013-both-curiosity-mars-express",
+            "urlToImage": "https://en.es-static.us/upl/2019/04/Mars-Express-orbit-DLR-ESA-2018-300x169.jpg",
+            "publishedAt": "2019-04-07T11:44:54Z",
+            "content": "Artists conceptof Mars Express in orbit around Mars. New analysis of data from the spacecraft has independently confirmed the first detection of methane by NASAs Curiosity rover in 2013. Image via DLR Institute of Planetary Research. Where does Mars methane c\u2026 [+10979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nzherald.co.nz"
+            },
+            "author": "Jamie Morton",
+            "title": "Why a big Mt Taranaki eruption just got more dangerous - New Zealand Herald",
+            "description": "Deadly pyroclastic flows from Taranaki eruptions can spread further than once thought.",
+            "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12220060",
+            "urlToImage": "https://www.nzherald.co.nz/resizer/1ti0IkWrdDB1cPxJpREm9B_bnrI=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/3WUIBYRHQ5EMXDUMNIQWA2LCGM.jpg",
+            "publishedAt": "2019-04-07T01:16:55Z",
+            "content": "A big Mt Taranaki eruption could launch devastating pyroclastic flows across a wider area than first thought - putting more people at risk. A pyroclastic flow is a super-heated hurricane of gas, ash and rock particles that is fired from an erupting volcano an\u2026 [+4830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Newshub.co.nz"
             },
             "author": null,
-            "title": "A century and half of reconstructed ocean warming offers clues for the future - Phys.org",
-            "description": "Over the past century, increased greenhouse gas emissions have given rise to an excess of energy in the Earth system. More than 90% of this excess energy has been absorbed by the ocean, leading to increased ocean temperatures and associated sea level rise, wh\u2026",
-            "url": "https://phys.org/news/2019-01-century-reconstructed-ocean-clues-future.html",
-            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2018/4-ocean.jpg",
-            "publishedAt": "2019-01-07T20:00:16Z",
-            "content": "Credit: CC0 Public Domain Over the past century, increased greenhouse gas emissions have given rise to an excess of energy in the Earth system. More than 90% of this excess energy has been absorbed by the ocean, leading to increased ocean temperatures and ass\u2026 [+3144 chars]"
+            "title": "First-ever photograph of a black hole expected - Newshub",
+            "description": "If it's not a perfect circle then Einstein got something wrong, scientists say.",
+            "url": "https://www.newshub.co.nz/home/world/2019/04/first-ever-photograph-of-a-black-hole-expected.html",
+            "urlToImage": "https://www.newshub.co.nz/home/world/2019/04/first-ever-photograph-of-a-black-hole-expected/_jcr_content/par/video/image.dynimg.1280.q75.jpg/v1554585692497/GettyImages-646438476-black-hole-white-hole-sun-1120.jpg",
+            "publishedAt": "2019-04-06T21:22:40Z",
+            "content": "Scientists are expected to unveil on Wednesday the first-ever photograph of a black hole, a breakthrough in astrophysics providing insight into celestial monsters with gravitational fields so intense no matter or light can escape. The US National Science Foun\u2026 [+2536 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Aol.co.uk"
+                "name": "Digitaltrends.com"
             },
-            "author": "PA",
-            "title": "Hubble Telescope captures most detailed image ever of nearby galaxy - AOL UK",
-            "description": "The most detailed image yet of a 40 billion star neighbouring galaxy has been captured by the Hubble Space Telescope. The Triangulum Galaxy, located three million light years away from the Milky",
-            "url": "https://www.aol.co.uk/news/2019/01/07/hubble-telescope-captures-most-detailed-image-ever-of-nearby-gal/",
-            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1028%2C675%2Cauto&format=png&quality=60&image_uri=https%3A%2F%2Fimg.vidible.tv%2Fprod%2F2019-01%2F07%2F5c33c57afcd67b3a10db886b%2F5c33c5795e77b900010a0e21_o_F_v1.jpg&client=amp-blogside-v2&signature=88deb1eda85cd8bd777da07232557d78a9c60376",
-            "publishedAt": "2019-01-07T18:40:00Z",
-            "content": "The most detailed image yet of a 40 billion star neighbouring galaxy has been captured by the Hubble Space Telescope. The Triangulum Galaxy, located three million light years away from the Milky Way, is one of the most distant objects visible to the naked eye\u2026 [+2651 chars]"
+            "author": "Georgina Torbet",
+            "title": "Methane on Mars confirmed \u2014 but there\u2019s probably no life there - Digital Trends",
+            "description": "A clue into disappearing methane on Mars has been revealed. Data collected from orbit by the ESA\u2019s Mars Express mission has been examined to look for correlations with data collected from the surface by the Curiosity rover. A reanalysis of the satellite data \u2026",
+            "url": "https://www.digitaltrends.com/cool-tech/mars-methane-satellite-data/",
+            "urlToImage": "https://icdn3.digitaltrends.com/image/how_to_create_and_destroy_methane_at_mars-1200x630-c-ar1.91.jpg",
+            "publishedAt": "2019-04-06T18:35:01Z",
+            "content": "Artist\u2019s impression of Mars Express. The background is based on an actual image of Mars taken by the spacecraft\u2019s high resolution stereo camera. Spacecraft image credit: ESA/ATG medialab; Mars: ESA/DLR/FU Berlin, CC BY-SA 3.0 IGO A new piece of the puzzle of \u2026 [+2449 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Joe.co.uk"
+                "name": "Cnet.com"
             },
-            "author": "Alex Roberts",
-            "title": "The essential cardio guide for people who hate running - JOE.co.uk",
-            "description": "Treadmill not your cup of tea? We've got your back. This cardio guide outlines the best ways of losing weight so you're not bored at the gym",
-            "url": "https://www.joe.co.uk/fitness-health/essential-cardio-guide-hate-running-214245",
-            "urlToImage": "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAxOVxcXC8wMVxcXC8wNzEyMDgwMVxcXC9TY3JlZW4tU2hvdC0yMDE5LTAxLTA3LWF0LTEyLjA1LjUwLnBuZ1wiLFwid2lkdGhcIjo2NDcsXCJoZWlnaHRcIjozNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5qb2UuY28udWtcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9qb2Vjb3VrXFxcL25vLWltYWdlLnBuZz92PTVcIn0iLCJoYXNoIjoiZDRiYjg1YzhkMzRlNTgxY2RlMDI0NzFhMGY5MDkyYTcyMDBkMGEzZiJ9/screen-shot-2019-01-07-at-12-05-50.png",
-            "publishedAt": "2019-01-07T16:57:57Z",
-            "content": "This essential cardio guide outlines the best ways of losing weight, so you're not bored at the gym. The more fun and engaging your workout is, the more likely you are to stick to it. Cardio can keep your heart healthy and also boost weight loss, so it's only\u2026 [+4365 chars]"
+            "author": "Amanda Kooser",
+            "title": "Elon Musk: SpaceX Starhopper lifts off (a little bit) - CNET",
+            "description": "The latest Starship and Raptor engine test gets a little more exciting.",
+            "url": "https://www.cnet.com/news/elon-musk-spacex-starhopper-lifts-off-a-little-bit/",
+            "urlToImage": "https://cnet1.cbsistatic.com/img/DKxRELWgJjx9EVAHKogrTB-NtCc=/756x567/2019/01/23/c02b9d3b-fcfc-4d7c-a716-7382b377047d/starshipnose.jpg",
+            "publishedAt": "2019-04-06T16:47:00Z",
+            "content": "SpaceX's Starship hopper originally had a nose, which is currently not on the prototype. SpaceX SpaceX isn't wasting any time between tests of its prototype Starship \"hopper,\" now known as the Starhopper. Founder Elon Musk shared some fresh fiery test footage\u2026 [+1150 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Express.co.uk"
+                "id": "independent",
+                "name": "Independent"
             },
-            "author": "Sean Martin",
-            "title": "ASTEROID WARNING: NASA preparing space weapon which will protect Earth from DOOMSDAY - Express.co.uk",
-            "description": "NASA is planning to test a planetary defence weapon which could one day save Earth from an \u201cinevitable\u201d doomsday.",
-            "url": "https://www.express.co.uk/news/science/1068510/asa-asteroid-warning-Double-Asteroid-Redirection-Test-DART-Didymos",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/151/750x445/1068510.jpg",
-            "publishedAt": "2019-01-07T16:57:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Aol.co.uk"
-            },
-            "author": "Staff writer",
-            "title": "Our Milky Way is headed for a 'catastrophic collision with another galaxy' - AOL UK",
-            "description": "Astrophysicists from Durham University have shown that a nearby galaxy is set to slam into the Milky Way, potentially ejecting our solar system into outer space. The discovery was made when",
-            "url": "https://www.aol.co.uk/news/2019/01/07/our-milky-way-is-headed-for-a-catastrophic-collision-with-anoth/",
-            "urlToImage": "https://s.blogcdn.com/slideshows/images/slides/261/054/8/S2610548/slug/l/israel-nature-bird-migration-1.jpg",
-            "publishedAt": "2019-01-07T16:28:00Z",
-            "content": "Astrophysicists from Durham University have shown that a nearby galaxy is set to slam into the Milky Way, potentially ejecting our solar system into outer space. The discovery was made when astronomers ran computer simulations on the movement of the Large Mag\u2026 [+5228 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Nicola Davis",
-            "title": "Female penguins 'get stranded more because they travel further' - The Guardian",
-            "description": "Longer journeys may exhaust birds, say scientists tracking them off South American coast",
-            "url": "https://www.theguardian.com/environment/2019/jan/07/female-penguins-get-stranded-more-because-they-travel-further",
-            "urlToImage": "https://i.guim.co.uk/img/media/a2bc69b52607575ad0e431832255c60c18ff3c7b/0_352_5375_3224/master/5375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4fefbe402c9298cece318e3ba8a5b94f",
-            "publishedAt": "2019-01-07T16:00:00Z",
-            "content": "Every year, thousands of Magellanic penguins get stranded along the coast of South America but puzzlingly, about 75% of those that get stuck are female. Now scientists say they have worked out what is behind the gender imbalance: the females migrate further n\u2026 [+2818 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Phys.org"
-            },
-            "author": null,
-            "title": "Bluefin tuna are back around the UK and a new study explains why - Phys.org",
-            "description": "Bluefin tuna are back in the sea around the U.K. after decades of absence and a new study says that warming seas can explain why. Bluefin tuna are one of the biggest, most valuable and most endangered fish in the oceans. Sportfishermen excited at the prospect\u2026",
-            "url": "https://phys.org/news/2019-01-bluefin-tuna-uk.html",
-            "urlToImage": "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2016/atlanticblue.jpg",
-            "publishedAt": "2019-01-07T13:26:49Z",
-            "content": "Atlantic bluefin tuna. Credit: Public Domain Bluefin tuna are back in the sea around the U.K. after decades of absence and a new study says that warming seas can explain why. Bluefin tuna are one of the biggest, most valuable and most endangered fish in the o\u2026 [+7050 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Space.com"
-            },
-            "author": "Meghan Bartels",
-            "title": "We Just Flew Past a Kuiper Belt Object. Here's Why We Should Do It Again. - Space.com",
-            "description": "Kuiper Belt objects like the one New Horizons just flew past are a dime a dozen, but scientists have detailed spacecraft observations of just three such distant, frozen worlds.",
-            "url": "https://www.space.com/42899-interstellar-probe-kuiper-belt-object-visit.html",
-            "urlToImage": "https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzA4Mi8wMTAvb3JpZ2luYWwvMjQ1X0VyaXNBcnRpc3RDb25jZXB0MTIwMHcuanBn",
-            "publishedAt": "2019-01-07T12:22:00Z",
-            "content": "Kuiper Belt objects like the one New Horizons just flew past are a dime a dozen, but scientists have detailed spacecraft observations of just three such distant, frozen worlds. It may take an already-proposed high-speed mission to add new objects to that list\u2026 [+4442 chars]"
+            "author": "Zamira Rahim",
+            "title": "Nasa announces winners of challenge to design 3D-printed Mars shelters - The Independent",
+            "description": "Organisation awards $100,000 to three teams of designers",
+            "url": "https://www.independent.co.uk/news/science/mars-nasa-shelter-3d-printed-centennial-challenge-habitat-a8857936.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/06/15/nasa-1.jpg",
+            "publishedAt": "2019-04-06T16:15:29Z",
+            "content": "Shelters suitable for life on Mars, the moon and possibly beyond came a step closer, as Nasa awarded $100,000 (\u00a377,000) to three teams of competitors or the organisations centennial challenge. In total, 11 teams competed in the latest stage of the 3D-Printed \u2026 [+2745 chars]"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
@@ -8,324 +8,25 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Katie Price admits driving while disqualified - BBC News",
-            "description": "The reality TV star has been disqualified for a further three months and fined \u00a31,100.",
-            "url": "https://www.bbc.co.uk/news/uk-england-sussex-46811025",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13AED/production/_105112608_hi051533078.jpg",
-            "publishedAt": "2019-01-09T12:03:42Z",
-            "content": "Image copyright Andrew Matthews/PA Image caption Katie Price banned from driving a second time Reality TV star Katie Price has been banned from driving after getting behind the wheel while disqualified. The former glamour model, who was known as Jordan, plead\u2026 [+1193 chars]"
+            "title": "Brexit: Cross-party talks to continue amid impasse - BBC News",
+            "description": "Number 10 says there will be \"technical\" talks between government and Labour officials.",
+            "url": "https://www.bbc.co.uk/news/uk-politics-47859214",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p075wg18.jpg",
+            "publishedAt": "2019-04-08T16:33:09Z",
+            "content": "Media caption Corbyn: No change in government's Brexit 'red lines' Talks between the government and the Labour Party will continue later, as they try to break the Brexit deadlock. No 10 said ministers had contacted the opposition and \"technical\" discussions w\u2026 [+4460 chars]"
         },
         {
             "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Gonen Segev: Israel ex-minister admits spying for Iran - BBC News",
-            "description": "Gonen Segev faces 11 years in jail after pleading guilty to passing information to Israel's enemy.",
-            "url": "https://www.bbc.co.uk/news/world-middle-east-46808797",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14FB5/production/_105114958_gettyimages-991915718-594x594.jpg",
-            "publishedAt": "2019-01-09T11:58:39Z",
-            "content": "Image copyright AFP Image caption Gonen Segev (centre) reportedly said he had intended to \"fool\" Iran with his actions Former Israeli cabinet minister Gonen Segev is to be jailed for 11 years after he admitted spying for Iran, Israel's justice ministry says. \u2026 [+2259 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "MP Craig Mackinlay cleared of election expenses fraud - BBC News",
-            "description": "Conservative MP Craig Mackinlay was accused of falsifying declarations in the 2015 General Election.",
-            "url": "https://www.bbc.co.uk/news/uk-england-kent-46749743",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C59/production/_105116130_hi051410775_crop_pa.jpg",
-            "publishedAt": "2019-01-09T11:53:47Z",
-            "content": "Image copyright PA Image caption Craig Mackinlay won the South Thanet seat for the Conservatives in 2015 Conservative politician Craig Mackinlay has been cleared of falsifying election expenses. The MP for South Thanet had denied making false declarations dur\u2026 [+1984 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Casey Newton",
-            "title": "It might be time to retire Mark Zuckerberg\u2019s annual personal challenge - The Verge",
-            "description": "Reaching the limits of what content marketing can do",
-            "url": "https://www.theverge.com/2019/1/9/18174623/mark-zuckerberg-2019-personal-challenge-facebook-content-marketing",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/poPwn44gYxUoORxgoRivx6USujc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8365039/nstatt_170418_1624_0052.0.jpg",
-            "publishedAt": "2019-01-09T11:00:06Z",
-            "content": "Inside Facebook, Mark Zuckerbergs annual tradition of setting a personal challenge has been viewed as one of the companys best public-relations opportunities of the year. Long before Facebook was under rigorous scrutiny for the unintended consequences of its \u2026 [+20703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bbc.com"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Norway businessman's wife kidnapped for ransom - BBC News",
-            "description": "Anne Hagen, wife of a multi-millionaire Norwegian businessman, has been missing for months.",
-            "url": "https://www.bbc.com/news/world-europe-46808777",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1545B/production/_105113178_24331637-b10b-4f7d-9bf5-36155b565aa7.png",
-            "publishedAt": "2019-01-09T10:47:21Z",
-            "content": "Image copyright Norwegian Police Image caption Mrs Hagen disappeared from her home near Oslo on 31 October The wife of a Norwegian multi-millionaire businessman has been missing for months after being abducted, police have now confirmed. Anne-Elisabeth Falkev\u2026 [+2253 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Joe Watts",
-            "title": "Ministers tell Theresa May to force through Brexit by calling election for days after EU withdrawal - The Independent",
-            "description": "Exclusive: One cabinet minister backing the plan told\u00a0The Independent 'the public are saying, just f***ing\u00a0get on with it\u2019",
-            "url": "https://www.independent.co.uk/news/uk/politics/brexit-no-confidence-vote-meaningful-theresa-may-jeremy-corbyn-a8718806.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/12/28/17/May.jpg",
-            "publishedAt": "2019-01-09T10:15:00Z",
-            "content": "Theresa May is being urged to wield her powers as prime minister to ensure Brexit is forced through regardless of whether there is a successful vote of no confidence against her government. Brexiteer ministers have indicated that even if the no-confidence vot\u2026 [+6196 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "BAFTA nominations revealed: The Favourite and Olivia Colman lead the way - Sky News",
-            "description": "Bohemian Rhapsody, A Star Is Born, BlacKkKlansman and Green Book are also among the nominees announced by BAFTA.",
-            "url": "https://news.sky.com/story/bafta-nominations-revealed-the-favourite-and-olivia-colman-lead-the-way-11602586",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-favourite-olivia-colman_4541351.jpg?20190109111815",
-            "publishedAt": "2019-01-09T10:10:11Z",
-            "content": "The Favourite is now officially a BAFTA favourite, leading the nominations race with 12 nods, including best film. Olivia Colman, who stars as Queen Anne in the dark comedy drama, is up for best actress, with the nomination coming after her success at the Gol\u2026 [+3701 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Belfasttelegraph.co.uk"
-            },
-            "author": "By Jonathan Bell",
-            "title": "Northern Ireland Brexit veto plan just 'window dressing,' says DUP's Wilson - Belfast Telegraph",
-            "description": "Plans to give the Northern Ireland power-sharing structures a veto over the introduction of new EU laws have been dismissed as",
-            "url": "https://www.belfasttelegraph.co.uk/news/brexit/northern-ireland-brexit-veto-plan-just-window-dressing-says-dups-wilson-37695155.html",
-            "urlToImage": "https://www.belfasttelegraph.co.uk/incoming/article37695184.ece/ALTERNATES/h342/Sammy_wilson_sky-news.jpg",
-            "publishedAt": "2019-01-09T10:02:14Z",
-            "content": "Plans to give the Northern Ireland power-sharing structures a veto over the introduction of new EU laws have been dismissed as \"window dressing\" and spin. David Lidington - the defacto deputy Prime Minister - is to open the debate ahead of next week's meaning\u2026 [+3036 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "",
-            "title": "Benjamin Pavard to join Bayern Munich in summer for \u00a331.4m - The Guardian",
-            "description": "Bayern Munich have reached an agreement to sign the France defender Benjamin Pavard, who will join the German champions on a five-year deal from next season",
-            "url": "https://www.theguardian.com/football/2019/jan/09/benjamin-pavard-bayern-munich-join-summer",
-            "urlToImage": "https://i.guim.co.uk/img/media/7f3aea20b503114ec532fb4e8d5c811393128a5d/0_123_3685_2211/master/3685.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=865c91a4a3f70ce460bbd7359284a633",
-            "publishedAt": "2019-01-09T10:00:00Z",
-            "content": "Bayern Munich have reached an agreement to sign the France defender Benjamin Pavard, who will join the German champions on a five-year deal from next season, according to the Bavarian clubs sporting director, Hasan Salihamidzic. The 22-year-old currently play\u2026 [+1063 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Football365.com"
-            },
-            "author": "Joe Williams",
-            "title": "Milner says sorry: 'If not it's 1-1 and we get a replay' - Football365.com",
-            "description": "Football365 - Liverpool were dumped out of the FA Cup by Wolves on Monday and Milner has apologised for his mistake.",
-            "url": "https://www.football365.com/news/milner-says-sorry-if-not-its-1-1-and-we-get-a-replay",
-            "urlToImage": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2019/01/09093202/GettyImages.10788514141.jpg",
-            "publishedAt": "2019-01-09T09:37:11Z",
-            "content": "James Milner has admitted he let Liverpool down in defeat at Wolves and claims the Reds have fallen short of expectations after losing their unbeaten Premier League record and being dumped out of the FA Cup. The Reds suffered a second straight defeat as they \u2026 [+1674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Bea Mitchell",
-            "title": "Kit Harington says Game of Thrones cast were \"broken\" by final season - DigitalSpy.com",
-            "description": "If anything happens to Drogon and Rhaegal, there'll be hell to pay.",
-            "url": "https://www.digitalspy.com/tv/ustv/a25828564/game-of-thrones-season-8-cast-kit-harington-broken/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-dany-jon-1546829425.jpg?crop=1xw:0.9314359637774903xh;center,top&resize=1200:*",
-            "publishedAt": "2019-01-09T09:31:00Z",
-            "content": "In harrowing news for fans, Kit Harington has said that the Game of Thrones cast were left \"broken\" by the final season. \"The last season of Thrones seemed to be designed to break us,\" he told GQ. \"Everyone was broken at the end,\" he continued. \"I don\u2019t know \u2026 [+1237 chars]"
-        },
-        {
-            "source": {
-                "id": "talksport",
-                "name": "TalkSport"
-            },
-            "author": "Sean O'Brien",
-            "title": "Harry Kane\u2019s goal in Tottenham\u2019s Carabao Cup win over Chelsea exposes flaws with VAR, claims David Seaman - talkSPORT",
-            "description": "Tottenham won the first leg of their semi-final with Chelsea 1-0 at Wembley",
-            "url": "https://talksport.com/football/470821/harry-kane-tottenham-chelsea-flaws-var-david-seaman/",
-            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2019/01/TALKSPORT-VAR1.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2019-01-09T09:22:30Z",
-            "content": "Arsenal legend David Seaman believes the match-defining VAR incident in Tottenhams Carabao Cup win over Chelsea highlights a grey area in the use of technology. Harry Kane scored the games only goal from the spot after the video assistant referee overruled an\u2026 [+2572 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Justin Harp",
-            "title": "R Kelly under investigation following abuse allegations in Surviving R Kelly series - DigitalSpy.com",
-            "description": "The singer has denied any wrongdoing.",
-            "url": "https://www.digitalspy.com/showbiz/a25811198/r-kelly-abuse-investigation-surviving-r-kelly-tv-series/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/r-kelly1-1546988529.jpg?crop=1xw:0.3490701001430615xh;center,top&resize=1200:*",
-            "publishedAt": "2019-01-09T09:17:00Z",
-            "content": "Note: The following article contains discussion of sexual misconduct allegations that some readers may find upsetting. R Kelly is facing a criminal investigation over misconduct allegations made in the new TV miniseries Surviving R Kelly. The series, which wi\u2026 [+2146 chars]"
-        },
-        {
-            "source": {
-                "id": "the-next-web",
-                "name": "The Next Web"
-            },
-            "author": "Ivan Mehta",
-            "title": "No, Samsung isn\u2019t pre-installing Facebook on your phone - The Next Web",
-            "description": "Early this morning, Bloomberg reported that Samsung doesn\u2019t let users uninstall the Facebook app from some of its phones. The story states that Facebook\u2019s app comes pre-installed in select Samsung devices and users can only disable it, but can\u2019t delete it fro\u2026",
-            "url": "https://thenextweb.com/finance/2019/01/09/no-samsung-isnt-pre-installing-facebook-on-your-phone/",
-            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F08%2FSamsung-Galaxy-S8-S8-14-of-17.jpg&signature=8259c946f9b8f1d12bb9ed0e08f771db",
-            "publishedAt": "2019-01-09T09:16:45Z",
-            "content": "Early this morning, Bloomberg reported that Samsung doesnt let users uninstall the Facebook app from some of its phones. The story states that Facebooks app comes pre-installed in select Samsung devices and users can only disable it, but cant delete it from t\u2026 [+2177 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.co.uk"
-            },
             "author": null,
-            "title": "Rahaf Mohammed Alqunun: Saudi teenager who fled family granted UN refugee status - The Times",
-            "description": "An 18-year-old Saudi woman has been granted refugee status by the United Nations and is being considered for resettlement by the Australian government. Rahaf Mohammed Alqunun arrived in Thailand on...",
-            "url": "https://www.thetimes.co.uk/article/rahaf-mohammed-alqunun-saudi-teenager-who-fled-family-granted-un-refugee-status-v8zzthwmg",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Febbc5f04-13e1-11e9-94cd-1357d20693b3.jpg?crop=2500%2C1406%2C0%2C130",
-            "publishedAt": "2019-01-09T09:00:00Z",
-            "content": "An 18-year-old Saudi woman has been granted refugee status by the United Nations and is being considered for resettlement by the Australian government. Rahaf Mohammed Alqunun arrived in Thailand on a flight from Kuwait after running away from her family, who \u2026 [+498 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Angela Monaghan",
-            "title": "Greggs unveils bumper profits \u2026 and nothing to do with vegan sausage rolls - The Guardian",
-            "description": "Bumper sales of festive cakes, hot drinks and breakfasts boost high street bakery chain",
-            "url": "https://www.theguardian.com/business/2019/jan/09/greggs-unveils-extra-profit-vegan-sausage-roll",
-            "urlToImage": "https://i.guim.co.uk/img/media/0e4338b4782e861fcd6c062cedb57350576947a7/0_73_4062_2437/master/4062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=040cd1cf604fffa00aa29e3575b2443d",
-            "publishedAt": "2019-01-09T08:25:00Z",
-            "content": "Greggs has raised its profit guidance for the second time in two months, bucking the trend among high street retailers, and said its new vegan sausage roll was an early hit with customers in 2019. Britains biggest bakery chain said it enjoyed a strong finish \u2026 [+1939 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Football365.com"
-            },
-            "author": "Sarah Winterburn",
-            "title": "Re-framing Hudson-Odoi to Bayern as a good news story... - Football365.com",
-            "description": "Football365 - One of European football's giants wants a young Englishman for a lot of money. It's time to celebrate, not bemoan...",
-            "url": "https://www.football365.com/news/re-framing-hudson-odoi-to-bayern-as-a-good-news-story",
-            "urlToImage": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2019/01/08144346/Callum-Hudson-Odoi.jpg",
-            "publishedAt": "2019-01-09T08:20:03Z",
-            "content": "The coverage has largely focused on Chelsea\u2019s supposed failure. How could they let another young player leave? Why do they not produce homegrown players? Where is the commitment to young English footballers? Isn\u2019t it a shame that our young players \u2018have\u2019 to g\u2026 [+3655 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Retailgazette.co.uk"
-            },
-            "author": "Sahar Nazir",
-            "title": "Sainsbury's suffers 1.1% fall in quarterly sales - Retail Gazette",
-            "description": "Sainsburys' performance as a Big 4 grocer has been dragged by the tough market during the Christmas period.",
-            "url": "https://www.retailgazette.co.uk/blog/2019/01/sainsburys-suffers-1-1-fall-quarterly-sales/",
-            "urlToImage": "https://www.retailgazette.co.uk/wp/wp-content/uploads/Sainsburys_grocery_sign_ST-2-5.jpg",
-            "publishedAt": "2019-01-09T07:36:00Z",
-            "content": "// Sainsbury\u2019s general merchandise and clothing divisions drag overall quarterly results // Like-for-likes excluding fuel down 1.1% // Total sales down 0.4% Sainsbury\u2019s has taken a hit in sales and like-for-likes in its third quarter thanks to a tough trading\u2026 [+2202 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Ploy Radford",
-            "title": "How music helps connect people living with dementia | Ploy Radford - The Guardian",
-            "description": "A new campaign aims to show how listening and playing music can help patients be happier, healthier and more harmonious",
-            "url": "https://www.theguardian.com/society/2019/jan/09/music-connects-people-dementia-campaign",
-            "urlToImage": "https://i.guim.co.uk/img/media/b0c686687d25975573db0dac8aca101ad6a62f81/0_124_1600_960/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=34aceb7a9ce3edfadd0744d2bb4614d8",
-            "publishedAt": "2019-01-09T07:30:00Z",
-            "content": "W hen Eileen Pegg developed dementia in 2015, she became very anxious and easily agitated. Her carers at MHA Weston and Queensway care home in Stafford were determined to find a way to make her happier, so they decided to see if music would help. The care hom\u2026 [+6573 chars]"
-        },
-        {
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "author": "Douglas Schoen",
-            "title": "Doug Schoen: Trump, Pelosi and Schumer \u2013 We need compromise, not political posturing - Fox News",
-            "description": "President Trump and House and Senate Democrats should compromise to fund a border wall, protect DACA recipients, and end the government shutdown.",
-            "url": "https://www.foxnews.com/opinion/doug-schoen-trump-pelosi-and-schumer-we-need-compromise-not-political-posturing",
-            "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/01/09/694940094001_5987330049001_5987329881001-vs.jpg",
-            "publishedAt": "2019-01-09T06:03:14Z",
-            "content": "President Trump made his case to the American people in an Oval Office address Tuesday night for funding a wall along the U.S.-Mexico border as a means of protecting our nation and ending the ongoing partial government shutdown. And the top Democrats in Congr\u2026 [+4372 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express.co.uk"
-            },
-            "author": "Sam Stevenson",
-            "title": "Nicky Morgan sends May no deal Brexit WARNING after Commons defeat - 'This was a signal!' - Express",
-            "description": "THERESA MAY\u2019s crushing defeat in the House of Commons yesterday was \u201ca signal\u201d there is \u201cno majority for a no deal outcome to Brexit\u201d, Nicky Morgan insisted last night.",
-            "url": "https://www.express.co.uk/news/uk/1069258/brexit-news-theresa-may-nicky-morgan-no-deal-withdrawal-agreement-leave-EU-BBC-newsnight",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1069258.jpg",
-            "publishedAt": "2019-01-09T05:30:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Thomas Moore, science correspondent",
-            "title": "World's biggest tobacco company vows to phase out cigarettes - Sky News",
-            "description": "Philip Morris International - which makes Marlboro and other leading brands - is moving into smoke-free products.",
-            "url": "https://news.sky.com/story/worlds-biggest-tobacco-company-vows-to-phase-out-cigarettes-11602153",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-cigarettes-marlboro_4540898.jpg?20190108170310",
-            "publishedAt": "2019-01-09T01:48:49Z",
-            "content": "In a swish research centre on the edge of a Swiss lake, the world's biggest cigarette company is re-inventing itself. Philip Morris International - which makes Marlboro and several other leading brands - has vowed to phase out cigarettes and move into smoke-f\u2026 [+2270 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "Tiny 33-gram finch found in the Galapagos Islands packs a bite 320 times more powerful than a T-REX - Daily Mail",
-            "description": "Galapagos large ground finch is only six inches long - about the size of T-Rex's tooth. But\u00a0pound for pound, its bite has been found to be 320 times stronger.",
-            "url": "https://www.dailymail.co.uk/news/article-6571471/Tiny-33-gram-finch-Galapagos-Islands-packs-bite-320-times-powerful-T-REX.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/01/8293094-0-image-a-65_1546997480080.jpg",
-            "publishedAt": "2019-01-09T01:32:00Z",
-            "content": "A tiny finch weighing scarcely an ounce has jaws more powerful for its size than a mighty T-Rex dinosaur, research has revealed. At six inches long, the Galapagos large ground finch is about the size of a T-Rex tooth. But pound for pound, its bite is 320 time\u2026 [+716 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.co.uk"
-            },
-            "author": null,
-            "title": "Students want 'homophobic' Oxford don John Finnis to be fired - The Times",
-            "description": "A petition to remove an Oxford law professor from teaching has attracted 350 signatures in five days. John Finnis, emeritus professor of law and legal philosophy, has been accused of having \u201ca long...",
-            "url": "https://www.thetimes.co.uk/article/students-want-homophobic-oxford-don-john-finnis-to-be-fired-8j2cz0b2d",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fafb92b68-139b-11e9-8239-c0a124428b01.jpg?crop=842%2C473%2C0%2C44",
-            "publishedAt": "2019-01-09T00:01:00Z",
-            "content": "A petition to remove an Oxford law professor from teaching has attracted 350 signatures in five days. John Finnis, emeritus professor of law and legal philosophy, has been accused of having a long record of extremely discriminatory views against many groups o\u2026 [+528 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Irishmirror.ie"
-            },
-            "author": "Irishmirror.ie",
-            "title": "Jack Fincham tries to take relationship to next level - but Dani Dyer storms off - Irish Mirror",
-            "description": "Jack got down on one knee during a romantic getaway in Rome - but Dani was having none of it on Life After Love Island",
-            "url": "https://www.irishmirror.ie/tv/jack-fincham-tries-take-relationship-13831479",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13831463.ece/ALTERNATES/s1200/0_RLP_MDG_080119DYER_14012JPG.jpg",
-            "publishedAt": "2019-01-08T23:05:00Z",
-            "content": "Jack Fincham tried to take his relationship with Dani Dyer to the next level on tonight's Life After Love Island. The Love Island stars went on a romantic getaway to Rome to get away from the stress of Essex life. Jack was looking forward to showing Dani arou\u2026 [+1282 chars]"
+            "title": "Champions League quarter-finals: What we have learned from stats so far? - BBC Sport",
+            "description": "Who's used the most players? Who's scored the fewest goals? BBC Sport looks at some of the key stats from the eight teams left in the Champions League.",
+            "url": "https://www.bbc.co.uk/sport/football/47847320",
+            "urlToImage": "https://ichef.bbci.co.uk/onesport/cps/624/cpsprodpb/14AEB/production/_106351748_ronaldo_getty.jpg",
+            "publishedAt": "2019-04-08T16:01:37Z",
+            "content": "Lionel Messi is the top scorer in this season's Champions League with eight goals, one every 60 minutes The Champions League quarter-finals are upon us after the third highest-scoring last-16 round in history (52 goals). Tottenham Hotspur host Manchester City\u2026 [+5078 chars]"
         },
         {
             "source": {
@@ -333,142 +34,467 @@
                 "name": "Financial Times"
             },
             "author": null,
-            "title": "Tim Cook\u2019s total remuneration jumped 22% in 2018 - Financial Times",
-            "description": "Apple chief executive Tim Cook saw his total remuneration jump by 22 per cent its last fiscal year ended in September, as iPhone sales hit a peak from which they have since begun a sharp decline.",
-            "url": "https://www.ft.com/content/832f07a0-1393-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F986d9c2e-1395-11e9-a581-4ff78404524e?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T22:59:00Z",
-            "content": "Apple chief executive Tim Cook saw his total remuneration jump by 22 per cent its last fiscal year ended in September, as iPhone sales hit a peak from which they have since begun a sharp decline. With the companys shares still flying high last summer, Mr Cook\u2026 [+1477 chars]"
+            "title": "Barnier outlines major demands for UK negotiations after a no-deal Brexit - Financial Times",
+            "description": "Irish border, citizens\u2019 rights and money will still have to be settled, says EU negotiator",
+            "url": "https://www.ft.com/content/f9af6b90-5a15-11e9-939a-341f5ada9d40",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F7d6faba4-5a0a-11e9-840c-530737425559?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T16:00:00Z",
+            "content": "Michel Barnier has laid down heavy conditions for the UK to enter talks with Brussels after a no-deal Brexit, saying the Irish border, citizens\u2019 rights and money will have to be settled before negotiations on future ties with the EU. Europe\u2019s chief Brexit neg\u2026 [+1812 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Timminstoday.com"
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "Teen injured after fairground ride comes loose on Brighton Palace Pier - Sky News",
+            "description": "One person is injured and others are left shaken after part of the Air Race ride comes loose on the famous pier.",
+            "url": "https://news.sky.com/story/teen-injured-after-fairground-ride-comes-loose-on-brighton-palace-pier-11688018",
+            "urlToImage": "https://e3.365dm.com/19/04/1600x900/skynews-brighton-pier_4633074.jpg?20190408171218",
+            "publishedAt": "2019-04-08T15:17:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Hannah Devlin",
+            "title": "Scientists reverse memory decline using electrical pulses - The Guardian",
+            "description": "Working memory of older group temporarily improves to match younger group in study",
+            "url": "https://www.theguardian.com/science/2019/apr/08/scientists-use-electrical-pulses-reverse-memory-decline-ageing",
+            "urlToImage": "https://i.guim.co.uk/img/media/5eec9566d0228ff5cb4f9c173304c1d1e972a198/0_477_3750_2250/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=97d24f63b3ff06b91c7eed2c22544011",
+            "publishedAt": "2019-04-08T15:00:00Z",
+            "content": "A decline in memory as a result of ageing can be temporarily reversed using a harmless form of electrical brain stimulation, scientists have found. The findings help explain why certain cognitive skills decline significantly with age and raise the prospect of\u2026 [+3980 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
             },
             "author": null,
-            "title": "It's Alzheimer awareness month in Timmins - TimminsToday",
-            "description": "Read the full story and comment on TimminsToday.",
-            "url": "https://www.timminstoday.com/local-news/its-alzheimer-awareness-month-in-timmins-1187198",
-            "urlToImage": "https://vmcdn.ca/f/files/timminstoday/images/city-of-timmins/2019-01-08-alzheimer-month-sup.jpg;w=630",
-            "publishedAt": "2019-01-08T19:00:00Z",
-            "content": "January has officially been proclaimed Alzheimer Awareness Month in Timmins. Timmins Mayor George Pirie was joined by Alzheimer Society Timmins-Porcupine executive director Tracy Koskamp-Bergeron as well as other employees to make the proclamation and raise a\u2026 [+677 chars]"
-        },
-        {
-            "source": {
-                "id": "mirror",
-                "name": "Mirror"
-            },
-            "author": "Abigail O'Leary",
-            "title": "Heathrow Airport drone: Recap as flights resume while police continue hunt - Mirror.co.uk",
-            "description": "At least one runway closed as passengers reported delayed flights and being stuck on aircrafts for up to an hour and a half",
-            "url": "https://www.mirror.co.uk/news/uk-news/heathrow-drone-live-updates-police-13830241",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13830209.ece/ALTERNATES/s1200/0_Aerial-view-west-of-Heathrow-Airport.jpg",
-            "publishedAt": "2019-01-08T18:10:01Z",
-            "content": "Flights have resumed at Heathrow Airport after earlier reports of a drone sighting. At least one runway was said to be closed as passengers reported delayed flights and being stuck on aircraft for up to an hour and a half. Investigations involving the Metropo\u2026 [+603 chars]"
-        },
-        {
-            "source": {
-                "id": "techradar",
-                "name": "TechRadar"
-            },
-            "author": "https://www.facebook.com/TechRadar",
-            "title": "Dell XPS 13 (2019) hands on review - TechRadar",
-            "description": "The webcam has moved at last",
-            "url": "https://www.techradar.com/reviews/dell-xps-13-2019",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/QVKmxDZtY4uSN3Pu5mQjc6-1200-80.jpg",
-            "publishedAt": "2019-01-08T18:00:00Z",
-            "content": "For CES 2019, Dell has a present for its long-time XPS laptop fans: an XPS 13 with the webcam where it belongs. This is about the only major design change to the laptop, but it\u2019s enough. With this major bugbear out of the way, and with the latest Intel proces\u2026 [+3903 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Julian Borger",
-            "title": "Trump administration downgrades EU's status in US, without informing Brussels - The Guardian",
-            "description": "Downgrade of diplomatic role seen as a snub reflecting a general antipathy to the EU in the Trump administration",
-            "url": "https://www.theguardian.com/us-news/2019/jan/08/trump-administration-downgrades-european-union-status",
-            "urlToImage": "https://i.guim.co.uk/img/media/a0eacff09ad99247d36cef9d5b04ecc192b6c491/0_109_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=22a1c47681fb8d6b0b7ca2b487f024a9",
-            "publishedAt": "2019-01-08T16:32:00Z",
-            "content": "The Trump administration has downgraded the diplomatic status of the EU mission in Washington, without informing the mission or Brussels, officials confirmed on Tuesday. The downgrade from nation state to international organisation status reverses an Obama ad\u2026 [+1874 chars]"
+            "title": "Carlos Ghosn\u2019s downfall shows how easily Europe\u2019s industrial strategy can fall apart - Telegraph.co.uk",
+            "description": "A personal scandal?",
+            "url": "https://www.telegraph.co.uk/business/2019/04/08/carlos-ghosns-downfall-europes-industrial-strategy-tatters/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2019/04/08/TELEMMGLPICT000193644764-xlarge_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7P0TubxRUQnJB4ybUX7kN_w.jpeg",
+            "publishedAt": "2019-04-08T14:57:00Z",
+            "content": "A personal scandal? Political manoeuvring between France and Japan? Deadlock in the auto industry? It might be years before we know the real story behind Carlos Ghosns departure from Renault-Nissan. Over the last six months the man who was once the most power\u2026 [+445 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Manchestereveningnews.co.uk"
+                "name": "Eadt.co.uk"
             },
-            "author": "Stuart Greer",
-            "title": "Woman puts erectile dysfunction cream in eye after prescription blunder and suffers chemical injuries - Manchester Evening News",
-            "description": "The patient was treated for a chemical injury at A&E in after the unfortunate error",
-            "url": "https://www.manchestereveningnews.co.uk/news/uk-news/erectile-dysfunction-cream-prescription-blunder-15646850",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article15647073.ece/ALTERNATES/s1200/0_eye-691269_1920.jpg",
-            "publishedAt": "2019-01-08T16:07:00Z",
-            "content": "A woman suffered chemical injuries after being mistakenly prescribed erectile dysfunction cream for a dry eye. The patient had to be treated at A&amp;E after receiving Vitaros cream instead of the ocular lubricant VitA-POS. She was treated with antibiotics, l\u2026 [+2327 chars]"
+            "author": "James Carr",
+            "title": "Debenhams likely to go into administration by end of the week - East Anglian Daily Times",
+            "description": "Debenhams bosses have been attacked by Sports Direct owner Mike Ashley after pressing ahead with a \u00a3200m refinancing plan to avoid his takeover bid.",
+            "url": "https://www.eadt.co.uk/business/mike-ashley-slams-debenhams-after-150m-takeoffer-offer-tabled-1-5984647",
+            "urlToImage": "https://www.eadt.co.uk/polopoly_fs/1.5984649!/image/image.jpg",
+            "publishedAt": "2019-04-08T14:48:00Z",
+            "content": "PUBLISHED: 15:48 08 April 2019 | UPDATED: 15:48 08 April 2019 James Carr Debenhams on Westgate Street, Ipswich. Picture: SARAH LUCY BROWN Archant On Sunday night the billionaire called for the retail chains board to be investigated and trading in its shares t\u2026 [+2031 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Revolutionary Guard Corps: US labels Iran force as terrorists - BBC News",
+            "description": "It is the first time the US has labelled a foreign government's military as a terrorist organisation.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-47857140",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148ED/production/_106350248_gettyimages-508693120.jpg",
+            "publishedAt": "2019-04-08T14:41:45Z",
+            "content": "Image copyright TTA KENARE/AFP/Getty Images Image caption The US has sanctioned parts of the IRGC before US President Donald Trump has designated Iran's elite Revolutionary Guard Corps (IRGC) as a foreign terrorist organisation. It is the first time the US ha\u2026 [+3360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Oddschecker.com"
+            },
+            "author": null,
+            "title": "The Masters 2019 Tips & Betting Preview - Oddschecker",
+            "description": "\u00a320 on our golf expert's tips in 2018 majors returned \u00a31,708 in profit. Get the best betting tips and odds at Oddschecker.",
+            "url": "https://www.oddschecker.com/tips/golf/masters/20190408-the-masters-2019-tips-betting-preview",
+            "urlToImage": "https://static.oddschecker.com/content/types/TIP/golf-augusta-masters-18.jpg?v=8144159",
+            "publishedAt": "2019-04-08T14:32:00Z",
+            "content": "Earlier in the year I advised a chunky each way bet on McIlroy in Mexico. He obliged in making the places but when writing the preview I suggested piling into him and Dustin each way certainly didn't seem like a bad way to operate that week. I was left disapp\u2026 [+2308 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Express.co.uk"
             },
-            "author": "Athena Chrysanthou",
-            "title": "Huge skull of SEA MONSTER stuns scientists - \u2018It\u2019s worth the wait!\u2019 - Express",
-            "description": "FOR the first time since its discovery decades ago, the skull of giant sea monster has been studied - and revealed to be the biggest ever found of its kind.",
-            "url": "https://www.express.co.uk/news/uk/1068996/dinosaur-skeleton-discovery-skull-uk-news",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/1/750x445/1068996.jpg",
-            "publishedAt": "2019-01-08T15:45:00Z",
+            "author": "Levi Winchester",
+            "title": "Turkey lira PLUNGES against dollar as furious Erdogan calls for election RE-RUN - Express",
+            "description": "TURKEY saw its lira plummet today on the back of comments from President Tayyip Erdogan calling for a re-run of the local elections.",
+            "url": "https://www.express.co.uk/finance/city/1111445/Turkey-lira-turkish-lira-latest-price-us-dollar-tayyip-erdogan-election-results",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/22/750x445/1111445.jpg",
+            "publishedAt": "2019-04-08T14:31:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Astronomynow.com"
+                "name": "Theguardian.com"
             },
-            "author": null,
-            "title": "TESS on track to revolutionise exoplanet astronomy \u2013 Astronomy Now - Astronomy Now Online",
-            "description": null,
-            "url": "https://astronomynow.com/2019/01/08/28318/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T15:44:55Z",
-            "content": "NASA\u2019s Transiting Exoplanet Survey Satellite \u2013 TESS \u2013 seen here during final preparations for launch last April. In its first three months of observations, TESS has chalked up three confirmed exoplanet discoveries and 280 candidates. Image: NASA NASA\u2019s Transi\u2026 [+4215 chars]"
+            "author": "Chris Stephen, Peter Beaumont",
+            "title": "'We're frightened': Tripoli braces as fighting reaches suburbs - The Guardian",
+            "description": "Violence at edge of capital contrasts with tense calm in city centre as Libyans fear bloodbath",
+            "url": "https://www.theguardian.com/world/2019/apr/08/we-are-frightened-tripoli-libya-braces-fighting-reaches-suburbs",
+            "urlToImage": "https://i.guim.co.uk/img/media/3b6f1ced7cafc3503f6887e5fa553d3fa71a9249/0_145_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=1be9eca20e6f75227607929b4348b858",
+            "publishedAt": "2019-04-08T14:05:00Z",
+            "content": "R esidents of Tripoli have spoken of their fear and confusion as clashes between UN-backed government forces and troops loyal to the Benghazi strongman Khalifa Haftar continue in its southern suburbs. We are sandwiched between the forces, people are wondering\u2026 [+5226 chars]"
         },
         {
             "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
+                "id": "daily-mail",
+                "name": "Daily Mail"
             },
-            "author": "Alex Hern",
-            "title": "Fall of the iCurtain: Apple brings iTunes to Samsung smart TVs - The Guardian",
-            "description": "Surprise move signals wider opening up of Apple ecosystem as tech firm seeks new revenue",
-            "url": "https://www.theguardian.com/technology/2019/jan/08/fall-icurtain-apple-itunes-samsung-smart-tv",
-            "urlToImage": "https://i.guim.co.uk/img/media/1a33c4c835e82c6f1e9df1e992d16300e8a0ae87/0_0_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=7dd35a41d3614206899e707ab3bc41f5",
-            "publishedAt": "2019-01-08T14:17:00Z",
-            "content": "Apple has announced that iTunes films will be available on Samsung smart TVs, ending the companys insistence that users buy an Apple TV to watch their purchases on a big screen. Fifteen years after Steve Jobs launched iTunes for Windows, quipping that he was \u2026 [+3018 chars]"
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "First-ever direct image of a black hole's dusty ring around a black hole is taken - Daily Mail",
+            "description": "The VLA telescope in New Mexico captured evidence and the world's first imagery of a dusty ring - a torus - around a large and very bright black hole spewing out radio waves.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-6899045/First-direct-image-black-holes-dusty-ring-black-hole-taken.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/14/12007832-0-image-a-18_1554731152749.jpg",
+            "publishedAt": "2019-04-08T13:49:14Z",
+            "content": "Astronomers have taken the first-ever direct image of a dusty doughnut swirling around a supermassive black hole. The ring - known as a torus - was imaged around the black hole at the centre of Cygnus A, one of the most powerful radio galaxies in the Universe\u2026 [+3771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Rowena Mason",
+            "title": "Brexiter MPs call for confidence vote in May to block further delay - The Guardian",
+            "description": "Indicative vote could ensure UK leaves this week \u2018as many Tory MPs want\u2019, says Mark Francois",
+            "url": "https://www.theguardian.com/politics/2019/apr/08/mps-mark-francois-call-for-confidence-vote-in-theresa-may-to-block-further-brexit-delay",
+            "urlToImage": "https://i.guim.co.uk/img/media/18381aaa637d29a3f532d93efed25fb457ad35eb/0_112_3400_2040/master/3400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=41782998c9478794c98137b811ea424a",
+            "publishedAt": "2019-04-08T13:38:00Z",
+            "content": "Leading pro-Brexit MPs are demanding that a vote of no confidence in Theresa May take place on Wednesday afternoon, just before she asks EU leaders for a delay to leaving the European Union. Mark Francois, a Conservative MP and the vice-chair of the hardline \u2026 [+2591 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Asthma inhalers as bad for the environment as 180-mile car journey, health chiefs say - The Telegraph",
+            "description": "Asthmatics have been warned by health chiefs that each inhaler they use could be polluting the environment by as much as a 180-mile car journey.",
+            "url": "https://www.telegraph.co.uk/news/2019/04/08/asthma-inhalers-bad-environment-180-mile-car-journey-health/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2018/12/03/TELEMMGLPICT000161936776-xlarge_trans_NvBQzQNjv4BqwV-8WoS_tWKjVWeS7sRIj5x0XFVDjNA-v0HcLknofys.jpeg",
+            "publishedAt": "2019-04-08T13:01:00Z",
+            "content": "A sthmatics have been warned by health chiefs that each inhaler they use could be polluting the environment by as much as a 180-mile car journey. The National Institute for Health and Care Excellence (Nice) has issued new guidance urging sufferers, where poss\u2026 [+950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.co.uk"
+            },
+            "author": null,
+            "title": "UK Jaguar Land Rover Staff Start Compulsory Brexit Holiday - Gizmodo UK",
+            "description": "Workers down tools, or the touchscreens that control the tools, this week.",
+            "url": "http://www.gizmodo.co.uk/2019/04/uk-jaguar-land-rover-staff-start-compulsory-brexit-holiday/",
+            "urlToImage": "https://media.gizmodo.co.uk/wp-content/uploads/2019/04/landrover-solihull.jpg",
+            "publishedAt": "2019-04-08T13:00:00Z",
+            "content": "All of Jaguar Land Rover's UK production lines have shut down today. But just for a week. It's part of the firm's Brexit-preparedness efforts, agreed months back to get staff to down tools to stop making cars for a week, lest it end up with more cars than it \u2026 [+747 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Cornish tourism bosses meet BBC presenters to complain that they stand in front of the county - Daily Mail",
+            "description": "Tourism bosses in Cornwall complained to the BBC that weather presenters stand in front of the region during weather reports and include it in 'throwaway lines' such as rain predictions.",
+            "url": "https://www.dailymail.co.uk/news/article-6898787/Cornish-tourism-bosses-meet-BBC-presenters-complain-stand-county.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/15/12008124-0-image-a-2_1554732904880.jpg",
+            "publishedAt": "2019-04-08T12:38:40Z",
+            "content": "Tourism bosses in Cornwall have complained to the BBC that presenters stand in front of the region during weather reports. Officials say weather reporters, who typically stand to the left of the screen, often block the west of the county when giving forecasts\u2026 [+3715 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Stunning footage reveals the moment the moon SWALLOWS Saturn - Daily Mail",
+            "description": "This celestial event lasted for 1 hour 44 minutes and was captured by photographer\u00a0Cory Schmitz in Johannesburg.",
+            "url": "https://www.dailymail.co.uk/sciencetech/article-6898647/Stunning-footage-reveals-moment-moon-SWALLOWS-Saturn.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/14/12007462-0-image-a-7_1554730402205.jpg",
+            "publishedAt": "2019-04-08T12:24:12Z",
+            "content": "Cassini launched from Cape Canaveral, Florida in 1997, then spent seven years in transit followed by 13 years orbiting Saturn. An artist's impression of the Cassini spacecraft studying Saturn In 2000 it spent six months studying Jupiter before reaching Saturn\u2026 [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Paddy Shennan",
+            "title": "Girl, 15, walked in on boyfriend having sex with mum who hid dead baby in a bin - Mirror Online",
+            "description": "Joanne Lee revealed she walked in on her mum having sex with her boyfriend when she was just 15 - Bernadette Quirk then hid the stillborn baby's body in a wardrobe for decades",
+            "url": "https://www.mirror.co.uk/news/uk-news/girl-15-walked-boyfriend-having-14252246",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article14250889.ece/ALTERNATES/s1200/0_Bernadette-Quirk_02.jpg",
+            "publishedAt": "2019-04-08T11:39:00Z",
+            "content": "A women walked in on her mum having sex with her boyfriend when she was just 15. But it was years before she would discover the pair had a stillborn baby whose tiny body her mum hid away in a wardrobe for decades. Joanne Lee, 47, spoke about the disturbing re\u2026 [+4710 chars]"
+        },
+        {
+            "source": {
+                "id": "metro",
+                "name": "Metro"
+            },
+            "author": "Jeff Parsons",
+            "title": "Dad locked out of iPad for 47 years thanks to his toddler - Metro.co.uk",
+            "description": "'I would just wait it out'",
+            "url": "https://metro.co.uk/2019/04/08/toddler-locks-dad-ipad-25536442-minutes-9132316/",
+            "urlToImage": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/04/SEC_60943681_1554724591.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
+            "publishedAt": "2019-04-08T11:26:00Z",
+            "content": "Trusting your child with an expensive piece of consumer technology is a risky move. One dad, journalist Evan Osnos from Washington DC, handing his iPad over to his son meant being locked out of it for nearly half a century. Posting on Twitter, Osnos said that\u2026 [+1692 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Peter Walker, Rowena Mason",
+            "title": "May to ask Merkel and Macron for short article 50 extension - The Guardian",
+            "description": "Prime minister claims Brexit discussions with Labour have serious chance of success",
+            "url": "https://www.theguardian.com/politics/2019/apr/08/theresa-may-resume-talks-labour-find-brexit-compromise",
+            "urlToImage": "https://i.guim.co.uk/img/media/6da104fb9e8c98a5c21d855f98c91694657f41b9/48_76_2594_1557/master/2594.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4fb9fecb6089f7ba52a206dc549f6516",
+            "publishedAt": "2019-04-08T11:23:00Z",
+            "content": "Theresa May will travel to meet Emmanuel Macron and Angela Merkel and plead with them for a short extension to Brexit, claiming talks with Labour have a serious chance of reaching a deal. Before an emergency European summit on Wednesday, the prime minister wi\u2026 [+4834 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Sudan: Army splits to protect protesters who demand Bashir steps down - The Times",
+            "description": "Soldiers in Sudan attempted to shield demonstrators from other members of the security forces as they set upon thousands of protesters outside the military headquarters in the capital Khartoum.",
+            "url": "https://www.thetimes.co.uk/article/sudan-army-splits-protesters-bashir-step-down-mqk5nfww6",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F093e04d0-59ea-11e9-ad39-96aa259da63d.jpg?crop=4160%2C2340%2C0%2C217",
+            "publishedAt": "2019-04-08T11:00:00Z",
+            "content": "Soldiers in Sudan attempted to shield demonstrators from other members of the security forces as they set upon thousands of protesters outside the military headquarters in the capital Khartoum. Unprecedented scenes were reported of young troops throwing their\u2026 [+578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Appleinsider.com"
+            },
+            "author": "AppleInsider",
+            "title": "Two 2019 iPhones rumored to have triple-camera, OLED display, USB-C, and be thicker - AppleInsider",
+            "description": "A new report claims that the 2019 iPhone lineup will include two models with a new triple-camera system, OLED screens, and USB-C charging. And, while unusual for Apple, the new models may be thicker to accommodate larger batteries.",
+            "url": "https://appleinsider.com/articles/19/04/08/two-2019-iphones-rumored-to-have-triple-camera-oled-display-usb-c-and-thicker",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/30508-50101-000-3x2-Thicker-iPhones-xl.jpg",
+            "publishedAt": "2019-04-08T11:00:00Z",
+            "content": "A new report claims that the 2019 iPhone lineup will include two models with a new triple-camera system, OLED screens, and USB-C charging. And, while unusual for Apple, the new models may be thicker to accommodate larger batteries. According to the Japanese b\u2026 [+1842 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Anthony Cuthbertson",
-            "title": "CES 2019: LG unveils futuristic roll-up TV that disappears into its base - The Independent",
-            "description": "The Signature Series OLED 4K\u00a0television appears at the touch of a button",
-            "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/ces-2019-lg-roll-up-tv-signature-series-oled-4k-technology-a8716826.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/10/lg-tv-roll-up-television.jpg",
-            "publishedAt": "2019-01-08T13:09:00Z",
-            "content": "LG has unveiled the world's first consumer-ready rollable television at the CES 2019 trade show in Las Vegas. The South Korean electronics giant said the \"revolutionary form factor\" of its Signature OLED TV R will define the next generation of television. A c\u2026 [+15884 chars]"
+            "author": "Ashley Cowburn",
+            "title": "Boris Johnson broke Commons rules over late declaration of financial interest in property - The Independent",
+            "description": "Watchdog committee says latest breach reinforces view Mr Johnson has displayed\u00a0an 'over-casual attitude towards obeying the rules of the house'",
+            "url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-break-rules-financial-declaration-a8859736.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/03/19/13/POLITICS-Brexit-132270.jpg",
+            "publishedAt": "2019-04-08T10:25:50Z",
+            "content": "Boris Johnson has breached House of Commons rules by failing to declare a financial interest in a property within the required time limit, the Commons Committee on Standards has found. According to the watchdog, the former foreign secretary failed to register\u2026 [+2213 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sciencebusiness.net"
+                "name": "Teamtalk.com"
             },
             "author": null,
-            "title": "In the eye of a science storm: China's genetically edited babies scandal, and what happened next - Science Business",
-            "description": null,
-            "url": "https://sciencebusiness.net/eye-science-storm-chinas-genetically-edited-babies-scandal-and-what-happened-next",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T12:58:07Z",
-            "content": "Last week, Chinese science was on a high after successfully landing a probe on the far side of the moon. That achievement is a resounding demonstration of the countrys scientific and technological prowess. But Chinas position as science superpower should also\u2026 [+6799 chars]"
+            "title": "Wolves star scathing after FA Cup semi-final collapse - Teamtalk.com",
+            "description": "Diogo Jota was crestfallen after Wolves \"wasted\" the chance to reach the FA Cup final on a dramatic Sunday at Wembley.",
+            "url": "https://www.teamtalk.com/news/wolves-star-scathing-after-fa-cup-semi-final-collapse",
+            "urlToImage": "https://d3vlf99qeg6bpx.cloudfront.net/content/uploads/2019/04/08105837/Diogo.Jota_.jpg",
+            "publishedAt": "2019-04-08T09:59:04Z",
+            "content": "Diogo Jota was crestfallen after Wolves \u201cwasted\u201d the chance to reach the FA Cup final on a dramatic Sunday at Wembley. Goals from Matt Doherty and Raul Jimenez had the gold half of Wembley dreaming on Sunday, when Gerard Deulofeu\u2019s 79th-minute stunner appeare\u2026 [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lbc.co.uk"
+            },
+            "author": "LBC",
+            "title": "James O'Brien Admits He \"Can't See The Wood For The Trees\" In ULEZ Debate - LBC",
+            "description": "James revealed that he is cyncical of the ULEZ debate and the motives of those involved in the debate, and likened it to the Brexit debate.",
+            "url": "https://www.lbc.co.uk/radio/presenters/james-obrien/admits-cant-see-the-wood-for-the-trees-ulez-debate/",
+            "urlToImage": "https://images.lbc.co.uk/images/45357?width=1200&crop=16_9&signature=bNLp_XxrM9K8LtBUAnrv5Vpt6dQ=",
+            "publishedAt": "2019-04-08T09:58:59Z",
+            "content": "8 April 2019, 10:58 | Updated: 8 April 2019, 11:02 James revealed that he is cyncical of the ULEZ debate and the motives of those involved in the debate, and likened it to the Brexit debate. The Ultra Low Emission Zone ( ULEZ ) starts today, Monday 8th April \u2026 [+1278 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Kelly Pigram",
+            "title": "Bloody skull all that\u2019s left of Rhino poacher trampled by elephants then eaten by lions at Kruger National P - The Sun",
+            "description": "A group of poachers were 'surprised' by an angry elephant who stamped their friend to death",
+            "url": "https://www.thesun.co.uk/news/8813772/head-rhino-poacher-death-kurger-national-park-south-africa/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/SD-LION-COMPOSITE.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T09:47:00Z",
+            "content": "A BLOODY skull is all that remains of a Rhino poacher who was trampled to death by elephants and eaten by lions at Kruger National Park in South Africa. Police found the man's remains on Thursday, after four other poachers, who escaped, explained that a membe\u2026 [+2994 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Owen Gough",
+            "title": "Amazon is having a massive spring sale on its devices and home tech - DigitalSpy.com",
+            "description": "Huge discounts on headphones, Fire TV sticks and more.",
+            "url": "https://www.digitalspy.com/tech/best-tech-deals/a27069951/amazon-spring-sale-fitbit-fire-tv-stick/",
+            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/39/1475074753-amazon-echo.jpg?crop=1.00xw:0.752xh;0,0.0841xh&resize=1200:*",
+            "publishedAt": "2019-04-08T09:44:00Z",
+            "content": "We earn a commission for products purchased through some links in this article. Wallets at the ready everyone \u2013 Amazon has just started a massive, week-long spring sale on some of its best devices and home tech. It's dropped prices on everything from Amazon F\u2026 [+4057 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Mother, 29, suffers a stroke just days after giving birth to her second daughter - Daily Mail",
+            "description": "Lexy Walton-Godfrey, of Blidworth, Nottinghamshire, said doctors could only suggest the C-section she had 17 days prior as a cause of her stroke.",
+            "url": "https://www.dailymail.co.uk/health/article-6898137/Mother-29-suffers-stroke-just-days-giving-birth-second-daughter.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/09/11996434-0-image-a-9_1554711806014.jpg",
+            "publishedAt": "2019-04-08T09:29:08Z",
+            "content": "A mother has told how she suffered a stroke aged just 29 which doctors fear was triggered by giving birth just two weeks before. Lexy Walton-Godfrey, from Blidworth, Nottinghamshire, claims her stroke felt like a huge magnet was pulling her down. Mrs Walton-G\u2026 [+5353 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "James Benson",
+            "title": "What Becky Lynch told WWE after beating Ronda Rousey and Charlotte Flair at WrestleMania - Express",
+            "description": "BECKY LYNCH believes anything is possible after she beat Ronda Rousey and Charlotte Flair at WrestleMania on Sunday night.",
+            "url": "https://www.express.co.uk/sport/wwe/1111283/Becky-Lynch-WWE-Ronda-Rousey-Charlotte-Flair-WrestleMania",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/171/750x445/1111283.jpg",
+            "publishedAt": "2019-04-08T09:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itv.com"
+            },
+            "author": null,
+            "title": "Is cancelling Brexit the Prime Minister's new default? - ITV News",
+            "description": "Is the de facto Brexit default now revoking Article 50 this week rather than a no-deal Brexit on 12 April? \n\nI ask because the PM is now explicitly saying the choice is a binary one between some version of her negotiated deal and not leaving at all (that is w\u2026",
+            "url": "https://www.itv.com/news/2019-04-08/is-cancelling-brexit-the-prime-ministers-new-default/",
+            "urlToImage": "https://news.images.itv.com/image/file/1822068/img.jpg",
+            "publishedAt": "2019-04-08T08:52:00Z",
+            "content": "Is the de facto Brexit default now revoking Article 50 this week rather than a no-deal Brexit on 12 April? I ask because the PM is now explicitly saying the choice is a binary one between some version of her negotiated deal and not leaving at all (that is wha\u2026 [+2083 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Esctoday.com"
+            },
+            "author": "https://www.facebook.com/jiandani.sergio",
+            "title": "Eurovision The Netherlands: Amsterdam ready to host Eurovision 2020 if Duncan wins in Tel Aviv - esctoday.com",
+            "description": "Eurovision news 2018: Dutch Eurovision hopeful Duncan Laurence is currently the bookies' hot favourite to win the 2019 Eurovision Song Contest in\u00a0 Tel Aviv and has gained much",
+            "url": "http://esctoday.com/173735/the-netherlands-amsterdam-ready-to-host-eurovision-2020-if-duncan-wins-in-tel-aviv/",
+            "urlToImage": "http://esct2018.storage.googleapis.com/wp-content/uploads/2019/04/wsi-imageoptim-famke.jpg",
+            "publishedAt": "2019-04-08T08:15:00Z",
+            "content": "Dutch Eurovision hopeful Duncan Laurence is currently the bookies\u2019 hot favourite to win the 2019 Eurovision Song Contest in Tel Aviv and has gained much fame and name both at home in Holland and overseas since the release of his Eurovision entry Arcade. This \u2026 [+2590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Moya Sarner",
+            "title": "\u2018It can be a wonderful freeing moment\u2019: opening up about mental health at work - The Guardian",
+            "description": "Mental illness is still taboo in many workplaces. But life can be transformed when you are able to talk to colleagues",
+            "url": "https://www.theguardian.com/lifeandstyle/2019/apr/08/it-can-be-a-wonderful-freeing-moment-opening-up-about-mental-health-at-work",
+            "urlToImage": "https://i.guim.co.uk/img/media/cc24b6497600aea0db56779d1d3a0f1221990efe/0_0_5333_3200/master/5333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=ae3b70b0001748c249286ca10392a674",
+            "publishedAt": "2019-04-08T08:00:00Z",
+            "content": "I would rather tell an employer I have excruciating period pain or terrible diarrhoea than say I need to take a day off for my mental health. Despite the mental health awareness days, mindfulness at work courses and stigma-bashing posters, many of us still fe\u2026 [+7760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sky.com"
+            },
+            "author": "Sky",
+            "title": "Scientists to unveil first ever real picture of black hole - Sky News",
+            "description": "A new project to examine the supermassive black hole at the centre of our galaxy is about to announce the results of its scans.",
+            "url": "https://news.sky.com/story/scientists-to-unveil-first-ever-real-picture-of-black-hole-11687509",
+            "urlToImage": "https://e3.365dm.com/18/04/1600x900/skynews-black-hole-black-holes_4273211.jpg?20180404154022",
+            "publishedAt": "2019-04-08T07:52:30Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kitguru.net"
+            },
+            "author": "Matthew Wilson",
+            "title": "Netflix is dropping Apple AirPlay support due to 'technical limitations' - KitGuru",
+            "description": "In a surprisingly sudden move, Netflix has announced that it will no longer be supporting AirPlay, Apple's content-beaming technology. Previously on an iOS or macOS device, you would be able to transf",
+            "url": "https://www.kitguru.net/lifestyle/mobile/apple/matthew-wilson/netflix-is-dropping-apple-airplay-support-due-to-technical-limitations/",
+            "urlToImage": "https://www.kitguru.net/wp-content/uploads/2018/08/Netflix_Logo-2-650x330.jpg",
+            "publishedAt": "2019-04-08T07:35:47Z",
+            "content": "In a surprisingly sudden move, Netflix has announced that it will no longer be supporting AirPlay, Apple\u2019s content-beaming technology. Previously on an iOS or macOS device, you would be able to transfer a Netflix stream to a bigger screen, but due to apparent\u2026 [+1198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Israelnationalnews.com"
+            },
+            "author": null,
+            "title": "Beresheet spacecraft completes maneuver around the moon - Arutz Sheva",
+            "description": "Israel's first spacecraft successfully completes maneuver around the moon, just days before scheduled lunar landing.",
+            "url": "http://www.israelnationalnews.com/News/News.aspx/261532",
+            "urlToImage": "http://k6s3v6r4.ssl.hwcdn.net/pictures/893/893494.jpg",
+            "publishedAt": "2019-04-08T06:25:00Z",
+            "content": "The Israeli spacecraft Beresheet successfully completed a maneuver around the moon Monday morning, just days ahead of the spacecraft\u2019s scheduled lunar landing. Beresheet, Israel\u2019s first spacecraft, is slated to touchdown on the moon on Thursday, April 11th, r\u2026 [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Jo Berry",
+            "title": "Killing Eve season 2 is as good as ever, even without Phoebe Waller-Bridge - DigitalSpy.com",
+            "description": "The writer has taken a step back, but you wouldn't guess.",
+            "url": "https://www.digitalspy.com/tv/ustv/a27053416/killing-eve-season-2-premiere-episode-1-review/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/killing-eve-season-2-jodie-comer-1554468887.jpg?crop=1.00xw:0.501xh;0.00104xw,0.182xh&resize=1200:*",
+            "publishedAt": "2019-04-08T01:00:00Z",
+            "content": "Note: contains US-pace spoilers for season 2 of Killing Eve. The second season of Killing Eve has arrived on BBC America \u2013 UK viewers will have to wait a little longer, with a BBC air date still TBC \u2013 and it picks up the bloody, twisted and bitingly funny sto\u2026 [+4039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Megan Davies",
+            "title": "Coronation Street star Brooke Vincent confirms she's pregnant - DigitalSpy.com",
+            "description": "\"I'm beside myself with happiness.\"",
+            "url": "https://www.digitalspy.com/soaps/coronation-street/a27065025/coronation-street-brooke-vincent-pregnant-first-child/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/brooke-vincent-nta-2019-1554636701.jpg?crop=0.777xw:0.388xh;0.0734xw,0.0375xh&resize=1200:*",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "Coronation Street 's Sophie Webster will be taking a leave of absence from the Cobbles very soon, as actress Brooke Vincent has confirmed the happy news she's pregnant. The star has shared that she and partner Kean Bryan are expecting their first baby, with B\u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nottinghampost.com"
+            },
+            "author": "Nottinghamshire Live",
+            "title": "Three half-centuries tighten Notts' grip on day three against Yorkshire - Nottinghamshire Live",
+            "description": "Notts are in a strong position going into the final day at Trent Bridge",
+            "url": "https://www.nottinghampost.com/sport/other-sport/three-half-centuries-tighten-nottinghamshires-2732092",
+            "urlToImage": "https://i2-prod.nottinghampost.com/sport/other-sport/article2732081.ece/ALTERNATES/s1200/0_Nottinghamshire-v-Yorkshire-Specsavers-County-Championship-Division-One.jpg",
+            "publishedAt": "2019-04-07T18:20:00Z",
+            "content": "Half-centuries from Chris Nash, Ben Duckett, Steven Mullaney and an undefeated 97 from Joe Clarke strengthened Nottinghamshire s position on the third day of their Specsavers County Championship match against Yorkshire at Trent Bridge. The home side reached s\u2026 [+3855 chars]"
         }
     ]
 }

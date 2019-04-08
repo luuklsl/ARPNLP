@@ -4,315 +4,16 @@
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Theregister.co.uk"
-            },
-            "author": "Andrew Orlowski",
-            "title": "Real-time OS: Ordnance Survey gets snuggly with Intel's Mobileye - The Register",
-            "description": "Noticed a missing bollard? Mappy partnership may help",
-            "url": "https://www.theregister.co.uk/2019/01/09/realtime_ordnance_survey/",
-            "urlToImage": "https://regmedia.co.uk/2019/01/09/ordnance_survey_scottish_library.jpg",
-            "publishedAt": "2019-01-09T11:03:00Z",
-            "content": "Britain's Ordnance Survey is beginning to provide businesses with real-time information for the first time almost. A partnership with Intel's Mobileye autonomous driving unit will provide information on roadside infrastructure such as manhole covers and marki\u2026 [+1060 chars]"
-        },
-        {
-            "source": {
                 "id": "the-verge",
                 "name": "The Verge"
             },
-            "author": "Casey Newton",
-            "title": "It might be time to retire Mark Zuckerberg\u2019s annual personal challenge - The Verge",
-            "description": "Reaching the limits of what content marketing can do",
-            "url": "https://www.theverge.com/2019/1/9/18174623/mark-zuckerberg-2019-personal-challenge-facebook-content-marketing",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/poPwn44gYxUoORxgoRivx6USujc=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8365039/nstatt_170418_1624_0052.0.jpg",
-            "publishedAt": "2019-01-09T11:00:06Z",
-            "content": "Inside Facebook, Mark Zuckerbergs annual tradition of setting a personal challenge has been viewed as one of the companys best public-relations opportunities of the year. Long before Facebook was under rigorous scrutiny for the unintended consequences of its \u2026 [+20703 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Standard.co.uk"
-            },
-            "author": "Ross Lydall",
-            "title": "Stark extent of Crossrail's unfinished work revealed with Bond Street station months away from completion - Evening Standard",
-            "description": "",
-            "url": "https://www.standard.co.uk/news/transport/stark-extent-of-crossrails-unfinished-work-revealed-as-documents-show-bond-street-station-is-months-a4034236.html",
-            "urlToImage": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/01/09/10/crossrail0901a.jpg",
-            "publishedAt": "2019-01-09T10:56:00Z",
-            "content": "A stark illustration of the chaos that has engulfed Crossrail emerged today when transport bosses revealed the unfinished state of a key station. Bond Street is months from completion, without floors, ceilings, escalators, a fire safety system or permanent po\u2026 [+3175 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Proactiveinvestors.co.uk"
-            },
-            "author": null,
-            "title": "FTSE 100 stays higher, Trump-China and housebuilders distract from Brexit - Proactive Investors UK",
-            "description": "A guardedly optimistic trading update from Taylor Wimpey gave the housebuilding sector a boost, meanwhile a broader improvement in sentiment helped stocks higher.",
-            "url": "https://www.proactiveinvestors.co.uk/companies/market_reports/212204/ftse-100-stays-higher-trump-china-and-housebuilders-distract-from-brexit-212204.html",
-            "urlToImage": "https://www.proactiveinvestors.co.uk/thumbs/upload/MarketReport/Image/2019_01/757x468_1547031653_traders.jpg",
-            "publishedAt": "2019-01-09T10:45:00Z",
-            "content": "FTSE 100 jumps 63 points Optimism over Trump-China trade boosts sentiment Brexit uncertainty lurks, inevitably Oil prices advance 10:45am: FTSE 100 stays higher, Trump-China and housebuilders distract from Brexit There were three notable prongs of interest fo\u2026 [+9262 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forexlive.com"
-            },
-            "author": "Justin Low",
-            "title": "How much upside do you see the pound having if Brexit rhetoric starts turning more positive? - ForexLive",
-            "description": "Upside for the pound is certainly attractive but remains locked by Brexit here any move up in cable towards 1.30 to 1.35 will also get it to 1.40 to 1.45 eventually",
-            "url": "https://www.forexlive.com/news/!/how-much-upside-do-you-the-pound-having-if-brexit-rhetoric-starts-turning-more-positive-20190109",
-            "urlToImage": "https://az705044.vo.msecnd.net/20190109/brexit-pound-euro.png",
-            "publishedAt": "2019-01-09T10:36:38Z",
-            "content": "HIGH RISK WARNING: Foreign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade foreign exchange, carefully consider your investment objectives\u2026 [+1656 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Birminghammail.co.uk"
-            },
-            "author": "Tamlyn Jones",
-            "title": "Aston Villa owner launches bid to buy European club - reports - Birmingham Live",
-            "description": "Latest AVFC news includes an interesting move by Wes Edens",
-            "url": "https://www.birminghammail.co.uk/sport/football/football-news/aston-villa-owner-launches-bid-15649758",
-            "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article14954278.ece/ALTERNATES/s1200/0_New-Aston-Villa-owners-Nassef-Sawiris-and-Wes-Edens.jpg",
-            "publishedAt": "2019-01-09T10:21:00Z",
-            "content": "The investment group founded by Aston Villa's co-owner Wes Edens has launched a bid to buy Danish club FC Copenhagen, according to reports. Fortress Investment Group is reported to be in talks with a Danish pension fund LD Fonde to buy its 29 per cent stake i\u2026 [+1692 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wired.co.uk"
-            },
-            "author": "WIRED",
-            "title": "CES 2019 Highlights: All the biggest news from Las Vegas tech show - Wired.co.uk",
-            "description": "Everything that Samsung, Sony, LG and Panasonic are announcing CES 2019, including the UK date and time of the major press conferences",
-            "url": "https://www.wired.co.uk/article/ces-2019-highlights-news-day-3",
-            "urlToImage": "https://wi-images.condecdn.net/image/Nd9WW9DloB1/crop/1440/0.5235602094240838/f/7-.jpg",
-            "publishedAt": "2019-01-09T10:08:37Z",
-            "content": "The biggest tech show in the world is well underway. For the whole of this week, CES (known as the Consumer Electronics Show) has invaded Las Vegas. Thousands of statups and entrepreneurs are joining technology's biggest firms at the sprawling conference to d\u2026 [+19836 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Jon Sharman",
-            "title": "CES 2019: Sex toy award revoked after device deemed 'immoral' - The Independent",
-            "description": "Device 'mimics all the sensations of a human mouth, tongue, and fingers', inventors claim",
-            "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/ces-2019-sex-toy-award-vibrator-lora-dicarlo-revoke-ore-a8718696.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/09/09/Lora-DiCarlo-ces.jpg",
-            "publishedAt": "2019-01-09T09:53:00Z",
-            "content": "The organisers of CES 2019 have been forced to apologise after they revoked an innovation award given to a sex toy company because the device was deemed \"immoral\". Lora DiCarlo had been named an innovation honoree in CES robotics and drone category after putt\u2026 [+29021 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bbc.com"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "World Bank warns of 'darkening skies' for global economy - BBC News",
-            "description": "In its annual report on global prospects the World Bank forecasts a slowdown in economic growth.",
-            "url": "https://www.bbc.com/news/business-46800098",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12339/production/_105035547_gettyimages-909260204clouds.jpg",
-            "publishedAt": "2019-01-09T09:10:46Z",
-            "content": "Image copyright Bill Clark/Getty Images Image caption The predicted slowdown is focused on rich countries, particularly the US The World Bank is warning of increasing risks, or what it calls \"darkening skies\", for the world economy. In its annual assessment o\u2026 [+4263 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Angela Monaghan",
-            "title": "Mothercare woes deepen after Christmas sales plunge - The Guardian",
-            "description": "Struggling chain blames \u2018worrying\u2019 fall in sales on tough consumer market and move to offer fewer discounts",
-            "url": "https://www.theguardian.com/business/2019/jan/09/mothercare-woes-deepen-after-christmas-sales-plunge",
-            "urlToImage": "https://i.guim.co.uk/img/media/ea510070f517e277ca6b2fad9e2270ef92ed0c20/0_88_3848_2309/master/3848.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=83521023e29516b2fe52a075281cbd22",
-            "publishedAt": "2019-01-09T08:54:00Z",
-            "content": "Gourmet Burger Kitchen: The upmarket burger chain wants to close 17 of its 85 restaurants via an insolvency process known as a company voluntary arrangement (CVA) House of Fraser: The department store chain is expected to close about 12 stores after being bou\u2026 [+2071 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Proactiveinvestors.co.uk"
-            },
-            "author": null,
-            "title": "FTSE 100 strides higher on trade optimism; house builders in demand - Proactive Investors UK",
-            "description": "A guardedly optimistic trading update from Taylor Wimpey gave the housebuilding sector a boost, meanwhile a broader improvement in sentiment helped stocks higher.",
-            "url": "https://www.proactiveinvestors.co.uk/companies/market_reports/212204/ftse-100-strides-higher-on-trade-optimism-house-builders-in-demand-212204.html",
-            "urlToImage": "https://www.proactiveinvestors.co.uk/thumbs/upload/MarketReport/Image/2019_01/757x468_1547031653_traders.jpg",
-            "publishedAt": "2019-01-09T08:38:00Z",
-            "content": "FTSE 100 jumps 63 points Optimism over Trump-China trade boosts sentiment Brexit uncertainty lurks, inevitably Oil prices advance 10:45am: FTSE 100 stays higher, Trump-China and housebuilders distract from Brexit There were three notable prongs of interest fo\u2026 [+9262 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Angela Monaghan",
-            "title": "Greggs unveils bumper profits \u2026 and nothing to do with vegan sausage rolls - The Guardian",
-            "description": "Bumper sales of festive cakes, hot drinks and breakfasts boost high street bakery chain",
-            "url": "https://www.theguardian.com/business/2019/jan/09/greggs-unveils-extra-profit-vegan-sausage-roll",
-            "urlToImage": "https://i.guim.co.uk/img/media/0e4338b4782e861fcd6c062cedb57350576947a7/0_73_4062_2437/master/4062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=040cd1cf604fffa00aa29e3575b2443d",
-            "publishedAt": "2019-01-09T08:25:00Z",
-            "content": "Greggs has raised its profit guidance for the second time in two months, bucking the trend among high street retailers, and said its new vegan sausage roll was an early hit with customers in 2019. Britains biggest bakery chain said it enjoyed a strong finish \u2026 [+1939 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Autocar.co.uk"
-            },
-            "author": null,
-            "title": "New Nissan Leaf e+ launched with extra power and range - Autocar",
-            "description": "Limited edition of Nissan's popular electric car gains bigger batteries and produces 214bhp",
-            "url": "https://www.autocar.co.uk/car-news/new-cars/new-nissan-leaf-e-launched-extra-power-and-range",
-            "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/11nissanleafeplus.jpg",
-            "publishedAt": "2019-01-09T08:06:16Z",
-            "content": "Nissan has launched a new range-topping version of the Leaf EV, which features a boost in power and a longer range. The Leaf 3.Zero e+ Limited Edition, launched at CES in Las Vegas, replaces the electric cars standard 40kWh battery with a 62kWh unit. Nissan s\u2026 [+1338 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Retailgazette.co.uk"
-            },
-            "author": "Sahar Nazir",
-            "title": "Sainsbury's suffers 1.1% fall in quarterly sales - Retail Gazette",
-            "description": "Sainsburys' performance as a Big 4 grocer has been dragged by the tough market during the Christmas period.",
-            "url": "https://www.retailgazette.co.uk/blog/2019/01/sainsburys-suffers-1-1-fall-quarterly-sales/",
-            "urlToImage": "https://www.retailgazette.co.uk/wp/wp-content/uploads/Sainsburys_grocery_sign_ST-2-5.jpg",
-            "publishedAt": "2019-01-09T07:36:00Z",
-            "content": "// Sainsbury\u2019s general merchandise and clothing divisions drag overall quarterly results // Like-for-likes excluding fuel down 1.1% // Total sales down 0.4% Sainsbury\u2019s has taken a hit in sales and like-for-likes in its third quarter thanks to a tough trading\u2026 [+2202 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "UK regulator gives green light to property exchange - Financial Times",
-            "description": "Investors will be able to buy shares through new IPSX trading venue",
-            "url": "https://www.ft.com/content/627c1db2-13da-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Ff1767bf2-13da-11e9-a581-4ff78404524e?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-09T07:27:58Z",
-            "content": "A new commercial real estate exchange has been recognised by the City watchdog, paving the way for investors to buy shares in buildings through the new trading venue. IPSX Group said on Wednesday the Financial Conduct Authority had issued a recognition order \u2026 [+1140 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Belfasttelegraph.co.uk"
-            },
-            "author": "By Vicky Shaw",
-            "title": "Northern Ireland council has lowest spend on funerals in UK - Belfast Telegraph",
-            "description": "A council in Northern Ireland has the lowest spend of any UK local authority on",
-            "url": "https://www.belfasttelegraph.co.uk/news/northern-ireland/northern-ireland-council-has-lowest-spend-on-funerals-in-uk-37693994.html",
-            "urlToImage": "https://www.belfasttelegraph.co.uk/news/northern-ireland/article37694448.ece/ALTERNATES/h342/PANewsBT_P-1532034b-1ce5-4545-a1ca-36e66fc29d7b_I1.jpg",
-            "publishedAt": "2019-01-09T06:58:47Z",
-            "content": "A council in Northern Ireland has the lowest spend of any UK local authority on \"paupers' funerals\". Nearly \u00a35.4m was spent by local authorities across the UK in the financial year 2017-18, a mutual insurer has found. Birmingham City Council in West Midlands \u2026 [+641 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express.co.uk"
-            },
-            "author": "David Snelling",
-            "title": "Latest Amazon Echo update reveals more bad news for UK Amazon customers - Express",
-            "description": "AMAZON'S hugely popular Echo Dot suffers another setback leaving customers unable to buy one until the end of February.",
-            "url": "https://www.express.co.uk/life-style/science-technology/1069238/Amazon-Echo-Dot-update-buy-out-of-stock-stock-UK",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/59/750x445/1069238.jpg",
-            "publishedAt": "2019-01-09T06:45:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Miles Brignall",
-            "title": "Payday loan firm accused over 'cynical Christmas ad' - The Guardian",
-            "description": "Rachel Reeves calls on finance watchdog to intervene over Provident mail-shot for 535% APR loan",
-            "url": "https://www.theguardian.com/money/2019/jan/09/payday-loan-firm-accused-over-cynical-christmas-ad",
-            "urlToImage": "https://i.guim.co.uk/img/media/d1f5ddb5cd518651ef4416a83e1cbe4a7778f92a/76_239_827_496/master/827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4a93c7550a7f1219e2b090f4f116018f",
-            "publishedAt": "2019-01-09T06:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Moneywise.co.uk"
-            },
-            "author": "Edmund Greaves",
-            "title": "Pension cold calls are now illegal \u2013 but that doesn't mean they'll stop - Moneywise Magazine",
-            "description": "From today, households receiving cold calls about pensions should just hang up the phone.After two years in the works, the government has today implemented a ban on any cold calling related to pensions.This means in effect any phone call that you receive from\u2026",
-            "url": "https://www.moneywise.co.uk/news/2019-01-08/pension-cold-calls-are-now-illegal-doesnt-mean-theyll-stop",
-            "urlToImage": "https://www.moneywise.co.uk/sites/default/files/images/articles/smashing-phone.jpg",
-            "publishedAt": "2019-01-09T03:38:12Z",
-            "content": "From today, households receiving cold calls about pensions should just hang up the phone. After two years in the works, the government has today implemented a ban on any cold calling related to pensions. This means in effect any phone call that you receive fr\u2026 [+3692 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "Inside Facebook's cult-like workplace where dissent is discouraged - Daily Mail",
-            "description": "The CNBC report, published on Tuesday, cites more than a dozen former Facebook employees who left between late 2016 and the end of 2018, and who declined to be named.",
-            "url": "https://www.dailymail.co.uk/news/article-6571313/Inside-Facebooks-cult-like-workplace-dissent-discouraged.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/03/8295206-0-image-a-2_1547003523333.jpg",
-            "publishedAt": "2019-01-09T01:51:00Z",
-            "content": "A new report has revealed the complaints of some former Facebook employees who accuse the company of having a 'cult-like' workplace culture. The CNBC report, published on Tuesday, cites more than a dozen former Facebook employees who left between late 2016 an\u2026 [+5060 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Nikkei.com"
-            },
-            "author": "CHENG TING-FANG and LAULY LI, Nikkei staff writers",
-            "title": "Exclusive: Apple cuts iPhone production plan by 10% - Nikkei Asian Review",
-            "description": "New year opens on gloomy note after company's recent shock downgrade",
-            "url": "https://asia.nikkei.com/Business/Companies/Exclusive-Apple-cuts-iPhone-production-plan-by-10",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F2%2F7%2F4%2F6%2F18806472-3-eng-GB%2FCropped-1546996055ABCCCC.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
-            "publishedAt": "2019-01-09T01:30:00Z",
-            "content": "TAIPEI -- Apple is cutting its current production plan for new iPhones by about 10% for the next three months in a sign that the U.S. smartphone maker is expecting a further hit this year, just a week after its market-shaking revelation that it would miss rev\u2026 [+3863 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Paddington Station: Lighting failure caused delays - BBC News",
-            "description": "Station staff used torches to guide passengers as engineers work to identify the cause of the problem.",
-            "url": "https://www.bbc.co.uk/news/uk-46804914",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A925/production/_105110334_padd1.jpg",
-            "publishedAt": "2019-01-09T01:21:44Z",
-            "content": "Image copyright Patrick Jackson/Twitter One of London's main railway terminuses was plunged into darkness late on Tuesday when the station lights failed. Paddington Station was illuminated by little more than shop lighting and digital display boards, as stati\u2026 [+1436 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Energy suppliers to face tighter rules, says Ofgem - BBC News",
-            "description": "The energy regulator will change licensing rules after nine new gas and energy providers collapsed.",
-            "url": "https://www.bbc.co.uk/news/business-46806943",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/27F1/production/_100352201_gettyimages-668391976.jpg",
-            "publishedAt": "2019-01-09T01:11:33Z",
-            "content": "Image copyright Getty Images Energy regulator Ofgem is to tighten up the rules for new suppliers of gas and electricity after nine new entrants ceased trading. The latest to collapse was Economy Energy, which ceased trading on Tuesday. Ofgem is looking for a \u2026 [+1864 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Offer raised in oil firm hostile takeover bid - BBC News",
-            "description": "Norwegian firm DNO has raised its offer price for its Aberdeen-based oil firm rival Faroe Petroleum.",
-            "url": "https://www.bbc.co.uk/news/uk-scotland-scotland-business-46807003",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/172E0/production/_93044949_82f405bf-17b0-48c8-a2b4-26bf80920021.jpg",
-            "publishedAt": "2019-01-09T00:59:43Z",
-            "content": "Image copyright Faroe Petroleum Faroe Petroleum, the Aberdeen-based oil and gas firm, faces a raised bid in a hostile takeover battle with rival explorer DNO. The Norwegian bidder has raised its cash offer price from 152p a share to 160p, with a closing date \u2026 [+3426 chars]"
+            "author": "James Vincent",
+            "title": "EU publishes guidelines on developing ethical AI - The Verge",
+            "description": "The European Union has published new guidelines on how to develop AI ethically. The EU says these technologies should be accountable and explainable, and they should not coerce of trick users.",
+            "url": "https://www.theverge.com/2019/4/8/18300149/eu-artificial-intelligence-ai-ethical-guidelines-recommendations",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/_DbRekEmztIt7zGiDdACjbOdOuw=/0x114:1940x1130/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16016018/Screen_Shot_2019_04_08_at_1.36.11_PM.png",
+            "publishedAt": "2019-04-08T16:03:30Z",
+            "content": "The European Union today published a set of guidelines on how companies and governments should develop ethical applications of artificial intelligence. These rules arent like Isaac Asimovs Three Laws of Robotics. They dont offer a snappy, moral framework that\u2026 [+4835 chars]"
         },
         {
             "source": {
@@ -320,116 +21,12 @@
                 "name": "Thetimes.co.uk"
             },
             "author": null,
-            "title": "Heathrow shutdown prompts new alarm over drone defences - The Times",
-            "description": "Fears were raised over security at British airports yesterday after Heathrow grounded flights for almost an hour over a suspected drone sighting. Critics demanded to know why Europe\u2019s busiest...",
-            "url": "https://www.thetimes.co.uk/article/heathrow-shutdown-prompts-new-alarm-over-drone-defences-r2tqrgmhz",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ff56aa4d2-1389-11e9-8239-c0a124428b01.jpg?crop=3500%2C1969%2C0%2C182",
-            "publishedAt": "2019-01-09T00:01:00Z",
-            "content": "Fears were raised over security at British airports yesterday after Heathrow grounded flights for almost an hour over a suspected drone sighting. Critics demanded to know why Europes busiest airport was without permanent drone defences almost three weeks afte\u2026 [+536 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.co.uk"
-            },
-            "author": null,
-            "title": "Jumper's faux fur made of real rabbit | News - The Times",
-            "description": "The fashion retailer Boohoo has been censured by the advertising watchdog for selling real animal fur as faux fur. The \u00a32 billion online trader has been banned from advertising a \u201cfaux fur pom pom...",
-            "url": "https://www.thetimes.co.uk/article/jumper-s-faux-fur-made-of-real-rabbit-d2xndkjn0",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fd516d62a-1356-11e9-94cd-1357d20693b3.jpg?crop=4032%2C2268%2C0%2C210",
-            "publishedAt": "2019-01-09T00:01:00Z",
-            "content": "The fashion retailer Boohoo has been censured by the advertising watchdog for selling real animal fur as faux fur. The \u00a32 billion online trader has been banned from advertising a faux fur pom pom jumper which tests by animal rights campaigners found were made\u2026 [+512 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.co.uk"
-            },
-            "author": null,
-            "title": "Hargreaves Lansdown in bust-up with star stockpicker Terry Smith - The Times",
-            "description": "A row has erupted between Terry Smith, one of the outstanding stockpickers of recent years, and Britain\u2019s biggest funds platform after it excluded him from its new list of 50 top fund managers that...",
-            "url": "https://www.thetimes.co.uk/article/funds-giant-in-bust-up-over-profits-hgvgc3kq9",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe26774c6-1377-11e9-8239-c0a124428b01.jpg?crop=1349%2C759%2C7%2C12",
-            "publishedAt": "2019-01-09T00:01:00Z",
-            "content": "A row has erupted between Terry Smith, one of the outstanding stockpickers of recent years, and Britains biggest funds platform after it excluded him from its new list of 50 top fund managers that it recommends to clients. Mr Smith, a City big-hitter who foun\u2026 [+541 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Walesonline.co.uk"
-            },
-            "author": "Sion Barry",
-            "title": "Digital bank Monzo creating hundreds of new jobs in Cardiff - Wales Online",
-            "description": "Cardiff won the investment against rival UK cities and those overseas",
-            "url": "https://www.walesonline.co.uk/business/business-news/digital-bank-monzo-creating-hundreds-15646886",
-            "urlToImage": "https://i2-prod.walesonline.co.uk/incoming/article15646841.ece/ALTERNATES/s1200/0_Monzo-Bank.jpg",
-            "publishedAt": "2019-01-09T00:01:00Z",
-            "content": "One of the UKs fastest growing challenger and digital banks, Monzo, is creating hundreds of new jobs in Cardiff. In a major boost to the Cardiff Capital Regions growing financial and professional services sector, Monzo is creating a new customer service opera\u2026 [+3027 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Tim Cook\u2019s total remuneration jumped 22% in 2018 - Financial Times",
-            "description": "Apple chief executive Tim Cook saw his total remuneration jump by 22 per cent its last fiscal year ended in September, as iPhone sales hit a peak from which they have since begun a sharp decline.",
-            "url": "https://www.ft.com/content/832f07a0-1393-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F986d9c2e-1395-11e9-a581-4ff78404524e?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T22:59:00Z",
-            "content": "Apple chief executive Tim Cook saw his total remuneration jump by 22 per cent its last fiscal year ended in September, as iPhone sales hit a peak from which they have since begun a sharp decline. With the companys shares still flying high last summer, Mr Cook\u2026 [+1477 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "CES 2019: Smart counter-top oven identifies food and cooks it for you - Sky News",
-            "description": "The counter-top oven also comes equipped with a camera\u00a0so that lazy chefs can check on the status of their\u00a0meal via a mobile app",
-            "url": "https://news.sky.com/story/ces-2019-smart-counter-top-oven-identifies-food-and-cooks-it-for-you-11602279",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-whirlpool-smart-oven_4541074.jpg?20190108204819",
-            "publishedAt": "2019-01-08T22:26:10Z",
-            "content": "An oven that can identify the type of food placed inside and suggest ways in which to cook it has been unveiled at CES. Manufacturer Whirlpool gave attendees at the technology trade show a glimpse of the counter-top cooker, which also comes equipped with a ca\u2026 [+1433 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Carlos Ghosn defends legacy as bail prospects look remote - Financial Times",
-            "description": "Lawyers warn he faces another 6 months in jail despite emotional court testimony",
-            "url": "https://www.ft.com/content/27305050-135a-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F8074eb48-136a-11e9-a168-d45595ad076d?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T22:00:00Z",
-            "content": "Aside from his greying hair, sunken cheeks and the plastic sandals, it was as if Carlos Ghosn was back. In the 10 minutes that he was granted to speak at a Tokyo court on Tuesday, the ousted Nissan chairman spent every second defending himself not only agains\u2026 [+5737 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Brussels casts doubt on IAG\u2019s no-deal Brexit flight plan - Financial Times",
-            "description": "BA-Iberia owner suffers setback over move to keep EU flying rights",
-            "url": "https://www.ft.com/content/35ff12b0-1328-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fe96bdc62-1368-11e9-a581-4ff78404524e?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T21:30:00Z",
-            "content": "Brussels has warned IAG that its favoured plans for its airlines to continue flying freely in and around Europe in the event of a no-deal Brexit do not work, in a potentially serious setback for the owner of British Airways and Iberia. Brexit poses a challeng\u2026 [+3621 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ifn.news"
-            },
-            "author": "Jan-Hendrik Fiedler",
-            "title": "Boeing releases 2018 order & delivery numbers | International Flight Network - International Flight Network",
-            "description": "American manufacturer Boeing has released its final update on commercial aircraft orders and deliveries for 2018 today.",
-            "url": "https://ifn.news/posts/boeing-releases-2018-order-delivery-numbers/",
-            "urlToImage": "https://ifn.news/wp-content/uploads/2019/01/Boeing-787-9-Dreamliner-e1546981129989.jpg",
-            "publishedAt": "2019-01-08T21:25:11Z",
-            "content": "Boeing 787 Dreamliner. Photo: \u00a9 Midland Airport American manufacturer Boeing has released its final update on commercial aircraft orders and deliveries for 2018 today. With 806 total aircraft deliveries in 2018, Boeing sets a new record and remains the world\u2019\u2026 [+2027 chars]"
+            "title": "Jury hearing Barclays bankers' Qatar fraud case discharged - The Times",
+            "description": "The jury hearing a case against four former Barclays bankers over the bank\u2019s Middle Eastern fundraising during the financial crisis has been discharged. It was informed of the decision yesterday by...",
+            "url": "https://www.thetimes.co.uk/article/jury-hearing-barclays-bankers-qatar-fraud-case-discharged-qkdffc7w6",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffa644d02-5a0c-11e9-b371-613f81256d20.jpg?crop=3017%2C1697%2C63%2C69",
+            "publishedAt": "2019-04-08T16:00:00Z",
+            "content": "The jury hearing a case against four former Barclays bankers over the banks Middle Eastern fundraising during the financial crisis has been discharged. It was informed of the decision yesterday by Mr Justice Jay at Southwark crown court. A criminal case broug\u2026 [+474 chars]"
         },
         {
             "source": {
@@ -437,259 +34,25 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "CES 2019: IBM's hourly weather reports will cover entire Earth - BBC News",
-            "description": "Technology giant IBM's supercomputers power the new forecasting system that covers the entire planet.",
-            "url": "https://www.bbc.co.uk/news/technology-46790221",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/825A/production/_105107333_ibm_weathergraf_sidebyside.gif",
-            "publishedAt": "2019-01-08T20:22:57Z",
-            "content": "Image copyright IBM Image caption The novel tool produces more finely-grained weather reports A weather forecasting system that can provide hourly updates for any location on the planet has been announced by technology giant IBM. Currently in many African, As\u2026 [+2809 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Sainsbury\u2019s-Asda deal could help Morrisons out of a tight spot - Financial Times",
-            "description": "Grocer\u2019s market share dips but prospect of rivals\u2019 store sales offers opportunity",
-            "url": "https://www.ft.com/content/4a177a2e-134d-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Faf571ca2-e1b9-11e8-a8a0-99b2e340ffeb?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T20:09:05Z",
-            "content": "January is full of depressing post-Christmas sights: the streets lined with discarded, denuded conifers; the TV shows you recorded interspersed with festive adverts; the supermarkets December trading statements... Thankfully, German discounter Aldi has helped\u2026 [+4634 chars]"
+            "title": "Electricity workers announce one-day strike in Northern Ireland - BBC News",
+            "description": "Members of the Prospect trade union, who operate the NI electricity system, say they will strike on 15 April.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-47859044",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/833A/production/_106349533_pylon.jpg",
+            "publishedAt": "2019-04-08T15:39:29Z",
+            "content": "Image caption The Prospect union said it expected an impact on maintenance, operations and costs for third parties such as NIE Networks Members of the Prospect trade union, who operate the electricity transmission system in NI, have announced a 24-hour strike\u2026 [+1710 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Cityam.com"
+                "name": "Theguardian.com"
             },
-            "author": "August Graham",
-            "title": "Lights out: 235,000 customers impacted as Economy Energy shuts down weeks after denying bankruptcy reports - City A.M.",
-            "description": "Ofgem\u00a0must do more to ensure that energy suppliers are properly regulated, experts warned today as it was scrambling to deal with the fallout from another",
-            "url": "http://www.cityam.com/271274/economy-energy-shuts-down-weeks-after-denying-bankruptcy",
-            "urlToImage": "http://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/german-electricity-grid-insufficient-for-new-energy-needs-109832459-5c349ec9e8a2f.jpg",
-            "publishedAt": "2019-01-08T19:15:00Z",
-            "content": "Ofgem must do more to ensure that energy suppliers are properly regulated, experts warned today as it was scrambling to deal with the fallout from another bankruptcy. Over 230,000 customers were left in limbo as Economy Energy closed down, only weeks after de\u2026 [+2652 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "WeWork: The Woe Company - Financial Times",
-            "description": "SoftBank\u2019s latest investment raises tricky questions about co-working company",
-            "url": "https://www.ft.com/content/640f5b58-136c-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fc1746e3c-1308-11e9-a168-d45595ad076d?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T18:48:00Z",
-            "content": "Is WeWork worth a) $42bn b) $20bn or c) whatever SoftBank says it is worth? The answer, has to be c) because SoftBank s latest investment in the co-working company makes WeWork the worlds fourth most valuable private company, according to data from CBInsights\u2026 [+1691 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Larry Elliott",
-            "title": "It's not Brexit Britain most likely to have a recession. It's Germany - The Guardian",
-            "description": "If Europe\u2019s biggest economy bumps into a slump then UK bargaining power may change",
-            "url": "https://www.theguardian.com/business/2019/jan/08/its-not-brexit-britain-most-likely-to-suffer-recession-its-germany",
-            "urlToImage": "https://i.guim.co.uk/img/media/eac6622ce5b06b20d60d6445bdf071e8f9aff690/0_200_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=1ef0d72c1a2a989c1ce3d94845f325ff",
-            "publishedAt": "2019-01-08T18:27:00Z",
-            "content": "T ake Europes three biggest economies and list them in order of the likelihood of being in recession in the second half of 2018. Chances are Brexit-bound Britain would come first followed by France after its gilets jaunes protests. Germany would come last. In\u2026 [+3489 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Whathifi.com"
-            },
-            "author": "https://www.facebook.com/whathifi.com",
-            "title": "Technics SL-1210 MK7 price confirmed at \u00a3899 - What Hi-Fi?",
-            "description": "The brand new Technics turntable is due in May",
-            "url": "https://www.whathifi.com/news/technics-sl-1210-mk7-price-confirmed-at-pound899",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aRsJ2YnsEcLgNnYqDF7QAB-1200-80.jpg",
-            "publishedAt": "2019-01-08T18:13:00Z",
-            "content": "The most exciting news for some of us at this year's CES has been the relaunch of the famous Technics SL-1200 DJ turntable range. And now we have a few more details. Firstly, there will only be a black model, no silver deck (for now). The SL-1210 MK7 is simpl\u2026 [+836 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Zoe Wood, Sarah Butler",
-            "title": "Clothing chain Joules defies retail gloom with strong Christmas sales - The Guardian",
-            "description": "Retailer of pink wellies posts sales growth of 11.7% as other high-street names struggle",
-            "url": "https://www.theguardian.com/business/2019/jan/08/clothing-chain-joules-defies-retail-gloom-strong-christmas-sales",
-            "urlToImage": "https://i.guim.co.uk/img/media/cc0d6447d8a05894a61ad4fcbd298d2af63cf347/0_128_4654_2793/master/4654.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a452a23003170202ec57614de30aa3d4",
-            "publishedAt": "2019-01-08T17:42:00Z",
-            "content": "Joules, the clothing chain known for its bright floral prints and pink wellies, has become the latest retailer to defy the high-street gloom with strong Christmas figures. Results last week from Next and John Lewis indicated it was a poor but not disastrous f\u2026 [+2417 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "AT&T mocked over 5G phone icon 'update' - BBC News",
-            "description": "US mobile operator AT&T rebrands phones to give the impression they are on a futuristic 5G network.",
-            "url": "https://www.bbc.co.uk/news/technology-46795086",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D07A/production/_105107335_tmobfiveg.jpg",
-            "publishedAt": "2019-01-08T17:27:03Z",
-            "content": "Image copyright T-Mobile Image caption AT&amp;T was mocked in a video showing a phone being \"upgraded\" Mobile carrier AT&amp;T has been criticised for making some Android phones appear to use 5G services, even though they are not widely available. A software \u2026 [+2135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Kentonline.co.uk"
-            },
-            "author": "Katie Davis",
-            "title": "South Thanet MP Craig Mackinlay backs government's contract with Seaborne Freight after being assured by Transport Secretary Chris Grayling - Kent Online",
-            "description": "Reassurances have been given that Seaborne Freight will not receive any government money unless it delivers ferry services.",
-            "url": "https://www.kentonline.co.uk/thanet/news/mp-backs-controversial-no-deal-brexit-ferry-contract-196598/",
-            "urlToImage": "https://www.kentonline.co.uk/_media/img/UB0M7HMRJ2DUJOL77OT8.jpg",
-            "publishedAt": "2019-01-08T17:23:00Z",
-            "content": "South Thanet MP Craig Mackinlay has backed the government's contract with Seaborne Freight after being assured by the Transport Secretary that the firm will not be handed the money unless they deliver the ferry service. The company - which owns no ships and h\u2026 [+3280 chars]"
-        },
-        {
-            "source": {
-                "id": "financial-times",
-                "name": "Financial Times"
-            },
-            "author": null,
-            "title": "Deutsche Bank slashes bonuses after lacklustre year - Financial Times",
-            "description": "Executives braced for \u2018pretty horrible\u2019 payout round after results and shares disappoint",
-            "url": "https://www.ft.com/content/2c423c8a-135e-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Ff315da88-fd65-11e8-ac00-57a2a826423e?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-08T17:20:00Z",
-            "content": "Deutsche Bank s investment bankers are bracing for a double-digit cut in their bonus pool after the division recorded one of its worst years since the financial crisis and its shares slumped to a record low. The bonus pool is looking pretty horrible...its sig\u2026 [+3849 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Edward Helmore",
-            "title": "Sears liquidation looms after $4.4bn takeover deal faulters - The Guardian",
-            "description": "Assets to go up for auction on 14 January after bankruptcy judge gives financier Edward Lampert more time to improve offer",
-            "url": "https://www.theguardian.com/business/2019/jan/08/sears-liquidation-takeover-deal-bankruptcy-protection",
-            "urlToImage": "https://i.guim.co.uk/img/media/7006a634795525433dfa7ffff107fd6556e1a5d0/0_163_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a88064a3b32753da875a1b2f0dd2cb4a",
-            "publishedAt": "2019-01-08T17:16:00Z",
-            "content": "Sears, once the worlds largest retailer, appears to be heading into liquidation after failing to reach a $4.4bn takeover deal with the financier Edward Lampert. The 126-year-old company has been struggling for years and filed for bankruptcy protection in Octo\u2026 [+3776 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.dailymail.co.uk/home/search.html?s=&authornamef=Samantha+Lewis+For+Mailonline",
-            "title": "Norwegian has become the first budget airline to offer free WiFi for duration of long-haul flights - Daily Mail",
-            "description": "The Scandinavian carrier has begun rolling out the technology on its Boeing 787-9 Dreamliner and 737 Max aircraft. The first connected Dreamliner was delivered last month.",
-            "url": "https://www.dailymail.co.uk/travel/travel_news/article-6569843/Norwegian-budget-airline-offer-free-WiFi-duration-long-haul-flights.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/17/8275218-0-image-a-6_1546966923347.jpg",
-            "publishedAt": "2019-01-08T17:11:00Z",
-            "content": "Norwegian says it has become the first low-cost airline to launch free WiFi for the full length of long-haul flights. The service enables passengers to browse the web, check social media and send messages using their own smartphones, tablets and laptops at no\u2026 [+2263 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thetimes.co.uk"
-            },
-            "author": null,
-            "title": "Morrisons beats forecasts on Christmas sales | Business - The Times",
-            "description": "\u201cWonky veg\u201d may have proved a winner with holiday shoppers, but Wm Morrison found yesterday that a fourth consecutive Christmas of sales growth was not enough to tempt investors to tuck into the...",
-            "url": "https://www.thetimes.co.uk/article/morrisons-beats-forecasts-on-christmas-sales-8nzdz50j7",
-            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fb280f986-131c-11e9-8239-c0a124428b01.jpg?crop=3959%2C2227%2C20%2C11",
-            "publishedAt": "2019-01-08T17:00:00Z",
-            "content": "Wonky veg may have proved a winner with holiday shoppers, but Wm Morrison found yesterday that a fourth consecutive Christmas of sales growth was not enough to tempt investors to tuck into the smallest of Britains Big Four supermarkets. Instead, they took not\u2026 [+463 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cityam.com"
-            },
-            "author": "Emily Nicolle",
-            "title": "Digital bank Monzo to name former Northern Rock executive from banking crisis as newest board member - City A.M.",
-            "description": "Digital bank Monzo has appointed the former head of failed bank Northern Rock to its board, as the startup aims for growth in 2019.",
-            "url": "http://www.cityam.com/271288/fintech-unicorn-monzo-appoint-former-northern-rock-boss",
-            "urlToImage": "http://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/2019/01/monzo-card-2-5c34caaf8c044-5c34cafba6fc1.jpg",
-            "publishedAt": "2019-01-08T16:08:00Z",
-            "content": "Digital bank Monzo has appointed the former head of failed bank Northern Rock to its board, as the startup aims for growth in 2019. The fintech firm is to announce Gary Hoffman as its non-executive chairman tomorrow, as first reported by Sky News, replacing B\u2026 [+1303 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wfla.com"
-            },
-            "author": "Alexa Mae Asperin",
-            "title": "VIDEO: Screaming woman goes on angry tirade at airport, calls JetBlue worker a 'rapist' - WFLA",
-            "description": "The video -- which\u00a0was shot by Dre London, Post Malone's manager -- was\u00a0uploaded to Instagram on Monday.",
-            "url": "https://www.wfla.com/news/national/video-screaming-woman-goes-on-angry-tirade-at-airport-calls-jetblue-worker-a-rapist-/1692455812",
-            "urlToImage": "https://media.kron4.com/nxs-krontv-media-us-east-1/photo/2019/01/08/WOMANYELLSEDIT_1546962183389_66858527_ver1.0_1280_720.jpg",
-            "publishedAt": "2019-01-08T16:05:00Z",
-            "content": "FORT LAUDERDALE, Fla. (KRON) - JetBlue has responded after a woman was caught on camera screaming at a JetBlue employee and calling him a \"rapist\" during her meltdown at Fort Lauderdale-Hollywood International Airport over the weekend. The video -- which was \u2026 [+1445 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cryptopotato.com"
-            },
-            "author": "Jonathan Goldman",
-            "title": "Ripple XRP Price Analysis Jan.8: The $0.4 Resistance is Getting Closer - CryptoPotato",
-            "description": "The crypto market is still showing strength and might be retesting the highs. Bitcoin price breached above the symmetrical triangle formation two days ago with green candles and a flag formation evolved since then in the 1-4 hours chart. The upper flag\u2019s tren\u2026",
-            "url": "https://cryptopotato.com/ripple-xrp-price-analysis-jan-8-the-0-4-resistance-is-getting-closer/",
-            "urlToImage": "https://cryptopotato.com/wp-content/uploads/2018/11/xrp_ripple.jpg",
-            "publishedAt": "2019-01-08T16:02:00Z",
-            "content": "The crypto market is still showing strength and might be retesting the highs. Bitcoin price breached above the symmetrical triangle formation two days ago with green candles and a flag formation evolved since then in the 1-4 hours chart. The upper flags trend\u2026 [+2075 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Steve Stecklow",
-            "title": "Exclusive: New documents link Huawei to suspected front companies in Iran, Syria - Reuters UK",
-            "description": "The U.S. case against the chief financial officer of China's Huawei Technologies, who was arrested in Canada last month, centres on the company's suspected ties to two obscure companies. One is a telecom equipment seller that operated in Tehran; the other is \u2026",
-            "url": "https://uk.reuters.com/article/uk-huawei-iran-exclusive/exclusive-new-documents-link-huawei-to-suspected-front-companies-in-iran-syria-idUKKCN1P21ME",
-            "urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20190108&t=2&i=1343465884&w=1200&r=LYNXNPEF070XL",
-            "publishedAt": "2019-01-08T15:40:00Z",
-            "content": "LONDON/HONG KONG (Reuters) - The U.S. case against the chief financial officer of China\u2019s Huawei Technologies, who was arrested in Canada last month, centres on the company\u2019s suspected ties to two obscure companies. One is a telecom equipment seller that oper\u2026 [+9080 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Ron Bousso",
-            "title": "BP unlocks a billion oil barrels in Gulf of Mexico with new technology - Reuters UK",
-            "description": "BP said it has discovered two new oilfields in the Gulf of Mexico and has identified an additional billion barrels of oil at an existing field thanks to new seismic technology.",
-            "url": "https://uk.reuters.com/article/uk-bp-discovery/bp-unlocks-a-billion-oil-barrels-in-gulf-of-mexico-with-new-technology-idUKKCN1P21LY",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20190108&t=2&i=1343467660&w=1200&r=LYNXNPEF070WX",
-            "publishedAt": "2019-01-08T15:34:00Z",
-            "content": "LONDON (Reuters) - BP ( BP.L ) said it has discovered two new oilfields in the Gulf of Mexico and has identified an additional billion barrels of oil at an existing field thanks to new seismic technology. The British company, which has only recently turned a \u2026 [+1726 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Anthony Cuthbertson",
-            "title": "Cryptocurrency: What is a 51 percent attack and how could hackers bring down bitcoin? - The Independent",
-            "description": "",
-            "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/crytpoccurency-51-percent-attack-what-is-double-spend-blockchain-explained-a8717411.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/14/cryptocurrency-51-percent-double-spend-blockchain.jpg",
-            "publishedAt": "2019-01-08T15:31:00Z",
-            "content": "Hackers have once again managed to syphon millions of dollars from a cryptocurrency thanks to a fundamental weakness in its underlying technology. A so-called 51 per cent attack on ethereum classic, a spin-off of the world's second most popular cryptocurrency\u2026 [+6705 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Malaymail.com"
-            },
-            "author": "Malay Mail",
-            "title": "Bell unveils the Air Taxi you may be able to hail through Uber next year - Malay Mail",
-            "description": "MONTREAL, Jan 8 \u2014 Believe it or not, flying cars are right around the corner \u2014 not in the form of personal, family vehicles but rather as a ridesharing option. Uber has been putting some serious work into developing vertical-takeoff-and-landing air taxis, and\u2026",
-            "url": "https://www.malaymail.com/s/1710455/bell-unveils-the-air-taxi-you-may-be-able-to-hail-through-uber-next-year",
-            "urlToImage": "https://media.malaymail.com/resize_cache/uploads/articles/2019/2019-01/300114_bell_s5d.f53e1105624.original-seo.jpg",
-            "publishedAt": "2019-01-08T14:18:47Z",
-            "content": "Bell unveils full model of the Bell Nexus air taxi. Bell kicked off the official opening day of CES 2019 by showing off the full-scale design of the Bell Nexus, an air taxi of the not-so-distant future. Picture courtesy of Bell via AFP-Relaxnews MONTREAL, Jan\u2026 [+1287 chars]"
+            "author": "Oliver Milman",
+            "title": "Burger King\u2019s plant-based Whopper gets glowing review \u2013 from a meat lobbyist - The Guardian",
+            "description": "Impossible Whopper\u2019s realistic taste is a \u2018wake-up call\u2019 to livestock farmers, Eric Bohl of the Missouri Farm Bureau said",
+            "url": "https://www.theguardian.com/business/2019/apr/08/burger-king-impossible-whopper-plant-based-review-meat-lobbyist",
+            "urlToImage": "https://i.guim.co.uk/img/media/b9db2a96915febc616cfb97ec5f8cfc01fbb7568/0_187_3983_2389/master/3983.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=cbe63c6ed21c87cbd9e0dfdbeb65a92c",
+            "publishedAt": "2019-04-08T15:16:00Z",
+            "content": "A glowing review of Burger Kings new plant-based Whopper comes from an unlikely source: a senior meat industry lobbyist who admitted the surprisingly realistic taste of modern fake meats is a wake-up call to livestock farmers. In a review of the Impossible Wh\u2026 [+2457 chars]"
         },
         {
             "source": {
@@ -697,194 +60,428 @@
                 "name": "The Telegraph"
             },
             "author": null,
-            "title": "Billionaire Oracle founder Larry Ellison reveals $1bn stake in Tesla - The Telegraph",
-            "description": "Oracle founder Larry Ellison has disclosed a holding worth $1 billion in Tesla after being appointed to the company's board in December.",
-            "url": "https://www.telegraph.co.uk/technology/2019/01/08/billionaire-oracle-founder-larry-ellison-reveals-1bn-stake-tesla/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/sailing/2017/05/09/740859_EPA_USA-ORACLE-OPENWORLD-2007-xlarge_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdGtT0gK_6EfZT336f62EI5U.jpg",
-            "publishedAt": "2019-01-08T13:40:00Z",
-            "content": "O racle founder Larry Ellison has disclosed a holding worth $1 billion in Tesla after being appointed to the company's board in December. The billionaire, 74, indirectly owns 3 million Tesla shares through the Lawrence J. Ellison Revocable Trust, according to\u2026 [+781 chars]"
+            "title": "Carlos Ghosn\u2019s downfall shows how easily Europe\u2019s industrial strategy can fall apart - Telegraph.co.uk",
+            "description": "A personal scandal?",
+            "url": "https://www.telegraph.co.uk/business/2019/04/08/carlos-ghosns-downfall-europes-industrial-strategy-tatters/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2019/04/08/TELEMMGLPICT000193644764-xlarge_trans_NvBQzQNjv4BqM37qcIWR9CtrqmiMdQVx7P0TubxRUQnJB4ybUX7kN_w.jpeg",
+            "publishedAt": "2019-04-08T14:57:00Z",
+            "content": "A personal scandal? Political manoeuvring between France and Japan? Deadlock in the auto industry? It might be years before we know the real story behind Carlos Ghosns departure from Renault-Nissan. Over the last six months the man who was once the most power\u2026 [+445 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Dezeen.com"
+                "name": "Eadt.co.uk"
             },
-            "author": "Natashah Hitti",
-            "title": "Hyundai unveils walking car concept Elevate - Dezeen",
-            "description": "South Korean carmaker Hyundai has revealed its concept for a vehicle with robotic legs that could save lives as a first responder in natural disaster zones.",
-            "url": "https://www.dezeen.com/2019/01/08/walking-car-concept-hyundai-elevate/",
-            "urlToImage": "https://static.dezeen.com/uploads/2019/01/hyundai-walking-car-concept-design_dezeen_2364_hero-1.jpg",
-            "publishedAt": "2019-01-08T13:25:00Z",
-            "content": null
+            "author": "James Carr",
+            "title": "Debenhams likely to go into administration by end of the week - East Anglian Daily Times",
+            "description": "Debenhams bosses have been attacked by Sports Direct owner Mike Ashley after pressing ahead with a \u00a3200m refinancing plan to avoid his takeover bid.",
+            "url": "https://www.eadt.co.uk/business/mike-ashley-slams-debenhams-after-150m-takeoffer-offer-tabled-1-5984647",
+            "urlToImage": "https://www.eadt.co.uk/polopoly_fs/1.5984649!/image/image.jpg",
+            "publishedAt": "2019-04-08T14:48:00Z",
+            "content": "PUBLISHED: 15:48 08 April 2019 | UPDATED: 15:48 08 April 2019 James Carr Debenhams on Westgate Street, Ipswich. Picture: SARAH LUCY BROWN Archant On Sunday night the billionaire called for the retail chains board to be investigated and trading in its shares t\u2026 [+2031 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Businessgreen.com"
+                "name": "Yourmoney.com"
+            },
+            "author": "Joanna Faith",
+            "title": "TSB cuts current account interest from 5% to 3%: your options - Your Money - Your Money",
+            "description": "TSB is cutting the interest rate on its popular Classic Plus current account from 5% to 3% from 2 July.",
+            "url": "https://www.yourmoney.com/saving-banking/tsb-cuts-current-account-interest-from-5-to-3-your-options-explained/",
+            "urlToImage": "https://www.yourmoney.com/wp-content/uploads/sites/3/2019/03/TSB-Bank-4.jpg",
+            "publishedAt": "2019-04-08T14:43:57Z",
+            "content": "It means account holders will be able to earn up to \u00a345 a year in interest on balances up to \u00a31,500 instead of a maximum of \u00a375. The challenger bank increased the rate of interest back to 5% last year as a sweetener to customers, following its huge IT meltdow\u2026 [+4877 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Dominic Rushe",
+            "title": "Pinterest pins hopes on cut-price IPO as latest tech 'unicorn' goes public - The Guardian",
+            "description": "Company\u2019s $9bn valuation is $3bn less than 2017 figure and digital scrapbooking site is to be followed by Airbnb, Uber and WeWork",
+            "url": "https://www.theguardian.com/technology/2019/apr/08/pinterest-ipo-latest-stock-market-public-value-shares",
+            "urlToImage": "https://i.guim.co.uk/img/media/3b1cf0f9f6aef40b7f314c121687a39157f08bdb/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=8484fae662afdb9e321ec6cf86ce3be8",
+            "publishedAt": "2019-04-08T14:34:00Z",
+            "content": "Pinterest, the digital scrapbooking site, has became the latest Silicon Valley unicorn to publish details of its plans to go public. The companys initial regulatory filing would value the company at around $9bn, significantly less than previous valuations but\u2026 [+2374 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.co.uk"
+            },
+            "author": "Rebecca Hill",
+            "title": "Cloud prez Robert Enslin is latest SAP exec to ditch German ERP firm amid restructuring pains - The Register",
+            "description": "Three decades of experience gone as staff voice fears for HANA platform",
+            "url": "https://www.theregister.co.uk/2019/04/08/sap_enslin_departure/",
+            "urlToImage": "https://regmedia.co.uk/2019/04/08/shutterstock_quit3.jpg",
+            "publishedAt": "2019-04-08T14:30:00Z",
+            "content": "SAP veteran and cloud president Robert Enslin has quit as the German enterprise software firm forges ahead with restructuring, amid industry talk that its in-memory data platform HANA is in trouble. Enslin, who joined SAP in 1992, was promoted to his last rol\u2026 [+5487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Robert Reich",
+            "title": "Wall Street loves socialism for bankers \u2013 but not for ordinary people - The Guardian",
+            "description": "JPMorgan CEO Jamie Dimon decries socialism. Unless of course it\u2019s the banks that need a government bailout, says Robert Reich, former US secretary of labor",
+            "url": "https://www.theguardian.com/commentisfree/2019/apr/08/wall-street-socialism-jpmorgan-jamie-dimon-bailout",
+            "urlToImage": "https://i.guim.co.uk/img/media/eddc7ca98e9f478783cbe856fa225a645b37ea9e/0_107_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=062ef6d5ecddf1d09ad4a2f333eae3d8",
+            "publishedAt": "2019-04-08T14:28:00Z",
+            "content": "I n his annual letter to shareholders, distributed last week, JPMorgan Chase CEO Jamie Dimon took aim at socialism, warning it would be a disaster for our country, because it produces stagnation, corruption and often worse. Dimon should know. He was at the he\u2026 [+4444 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ladbible.com"
+            },
+            "author": "",
+            "title": "Hypersonic Jet That Will End Long Haul Flights Moves A Step Closer - LADbible",
+            "description": "The breakthrough would help keep the engine cool at high speeds",
+            "url": "http://www.ladbible.com/news/technology-hypersonic-jet-moves-a-step-closer-20190408",
+            "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/9c66e8e65cabaf80461894d26e57f594.png",
+            "publishedAt": "2019-04-08T14:22:25Z",
+            "content": "A scientific breakthrough could mean an end to long-haul flights after boffins discovered a way to stop engines from melting when they travel at 25 times the speed of sound. Specialists at Reaction Engines say they have created a 'pre-cooler', which worked at\u2026 [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bristolpost.co.uk"
+            },
+            "author": "Hannah Baker",
+            "title": "Struggling shopping centre The Galleries to be sold off amid Cabot Circus competition - Bristol Post",
+            "description": "The shopping centre has failed to match up to upmarket rival Cabot",
+            "url": "https://www.bristolpost.co.uk/news/business/struggling-shopping-centre-centre-galleries-2734965",
+            "urlToImage": "https://i2-prod.bristolpost.co.uk/incoming/article1363621.ece/ALTERNATES/s1200/7_galleries.jpg",
+            "publishedAt": "2019-04-08T14:15:00Z",
+            "content": "The Galleries in Bristol is to be sold off at a discounted price after struggling to compete with upmarket rival Cabot Circus. The shopping centre is being bought by a fund management company for \u00a332million - down on the \u00a350million it was sold for eight years\u2026 [+1317 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Birminghammail.co.uk"
+            },
+            "author": "Graham Young",
+            "title": "First pictures inside world's biggest Primark - as visitors rave over 'number one shopping destination' - Birmingham Live",
+            "description": "Peek inside reveals Harry Potter theme set to join Disney cafe and Brummie facts and catchphrases",
+            "url": "https://www.birminghammail.co.uk/news/midlands-news/first-pictures-inside-worlds-biggest-16096109",
+            "urlToImage": "https://i2-prod.birminghammail.co.uk/incoming/article16096164.ece/ALTERNATES/s1200/0_Primark-window.jpg",
+            "publishedAt": "2019-04-08T14:05:00Z",
+            "content": "It's the greatest shop on Earth - or at least the world's biggest Primark, for sure. And the first members of the public to have a look around the giant Birmingham city centre store were bowled over by its size and build quality. 'Friends and family' members \u2026 [+6943 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
             },
             "author": null,
-            "title": "'New era' for UK solar, as government U-turn promises payments for exported renewable power - www.businessgreen.com",
-            "description": "Claire Perry unveils plans for a Smart Export Guarantee designed to ensure households and businesses are paid for the power they export to the grid,Solar,Energy,Policy,Technology ,Feed-In Tariff,Claire Perry,distributed energy,Solar PV,Smart Export Guarantee,\u2026",
-            "url": "https://www.businessgreen.com/bg/news/3068944/new-era-for-uk-solar-as-government-u-turn-promises-payments-for-exported-renewable-power",
-            "urlToImage": "http://www.businessgreen.com/w-images/0ffcbdcf-b4ad-4c48-bfef-632017182bfa/1/solarsussexestatewinery-370x229.jpg",
-            "publishedAt": "2019-01-08T12:44:33Z",
-            "content": "Claire Perry unveils plans for a Smart Export Guarantee designed to ensure households and businesses are paid for the power they export to the grid The government has today responded to fierce criticism of its plans to axe support for solar installations in a\u2026 [+6981 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Telecoms.com"
-            },
-            "author": "http://telecoms.com/author/scottb/",
-            "title": "Samsung warns sales and profits are going down the toilet - Telecoms.com",
-            "description": "Korean giant Samsung has become the latest major tech company to warn about significant under-performance towards the end of 2018.",
-            "url": "http://telecoms.com/494483/samsung-warns-sales-and-profits-are-going-down-the-toilet/",
-            "urlToImage": "http://telecoms.com/wp-content/blogs.dir/1/files/2015/11/Samsung-electronics-office-logo-300x197.jpg",
-            "publishedAt": "2019-01-08T12:31:00Z",
-            "content": "Korean giant Samsung has become the latest major tech company to warn about significant under-performance towards the end of 2018. In its earnings guidance for Q4 18 Samsung Electronics advised that it expects sales of around 59 trillion Korean won and 10.8 t\u2026 [+1239 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Computing.co.uk"
-            },
-            "author": null,
-            "title": "IBM launches world's first commercial quantum computer - www.computing.co.uk",
-            "description": "20-qubit IBM Q System One sealed within airtight half-inch thick borosilicate glass enclosure,Hardware ,IBM,quantum computer,Q System One",
-            "url": "https://www.computing.co.uk/ctg/news/3068942/ibm-launches-worlds-first-commercial-quantum-computer",
-            "urlToImage": "http://www.computing.co.uk/w-images/01258135-0013-4952-a38f-90ab6d99c51d/2/IBMQSystemOneQuantumcomputerJan2019590360-370x229.jpg",
-            "publishedAt": "2019-01-08T12:19:24Z",
-            "content": "IBM has used CES 2019 to launch what it claims is the world's first commercial quantum computing system, developed with UK design studios Map Project Office and Universal Design Studio. The 20-qubit Q System One sits in a glass-enclosed, air-tight environment\u2026 [+1731 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mortgagesolutions.co.uk"
-            },
-            "author": "Antonia Di Lorenzo",
-            "title": "House prices saw unexpected spike in December - Halifax - Mortgage Solutions",
-            "description": "House prices rose more than expected in December 2018 both on an annual and monthly basis, data revealed.",
-            "url": "https://www.mortgagesolutions.co.uk/news/2019/01/08/house-prices-spike-unexpectedly-in-december-halifax/",
-            "urlToImage": "https://www.mortgagesolutions.co.uk/wp-content/uploads/sites/1/2018/09/building-houses.jpg",
-            "publishedAt": "2019-01-08T11:49:20Z",
-            "content": "House prices rose more than expected in December 2018 both on an annual and monthly basis, data revealed. Annual house prices rose 1.3% in December, up from the 0.3% recorded in November, while on a monthly basis, prices grew 2.2% compared to a drop of -1.2% \u2026 [+2812 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Unilad.co.uk"
-            },
-            "author": "Emily Brown",
-            "title": "Autonomous Robot Hit And 'Killed' By Self-Driving Tesla - UNILAD",
-            "description": null,
-            "url": "https://www.unilad.co.uk/technology/autonomous-robot-hit-and-killed-by-self-driving-tesla/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T11:29:51Z",
-            "content": "If you\u2019re worried about intelligent robots taking over the planet, don\u2019t be. Self-driving cars are here to take them down. Although, you might have to start preparing for self-driving cars to wipe out humanity instead. In what\u2019s possibly the most futuristic s\u2026 [+2944 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "John-Paul Ford Rojas, business reporter",
-            "title": "Britons ditched whole turkeys to avoid endless leftovers over Christmas - Sky News",
-            "description": "There were signs of consumers switching away from the traditional festive bird, often blamed for leaving weeks of leftovers.",
-            "url": "https://news.sky.com/story/whole-turkey-sales-fall-as-crowns-take-flight-11601836",
-            "urlToImage": "https://e3.365dm.com/18/11/1600x900/christmas-dinner-turkey-sky-news_4503474.jpg?20181129115100",
-            "publishedAt": "2019-01-08T11:29:29Z",
-            "content": "Some British households lost their appetite for whole turkeys over Christmas - opting instead for smaller joints such as crowns, industry data suggests. Sales of the birds in the 12 weeks to 30 December fell 7%, according to Kantar Worldpanel, which also reve\u2026 [+2031 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Autocar.co.uk"
-            },
-            "author": null,
-            "title": "Ex-Nissan boss Ghosn: misconduct charges are 'meritless' - Autocar",
-            "description": "Carlos Ghosn strongly denies financial misconduct charges on first court appearance since arrest last November",
-            "url": "https://www.autocar.co.uk/car-news/industry/ex-nissan-boss-ghosn-misconduct-charges-are-meritless",
-            "urlToImage": "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/1ghosn1_1.jpg",
-            "publishedAt": "2019-01-08T10:23:53Z",
-            "content": "Former Nissan chairman Carlos Ghosn has said he has been wrongly accused of serious financial misconduct, following his first court appearance since his arrest in Japan last year. The 64-year-old was arrested by prosecutors in the country last November and ch\u2026 [+1346 chars]"
+            "title": "Monzo set to raise up to \u00a3100 million from US fund Y Combinator - Telegraph.co.uk",
+            "description": "Y Combinator, the prominent Silicon Valley venture capital firm, has agreed a deal to invest new funds in Monzo, in a move that could almost double the digital bank's valuation to &pound;1.",
+            "url": "https://www.telegraph.co.uk/technology/2019/04/08/monzo-set-raise-100-million-us-fund-y-combinator/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2016/03/26/Mondo-xlarge_trans_NvBQzQNjv4BqNvLtDx75wZSR0MSb26ou_ysHzjQpVngxpF9kb9ZTW04.jpg",
+            "publishedAt": "2019-04-08T14:03:00Z",
+            "content": "Y Combinator, the prominent Silicon Valley venture capital firm, has agreed a deal to invest new funds in Monzo, in a move that could almost double the digital bank's valuation to \u00a31.9bn. The funding round is expected to be led by Y Combinator's Continuity fu\u2026 [+440 chars]"
         },
         {
             "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
-            "author": "BBC News",
-            "title": "Audi brings Disney VR to back seat - BBC News",
-            "description": "The car maker worked with Disney to create a concept that reacts to the movements of the car a passenger is riding in.",
-            "url": "https://www.bbc.co.uk/news/av/technology-46788110/audi-brings-disney-vr-to-back-seat",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9A0F/production/_105093493_p06xfxt6.jpg",
-            "publishedAt": "2019-01-08T08:52:58Z",
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Centrica boss gets 44% pay rise after 'challenging year' - BBC News",
+            "description": "Iain Conn's \u00a32.4m pay is 72 times that of one of Centrica's smart energy experts, who receive \u00a333,718.",
+            "url": "https://www.bbc.co.uk/news/business-47850775",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11A20/production/_106342227_conn.jpg",
+            "publishedAt": "2019-04-08T13:38:23Z",
+            "content": "The chief executive of the company which owns British Gas received a 44% rise in his pay last year to \u00a32.4m. It means Iain Conn, who runs Centrica, is paid 72 times that of an employee in the lower quartile of its salary range - a smart energy expert paid \u00a333\u2026 [+1804 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Jess Sheldon",
+            "title": "Tesco food counters CLOSE in 90 stores: FULL LIST of confirmed affected stores so far - Express",
+            "description": "TESCO announced it was closing deli counters in 90 of its stores back in January, and now the supermarket giant has confirmed some of the locations which will be affected. Is your local counter closing? Full list of the confirmed stores affected here.",
+            "url": "https://www.express.co.uk/life-style/life/1111420/Tesco-UK-stores-closing-deli-counter-closures-full-list",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/130/750x445/1111420.jpg",
+            "publishedAt": "2019-04-08T13:33:00Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "Microsoft loses title of world's most valuable listed company to Amazon - Sky News",
-            "description": "The online retail giant founded by Jeff Bezos in 1994 is now worth more than fellow tech titans Microsoft or Apple.",
-            "url": "https://news.sky.com/story/amazon-becomes-most-valuable-listed-company-11601663",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-amazon-tech_4540428.jpg?20190108085404",
-            "publishedAt": "2019-01-08T08:46:04Z",
-            "content": "Amazon has eclipsed Microsoft as the world's most valuable listed company as volatile markets reshuffle Wall Street's pecking order. The change happened on Monday as shares in the online retail giant rose 3%, lifting its market value to $797bn (\u00a3624bn). Micro\u2026 [+1020 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitaltrends.com"
-            },
-            "author": "Trevor Mogg",
-            "title": "Elon Musk breaks ground on the first Tesla factory outside the U.S. - Digital Trends",
-            "description": "Tesla CEO Elon Musk was in China on Monday to break ground on a manufacturing facility, its first outside the U.S. It'll assemble Tesla's mass-market Model 3 vehicle, as well as the upcoming Model Y, as part of a major push into the world's biggest \u2014 and fast\u2026",
-            "url": "https://www.digitaltrends.com/cars/elon-musk-breaks-ground-on-the-first-tesla-factory-outside-the-us/",
-            "urlToImage": "https://icdn3.digitaltrends.com/image/elon-musk-tesla-shanghai-1200x630-c-ar1.91.jpg",
-            "publishedAt": "2019-01-08T06:45:28Z",
-            "content": "It\u2019s really happening for Tesla in China, with company boss Elon Musk breaking ground at a new manufacturing plant in Shanghai on Monday, January 7 its first such facility outside of the U.S. The company\u2019s third so-called \u201cGigafactory\u201d will assemble Tesla\u2019s m\u2026 [+2376 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Jessica Resnick-Ault",
-            "title": "U.S. oil prices edge up on trade talk hopes, OPEC cuts - Reuters",
-            "description": "Oil prices rose more than 2 percent on Tuesday, supported by hopes that crude demand may rise more quickly if talks between U.S. and Chinese officials resolve the trade dispute between the world's two biggest economies.",
-            "url": "https://uk.reuters.com/article/us-global-oil/u-s-oil-prices-edge-up-on-trade-talk-hopes-opec-cuts-idUSKCN1P201C",
-            "urlToImage": "https://s4.reutersmedia.net/resources/r/?m=02&d=20190108&t=2&i=1343239335&w=1200&r=LYNXNPEF07018",
-            "publishedAt": "2019-01-08T00:38:00Z",
-            "content": "NEW YORK (Reuters) - Oil prices rose more than 2 percent on Tuesday, supported by hopes that crude demand may rise more quickly if talks between U.S. and Chinese officials resolve the trade dispute between the world\u2019s two biggest economies. U.S. West Texas In\u2026 [+2474 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Efinancialcareers.com"
+                "name": "Yahoo.com"
             },
             "author": null,
-            "title": "\"The washrooms at Morgan Stanley are exceptional. They're like a 5* hotel\" - eFinancialCareers",
-            "description": "Morgan Stanley has got something special in store for its London employees in 2019.",
-            "url": "https://news.efinancialcareers.com/sg-en/331360/morgan-stanley-london-office",
-            "urlToImage": "http://news.efinancialcareers.com/binaries/content/gallery/efinancial-careers/articles/2019/01/Morgan-Stanley-washrooms.jpg",
-            "publishedAt": "2019-01-07T23:21:13Z",
-            "content": "If you're looking for a new job in London for the New Year and aesthetics are high on your list of priorities, you might want to try Morgan Stanley. We hear that the U.S. bank's London offices are really rather special. \"Morgan Stanley's office in Canary Whar\u2026 [+3291 chars]"
+            "title": "An 8% FTSE 100 dividend yield I\u2019d snap up today - Yahoo Finance UK",
+            "description": null,
+            "url": "https://uk.finance.yahoo.com/news/8-ftse-100-dividend-yield-130600477.html",
+            "urlToImage": null,
+            "publishedAt": "2019-04-08T13:06:00Z",
+            "content": "To give you a better overall experience, we want to provide relevant ads that are more useful to you. For example, when you search for a film, we use your search information and location to show the most relevant cinemas near you. We also use this information\u2026 [+237 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Sky.com"
+                "name": "Gizmodo.co.uk"
             },
-            "author": "Ian King, business presenter",
-            "title": "Serious business of cancer sparks Pharma M&A spree - Sky News",
-            "description": "Research and development for cancer treatments is notoriously expensive, so it pays manufacturers to have real scale in the field.",
-            "url": "https://news.sky.com/story/serious-business-of-cancer-sparks-pharma-ma-spree-11601416",
-            "urlToImage": "https://e3.365dm.com/17/08/1600x900/717be9b24d718f6be0f658a3bdeeb2c14c92370ea5872b524692227c64e9322a_4085547.jpg?20170828151737",
-            "publishedAt": "2019-01-07T20:17:45Z",
-            "content": "2019 is only a week old but, in the pharmaceutical sector, there have already been two big deals. Eli Lilly, the US drugs giant famous for creating the anti-depressant Prozac, today announced it was buying Loxo Oncology, a company that is barely five years ol\u2026 [+4744 chars]"
+            "author": null,
+            "title": "UK Jaguar Land Rover Staff Start Compulsory Brexit Holiday - Gizmodo UK",
+            "description": "Workers down tools, or the touchscreens that control the tools, this week.",
+            "url": "http://www.gizmodo.co.uk/2019/04/uk-jaguar-land-rover-staff-start-compulsory-brexit-holiday/",
+            "urlToImage": "https://media.gizmodo.co.uk/wp-content/uploads/2019/04/landrover-solihull.jpg",
+            "publishedAt": "2019-04-08T13:00:00Z",
+            "content": "All of Jaguar Land Rover's UK production lines have shut down today. But just for a week. It's part of the firm's Brexit-preparedness efforts, agreed months back to get staff to down tools to stop making cars for a week, lest it end up with more cars than it \u2026 [+747 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gloucestershirelive.co.uk"
+            },
+            "author": "Ed Stilliard",
+            "title": "Police hunt for gang of boys who slapped woman's bottom - Gloucestershire Live",
+            "description": "Police are appealing for the victim to come forward",
+            "url": "https://www.gloucestershirelive.co.uk/news/cheltenham-news/woman-assaulted-cheltenham-mcdonalds-police-2734565",
+            "urlToImage": "https://i2-prod.gloucestershirelive.co.uk/incoming/article1785627.ece/ALTERNATES/s1200/Generic-image-of-police.jpg",
+            "publishedAt": "2019-04-08T12:59:00Z",
+            "content": "A woman was reportedly followed and sexually assaulted by a group of teenage boys in Cheltenham town centre on Mother's Day. A member of the public witnessed the incident and called Gloucestershire Constabulary telling the force that the six boys aged between\u2026 [+1173 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Portishead-Bristol line restoration gets funding boost - BBC News",
+            "description": "A council leader says the Portishead-Bristol line is \"vital for north Somerset and the region\".",
+            "url": "https://www.bbc.co.uk/news/uk-england-bristol-47853916",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F81/production/_104677189_portisheadrailwaygroup.jpg",
+            "publishedAt": "2019-04-08T12:47:22Z",
+            "content": "Image copyright Portishead Railway Group Image caption The Portishead branch line shut in 1964 and is now overgrown A plan to reopen a rail link between Portishead and Bristol is set to receive more than \u00a331m in funding from the government. The Portishead bra\u2026 [+2013 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Allied Irish Banks dropping First Trust name - BBC News",
+            "description": "First Trust is one of NI's \"big four\" banks and it will rebrand as AIB over the next two years.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-47856522",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15560/production/_105629378_firsttrust.jpg",
+            "publishedAt": "2019-04-08T12:41:47Z",
+            "content": "Image copyright PAcemaker Image caption First Trust is one of Northern Ireland's \"big four\" banks Allied Irish Banks is dropping the First Trust name for its Northern Ireland business. All First Trust Bank operations and products will rebrand as AIB over the \u2026 [+519 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "London Underground workers to hold strike action ballot over pay - BBC News",
+            "description": "London Underground could face disruption as staff are set to be balloted for industrial action.",
+            "url": "https://www.bbc.co.uk/news/uk-england-london-47855771",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14FDA/production/_104187958_pa-39138372.jpg",
+            "publishedAt": "2019-04-08T12:34:30Z",
+            "content": "Image copyright PA Image caption Unions have said they are going to ballot members over industrial action London Underground could face disruption from industrial action after workers rejected a pay offer. The Transport Salaried Staffs Association (TSSA) said\u2026 [+1310 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thisismoney.co.uk"
+            },
+            "author": "https://www.dailymail.co.uk/home/search.html?s=&authornamef=Ray+Massey+For+Mailonline+And+This+Is+Money",
+            "title": "Cars that drop in value quickest within three years revealed - Daily Mail",
+            "description": "Some of Britain's biggest depreciating cars lose up to three quarters of their value in just three years, shock research from WhatCar? shows.",
+            "url": "https://www.thisismoney.co.uk/money/cars/article-6898947/Cars-drop-value-quickest-three-years-revealed.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/13/12004806-0-image-a-23_1554725974714.jpg",
+            "publishedAt": "2019-04-08T12:22:25Z",
+            "content": "It's no secret that brand new cars lose value as soon as they are driven off the forecourt. However, some of Britain's biggest depreciating models lose up to three quarters of their value in just three years, shock research shows. In contrast, electric cars a\u2026 [+5162 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Kara Godfrey",
+            "title": "Passengers\u2019 terror as oxygen masks drop on British Airways flight after \u2018pilot presses the wrong button\u2019 - The Sun",
+            "description": "Mitchell Webb, 24, was travelling with his friend when the incident occurred two hours into the flight",
+            "url": "https://www.thesun.co.uk/travel/8815303/british-airways-flight-passengers-terror-oxygen-mask/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/KH-COMPOSITE-TRAVEL.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T12:17:00Z",
+            "content": "BRITISH Airways passengers were left terrified after a pilot blunder led to the oxygen masks dropping mid-flight. Flight BA16 was travelling from Singapore to London when, two hours into the flight, problems began to occur. Passengers were shocked after the o\u2026 [+2685 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Diageo submits plans to 'transform' two distilleries - BBC News",
+            "description": "Diageo aims to upgrade visitor facilities at two distilleries as part of a Scotch whisky tourism drive.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-scotland-business-47853070",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8A1A/production/_106345353_887f248e-a999-4418-a721-20299e2768ed.jpg",
+            "publishedAt": "2019-04-08T12:15:23Z",
+            "content": "Image copyright Diageo Image caption Cardhu is among four distilleries which will be linked to a new Johnnie Walker visitor attraction in Edinburgh Diageo has formally submitted plans to \"transform\" visitor facilities at two distilleries in the north of Scotl\u2026 [+1150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "David Snelling",
+            "title": "Virgin Media could soon give Sky customers a surprise broadband speed boost - Express",
+            "description": "VIRGIN MEDIA is reported to be considering opening up its network to other providers such as Sky which could see customers getting a huge boost in speed.",
+            "url": "https://www.express.co.uk/life-style/science-technology/1111363/Virgin-Media-Sky-broadband-fibre-update-speed",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/59/750x445/1111363.jpg",
+            "publishedAt": "2019-04-08T11:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dailyrecord.co.uk"
+            },
+            "author": "Record Reporter",
+            "title": "Crunchie lovers can get a \u00a312 Cadbury Easter Egg for free - and here's how - Daily Record",
+            "description": "The giant Cadbury Ultimate Crunchie Bits Egg is a new addition to the Cadbury line up for Easter 2019",
+            "url": "https://www.dailyrecord.co.uk/lifestyle/family-kids/crunchie-lovers-can-12-cadbury-14252705",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article14230903.ece/ALTERNATES/s1200/0_egggsss.png",
+            "publishedAt": "2019-04-08T11:44:00Z",
+            "content": "With Easter Sunday fast approaching - on April 21 - it's time to start stocking up on gifts for loved ones. The traditional gift of a chocolate egg will be top of the treat list for many, and this year there are more fancy chocs than ever to choose from. And \u2026 [+1351 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Zahra Mulroy",
+            "title": "Man embarrasses family and baffles McDonald's staff by gobbling up fake burger - Mirror Online",
+            "description": "Matt Little was so disappointed that the McPickle was an April Fools' that he decided to have one anyway",
+            "url": "https://www.mirror.co.uk/news/weird-news/man-embarrasses-family-baffles-mcdonalds-14252493",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article14252677.ece/ALTERNATES/s1200/0_Matt-Little.jpg",
+            "publishedAt": "2019-04-08T11:32:00Z",
+            "content": "McDonald's recently underestimated just how much people love pickles. The fast-food giant prompted widespread excitement when they announced the launch of the McPickle Burger - only for it to be an April Fools'. Cue, outrage and disappointment. One man's dism\u2026 [+1505 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Brexit: EU chief negotiator in Dublin for talks - BBC News",
+            "description": "The EU's chief Brexit negotiator made the comment after holding talks with the Irish PM in Dublin.",
+            "url": "https://www.bbc.co.uk/news/world-europe-47847700",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A91E/production/_106349234_barnier.jpg",
+            "publishedAt": "2019-04-08T11:23:28Z",
+            "content": "Image caption Michel Barnier and Leo Varadkar held a joint press conference, and said they would await the outcome of cross-party talks in Westminster The European Union will \"stand fully behind Ireland\" regardless of what happens with Brexit, the EU's chief \u2026 [+3575 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "German exports suffer biggest slump in a year as Brexit and trade war uncertainty bites - Telegraph.co.uk",
+            "description": "The OECD has warned of a slowdown in &quot;most major economies&quot; despite some tentative signs of a rebound in global growth.",
+            "url": "https://www.telegraph.co.uk/business/2019/04/08/markets-latest-news-pound-euro-ftse-100-oil-prices-hit-2019/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/business/2019/04/08/TELEMMGLPICT000057107570-xlarge_trans_NvBQzQNjv4BqNy-eSpr94Jzhb9v5_DXLkPBsw20uPjZ8zSLyKOCUQKI.jpeg",
+            "publishedAt": "2019-04-08T11:00:19Z",
+            "content": "We've noticed you're adblocking. We rely on advertising to help fund our award-winning journalism. We urge you to turn off your ad blocker for The Telegraph website so that you can continue to access our quality content in the future. Thank you for your suppo\u2026 [+2 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fool.co.uk"
+            },
+            "author": "",
+            "title": "I'd sell this FTSE 100 stock yielding 7% today - Motley Fool UK",
+            "description": "Owners of this FTSE 100 (INDEXFTSE:UKX) dividend champion could be in for a big shock.",
+            "url": "https://www.fool.co.uk/investing/2019/04/08/id-sell-this-ftse-100-stock-yielding-7-today/",
+            "urlToImage": "https://1gb82h2px4rr3s7tp94g0nt1-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/FoolishIdea.jpg",
+            "publishedAt": "2019-04-08T10:54:49Z",
+            "content": "At first glance, shares in FTSE 100 utility provider SSE (LSE: SSE) might look attractive from an income perspective. Indeed, the shares will tell you they currently support a dividend yield of 8.4%, although management is planning to reduce the payout in 202\u2026 [+3816 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Timesrecord.com"
+            },
+            "author": null,
+            "title": "Bath abandons 5-cent fee on paper bags - Times Record",
+            "description": "BATH \u2014 The Bath City Council has repealed a 5-cent fee on paper bags nearly a year after the city started its plastic bag ban. Last April, on Earth Day, the city enacted a ban on single-use plastic bags. The ordinance also included a 5-cent fee on single-use \u2026",
+            "url": "https://www.timesrecord.com/articles/front-page/bath-abandons-5-cent-fee-on-paper-bags/",
+            "urlToImage": "https://www.timesrecord.com/wp-content/uploads/2019/02/20190206_183306-e1549505767279-1024x510.jpg",
+            "publishedAt": "2019-04-08T10:49:52Z",
+            "content": "BATH The Bath City Council has repealed a 5-cent fee on paper bags nearly a year after the city started its plastic bag ban. Last April, on Earth Day, the city enacted a ban on single-use plastic bags. The ordinance also included a 5-cent fee on single-use pa\u2026 [+2752 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "KPMG plans 400 jobs at new hub in Glasgow - BBC News",
+            "description": "The professional services firm says the posts will be created in Glasgow over the next three years.",
+            "url": "https://www.bbc.co.uk/news/uk-scotland-scotland-business-47853068",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14982/production/_106345348_3d86500a-7780-4ba2-be96-9333a1de5dd5.jpg",
+            "publishedAt": "2019-04-08T10:35:04Z",
+            "content": "Image copyright PA Professional services firm KPMG has announced plans to create up to 400 jobs over the next three years in Glasgow. The posts will be based at KPMG's new managed services hub - only its second in the UK. The company said 200 jobs would be cr\u2026 [+1269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cityam.com"
+            },
+            "author": "James Warrington",
+            "title": "Chinese telecoms firm Huawei's 'shoddy' engineering creates cyber security risks could lead to UK ban, says GCHQ boss Dr Ian Levy - City A.M.",
+            "description": "Huawei could be banned in parts of the UK because its \u201cshoddy\u201d engineering practices create cyber security issues, a GCHQ director has said.",
+            "url": "http://www.cityam.com/275911/huaweis-shoddy-cyber-security-could-lead-uk-ban-says-gchq",
+            "urlToImage": "http://www.cityam.com/assets/uploads/main-image/full_width_article_body_image/china-telecommunications-huawei-1090750308-5cab20b163808.jpg",
+            "publishedAt": "2019-04-08T10:21:00Z",
+            "content": "Huawei could be banned in parts of the UK because its \u201cshoddy\u201d engineering practices create cyber security issues, a GCHQ director has said. Dr Ian Levy, technical director of the National Cyber Security Centre (NCSC), said the UK may ban the Chinese firm\u2019s e\u2026 [+2760 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Campaignlive.co.uk"
+            },
+            "author": "Simon Gwynn",
+            "title": "Accenture follows Droga5 deal by acquiring Madrid-based Shackleton - CampaignLive",
+            "description": "Move also follows purchases in Germany, Denmark and Netherlands.",
+            "url": "https://www.campaignlive.co.uk/article/accenture-follows-droga5-deal-acquiring-madrid-based-shackleton/1581303",
+            "urlToImage": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/815/cached.offlinehbpl.hbpl.co.uk/news/OMC/Shackleton-20190408092209592.jpg",
+            "publishedAt": "2019-04-08T10:08:22Z",
+            "content": "Accenture Interactive has acquired Spanish brand communications agency Shackleton for an undisclosed amount. Founded in 2004 by Pablo Alzugaray and Juan Nonzioli, the agency has its headquarters in Madrid and has offices in Barcelona and Santiago, Chile. Shac\u2026 [+1383 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Sir Philip Green complaint over Lord Hain dismissed - BBC News",
+            "description": "House of Lords Standards Commissioner rejects complaint Lord Hain failed to declare law firm role.",
+            "url": "https://www.bbc.co.uk/news/business-47850612",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C1EC/production/_106344694_ff88230d-7425-4a0b-9776-e7ce2617fd1e.jpg",
+            "publishedAt": "2019-04-08T10:02:14Z",
+            "content": "Image copyright Thinkstock The House of Lords standards body has dismissed a complaint that Lord Hain failed to declare an interest when he named Sir Philip Green as the subject of inappropriate conduct allegations. The former Northern Ireland secretary was t\u2026 [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lbc.co.uk"
+            },
+            "author": "LBC",
+            "title": "James O'Brien Admits He \"Can't See The Wood For The Trees\" In ULEZ Debate - LBC",
+            "description": "James revealed that he is cyncical of the ULEZ debate and the motives of those involved in the debate, and likened it to the Brexit debate.",
+            "url": "https://www.lbc.co.uk/radio/presenters/james-obrien/admits-cant-see-the-wood-for-the-trees-ulez-debate/",
+            "urlToImage": "https://images.lbc.co.uk/images/45357?width=1200&crop=16_9&signature=bNLp_XxrM9K8LtBUAnrv5Vpt6dQ=",
+            "publishedAt": "2019-04-08T09:58:59Z",
+            "content": "8 April 2019, 10:58 | Updated: 8 April 2019, 11:02 James revealed that he is cyncical of the ULEZ debate and the motives of those involved in the debate, and likened it to the Brexit debate. The Ultra Low Emission Zone ( ULEZ ) starts today, Monday 8th April \u2026 [+1278 chars]"
         },
         {
             "source": {
@@ -892,25 +489,428 @@
                 "name": "Financial Times"
             },
             "author": null,
-            "title": "AstraZeneca hires controversial head of cancer R&D - Financial Times",
-            "description": "Drugmaker \u2018doubles down\u2019 on cancer treatments and appoints Jos\u00e9 Baselga to oversee unit",
-            "url": "https://www.ft.com/content/e821b2ea-126a-11e9-a581-4ff78404524e",
-            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F4b6a2650-1281-11e9-a168-d45595ad076d?source=next-opengraph&fit=scale-down&width=900",
-            "publishedAt": "2019-01-07T15:50:00Z",
-            "content": "AstraZeneca has appointed Jos\u00e9 Baselga, a controversial cancer expert, to run its oncology research and development operations as part of a wider shake-up by the UK-listed drugmaker to double down on the area. Mr Baselga was the physician-in-chief at Memorial\u2026 [+2681 chars]"
+            "title": "Activist investor Edward Bramson ramps up bid for Barclays board - Financial Times",
+            "description": "Shareholders warned bank will have to raise capital unless trading operations are scaled back",
+            "url": "https://www.ft.com/content/e6de929c-59df-11e9-939a-341f5ada9d40",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fc1cc7b42-59ec-11e9-9dde-7aedca0a081a?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T09:32:00Z",
+            "content": "The activist investor pushing for Barclays to shrink its investment bank has warned there is a \u201creal threat\u201d that the UK lender will have to raise fresh capital unless it scales back its trading operations. In a letter on Monday, Edward Bramson urged Barclays\u2026 [+2381 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Bbc.com"
+                "name": "Fxstreet.com"
+            },
+            "author": "Tomas Salles",
+            "title": "Top 3 Price Prediction Bitcoin, Ripple, Ethereum: The bull market waits for no one - FXStreet",
+            "description": "The second week of April begins with the second week of overwhelming bullish mood at the cryptocurrencies market. In Friday's article, I claimed a st",
+            "url": "https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ripple-ethereum-the-bull-market-waits-for-no-one-201904080909",
+            "urlToImage": "https://editorial.azureedge.net/images/Markets/Currencies/Digital Currencies/Bitcoin/bitcoins-33758372_Large.jpg",
+            "publishedAt": "2019-04-08T09:09:00Z",
+            "content": "A weak XRP is no excuse for the market postponing the takeoff. ETH pulls out the stripes and goes to the front. Signs of exhaustion appear in the short term. The second week of April begins with the second week of overwhelming bullish mood at the cryptocurren\u2026 [+5414 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Hollie Borland, Senior Digital Consumer Reporter",
+            "title": "Map reveals where first-time buyers need to save for a DECADE to get enough for a house deposit - The Sun",
+            "description": "Potential buyers in the South East and South West of England need at least 13 years to save for a 15 per cent deposit, while those in London need at least 15",
+            "url": "https://www.thesun.co.uk/money/8813786/map-reveals-where-first-time-buyers-need-to-save-for-a-decade-to-get-enough-for-a-house-deposit/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/RB-COMPOSITE-BUYERS-MAP-v2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T09:05:00Z",
+            "content": "FIRST-time buyers across England and Wales face a decade of saving before getting on the property ladder, new research shows. To put that into perspective, it means a first-time buyer who started saving now could expect to get the keys to their first home in \u2026 [+5415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bristolpost.co.uk"
+            },
+            "author": "Geoffrey Bennett",
+            "title": "Police investigation launched after city council worker stabbed - Bristol Post",
+            "description": "The victim's injuries are not thought to be life-threatening",
+            "url": "https://www.bristolpost.co.uk/news/bristol-news/police-investigation-launched-after-city-2727872",
+            "urlToImage": "https://i2-prod.bristolpost.co.uk/incoming/article2727883.ece/ALTERNATES/s1200/0_Clifton-PlacePNG.png",
+            "publishedAt": "2019-04-08T09:03:00Z",
+            "content": "Police are investigating after a Bristol City Council employee was stabbed in Bristol. Avon and Somerset Constabulary confirmed officers are making inquiries after a man was taken to hospital last Thursday (April 4) following reports of a serious assault in E\u2026 [+612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dutchnews.nl"
+            },
+            "author": null,
+            "title": "Campaign group Follow This withdraws Shell AGM climate motion - DutchNews.nl",
+            "description": "Financial campaign group Follow This has withdrawn a climate change motion scheduled to be debated at Shell\u2019s next AGM due...",
+            "url": "https://www.dutchnews.nl/news/2019/04/campaign-group-follow-this-withdraws-shell-agm-climate-motion/",
+            "urlToImage": "https://www.dutchnews.nl/wpcms/wp-content/uploads/2017/10/Shell-technology-centre-Amsterdam.png",
+            "publishedAt": "2019-04-08T08:12:37Z",
+            "content": "Shell\u2019s technology centre in Amsterdam. Photo: Shell Media Library Financial campaign group Follow This has withdrawn a climate change motion scheduled to be debated at Shell\u2019s next AGM due to the \u2018long term climate targets Shell has drawn up\u2019. The campaign g\u2026 [+1579 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Steve O'Hear",
+            "title": "European VC firm Octopus Ventures launches \u00a383M growth fund - TechCrunch",
+            "description": "Octopus Ventures, the European venture capital firm that\u2019s part of Octopus Group, is launching an \u00a383 million growth fund to further invest in its most promising portfolio companies. The new fund, which is backed by a number of undisclosed institutional inves\u2026",
+            "url": "https://techcrunch.com/2019/04/08/octopus-ventures-growth-fund/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/Alliott-Cole-CEO-of-Octopus-Ventures_square.jpg?w=514",
+            "publishedAt": "2019-04-08T08:01:06Z",
+            "content": "Octopus Ventures, the European venture capital firm that\u2019s part of Octopus Group, is launching an \u00a383 million growth fund to further invest in its most promising portfolio companies. The new fund, which is backed by a number of undisclosed institutional inves\u2026 [+9913 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Interactive Investor to roll out \u2018Netflix pricing\u2019 - Financial Times",
+            "description": "Platform\u2019s new pricing model will benefit frequent traders, but others will pay more",
+            "url": "https://www.ft.com/content/c9b7bd14-57b0-11e9-91f9-b6515a54c5b1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F3253bc44-28a7-11e9-9222-7024d72222bc?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T08:00:00Z",
+            "content": "Interactive Investor, the UK\u2019s second-largest fund supermarket, is set to adopt a \u201cNetflix\u201d model of monthly pricing which could slash annual charges for frequent traders by \u00a3169 \u2014 although those who trade less frequently could end up paying between \u00a330 to \u00a37\u2026 [+4368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hulldailymail.co.uk"
+            },
+            "author": "Anna Riley",
+            "title": "The stunning \u00a320m, 150-bed hotel with rooftop sky bar that could soon come to Hull - Hull Daily Mail",
+            "description": "The development would also secure the future of two historic Hull buildings",
+            "url": "https://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/stunning-20m-150-bed-hotel-2732586",
+            "urlToImage": "https://i2-prod.hulldailymail.co.uk/incoming/article2732592.ece/ALTERNATES/s1200/2_AR_HMB_080419_NEWHOTEL.jpg",
+            "publishedAt": "2019-04-08T08:00:00Z",
+            "content": "A 150-bed hotel with a rooftop sky bar offering spectacular views of Hulls waterfront could soon be built in plans that would also secure the future of two historic Hull buildings. The \u00a320m plans, which would create 120 full and part-time jobs, would see the \u2026 [+4188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Hugo Gye",
+            "title": "Google \u2018dodges \u00a31.5 BILLION in UK tax\u2019 \u2013 enough to hire 60,000 more nurses - The Sun",
+            "description": "Campaigners claim the firm would pay far more corporation tax if it booked British sales in the UK",
+            "url": "https://www.thesun.co.uk/news/8813779/google-corporation-tax-bill/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/NINTCHDBPICT000478215957.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T07:56:00Z",
+            "content": "GOOGLE has avoided \u00a31.5billion in UK tax by booking British sales abroad, it was claimed today. The US-based web giant would have paid much more corporation tax if it had declared ad sales in the UK, according to campaigners. Google books most of its UK ad sa\u2026 [+1560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Constructionenquirer.com"
+            },
+            "author": null,
+            "title": "Go-ahead for \u00a3700m Teesside gas power station - Construction Enquirer",
+            "description": null,
+            "url": "https://www.constructionenquirer.com/2019/04/08/go-ahead-for-700m-teesside-gas-power-station/",
+            "urlToImage": null,
+            "publishedAt": "2019-04-08T07:07:07Z",
+            "content": "Sembcorp Utilities is behind plans to build the 1.7GW Tees combined cycle power plant on land at the Wilton International manufacturing site on Teesside. The project will utilise existing gas and national grid connections on the site of the former Teesside Po\u2026 [+629 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Sabrina Barr",
+            "title": "7 weird Easter eggs, from Game of Thrones-inspired to Marmite-flavoured - The Independent",
+            "description": "How do you fancy an Easter egg that looks exactly like an avocado?",
+            "url": "https://www.independent.co.uk/life-style/food-and-drink/easter-eggs-2019-weird-marmite-avocado-chocolate-dragon-game-of-thrones-a8852191.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/04/03/09/dragon-easter-egg-deliveroo-main.jpg",
+            "publishedAt": "2019-04-08T06:51:00Z",
+            "content": "Easter, otherwise (unofficially) known as chocolate-eating season, is just around the corner. Year upon year, chances are that the Easter eggs you receive from your loved ones to commemorate the religious occasion are delicious, albeit slightly bog standard. \u2026 [+10773 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "China sounds alarm over bad-loan surge at small banks - Financial Times",
+            "description": "Fresh questions over bailouts and failures as bad-debt rate tops 40% at some lenders",
+            "url": "https://www.ft.com/content/8d163fec-59b9-11e9-9dde-7aedca0a081a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fb633b2f6-59e1-11e9-840c-530737425559?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T06:41:20Z",
+            "content": "China\u2019s central auditing authority has sounded the alarm on a surge of bad debt at small banks around the country, raising the question of whether Beijing will continue to bail out struggling lenders or eventually allow some to go bankrupt. The National Audit\u2026 [+2897 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Asiatimes.com"
+            },
+            "author": "Andrew Salmon",
+            "title": "Controversial Korean Air chairman passes away | Article - Asia Times",
+            "description": "Questions raised over the company\u2019s leadership as Cho Yang-ho\u2019s family members have been in equal disgrace",
+            "url": "https://www.asiatimes.com/2019/04/article/controversial-korean-air-chairman-passes-away/",
+            "urlToImage": "https://static.asiatimes.com/uploads/2019/04/Cho-Yang-ho-900x540.jpg",
+            "publishedAt": "2019-04-08T05:57:37Z",
+            "content": "Cho Yang-ho, the chairman and CEO of Korean Air, has passed away in a hospital in the United States from what was being reported as lung cancer. He was 70. Shares in Korean Air leaped 2.5% against a largely static KOSPI index on Monday morning, indicating pos\u2026 [+3028 chars]"
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Recession warnings are flashing red \u2013 is it time for investors to panic? - Telegraph.co.uk",
+            "description": "Investors have been spooked by one of the most reliable indicators of an impending recession, which has not been seen for more than a decade.",
+            "url": "https://www.telegraph.co.uk/investing/news/recession-warnings-flashing-red-time-investors-panic/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/investing/2019/04/05/TELEMMGLPICT000160021679-xlarge_trans_NvBQzQNjv4Bq3480UNUU8UfSxDSaY1n7MGtT0gK_6EfZT336f62EI5U.jpeg",
+            "publishedAt": "2019-04-08T05:30:00Z",
+            "content": "I nvestors have been spooked by one of the most reliable indicators of an impending recession, which has not been seen for more than a decade. Investment banks and asset managers have said the American economy could contract by the end of the year and that in\u2026 [+439 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Patrick Collinson",
+            "title": "New laws on payslip information come into force this week - The Guardian",
+            "description": "Shakeup means 300,000 workers will be receiving payslips for the first time",
+            "url": "https://www.theguardian.com/money/2019/apr/08/new-laws-on-payslip-information-comes-into-force-this-week",
+            "urlToImage": "https://i.guim.co.uk/img/media/c25cd2c30b2ff36d3a841129a2046fb13b4405d7/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=d4a7c6ef7ab6dcedb01dc7e7a76dafb8",
+            "publishedAt": "2019-04-08T05:01:00Z",
+            "content": "New laws on payslips come into force from this week, requiring employers to set out variable rates of pay and hours worked so that workers can more easily check that they are receiving the minimum wage. The rules will also mean about 300,000 workers will rece\u2026 [+1104 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bristolpost.co.uk"
+            },
+            "author": "Kate Wilson",
+            "title": "These are the worst places for gender pay gap in Bristol - Bristol Post",
+            "description": "It is the second year this data has been published",
+            "url": "https://www.bristolpost.co.uk/news/bristol-news/worst-places-gender-pay-gap-2732391",
+            "urlToImage": "https://i2-prod.bristolpost.co.uk/news/business/article526190.ece/ALTERNATES/s1200/Gender-Pay-Gap.jpg",
+            "publishedAt": "2019-04-08T05:00:00Z",
+            "content": "Nearly three-quarters of companies with headquarters in Bristol have a gender pay gap in favour of men, according to new data. The Government has now published its second ever batch of results from companies employing more than 250 people which have been forc\u2026 [+4340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heraldscotland.com"
+            },
+            "author": "Helen McArdle",
+            "title": "Streaming and downloads causing 'highest music-related carbon emissions in history' - HeraldScotland",
+            "description": "LISTENING to music via streaming services or downloads probably seems much more environmentally friendly than filling your home with vinyl records\u2026",
+            "url": "https://www.heraldscotland.com/news/17556898.streaming-and-downloads-causing-highest-music-related-carbon-emissions-in-history/",
+            "urlToImage": "https://www.heraldscotland.com/resources/images/9681478/",
+            "publishedAt": "2019-04-08T04:00:02Z",
+            "content": "LISTENING to music via streaming services or downloads probably seems much more environmentally friendly than filling your home with vinyl records and plastic CD cases. However, a new study by Scottish and Norwegian researchers is challenging the concept that\u2026 [+4349 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Fintech start-up Branch raises funding for EM lending push - Financial Times",
+            "description": "New alliance with Visa helps loan provider pursue new markets",
+            "url": "https://www.ft.com/content/6917b93e-57c2-11e9-91f9-b6515a54c5b1",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fe8edda1a-592c-11e9-840c-530737425559?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T03:05:12Z",
+            "content": "Branch International, a Silicon Valley-based start-up that offers loans to first-time borrowers and customers without bank accounts in Africa, India and Mexico, has raised $170m in new financing. The deal, which is made up of a combination of equity and debt,\u2026 [+3684 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Why 5G Phones Are Arriving With Subplot of Espionage - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2019-04-08/why-5g-phones-are-arriving-with-subplot-of-espionage-quicktake",
+            "urlToImage": null,
+            "publishedAt": "2019-04-08T02:05:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Oil hits 2019 high as Libya conflict escalates - Financial Times",
+            "description": "Opec supply cuts  have boosted oil in recent weeks",
+            "url": "https://www.ft.com/content/3496a5d8-5995-11e9-9dde-7aedca0a081a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F86a4a7c8-5998-11e9-9dde-7aedca0a081a?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-08T01:12:27Z",
+            "content": "Oil prices rose to a fresh 2019 high as the conflict in Libya escalated, prompting fears of supply disruption in the oil-rich North African country and as prices have been supported by Opec supply cuts. Brent crude rose 0.5 per cent in morning trading in Asia\u2026 [+944 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Carlyle lines up $3.6bn for stake in oil group Cepsa - Financial Times",
+            "description": "US buyout group\u2019s deal gives Spanish company a total enterprise value of $12bn",
+            "url": "https://www.ft.com/content/79e2fb68-5932-11e9-9dde-7aedca0a081a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F45e77c50-53ef-11e9-8b71-f5b0066105fe?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-07T23:02:00Z",
+            "content": "US buyout giant Carlyle has agreed to buy a 30 per cent stake in Spanish oil and gas company Cepsa from an Abu Dhabi sovereign wealth fund, in a $3.6bn deal including debt, said multiple people with direct knowledge of the transaction. The sale gives the busi\u2026 [+3561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "MPs call for inquiry into Lloyds fraud 'cover-up' - The Times",
+            "description": "The Prudential Regulation Authority has been asked by MPs to investigate whether Lloyds Banking Group bosses, including Ant\u00f3nio Horta-Os\u00f3rio, its chief executive, breached corporate governance...",
+            "url": "https://www.thetimes.co.uk/article/mps-call-for-inquiry-into-lloyds-fraud-cover-up-0cr7c8drp",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fed929992-5964-11e9-b371-613f81256d20.jpg?crop=3227%2C1815%2C0%2C168",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "The Prudential Regulation Authority has been asked by MPs to investigate whether Lloyds Banking Group bosses, including Ant\u00f3nio Horta-Os\u00f3rio, its chief executive, breached corporate governance rules by allegedly covering up the HBOS Reading fraud. The all-par\u2026 [+562 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Cash goes off the boil as coffee shop leads card revolution - The Times",
+            "description": "A Dublin coffee shop has gone completely cashless in an attempt to cut stress for workers and speed up service. Bear Market Coffee, in George Street, is believed to be the first cash-free caf\u00e9 in...",
+            "url": "https://www.thetimes.co.uk/article/cash-goes-off-the-boil-as-coffee-shop-leads-card-revolution-pw5qf2629",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F430b56ae-594a-11e9-ad39-96aa259da63d.jpg?crop=5211%2C2931%2C138%2C248",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "A Dublin coffee shop has gone completely cashless in an attempt to cut stress for workers and speed up service. Bear Market Coffee, in George Street, is believed to be the first cash-free caf\u00e9 in the capital. Ruth and Stephen Deasy, its owners, believe their \u2026 [+459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theguardian.com"
+            },
+            "author": "Patrick Collinson",
+            "title": "Holland & Barrett accused of treating suppliers 'shabbily' - The Guardian",
+            "description": "Health food retailer has purposeful culture of poor payment practices, says commissioner",
+            "url": "https://www.theguardian.com/business/2019/apr/08/holland-barrett-accused-of-treating-suppliers-shabbily",
+            "urlToImage": "https://i.guim.co.uk/img/media/1083a5b18480f8fe59966fa2abf1efb9db123134/0_75_3420_2052/master/3420.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=9ed0dbe597b6fd815c615287649c1c2a",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "The small business commissioner and senior MPs have taken the highly unusual step of publicly criticising the health food chain Holland &amp; Barrett for treating its suppliers shabbily, as part of a crackdown on companies that take months to pay suppliers. H\u2026 [+3500 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "KPMG plots breakaway audit arm | Business - The Times",
+            "description": "KPMG is plotting an overhaul of its British business to create an independent audit firm, regardless of any decision by the competition regulator to force a break-up of the Big Four accountants.",
+            "url": "https://www.thetimes.co.uk/article/kpmg-plots-breakaway-audit-arm-nkdqz0wj7",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F605325b4-5965-11e9-b371-613f81256d20.jpg?crop=6284%2C3535%2C99%2C203",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "KPMG is plotting an overhaul of its British business to create an independent audit firm, regardless of any decision by the competition regulator to force a break-up of the Big Four accountants. The plans would mean the business pulling away from Deloitte, EY\u2026 [+480 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Reuters",
+            "title": "Warren Buffett urges Wells Fargo to look beyond Wall Street for next CEO: FT - Investing.com",
+            "description": "Warren Buffett urges Wells Fargo to look beyond Wall Street for next CEO: FT",
+            "url": "https://www.investing.com/news/stock-market-news/warren-buffett-urges-wells-fargo-to-look-beyond-wall-street-for-next-ceo-ft-1829534",
+            "urlToImage": "https://i-invdn-com.akamaized.net/trkd-images/LYNXNPEF360O0_L.jpg",
+            "publishedAt": "2019-04-07T22:01:00Z",
+            "content": "(Reuters) - Warren Buffett, Wells Fargo (NYSE: WFC ) &amp; Co's largest shareholder, urged the bank in an interview with the Financial Times on Sunday to look outside Wall Street for a new chief executive officer. \"They just have to come from someplace (outsi\u2026 [+985 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Saudi Aramco attracts $30bn demand for expected $10bn bond issue - Financial Times",
+            "description": "Strong investor interest comes despite concerns over close links to repressive state",
+            "url": "https://www.ft.com/content/1b630cca-57c7-11e9-a3db-1fe89bedc16e",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2Fa84ea982-59d4-11e9-840c-530737425559?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-07T17:00:00Z",
+            "content": "Saudi Aramco\u2019s impending debut international bond has already drawn tens of billions of dollars of demand from investors, who are putting aside concerns over close linkages with a repressive state government to back the world\u2019s most profitable company. Reflec\u2026 [+3613 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cleantechnica.com"
+            },
+            "author": "Matt Pressman",
+            "title": "Comparing Electric Vehicles On \"Price Per Range Mile\" \u2014 You Know Who Wins (Infographic) - CleanTechnica",
+            "description": "With all the hype Big Auto generates with press releases and concept cars, you'd think its dealerships would be flooded with electric vehicles by now. Unfortunately, that's not the case. But slowly, ever so slowly, new EVs are being introduced. How do they co\u2026",
+            "url": "https://cleantechnica.com/2019/04/07/comparing-electric-vehicles-on-price-per-range-mile-you-know-who-wins-infographic/",
+            "urlToImage": "https://cleantechnica.com/files/2019/04/Tesla-Model-3-Price-Per-Range-Mile.png",
+            "publishedAt": "2019-04-07T16:49:28Z",
+            "content": "April 7th, 2019 by Matt Pressman Originally posted on EVANNEX. With all the hype Big Auto generates with press releases and concept cars, you\u2019d think its dealerships would be flooded with electric vehicles by now. Unfortunately, that\u2019s not the case. But slowl\u2026 [+1844 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Supermarkets battle over New Year price cuts - BBC News",
-            "description": "Morrisons and Tesco join other leading UK supermarkets in cutting prices.",
-            "url": "https://www.bbc.com/news/business-46780589",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D00A/production/_105085235_mediaitem105085232.jpg",
-            "publishedAt": "2019-01-07T12:55:55Z",
-            "content": "Image copyright Steve Dresser The UK's biggest supermarkets have launched a range of price cuts. On Monday, Morrisons said it would cut prices by an average of 20% on 935 products, including tinned tomatoes, cereals and multivitamins. Also on Monday, Tesco, w\u2026 [+2511 chars]"
+            "title": "'Fiat to pool with Tesla to avoid EU fines' - BBC News",
+            "description": "Fiat and Tesla draw up a plan to avoid the former violating EU emissions rules, it is reported.",
+            "url": "https://www.bbc.co.uk/news/business-47845971",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CAE5/production/_105814915_fca.jpg",
+            "publishedAt": "2019-04-07T14:22:17Z",
+            "content": "Image copyright Getty Images Fiat Chrysler (FCA) and Tesla have drawn up a plan to avoid the former having to pay fines for violating EU emissions rules, the FT has reported. The paper says that under the deal the cars of electric automaker Tesla will be coun\u2026 [+1124 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cannalawblog.com"
+            },
+            "author": null,
+            "title": "Selling Hemp Products to Europe? Welcome to the GDPR Nightmare. - cannalawblog.com",
+            "description": "Ever since the passage of the 2018 Farm Bill, our hemp lawyers have been getting a barrage of questions about the lawful status of hemp and hemp-derived",
+            "url": "https://www.cannalawblog.com/selling-hemp-products-to-europe-welcome-to-the-gdpr-nightmare/",
+            "urlToImage": "https://cannalawblog.lexblogplatform.com/wp-content/uploads/sites/109/2019/03/Depositphotos_117002106_l-2015-320x261.jpg",
+            "publishedAt": "2019-04-07T14:04:19Z",
+            "content": "Ever since the passage of the 2018 Farm Bill, our hemp lawyers have been getting a barrage of questions about the lawful status of hemp and hemp-derived cannabidiol (Hemp CBD) in the United States. The hemp laws appear to be changing in favor of a pro-hemp ma\u2026 [+3960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forexfactory.com"
+            },
+            "author": null,
+            "title": "Apple Scammed For Nearly $900,000 By Chinese Nationals Living In Oregon, Washington - Forex Factory",
+            "description": "Apple Scammed For Nearly $900,000 By Chinese Nationals Living In Oregon, Washington - Last year a Chinese national living in New Jersey admitted to selling fake iPhones and iPads - pocketing $1.1 million in revenue from the scheme.The two men - who were both \u2026",
+            "url": "https://www.forexfactory.com/news.php?do=news&id=906296",
+            "urlToImage": "https://www.forexfactory.com/facebookimage.php?id=906296",
+            "publishedAt": "2019-04-07T13:55:00Z",
+            "content": "From zerohedge.com Last year a Chinese national living in New Jersey admitted to selling fake iPhones and iPads - pocketing $1.1 million in revenue from the scheme.The two men - who were both engineering students in the US on F-1 student visas at the time - a\u2026 [+426 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Donald Trump\u2019s demands add to Federal Reserve interest rate headaches - Financial Times",
+            "description": "Political pressure for a cut makes the US central bank\u2019s next decision vexed",
+            "url": "https://www.ft.com/content/b14c682e-5878-11e9-9dde-7aedca0a081a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fprod-upp-image-read.ft.com%2F91ea047e-58a4-11e9-840c-530737425559?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2019-04-07T13:26:00Z",
+            "content": "Donald Trump\u2019s renewed public demand for easier monetary policy has injected a further political dimension into decision-making at a Federal Reserve that is anxious to display its independence. Having raised interest rates four times last year, the US central\u2026 [+4759 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Nick Parker",
+            "title": "Liam Gallagher\u2019s clothing brand Pretty Green bought by JD Sports but nearly 100 jobs will be lost - The Sun",
+            "description": "The brand went into administration last week after appointing advisers from Moorfields to oversee options for its future",
+            "url": "https://www.thesun.co.uk/money/8796215/liam-gallagher-pretty-green-jd-sports/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/NINTCHDBPICT000000670729-e1554424011465.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-06T22:44:53Z",
+            "content": "LIAM Gallaghers clothing brand Pretty Green has been bought by JD Sports but nearly 100 jobs will be lost. The sale includes the brand, online and wholesale business and the flagship store in Manchester, saving 67 jobs. Liam Gallagher appeared to oppose selli\u2026 [+734 chars]"
         }
     ]
 }

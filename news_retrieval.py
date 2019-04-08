@@ -112,7 +112,7 @@ def load_and_process_data(cat):
     return return_data
 
 
-# get_news(API_KEY)   #Turn this off so you don't do API calls all the time
+get_news(API_KEY)   #Turn this off so you don't do API calls all the time
 
 for cat in categories:
     data = load_and_process_data(cat)

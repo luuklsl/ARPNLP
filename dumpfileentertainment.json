@@ -4,536 +4,81 @@
     "articles": [
         {
             "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Katie Price admits driving while disqualified - BBC News",
-            "description": "The reality TV star has been disqualified for a further three months and fined \u00a31,100.",
-            "url": "https://www.bbc.co.uk/news/uk-england-sussex-46811025",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13AED/production/_105112608_hi051533078.jpg",
-            "publishedAt": "2019-01-09T12:03:42Z",
-            "content": "Image copyright Andrew Matthews/PA Image caption Katie Price banned from driving a second time Reality TV star Katie Price has been banned from driving after getting behind the wheel while disqualified. The former glamour model, who was known as Jordan, plead\u2026 [+1193 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "Kate Bush: I'm not a Conservative Party supporter - Sky News",
-            "description": "The singer was quoted in a Canadian magazine in 2016 as voicing support for Theresa May after she became prime minister.",
-            "url": "https://news.sky.com/story/kate-bush-im-not-a-conservative-party-supporter-11602694",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-bush-kate-bush_4541516.jpg?20190109114141",
-            "publishedAt": "2019-01-09T11:43:52Z",
-            "content": "Kate Bush has squashed rumours she supports the Conservative Party, following a 2016 article that implied she was a fan. Writing on her website, she said she \"wants to make clear I am not\" a Tory. The singer was quoted in a Canadian magazine in 2016 as voicin\u2026 [+1099 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Youtube.com"
-            },
-            "author": null,
-            "title": "Should Women Participate in Januhairy? | Good Morning Britain - Good Morning Britain",
-            "description": "An Exeter university student is encouraging women to grow out their body hair for charity for 'Januhairy'. Kate Smurthwaite and Aisleyne Horgan-Wallace debat...",
-            "url": "https://www.youtube.com/watch?v=imMqXilw9A0",
-            "urlToImage": "https://i.ytimg.com/vi/imMqXilw9A0/maxresdefault.jpg",
-            "publishedAt": "2019-01-09T11:05:28Z",
-            "content": "An Exeter university student is encouraging women to grow out their body hair for charity for 'Januhairy'. Kate Smurthwaite and Aisleyne Horgan-Wallace debate whether or not women letting their body hair grow is liberating or disgusting. Subscribe now for mor\u2026 [+633 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "Countdown star Rachel Riley tells George Galloway to 'f*** off' - Daily Mail",
-            "description": "Rachel Riley has told the left-wing politician George Galloway to 'f*** off' amid an ongoing row about alleged anti-Semitism in the Labour Party.",
-            "url": "https://www.dailymail.co.uk/news/article-6572629/Countdown-star-Rachel-Riley-tells-George-Galloway-f-off.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/11/8307492-0-image-a-6_1547031706143.jpg",
-            "publishedAt": "2019-01-09T11:03:00Z",
-            "content": "Rachel Riley has told the left-wing politician George Galloway to 'f*** off' amid an ongoing row about alleged anti-Semitism in the Labour Party. The Countdown star and the former Labour MP became embroiled in the angry spat when Galloway dismissed Ms Riley's\u2026 [+4032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Catherine Earp",
-            "title": "Black Mirror: Bandersnatch reveals another secret you probably missed - DigitalSpy.com",
-            "description": "What happens if you make the same choice twice?",
-            "url": "https://www.digitalspy.com/tv/ustv/a25829817/black-mirror-bandersnatch-endings-secret-missed-netflix-charlie-brooker-easter-eggs/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jerome-f-davies-black-mirror-bandersnatch-1547031340.jpg?crop=0.837xw:0.942xh;0,0.0253xh&resize=1200:*",
-            "publishedAt": "2019-01-09T11:00:00Z",
-            "content": "Since Black Mirror: Bandersnatch landed on Netflix, fans have quickly been working through the various endings on offer. But among the Easter Eggs, it seems there is one hidden secret that even the most dedicated follower would have missed, as it involves pic\u2026 [+1650 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Piers Morgan taken off air after making playful jibe at Good Morning Britain crew's 'abilities' - Daily Mail",
-            "description": "Piers Morgan was temporarily taken off air on Wednesday's episode of the hit breakfast show after he made a playful jibe at the crew's 'abilities' with his teleprompter.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6572567/Piers-Morgan-taken-air-making-playful-jibe-Good-Morning-Britain-crews-abilities.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/10/8306984-0-image-a-4_1547030501611.jpg",
-            "publishedAt": "2019-01-09T10:34:00Z",
-            "content": "He is the popular and extremely outspoken host of Good Morning Britain. And Piers Morgan was temporarily taken off air on Wednesday's episode of the hit breakfast show after he made a playful jibe at the crew's 'abilities' with his teleprompter. The gallery g\u2026 [+2535 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cultaholic.com"
-            },
-            "author": "Ross Tweddell",
-            "title": "Everything We Know About All Elite Wrestling So Far - Cultaholic",
-            "description": "So the AEW Double Or Nothing fan rally took place last night and goodness me, those boys aren't messing around, are they?    Some will say that the rally and press conference was a tad disappointing because",
-            "url": "https://cultaholic.com/news/everything-we-know-about-all-elite-wrestling-so-far/",
-            "urlToImage": "https://cultaholic.com/wp-content/uploads/2019/01/AEW-all-elite-wrestling-logo.jpg",
-            "publishedAt": "2019-01-09T10:20:31Z",
-            "content": "So the AEW Double Or Nothing fan rally took place last night and goodness me, those boys aren\u2019t messing around, are they? Some will say that the rally and press conference was a tad disappointing because we didn\u2019t really find out too many key details \u2013 like i\u2026 [+4990 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "BAFTA nominations revealed: The Favourite and Olivia Colman lead the way - Sky News",
-            "description": "Bohemian Rhapsody, A Star Is Born, BlacKkKlansman and Green Book are also among the nominees announced by BAFTA.",
-            "url": "https://news.sky.com/story/bafta-nominations-revealed-the-favourite-and-olivia-colman-lead-the-way-11602586",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-favourite-olivia-colman_4541351.jpg?20190109111815",
-            "publishedAt": "2019-01-09T10:10:11Z",
-            "content": "The Favourite is now officially a BAFTA favourite, leading the nominations race with 12 nods, including best film. Olivia Colman, who stars as Queen Anne in the dark comedy drama, is up for best actress, with the nomination coming after her success at the Gol\u2026 [+3701 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Jacob Stolworthy",
-            "title": "The Sopranos creator David Chase reflects on final scene, seems to accidentally confirm Tony\u2019s fate - The Independent",
-            "description": "Fans may finally have an answer to whether Tony perished in the show's closing moments",
-            "url": "https://www.independent.co.uk/arts-entertainment/tv/news/the-sopranos-final-scene-does-tony-die-david-chase-book-sopranos-sessions-a8718741.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/09/09/the-sopranos-final-scene.jpg",
-            "publishedAt": "2019-01-09T10:09:00Z",
-            "content": "The Sopranos creator seems to have confirmed what happened in the shows controversial final scene. David Chase was being interviewed for The Sopranos Sessions, a new book celebrating the HBO seriess 20th anniversary, when he seemed to reveal whether Tony Sopr\u2026 [+7730 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ok.co.uk"
-            },
-            "author": "Catriona Rigney",
-            "title": "Vicky Pattison SLAMS trolls who accused her of 'blocking' sister at wedding - OK! magazine",
-            "description": "VICKY Pattison hit back at trolls who accused her of trying to overshadow her sister at her wedding.",
-            "url": "https://www.ok.co.uk/celebrity-news/1537437/vicky-pattison-slams-trolls-accused-blocking-bride-sister-wedding-laura-mexico",
-            "urlToImage": "https://static.ok.co.uk/media/images/600x313_ct/1221627_vicky_93ffe88b4f40ec81e5ba1097b1688a21.jpg",
-            "publishedAt": "2019-01-09T10:05:00Z",
-            "content": "Vicky Pattison hit back at trolls who accused her of blocking her sister on her wedding day [Vicky Pattison/ Instagram] Vicky Pattison celebrated her sister Laura\u2019s wedding in Mexico and has been keeping her fans up to date with the gorgeous nuptials on her s\u2026 [+2306 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Bea Mitchell",
-            "title": "Love Island star Chris Hughes' brother diagnosed with testicular cancer - DigitalSpy.com",
-            "description": "The 2017 contestant had a live testicular exam on This Morning.",
-            "url": "https://www.digitalspy.com/showbiz/a25828218/love-island-chris-hughes-brother-testicular-cancer-this-morning-examination/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-01-09-at-07-34-23-1547019290.png?crop=1.00xw:0.615xh;0,0&resize=1200:*",
-            "publishedAt": "2019-01-09T09:56:00Z",
-            "content": "Love Island 's Chris Hughes has revealed that his brother Ben has been diagnosed with testicular cancer. In November, Hughes underwent a live testicular examination on This Morning, appearing on the show with Dr Chris Steele, who showed viewers how to examine\u2026 [+2279 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Chloe Madeley admits she was FURIOUS with dad Richard at her wedding to James Haskell - Daily Mail",
-            "description": "She revealed that she wants to freeze her eggs so that she can hold off having children.\u00a0Yet Chloe Madeley appears to have had a change of heart, as she confessed that she's caught 'baby fever'.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6572417/Chloe-Madeley-admits-FURIOUS-dad-Richard-wedding-James-Haskall.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/10/8305954-0-image-a-21_1547028890471.jpg",
-            "publishedAt": "2019-01-09T09:44:00Z",
-            "content": "Chloe Madeley has revealed her famous father Richard left her furious on the day of her wedding to James Haskell. Appearing on Monday's episode of Lorraine, the 31-year-old fitness guru gave her first TV interview since tying the knot as she discussed plans t\u2026 [+4527 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ok.co.uk"
-            },
-            "author": "Catriona Rigney",
-            "title": "Eastenders' Dean Gaffney mocked by fans after giving away bank card details - OK! magazine",
-            "description": "EASTENDERS star Dean Gaffney has been mocked by his fans after his latest picture.",
-            "url": "https://www.ok.co.uk/celebrity-news/1537364/eastenders-dean-gaffney-mocked-fans-bank-card-details-instagram-girlfriend-rebekah-ward",
-            "urlToImage": "https://static.ok.co.uk/media/images/600x313_ct/1221601_dean_social_917b802f9a875076b7bc33b472c9d284.jpg",
-            "publishedAt": "2019-01-09T09:36:00Z",
-            "content": "Dean Gaffney gave away his bank card details in this picture [Dean Gaffney/ Instagram] EastEnders star Dean Gaffney posted a picture of himself snuggling with his stunning girlfriend Rebekah Ward, 26, on Instagram. The 40 year gazes down the camera lens in th\u2026 [+1581 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Bea Mitchell",
-            "title": "Kit Harington says Game of Thrones cast were \"broken\" by final season - DigitalSpy.com",
-            "description": "If anything happens to Drogon and Rhaegal, there'll be hell to pay.",
-            "url": "https://www.digitalspy.com/tv/ustv/a25828564/game-of-thrones-season-8-cast-kit-harington-broken/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/game-of-thrones-dany-jon-1546829425.jpg?crop=1xw:0.9314359637774903xh;center,top&resize=1200:*",
-            "publishedAt": "2019-01-09T09:31:00Z",
-            "content": "In harrowing news for fans, Kit Harington has said that the Game of Thrones cast were left \"broken\" by the final season. \"The last season of Thrones seemed to be designed to break us,\" he told GQ. \"Everyone was broken at the end,\" he continued. \"I don\u2019t know \u2026 [+1237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Justin Harp",
-            "title": "R Kelly under investigation following abuse allegations in Surviving R Kelly series - DigitalSpy.com",
-            "description": "The singer has denied any wrongdoing.",
-            "url": "https://www.digitalspy.com/showbiz/a25811198/r-kelly-abuse-investigation-surviving-r-kelly-tv-series/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/r-kelly1-1546988529.jpg?crop=1xw:0.3490701001430615xh;center,top&resize=1200:*",
-            "publishedAt": "2019-01-09T09:17:00Z",
-            "content": "Note: The following article contains discussion of sexual misconduct allegations that some readers may find upsetting. R Kelly is facing a criminal investigation over misconduct allegations made in the new TV miniseries Surviving R Kelly. The series, which wi\u2026 [+2146 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Lindsay Lohan reveals she was inspired to open beach club after alleged domestic abuse - Daily Mail",
-            "description": "Lindsay Lohan's Beach Club aired it's premiere on Tuesday. And Lindsay Lohan revealed her inspiration for opening the club was an alleged domestic abuse incident with ex\u00a0Egor Tarabasov.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6572109/Lindsay-Lohan-reveals-inspired-open-beach-club-alleged-domestic-abuse.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/08/8302704-0-image-a-6_1547022253351.jpg",
-            "publishedAt": "2019-01-09T07:44:00Z",
-            "content": "Lindsay Lohan's Beach Club aired it's premiere episode on Tuesday. And the MTV reality show's star Lindsay Lohan revealed her inspiration for opening the Mykonos venue was an alleged domestic abuse incident with ex Egor Tarabasov. 'I was in a very tumultuous \u2026 [+6831 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Rami Malek and girlfriend Lucy Boynton wear coordinated black-and-white outfits to chat show taping - Daily Mail",
-            "description": "The 37-year-old Bohemian Rhapsody star and girlfriend Lucy Boynton, 24, wore coordinated outfits on Tuesday while headed to his chat show appearance in Hollywood.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6571977/Rami-Malek-girlfriend-Lucy-Boynton-wear-coordinated-black-white-outfits-chat-taping.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/06/8300226-0-image-a-192_1547014369191.jpg",
-            "publishedAt": "2019-01-09T07:14:00Z",
-            "content": "Rami Malek and girlfriend Lucy Boynton wore coordinated outfits on Tuesday while headed to his chat show appearance in Hollywood. The 37-year-old Bohemian Rhapsody star donned a black-and-white striped shirt under a black jacket along with black trousers. He \u2026 [+2603 chars]"
-        },
-        {
-            "source": {
-                "id": "the-telegraph",
-                "name": "The Telegraph"
-            },
-            "author": null,
-            "title": "Colette review: a deliciously vampish Keira Knightley helps a queer icon find her voice - The Telegraph",
-            "description": "Dir:",
-            "url": "https://www.telegraph.co.uk/films/0/colette-review-deliciously-vampish-keira-knightley-helps-queer/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/films/2018/12/12/colette-xlarge_trans_NvBQzQNjv4Bq3cNn5dV8M_uiUDluChIdlDuzAEpEr3-Jvw6FKygUh_8.jpg",
-            "publishedAt": "2019-01-09T07:00:00Z",
-            "content": "D ir: Wash Westmoreland. Starring: Keira Knightley, Dominic West, Eleanor Tomlinson, Fiona Shaw, Aiysha Hart, Denise Gough. 15 cert, 112 mins The Claudine novels, then-racy accounts of a young provincial girl blossoming in the big city, were the toast of Pari\u2026 [+1335 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "BBC Sound of 2019: Grace Carter interview - BBC News",
-            "description": "The 21-year-old has hooked listeners with intensely personal songs about her difficult childhood.",
-            "url": "https://www.bbc.co.uk/news/entertainment-arts-46739425",
-            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p06xjjhb.jpg",
-            "publishedAt": "2019-01-09T04:21:28Z",
-            "content": "Media caption Adele fan finds her own voice The soul-searching songs of pop singer Grace Carter have marked her out as a rising star for 2019. The Brighton-raised, London-based artist has come third on BBC Music's Sound of 2019, which is compiled using tips f\u2026 [+5858 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Kim Kardashian gives hubby Kanye West a love bite on the cheek in funny throwback photo - Daily Mail",
-            "description": "The reality diva, who is 38-years-old, was seen affectionately biting the side of the 41-year-old rapper/fashion designer's face in the photo which was simply captioned: 'Throwback.'",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6571699/Kim-Kardashian-gives-hubby-Kanye-West-love-bite-cheek-funny-throwback-photo.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/03/8295458-0-image-a-44_1547003789816.jpg",
-            "publishedAt": "2019-01-09T03:40:00Z",
-            "content": "They've been together since 2012. But Kim Kardashian proved that love hurts at times when she shared a quirky photo with husband Kanye West on Tuesday. The reality diva, 38, was seen affectionately biting the side of the rapper/fashion designer's face in the \u2026 [+2936 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "Meghan Markle and Prince Harry's Cotswold bolthole revealed - Daily Mail",
-            "description": "This is the first picture of the \u00a32.5 million country hideaway in the Cotswolds that Harry and Meghan use to host several A-list friends - and prefer to their home in Kensington Palace.",
-            "url": "https://www.dailymail.co.uk/news/article-6571425/Pictured-Harry-Meghans-2-5m-country-bolthole-entertain-friends.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/09/03/8295892-0-image-a-11_1547004501115.jpg",
-            "publishedAt": "2019-01-09T03:37:00Z",
-            "content": "This is the first picture of the \u00a32.5million country hideaway the Duke and Duchess of Sussex use to host several A-list friends, including the likes of George and Amal Clooney and Serena Williams. The Cotswold farmhouse is a historic retreat in the Oxfordshir\u2026 [+6053 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Justjared.com"
-            },
-            "author": null,
-            "title": "Lady Gaga, Bradley Cooper, & Sam Elliott Accept Their 'Star Is Born' Wins at NBR Awards 2019! - Just Jared",
-            "description": "Check out the pics...",
-            "url": "http://www.justjared.com/2019/01/08/lady-gaga-bradley-cooper-sam-elliott-accept-their-star-is-born-wins-at-nbr-awards-2019/",
-            "urlToImage": "http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2019/01/gaga-nbr.jpg",
-            "publishedAt": "2019-01-09T00:52:04Z",
-            "content": "Lady Gaga makes her entrance on the red carpet at the 2019 National Board of Review Awards Gala on Tuesday (January 8) at Cipriani in New York City. The 32-year-old entertainer was joined at the event by her co-stars Bradley Cooper and Sam Elliott. All three \u2026 [+428 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Digitalspy.com"
-            },
-            "author": "Stephanie Chase",
-            "title": "Catastrophe is as funny and awkward as ever in season four return - DigitalSpy.com",
-            "description": "Things haven't got any easier for Sharon and Rob.",
-            "url": "https://www.digitalspy.com/tv/a25809282/catastrophe-season-four-return/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/catastrophe-s4-midres-1546440088.jpg?crop=1.00xw:0.732xh;0,0.195xh&resize=1200:*",
-            "publishedAt": "2019-01-09T00:14:00Z",
-            "content": "Catastrophe, Sharon Horgan and Rob Delaney\u2019s wonderfully dark comedy, returned to Channel 4 on Tuesday night (January 8) for its fourth and (sadly) final season. At the end of season three, things went from bad to worse for Sharon and Rob. Recovering alcoholi\u2026 [+1828 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Standard.co.uk"
-            },
-            "author": "Katie Rosseinsky",
-            "title": "Stormzy breaks his silence on Glastonbury criticism: \u2018It doesn\u2019t even deserve the fuel\u2019 - Evening Standard",
-            "description": "The rapper says festival goers should \"have no fear\" that he will deliver a \"headline-calibre performance\"",
-            "url": "https://www.standard.co.uk/showbiz/celebrity-news/stormzy-breaks-his-silence-on-glastonbury-criticism-it-doesn-t-even-deserve-the-fuel-a4033656.html",
-            "urlToImage": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/01/08/15/ellestormzy080119.jpg",
-            "publishedAt": "2019-01-09T00:08:00Z",
-            "content": "Stormzy has broken his silence on his Glastonbury 2019 slot, after some festival goers claimed he is not big enough to headline the iconic festival. The rapper, who was confirmed as the first headliner in November, told ELLE UK that the argument doesnt even d\u2026 [+3002 chars]"
-        },
-        {
-            "source": {
                 "id": null,
                 "name": "Thesun.co.uk"
             },
-            "author": "Amy Jones",
-            "title": "Ulrika Jonsson, 51, slams narcissist French twerp who \u2018can\u2019t face having sex with woman in their 50s\u2019 and says - The Sun",
-            "description": "The TV star is joined by Lizzie Cundy as the two hit back at the author who said he couldn't face having sex with a woman in her fifties",
-            "url": "https://www.thesun.co.uk/fabulous/8150667/ulrika-jonsson-slams-misogynist-french-twerp/",
-            "urlToImage": "https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000051509017.jpg?crop=238px%2C112px%2C3470px%2C2316px&resize=1200%2C800&ssl=1",
-            "publishedAt": "2019-01-09T00:08:00Z",
-            "content": "A FRENCH author needs to work on his chat-up lines, after saying he could not face having sex with a woman in her fifties. Yann Moix, himself 50, told Marie Claire magazine he was incapable of loving women his age, describing them as invisible and too old. Ya\u2026 [+5831 chars]"
+            "author": "Jack Figg",
+            "title": "Shocking moment as WWE legend Bret Hart, 61, is attacked by a crazed fan during Hall of Fame speech before - The Sun",
+            "description": "Spectator - named as amateur MMA fighter Zachary Madsen, 26 - was detained by police after the attack",
+            "url": "https://www.thesun.co.uk/sport/8809122/wwe-bret-hart-attacked-fan-hall-of-fame-wrestlemania-35/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/SD-WWF-COMPOSITE.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T17:11:12Z",
+            "content": "THE WWE world was left shocked last night as a spectator attacked ring legend Bret Hart during his Hall of Fame Ceremony speech. The shocking incident took place on Saturday night at the Barclays Center in Brooklyn, New York, one day before Wrestlemania 35. A\u2026 [+2109 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Irishmirror.ie"
+                "name": "Theguardian.com"
             },
-            "author": "Irishmirror.ie",
-            "title": "Strictly's AJ Pritchard reveals vicious nightclub attack 'was character forming' - Irish Mirror",
-            "description": "Strictly pro-dancer AJ Pritchard has spoken to Dianne Buswell about the bloody assault",
-            "url": "https://www.irishmirror.ie/showbiz/celebrity-news/strictlys-aj-pritchard-reveals-vicious-13831595",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13798861.ece/ALTERNATES/s1200/0_AJ-Pritchard-and-brother-assaulted.jpg",
-            "publishedAt": "2019-01-09T00:00:00Z",
-            "content": "Strictly Come Dancing professionals Dianne Buswell and AJ Pritchard have spoken about how the latter is feeling, following the vicious assault he was subjected to on Boxing Day, inside a nightclub in Nantwich. AJ revealed how he feels since the attack, in an \u2026 [+2626 chars]"
+            "author": "Alex Needham",
+            "title": "Hold on to your hard hats: New York's $475m Shed throws open its doors - The Guardian",
+            "description": "The escalators need fixing and there\u2019s no bar \u2013 but the show must go on, as stars from Ben Whishaw to Steve McQueen open NYC\u2019s first major new arts venue for decades",
+            "url": "https://www.theguardian.com/artanddesign/2019/apr/08/new-york-the-shed-steve-mcqueen-ben-whishaw",
+            "urlToImage": "https://i.guim.co.uk/img/media/96ce3c0e82611ab703e4066e73d393be840c2c76/0_329_4942_2966/master/4942.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=b8cab091ecece6b3b96410361a286ac7",
+            "publishedAt": "2019-04-08T16:10:00Z",
+            "content": "B en Whishaw is on stage, stripped to his underwear. Prosthetic scars cover his shoulders and back. He puts a large pad over each buttock as he cross-dresses as Marilyn Monroe. Later, the soprano Ren\u00e9e Fleming warbles the line Theyre fracking the fuck out of \u2026 [+10701 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Irishmirror.ie"
+                "name": "Sky.com"
             },
-            "author": "Irishmirror.ie",
-            "title": "Jack Fincham tries to take relationship to next level - but Dani Dyer storms off - Irish Mirror",
-            "description": "Jack got down on one knee during a romantic getaway in Rome - but Dani was having none of it on Life After Love Island",
-            "url": "https://www.irishmirror.ie/tv/jack-fincham-tries-take-relationship-13831479",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13831463.ece/ALTERNATES/s1200/0_RLP_MDG_080119DYER_14012JPG.jpg",
-            "publishedAt": "2019-01-08T23:05:00Z",
-            "content": "Jack Fincham tried to take his relationship with Dani Dyer to the next level on tonight's Life After Love Island. The Love Island stars went on a romantic getaway to Rome to get away from the stress of Essex life. Jack was looking forward to showing Dani arou\u2026 [+1282 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Irishmirror.ie"
-            },
-            "author": "Irishmirror.ie",
-            "title": "Sophie Ellis-Bextor lashes out at claims she wanted a girl after welcoming fifth son - Irish Mirror",
-            "description": "The Murder On The Dancefloor singer welcomed \"absolutely gorgeous\" son Mickey with her husband Richard Jones",
-            "url": "https://www.irishmirror.ie/showbiz/celebrity-news/sophie-ellis-bextor-lashes-out-13831436",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13304456.ece/ALTERNATES/s1200/1_Lorraine-TV-show-London-UK-25-Sep-2018.jpg",
-            "publishedAt": "2019-01-08T22:54:00Z",
-            "content": "Sophie Ellis-Bextor has lashed out at claims that she was secretly hoping for a girl after welcoming her fifth son. The Murder On The Dancefloor hitmaker announced the birth of her son Mickey on Monday after welcoming him with husband Richard Jones, of band T\u2026 [+1847 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Express.co.uk"
-            },
-            "author": "Samuel Spencer",
-            "title": "Manhunt on ITV ending explained: What happened at the end of Manhunt? - Express",
-            "description": "MANHUNT came to an end tonight on ITV. But what happened at the end of Manhunt starring Martin Clunes?",
-            "url": "https://www.express.co.uk/showbiz/tv-radio/1069201/Manhunt-itv-ending-explained-what-happened-at-the-end-of-manhunt-martin-clunes",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/20/750x445/1069201.jpg",
-            "publishedAt": "2019-01-08T22:16:00Z",
+            "author": "Sky",
+            "title": "Blackpink: South Korean K-pop band break YouTube records with Kill This Love - Sky News",
+            "description": "Blackpink are set to play at Coachella festival in the US and also have arena dates planned in Manchester and London in May.",
+            "url": "https://news.sky.com/story/blackpink-south-korean-k-pop-band-break-youtube-records-with-kill-this-love-11687991",
+            "urlToImage": "https://e3.365dm.com/19/04/1600x900/skynews-blackpink-south-korea_4633008.jpg?20190408155437",
+            "publishedAt": "2019-04-08T15:55:26Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Express.co.uk"
+                "name": "Ipswichstar.co.uk"
             },
-            "author": "Sebastian Kettley",
-            "title": "Elvis is ALIVE? Diehard fans convinced King of Rock lives as THIS singing preacher - Express.co.uk",
-            "description": "ELVIS Presley conspiracies have taken the internet by storm on his birthday with many life-long fans of Elvis\u2019 music claiming the King of Rock\u2019n\u2019Roll lives as the singing pastor Bob Joyce.",
-            "url": "https://www.express.co.uk/news/weird/1069187/Elvis-Presley-alive-proof-evidence-king-of-rock-pastor-bob-joyce-conspiracy",
-            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/80/750x445/1069187.jpg",
-            "publishedAt": "2019-01-08T21:48:00Z",
-            "content": null
+            "author": "Suzanne Day",
+            "title": "Empire cinema in Ipswich Buttermarket shows horror trailer before Peppa Pig Festival of Fun | Latest Ipswich News - Ipswich Star",
+            "description": "Empire Cinema in Ipswich\u2019s Buttermarket is investigating why an \u201cinappropriate\u201d trailer was shown before a Peppa Pig film.",
+            "url": "https://www.ipswichstar.co.uk/news/ipswich-cinema-easter-holidays-peppa-pig-mix-up-1-5984890",
+            "urlToImage": "https://www.ipswichstar.co.uk/polopoly_fs/1.5984891!/image/image.jpg",
+            "publishedAt": "2019-04-08T15:31:00Z",
+            "content": "PUBLISHED: 16:31 08 April 2019 | UPDATED: 16:31 08 April 2019 Suzanne Day A horror film trailer was shown at the start of a Peppa Pig film at Empire Cinema in the Ipswich Buttermarket at the weekend Picture: ENTERTAINMENT ONE Archant Families with young child\u2026 [+1036 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Wrestlinginc.com"
+                "name": "Theguardian.com"
             },
-            "author": "Marc Middleton",
-            "title": "Former WWE Superstar Joining All Elite Wrestling?, John Cena - Sheamus Workout Teaser, RAW Top 10 - Wrestling Inc.",
-            "description": "Former WWE Superstar Joining All Elite Wrestling?, John Cena - Sheamus Workout Teaser, RAW Top 10",
-            "url": "https://www.wrestlinginc.com/news/2019/01/former-wwe-superstar-joining-all-elite-wrestling-649612/",
-            "urlToImage": "https://i1.ytimg.com/vi/heZ5BA8aRTo/maxresdefault.jpg",
-            "publishedAt": "2019-01-08T20:39:02Z",
-            "content": "- Above are the top 10 moments from last night's WWE RAW in Orlando, the first RAW of 2019. - There's now speculation on former WWE Superstar Neville signing with All Elite Wrestling. Neville has been spotted today in Jacksonville, FL and PWInsider reports th\u2026 [+540 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Melanie Sykes, 48, shows off her legs in a minuscule mini-skirt at glittering Stan & Ollie photocall - Daily Mail",
-            "description": "Melanie Sykes grabbed attention when she attended the Stan & Ollie photocall held at The Soho Hotel, in London on Tuesday.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6570265/Melanie-Sykes-48-shows-legs-minuscule-miniskirt-glittering-Stan-Ollie-photocall.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/19/8281088-0-image-a-31_1546977373273.jpg",
-            "publishedAt": "2019-01-08T19:58:00Z",
-            "content": "She juggles being a mother of two with being a regular on the showbiz circuit. And Melanie Sykes commanded attention when she attended the Stan &amp; Ollie photocall held at The Soho Hotel, in London on Tuesday. As a lover of the gym, the television personali\u2026 [+4691 chars]"
+            "author": "Claire Armitstead",
+            "title": "Edvard Munch: booze, bullets and breakdowns - The Guardian",
+            "description": "As a rare Munch show opens in Britain, we travel to Norway to find the forces that unleashed his macabre art \u2013 from flame-haired Medusas to primal screams",
+            "url": "https://www.theguardian.com/artanddesign/2019/apr/08/primal-screams-edvard-munch-british-museum-norway",
+            "urlToImage": "https://i.guim.co.uk/img/media/ff9d19d270873b7b2202339c165ebc7ab4f02cff/131_577_6258_3755/master/6258.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=141fe2e54078c360cc3871762b6962cb",
+            "publishedAt": "2019-04-08T15:07:00Z",
+            "content": "H idden away in the basement of Oslos Munch Museum lies a treasure trove. Here youll find madonnas and vampires, lions and tigers alongside the hefty white blocks from which they were printed, still blackened with printers ink. It feels like being conducted a\u2026 [+9366 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Digitalspy.com"
+                "name": "Entertainmentdaily.co.uk"
             },
-            "author": "Filiz Mehmedova",
-            "title": "Dancing on Ice's launch ratings are down on last year - DigitalSpy.com",
-            "description": "The 2019 season kicked off on Sunday.",
-            "url": "https://www.digitalspy.com/tv/reality-tv/a25801708/dancing-on-ice-2019-launch-ratings-most-watched-weekend/",
-            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/38/1537255904-dancing-on-ice-2017.jpg?crop=1.00xw:0.691xh;0,0&resize=1200:*",
-            "publishedAt": "2019-01-08T19:47:00Z",
-            "content": "Dancing on Ice 2019 has officially kicked off after the series' first episode premiered on Sunday (January 6). But while Saturday night pitted two reality shows against each other in a new ratings battle, how did ITV's other returning series fare in the ratin\u2026 [+1613 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Irishmirror.ie"
-            },
-            "author": "Irishmirror.ie",
-            "title": "David Beckham shows off new hair do as thinning locks turn into grey quiff - Irish Mirror",
-            "description": "David Beckham showed off a rather impressive head of hair when he attended a GQ magazine dinner with wife Victoria Beckham",
-            "url": "https://www.irishmirror.ie/showbiz/celebrity-news/david-beckham-shows-new-hair-13830559",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13829767.ece/ALTERNATES/s1200/0_David-Beckham.jpg",
-            "publishedAt": "2019-01-08T19:21:00Z",
-            "content": "When it comes to hairstyles David Beckham is the gift that keeps on giving. The former Manchester United and England player has set more male hair trends than any other celebrity over three decades. And on Monday night David attended a GQ magazine dinner host\u2026 [+1444 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Captain Marvel new trailer piles on playful banter between Brie Larson and Samuel L Jackson - Daily Mail",
-            "description": "'Grunge is a good look for you,' he tells her as she walks into a bar wearing a leather jacket and a Nine Inch Nails T-shirt, as Elastica's Connection plays on a jukebox.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6570059/Captain-Marvel-new-trailer-piles-playful-banter-Brie-Larson-Samuel-L-Jackson.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/18/8279264-0-image-a-50_1546971999637.jpg",
-            "publishedAt": "2019-01-08T19:17:00Z",
-            "content": "They are in the middle of an intergalactic war. But Brie Larson's Carol Danvers and Samuel L Jackson's Nick Fury make plenty of time for playful banter in the latest trailer for Captain Marvel. 'Grunge is a good look for you,' he tells her as she walks into a\u2026 [+3583 chars]"
-        },
-        {
-            "source": {
-                "id": "daily-mail",
-                "name": "Daily Mail"
-            },
-            "author": "https://www.facebook.com/DailyMail",
-            "title": "This dog has been trained to react to Harry Potter spells - Daily Mail",
-            "description": "Anna Brisbin, a Los Angeles-based actress, taught her dachshund Remus to react to spells. When she points a wand and says a spell from Harry Potter, Remus acts accordingly.",
-            "url": "https://www.dailymail.co.uk/femail/article-6569749/This-dog-trained-react-Harry-Potter-spells.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/17/8278286-0-image-a-111_1546969988331.jpg",
-            "publishedAt": "2019-01-08T18:54:00Z",
-            "content": "A Harry Potter superfan had a truly magical touch when it came to training her puppy. Anna Brisbin, a Los Angeles-based actress, taught her appropriately-named dachshund Remus to respond appropriately when she cast spells in his direction. In a video she shar\u2026 [+4768 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "David Bowie app unveiled featuring Oscar-winner - Sky News",
-            "description": "",
-            "url": "https://news.sky.com/story/david-bowie-app-gives-fans-a-virtual-tour-of-stars-career-11602166",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-david-bowie-app_4540908.jpg?20190108171459",
-            "publishedAt": "2019-01-08T18:52:04Z",
-            "content": "David Bowie fans can take a look through footage from the very beginning of his career right through to his final album, thanks to a new app launched to mark his birthday. Narrated by British actor and Oscar-winner Gary Oldman, who was friends with the star, \u2026 [+1185 chars]"
-        },
-        {
-            "source": {
-                "id": "the-telegraph",
-                "name": "The Telegraph"
-            },
-            "author": null,
-            "title": "Kevin Spacey says sexual assault accuser engaged in 'mutual and consensual flirting' - The Telegraph",
-            "description": "Kevin Spacey has denied sexually assaulting an 18-year-old in a Nantucket bar in 2016, insisting in court filings that the pair spent an enjoyable night together and engaged in &quot;mutual and consensual flirting&quot;.",
-            "url": "https://www.telegraph.co.uk/news/2019/01/08/kevin-spacey-says-sexual-assault-accuser-engaged-mutual-consensual/",
-            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/01/07/TELEMMGLPICT000185039361-xlarge_trans_NvBQzQNjv4Bq4_x9TRKg1d1-zB4NNX8ejinhQpTBDLRP7gC456H8t3o.jpeg",
-            "publishedAt": "2019-01-08T18:05:00Z",
-            "content": "M r Little alleges that while they were by the piano Spacey began massaging his groin area and unzipped his trousers. At no point in the court filing does Spacey deny groping the young man. The motion, obtained by DailyMail.com, was filed in support of the Sp\u2026 [+680 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thesun.co.uk"
-            },
-            "author": "Jill Robinson",
-            "title": "John Travolta reveals new bald head in selfie with daughter Ella Bleu, 18 - The Sun",
-            "description": "The 64-year-old actor ditched his dark mane for a completely bald do, similar to the one he sported for 2010 movie From Paris With Love",
-            "url": "https://www.thesun.co.uk/tvandshowbiz/8149154/john-travolta-new-bald-head-selfie-ella-bleu/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/ac-comp-travolta.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2019-01-08T17:56:00Z",
-            "content": "JOHN Travolta has revealed his new bald head in a selfie with daughter Ella Bleu, 18. The 64-year-old actor has always been known for his dark head of hair, but in the new snap, John showed off his completely shaven head. John Travolta has revealed his new ba\u2026 [+2048 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Sian Cain",
-            "title": "Lin-Manuel Miranda buys bookshop to save it from closure - The Guardian",
-            "description": "Hamilton creator has bought New York\u2019s century-old Drama Book Shop with two collaborators from his hit musical, after soaring rents looked set to close it",
-            "url": "https://www.theguardian.com/books/2019/jan/08/lin-manuel-miranda-buys-bookshop-to-save-it-from-closure-hamilton",
-            "urlToImage": "https://i.guim.co.uk/img/media/31d3dfef44b3519018470fc1b8bf73b655cd973a/0_1154_6732_4037/master/6732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=cccf009f04ba3b6ed4ff1d34166875b2",
-            "publishedAt": "2019-01-08T17:44:00Z",
-            "content": "Years after writing his breakout musical In the Heights in the basement of New Yorks Drama Book Shop, Hamilton composer Lin-Manuel Miranda has saved it from closing by buying the shop. The actor and lyricist has teamed up with two of his colleagues from his h\u2026 [+2278 chars]"
-        },
-        {
-            "source": {
-                "id": "independent",
-                "name": "Independent"
-            },
-            "author": "Zamira Rahim",
-            "title": "Woman issues warning after 'creepiest bus journey' with masked man similar to Luther serial killer - The Independent",
-            "description": "'Watch out when you\u2019re on the bus alone, girls'",
-            "url": "https://www.independent.co.uk/news/uk/home-news/luther-bus-video-masked-man-killer-sheffield-video-facebook-a8717616.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/15/luther-masked-man.jpg",
-            "publishedAt": "2019-01-08T17:43:00Z",
-            "content": "A woman endured the \"creepiest bus journey\" of her life when a man in a white mask began asking her personal questions. The 22-year-old was travelling on the 120 bus in Sheffield last week, when the stranger started asking her name and where she lived. Watch \u2026 [+1453 chars]"
+            "author": "Rebecca Carter",
+            "title": "Katie Price 'lashes out at ex Peter Andre in foul-mouthed rant' - Entertainment Daily",
+            "description": "She also criticised her ex Kieran Hayler",
+            "url": "https://www.entertainmentdaily.co.uk/news/katie-price/katie-price-lashes-out-at-ex-peter-andre-in-foul-mouthed-rant/",
+            "urlToImage": "https://cdn.entertainmentdaily.com/2019/04/08153244/katie-price-peter-andre-split.jpg",
+            "publishedAt": "2019-04-08T15:05:00Z",
+            "content": "Katie Price has reportedly lashed out at her ex-husbands Peter Andre and Kieran Hayler while launching her new kids clothing range. It's been said that the mum-of-five ranted about Peter after he reportedly wouldn't let their children Junior, 13, and Princess\u2026 [+2084 chars]"
         },
         {
             "source": {
@@ -541,25 +86,25 @@
                 "name": "Digitalspy.com"
             },
             "author": "Dan Seddon",
-            "title": "Margot Robbie officially confirmed to play Barbie in new movie - DigitalSpy.com",
-            "description": "From Gotham City to the Malibu Dream House.",
-            "url": "https://www.digitalspy.com/movies/a867826/barbie-movie-margot-robbie-confirmed/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/margot-robbie-mary-queen-scots-premiere-1546966846.jpg?crop=0.923xw:0.337xh;0.0638xw,0.0275xh&resize=1200:*",
-            "publishedAt": "2019-01-08T17:05:00Z",
-            "content": "It's official \u2013 Margot Robbie will bring Barbie to life in a new movie. After months of rumours linking her to the role, it's now been confirmed by Vogue UK that the Suicide Squad and Mary, Queen of Scots star will lead the film \u2013 both as its star and its pro\u2026 [+1803 chars]"
+            "title": "This is why Stephen Mulhern didn't step in for Ant McPartlin on I'm a Celebrity - DigitalSpy.com",
+            "description": "\"I'm just pleased he's back.\"",
+            "url": "https://www.digitalspy.com/tv/reality-tv/a27070430/im-a-celebrity-stephen-mulhern-ant-mcpartlin-replacement/",
+            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/22/1464968249-stephen-mulhern.jpg?crop=1.00xw:0.838xh;0,0.0783xh&resize=1200:*",
+            "publishedAt": "2019-04-08T15:03:00Z",
+            "content": "Stephen Mulhern has opened up on why he didn't fill Ant McPartlin's shoes on last year's I'm a Celebrity... Get Me Out of Here!. Ant's personal problems \u2013 which saw him banned from driving for 20 months and fined \u00a386,000 following a drink-driving charge \u2013 led\u2026 [+1446 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Newstatesman.com"
+                "name": "Gizmodo.co.uk"
             },
             "author": null,
-            "title": "No, Marie Kondo is not on a mission to destroy every beloved book you own - New Statesman",
-            "description": "And if you claim otherwise, you are willfully misunderstanding her.",
-            "url": "https://www.newstatesman.com/culture/books/2019/01/no-marie-kondo-not-mission-destroy-every-beloved-book-you-own",
-            "urlToImage": "https://www.newstatesman.com/sites/default/files/styles/nodeimage/public/blogs_2019/01/kondo_wendyron_unit_01016r.jpg?itok=HSs1cbcw",
-            "publishedAt": "2019-01-08T16:58:12Z",
-            "content": null
+            "title": "In the First Avengers: Endgame Clip, Captain Marvel Offers a Polite Reason for Not Showing Up Sooner - Gizmodo UK",
+            "description": "It's the closest thing to an \u201cextended\u201d look at the film we\u2019ve had so far.",
+            "url": "http://www.gizmodo.co.uk/2019/04/in-the-first-avengers-endgame-clip-captain-marvel-offers-a-polite-reason-for-not-showing-up-sooner/",
+            "urlToImage": "https://media.gizmodo.co.uk/wp-content/uploads/2019/04/Capture-1.jpg",
+            "publishedAt": "2019-04-08T15:00:00Z",
+            "content": "Even after Thanos snapped away half of all life on Earth, some of its mightiest heroes are asking the same questions we are: why didnt Carol Danvers show up sooner ? Well, allow Captain Danvers to give you the answer. Good Morning America released the first o\u2026 [+863 chars]"
         },
         {
             "source": {
@@ -567,77 +112,64 @@
                 "name": "Daily Mail"
             },
             "author": "https://www.facebook.com/DailyMailCeleb",
-            "title": "Inside Alan Halsall's house: Corrie star's lavish Manchester manor boasts top floor terrace - Daily Mail",
-            "description": "He had to wait four years for his Manchester manor to be built.\u00a0 Yet the hard work and patience has paid off for\u00a0Alan Halsall as he's been giving fans glimpses of his lavish five bedroom home in Salford.",
-            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6569501/Inside-Alan-Halsalls-house-Corrie-stars-lavish-Manchester-manor-boats-floor-terrace.html",
-            "urlToImage": "https://i.dailymail.co.uk/1s/2019/01/08/15/8273842-0-image-a-157_1546962373368.jpg",
-            "publishedAt": "2019-01-08T15:48:00Z",
-            "content": "He had to wait four years for his Manchester manor to be built. Yet the hard work and patience has paid off for Alan Halsall as he's been giving fans glimpses of his lavish five bedroom home in Salford - which boasts loft style bedrooms and a media room among\u2026 [+4463 chars]"
+            "title": "Love Island's Dani Dyer continues book tour after Jack Fincham split - Daily Mail",
+            "description": "Dani Dyer was all smiles when she promoted her new autobiography, What would Dani Do, at WH Smith in the Enoch centre in Glasgow on Monday.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6899371/Love-Islands-Dani-Dyer-continues-book-tour-Jack-Fincham-split.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/15/12009522-0-image-a-62_1554734550988.jpg",
+            "publishedAt": "2019-04-08T14:45:45Z",
+            "content": "She's been putting on a brave face after parting ways with her Love Island boyfriend Jack Fincham. And Dani Dyer was all smiles when she promoted her new autobiography, What would Dani Do, at WH Smith in the Enoch centre in Glasgow on Monday. The Love Island \u2026 [+7215 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "Itv.com"
+                "id": "the-telegraph",
+                "name": "The Telegraph"
             },
             "author": null,
-            "title": "Dame Barbara Windsor's husband describes the heartbreaking moment when she didn't recognise him - ITV News",
-            "description": "The husband of Dame Barbara Windsor has revealed the heartbreaking moment she didn&#39;t recognise him as the actress battles with dementia.\n\nDame Barbara, 81, was diagnosed with Alzheimer&#39;s disease in 2014, although her battle with the condition was only\u2026",
-            "url": "https://www.itv.com/news/2019-01-08/dame-barbara-windsor-dementia/",
-            "urlToImage": "https://news.images.itv.com/image/file/1734331/img.jpg",
-            "publishedAt": "2019-01-08T15:19:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Haroon Siddique",
-            "title": "Edvard Munch's The Scream comes to the British Museum in April - The Guardian",
-            "description": "Rare lithograph of Norwegian artist\u2019s most famous work is centrepiece of exhibition",
-            "url": "https://www.theguardian.com/artanddesign/2019/jan/08/edvard-munch-the-scream-comes-to-british-library",
-            "urlToImage": "https://i.guim.co.uk/img/media/89de0150502ccabfcd3ef9ec061916a74189194c/93_1128_2013_1207/master/2013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=42f441f2cbd411d774a42a798ebd94fc",
-            "publishedAt": "2019-01-08T15:03:00Z",
-            "content": "A rare lithograph of Edvard Munch s most famous work, The Scream, will feature in the biggest UK exhibition of the artists prints in 45 years. Edvard Munch: Love and Angst, at the British Museum from April, will explore the Norwegians expression of complex, o\u2026 [+3654 chars]"
+            "title": "Jon Snow to be investigated by Ofcom over 'so many white people' comment at pro-Brexit protest - The Telegraph",
+            "description": "Jon Snow is to be investigated after he remarked he had never seen so many &quot;white people&quot; at a pro-Brexit protest, as Ofcom announced Nigel Farage is to also face a probe over his reaction to the comments.",
+            "url": "https://www.telegraph.co.uk/news/2019/04/08/jon-snow-investigated-ofcom-white-people-remarks-pro-brexit/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/04/08/TELEMMGLPICT000193024120-xlarge_trans_NvBQzQNjv4Bqc94mlav-Am6O_Q7Z0RyCZrUxuU_y0Y9Ge0n2GiLM3qU.jpeg",
+            "publishedAt": "2019-04-08T14:44:00Z",
+            "content": "J on Snow is to be investigated after he remarked he had never seen so many \"white people\" at a pro-Brexit protest, as Ofcom announced Nigel Farage is to also face a probe over his reaction to the comments. The broadcasting watchdog received 2,644 complaints \u2026 [+563 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Digitalspy.com"
             },
-            "author": "Louise McCreesh",
-            "title": "Grand Tour's Jeremy Clarkson blasts BBC for \"need to be PC\" - DigitalSpy.com",
-            "description": "\"It's become so up itself.\"",
-            "url": "https://www.digitalspy.com/tv/reality-tv/a25793589/grand-tour-jeremy-clarkson-bbc-political-correctness/",
-            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/02/1515675480-jc.jpg?crop=1.00xw:0.321xh;0,0.0375xh&resize=1200:*",
-            "publishedAt": "2019-01-08T14:55:00Z",
-            "content": "Jeremy Clarkson has put the BBC on blast for its \"nonsense need to be politically correct\". The presenter worked for the BBC for a number of years while filming Top Gear but is now employed by ITV for Who Wants to Be a Millionaire? and also Amazon for The Gra\u2026 [+1425 chars]"
-        },
-        {
-            "source": {
-                "id": "the-guardian-au",
-                "name": "The Guardian (AU)"
-            },
-            "author": "Andrew Pulver",
-            "title": "James Bulger's mother calls for Oscars to drop drama about son's killers - The Guardian",
-            "description": "Bulger\u2019s parents argue Detainment, a short film about the 1993 case, is sympathetic to the toddler\u2019s murderers and shouldn\u2019t have been made",
-            "url": "https://www.theguardian.com/film/2019/jan/08/james-bulger-detainment-oscars-shortlist-removal",
-            "urlToImage": "https://i.guim.co.uk/img/media/c2b307b14b119f8b6ea32af972c4347a29291d49/481_0_963_578/master/963.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=a1101222efb55a6e3fce2d7f593a9834",
-            "publishedAt": "2019-01-08T14:51:00Z",
-            "content": "The parents of James Bulger, the two-year-old boy murdered in Liverpool in 1993, have criticised the makers of a short film about the case, which has been shortlisted for an Oscar nomination. Detainment, written and directed by Irish film-maker Vincent Lambe,\u2026 [+2938 chars]"
+            "author": "Catherine Earp",
+            "title": "Friends replaced Jack Geller with a terrible stand-in and thought we'd never notice - DigitalSpy.com",
+            "description": "Could it be any more obvious?",
+            "url": "https://www.digitalspy.com/tv/ustv/a27072738/friends-mistake-blooper-jack-geller-stand-in-ross-geller-rachel-green/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/jack-geller-friends-1554730712.jpg?crop=1.00xw:0.922xh;0,0.0497xh&resize=1200:*",
+            "publishedAt": "2019-04-08T14:11:00Z",
+            "content": "When you have a long-running show like Friends, which is still being binge-watched 15 years after it went off the air, it's no surprise that errors are still being spotted. It's now been noticed that during 'The One in Massapequa', a very obvious stand-in was\u2026 [+1636 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Thesun.co.uk"
+                "name": "Vogue.co.uk"
             },
-            "author": "Stephanie Soteriou",
-            "title": "Ant McPartlin takes dog Hurley for a walk as it\u2019s revealed he could come face-to-face with ex Lisa Armstrong a - The Sun",
-            "description": "Ant and Lisa were previously embroiled in a bitter custody battle over Hurley the chocolate Labrador",
-            "url": "https://www.thesun.co.uk/tvandshowbiz/8146015/ant-mcpartlin-hurley-dog-walk-lisa-armstrong-ntas/",
-            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/01/RB-COMPOSITE-ANT-WIFE.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
-            "publishedAt": "2019-01-08T12:46:10Z",
-            "content": "ANT McPartlin has been spotted taking his beloved dog Hurley for a walk after it was revealed that he could come face-to-face with ex-wife Lisa Armstrong at the National Television Awards later this month. Ant, 43, who dressed down for his stroll, had been at\u2026 [+2606 chars]"
+            "author": "Naomi Pike",
+            "title": "Emilia Clarke On Why She's Championing \"The Rise Of The Normal\" - Vogue.co.uk",
+            "description": "Everything Vogue knows about Game of Thrones actress Emilia Clarke on body image, dress size and social media",
+            "url": "https://www.vogue.co.uk/article/emilia-clarke-body-image-advice",
+            "urlToImage": "https://vg-images.condecdn.net/image/mJeMDPebwOp/crop/1440/0.5235602094240838/f/emilia.jpg",
+            "publishedAt": "2019-04-08T14:03:45Z",
+            "content": "I f her best-known character, Game of Thrones Daenerys Targaryen, is adored for being a strong-willed, fire-breathing leader with her eyes set on the Iron Throne, the real Emilia Clarke has a wise, older-sister quality about her. There's no riding on dragons,\u2026 [+3387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aol.co.uk"
+            },
+            "author": "PA",
+            "title": "Richard Madeley apologises after swearing on Good Morning Britain - AOL UK",
+            "description": "Richard Madeley has been forced to apologise after he was accused of swearing live on Good Morning Britain The presenter was standing in for Piers Morgan, and welcomed The Voice winner Molly",
+            "url": "https://www.aol.co.uk/entertainment/2019/04/08/richard-madeley-apologises-after-swearing-on-good-morning-britai/",
+            "urlToImage": "https://s.blogcdn.com/slideshows/images/slides/755/609/2/S7556092/slug/l/national-television-awards-2019-vip-arrivals-1.jpg",
+            "publishedAt": "2019-04-08T13:54:00Z",
+            "content": "Richard Madeley has been forced to apologise after he was accused of swearing live on Good Morning Britain The presenter was standing in for Piers Morgan, and welcomed The Voice winner Molly Hocking and her star coach Olly Murs to the daytime show. During an \u2026 [+5277 chars]"
         },
         {
             "source": {
@@ -645,194 +177,376 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "Susan Boyle makes talent show return in US - BBC News",
-            "description": "The Scottish singer appeared on America's Got Talent: The Champions, nine years after her BGT success.",
-            "url": "https://www.bbc.co.uk/news/entertainment-arts-46796336",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3BE2/production/_105103351_boyle_getty.jpg",
-            "publishedAt": "2019-01-08T12:37:43Z",
-            "content": "Image copyright Getty Images Image caption Susan Boyle got the golden buzzer on America's Got Talent Susan Boyle may have risen to fame on Britain's Got Talent, but her recent appearance on the American version of the show has got everyone talking. She perfor\u2026 [+1984 chars]"
+            "title": "Bill Wyman: Sheffield Doc/Fest cancels ex-Rolling Stone's appearance - BBC News",
+            "description": "The complaints stem from the ex-Rolling Stone's relationship with a teenage Mandy Smith in the 1980s.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-47853118",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B8A0/production/_106346274_gettyimages-459922708.jpg",
+            "publishedAt": "2019-04-08T13:41:03Z",
+            "content": "Image copyright Getty Images Image caption Bill Wyman met Mandy Smith when she was 13 and they married five years later A film festival has dropped ex-Rolling Stone Bill Wyman from its bill after protests stemming from his relationship with a teenage girl in \u2026 [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heatworld.com"
+            },
+            "author": "Alex Ross",
+            "title": "Holly Willoughby opens up about 'gender pay gap' with Phillip Schofield - Heat World",
+            "description": "This Morning presenter Holly Willoughby has opened up about the rumoured 'gender pay gap' with Phillip Schofield, shutting it down.",
+            "url": "https://heatworld.com/celebrity/news/holly-willoughby-phillip-schofield-gender-pay-gap/",
+            "urlToImage": "https://cdn.heatworld.com/one/media/5cab/3651/212c/dc11/ed04/ed68/phil%3Dholly.jpg?quality=50&width=960&height=540&ratio=16-9&resizeStyle=aspectfill&crop=182,623,1756,3422&resize=crop&format=jpg",
+            "publishedAt": "2019-04-08T13:05:50Z",
+            "content": "Holly has shut down the rumours She's one of the most sought after female presenters in the UK right now, working on the likes of This Morning, Dancing On Ice, Celebrity Juice, and I'm A Celebrity Get Me Out Of Here in the last year, so it's no surprise that \u2026 [+7764 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bt.com"
+            },
+            "author": null,
+            "title": "Harry and Meghan's baby will have freedom but still face scrutiny over behaviour - BT.com",
+            "description": "The duke and duchess\u2019s youngster, due this month, will be the child of a second-born royal son \u2013 just like the Queen.",
+            "url": "https://home.bt.com/news/latest-news/harry-and-meghans-baby-will-have-freedom-but-still-face-scrutiny-over-behaviour-11364353541088",
+            "urlToImage": "http://home.bt.com/images/harry-and-meghans-baby-will-have-freedom-but-still-face-scrutiny-over-behaviour-136435354102510401-190408140031.jpg",
+            "publishedAt": "2019-04-08T13:00:00Z",
+            "content": "The Duke and Duchess of Sussex\u2019s child will enjoy a more \u201cnormal\u201d life, but will still face pressure to conform to royal standards, a historian has suggested. Dr Jonathan Spangler, of Manchester Metropolitan University, argued that the baby\u2019s position as the \u2026 [+4376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Lauren Meechan",
+            "title": "Sophie Turner: \u2018Everyone was ready to fire her\u2019 Game of Thrones\u2019 Sansa Stark slams co-star - Express",
+            "description": "SOPHIE TURNER, who plays Sansa Stark in Game of Thrones, has called one of her co-stars a \u201cterrible actor\u201d and revealed \u201ceveryone\u201d wanted to fire her.",
+            "url": "https://www.express.co.uk/celebrity-news/1111408/Sophie-Turner-Game-of-Thrones-Sansa-Stark-season-8-direwolf-Lady-news-latest-pictures",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/79/750x445/1111408.jpg",
+            "publishedAt": "2019-04-08T12:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Filiz Mehmedova",
+            "title": "Has this Line of Duty fan solved latest episode's Hastings cliffhanger? - DigitalSpy.com",
+            "description": "Move over, AC-12, because one viewer's been investigating.",
+            "url": "https://www.digitalspy.com/tv/a27071797/line-of-duty-fan-theory-season-5-episode-2-hastings-cliffhanger/",
+            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/17/19/1494256748-13058231-low-res-line-of-duty-series-4.jpg?crop=1xw:0.7496251874062968xh;center,top&resize=1200:*",
+            "publishedAt": "2019-04-08T12:42:00Z",
+            "content": "Note: This article contains spoilers for Line of Duty season 5, episode 2. Line of Duty 's latest episode has left viewers with some questions, after that cliffhanger last night which left us doubting Ted Hastings. The end of episode 2 saw hijack survivor Jan\u2026 [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kodak Black 'sorry' for Nipsey Hussle girlfriend comment - BBC News",
+            "description": "The rapper said he'd romantically pursue Lauren London but give her \"a whole year\" to grieve.",
+            "url": "https://www.bbc.co.uk/news/newsbeat-47852868",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/081A/production/_106347020_gettyimages-1137339879.jpg",
+            "publishedAt": "2019-04-08T12:19:26Z",
+            "content": "Image copyright Getty Images Kodak Black has apologised for saying he planned to romantically pursue actress Lauren London following the death of her boyfriend Nipsey Hussle. \"I'll be the best man I can be for her,\" the rapper said of Lauren London, adding th\u2026 [+3695 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nadja Regin: Bond actress dies aged 87 - BBC News",
+            "description": "The Serbian actress appeared opposite Sean Connery in From Russia With Love and Goldfinger.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-47854805",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C7D2/production/_106345115_b7e46b7f-322f-4d2f-ac25-3cb9e6c1e4b9.jpg",
+            "publishedAt": "2019-04-08T12:02:48Z",
+            "content": "Image copyright Getty Images Image caption Sean Connery and Nadja Regin in Goldfinger Actress Nadja Regin, who appeared in two James Bond movies, has died at the age of 87. The news was announced on the official 007 Twitter account, which said: \"Our thoughts \u2026 [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Jess Lee",
+            "title": "This Morning viewers had one small problem about Britain's Got Talent choir interview - DigitalSpy.com",
+            "description": "Some people had a nitpick with the name tags.",
+            "url": "https://www.digitalspy.com/tv/reality-tv/a27071937/this-morning-britains-got-talent-choir-interview-reactions/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/this-morning-eamonn-holmes-1554724352.jpg?crop=1.00xw:0.502xh;0,0.0946xh&resize=1200:*",
+            "publishedAt": "2019-04-08T12:02:00Z",
+            "content": "The Flakefleet Primary School choir stunned viewers on Britain's Got Talent over the weekend with their performance, and even moved David Walliams to tears \u2013 leading him to push the Golden Buzzer for them. The kids were just as adorable on This Morning today \u2026 [+1323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heatworld.com"
+            },
+            "author": "Alex Ross",
+            "title": "Mike Thalassitis' family release heartbreaking statement following his funeral - Heat World",
+            "description": "Mike Thalassitis' family have set up a Just Giving page in an attempt to raise money for a mental health charity, following the Love Island star's tragic death.",
+            "url": "https://heatworld.com/celebrity/news/mike-thalassitis-just-giving-family/",
+            "urlToImage": "https://cdn.heatworld.com/one/media/5cab/252a/212c/dc11/ed04/eb0e/mike-family-statement.jpg?quality=50&width=960&height=540&ratio=16-9&resizeStyle=aspectfill&crop=84,504,662,1531&resize=crop&format=jpg",
+            "publishedAt": "2019-04-08T11:41:50Z",
+            "content": "The showbiz world was left in complete shock last month, when the news broke that Love Island star Mike Thalassitis had taken his own life at the age of just 26. Now, after Mike's funeral took place on Friday 5th April, his family have released a heartbreakin\u2026 [+3412 chars]"
+        },
+        {
+            "source": {
+                "id": "mirror",
+                "name": "Mirror"
+            },
+            "author": "Lucy Needham",
+            "title": "Katie Price's mum mocks 'Frankenstein' surgery while Kris Boyson calls her fat - Mirror Online",
+            "description": "After a turbulent year and a divorce looming, Katie is preparing for body overhaul in the latest series of her reality show My Crazy Life",
+            "url": "https://www.mirror.co.uk/3am/celebrity-news/katie-prices-mum-mocks-frankenstein-14252057",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article14252168.ece/ALTERNATES/s1200/1_Katie-Price-My-Crazy-Life.jpg",
+            "publishedAt": "2019-04-08T11:01:00Z",
+            "content": "Katie Price is bodyshamed by both her mum Amy and boyfriend Kris Boyson in the return of reality series My Crazy Life. The former glamour model, who revealed she'd put on 1.5 stone after her recent troubles, is ordered to transform her diet by her toyboy Kris\u2026 [+2440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Laura Morgan",
+            "title": "Emmerdale spoilers - Jacob's huge Maya decision and more big moments - DigitalSpy.com",
+            "description": "Is it all over for Maya?",
+            "url": "https://www.digitalspy.com/soaps/emmerdale/a27067138/soap-spoilers-emmerdale-coronation-street-eastenders-hollyoaks-april-8/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emmerdale-jacob-gallagher-1554677293.jpg?crop=1.00xw:0.505xh;0,0.296xh&resize=1200:*",
+            "publishedAt": "2019-04-08T11:00:00Z",
+            "content": "Struggling to keep track of the constant stream of soap spoilers? Fear not, as every Monday Digital Spy picks out the biggest and best storylines hitting your screens in the week ahead. 1. Emmerdale : Jacob calls it quits with Maya (Monday at 7pm on ITV) Stre\u2026 [+7395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vogue.co.uk"
+            },
+            "author": "Hayley Maitland",
+            "title": "Everything We Know So Far About Beyonc\u00e9's Homecoming Documentary On Netflix - Vogue.co.uk",
+            "description": "A documentary that goes behind-the-scenes of Beyonc\u00e9\u2019s history-making Coachella performance will likely be released on Netflix on April 17.",
+            "url": "https://www.vogue.co.uk/article/beyonce-documentary-homecoming",
+            "urlToImage": "https://vg-images.condecdn.net/image/oREV4gLmVzr/crop/1440/0.5235602094240838/f/gettyimages-949864240.jpg",
+            "publishedAt": "2019-04-08T10:40:02Z",
+            "content": "O nly Beyonc\u00e9 could throw the Internet into a frenzy with a single cryptic tweet. On Sunday, Netflix posted a title card on Twitter with the phrase \"Homecoming\" written in Greek-style lettering against a mustard yellow background - and the Beyhive was quick t\u2026 [+1768 chars]"
+        },
+        {
+            "source": {
+                "id": "metro",
+                "name": "Metro"
+            },
+            "author": "Abigail Gillibrand",
+            "title": "Richard Madeley is peak Alan Partridge with sweary blunders on GMB - Metro.co.uk",
+            "description": "A-ha!",
+            "url": "https://metro.co.uk/2019/04/08/richard-madeley-reaches-peak-alan-partridge-string-sweary-blunders-replaces-piers-morgan-gmb-9131758/",
+            "urlToImage": "https://i0.wp.com/metro.co.uk/wp-content/uploads/2019/04/SEC_60926978_1554719888.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
+            "publishedAt": "2019-04-08T10:24:00Z",
+            "content": "Richard Madeley reaches peak Alan Partridge with string of sweary blunders (Picture: Rex) Richard Madeley has been compared to Alan Partridge after swearing twice on Good Morning Britain. The 62-year-old was joined by Charlotte Hawkins as they filled in for b\u2026 [+2506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Dan Seddon",
+            "title": "Stacey Solomon reveals plans to adopt more children with Joe Swash - DigitalSpy.com",
+            "description": "\"If I could, I would have en entire pack of children.\"",
+            "url": "https://www.digitalspy.com/showbiz/a27069829/stacey-solomon-joe-swash-children-adoption/",
+            "urlToImage": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/18/12/1521739526-stacey-solomon.jpg?crop=1.00xw:0.502xh;0,0.0905xh&resize=1200:*",
+            "publishedAt": "2019-04-08T10:14:00Z",
+            "content": "Loose Women panellist Stacey Solomon has opened up about the possibility of adopting children with partner Joe Swash. The pair already have three kids between them from previous relationships, and recently announced that they're expecting their first baby tog\u2026 [+1305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ladbible.com"
+            },
+            "author": "",
+            "title": "Dad Locked Out Of iPad for 47 Years After Toddler Gets His Hands On It - LADbible",
+            "description": "There is a little-known fix for this though.",
+            "url": "http://www.ladbible.com/community/technology-dad-locked-out-of-ipad-for-47-years-after-toddler-gets-his-hands-on-it-20190408",
+            "urlToImage": "http://beta.ems.ladbiblegroup.com/s3/content/808x455/371a47445caba5ef7e9d45fe40114197.png",
+            "publishedAt": "2019-04-08T09:49:24Z",
+            "content": "Most parents can probably relate to giving their kids a phone or tablet to get a few precious minutes of peace and quiet. But one dad, from Washington DC, found out the hard way that toddlers need constant supervision and essentially can't be trusted. Credit:\u2026 [+1712 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Manchestereveningnews.co.uk"
             },
-            "author": "Rebecca Koncienzcy, Stuart Greer",
-            "title": "Money Saving Expert Martin Lewis shares truth behind returning items to a shop - Manchester Evening News",
-            "description": "Martin told Holly Willoughby and Phillip Schofield on This Morning about the law behind returning unwanted items",
-            "url": "https://www.manchestereveningnews.co.uk/news/uk-news/money-saving-expert-martin-lewis-15644759",
-            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article15644965.ece/ALTERNATES/s1200/0_Martin-Lewis.jpg",
-            "publishedAt": "2019-01-08T12:11:00Z",
-            "content": "We've all been there. You make an impulsive purchase, get home and change your mind. It's okay though, you think, I'll just take it back and get a refund. The trouble is your wrong, according to Martin Lewis who has revealed the widely misunderstood truth beh\u2026 [+1637 chars]"
+            "author": "Vickie Scullard",
+            "title": "Carol Vorderman, 58, shows off enviable body as she poses in her knickers - Manchester Evening News",
+            "description": "Wearing a black Nike vest and lacy knickers, Carol gave her followers a sneak peek of her in her 'scruffy home gym gear'",
+            "url": "https://www.manchestereveningnews.co.uk/news/showbiz-news/carol-vorderman-58-shows-enviable-16094721",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article16094758.ece/ALTERNATES/s1200/1_Carol-Vorderman-knickers.jpg",
+            "publishedAt": "2019-04-08T09:48:00Z",
+            "content": "It doesnt matter how old Carol Vorderman gets, her body keeps looking younger and younger. The 58-year-old showed off her slim and toned physique in photos uploaded to Twitter where she attached an inspirational message to women about the importance of exerci\u2026 [+1241 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMailCeleb",
+            "title": "Emmerdale star Jay Kontzle and wife Mimi reveal plans to expand their family - Daily Mail",
+            "description": "Emmerdale newcomer Jay Kontzle, 28, and his wife Mimi have opened up about expanding their family and the moment they first met in an interview with OK Magazine.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6897959/Emmerdale-star-Jay-Kontzle-wife-Mimi-reveal-plans-expand-family.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/10/11995040-0-image-a-18_1554715482295.jpg",
+            "publishedAt": "2019-04-08T09:24:54Z",
+            "content": "Emmerdale newcomer Jay Kontzle and his wife Mimi have opened up about plans to expand their family and what the future holds for them. In an interview with this week's edition of OK magazine, the soap star, 28, and his wife of two years hinted having more chi\u2026 [+3463 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Empireonline.com"
+                "name": "Express.co.uk"
             },
-            "author": "Ben Travis",
-            "title": "Venom 2 Moving Ahead, Likely Without Director Ruben Fleischer - Empire",
-            "description": "",
-            "url": "https://www.empireonline.com/movies/news/venom-2-moving-ahead-likely-without-director-ruben-fleischer/",
-            "urlToImage": "https://cdn.empireonline.com/jpg/80/0/0/1200/675/0/0/0/0/0/0/0/c/articles/5c348f76fd0c0bc844497ee4/venom-traile.jpg",
-            "publishedAt": "2019-01-08T11:51:00Z",
-            "content": "Say what you like about Venom and the internet at large has, both for and against but the Tom Hardy -starring comic book anti-hero movie made nearly $1 billion at the worldwide box office. It was pretty clear from its considerable haul ($855 million, official\u2026 [+1148 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "Bryan Cranston: My film role as a disabled billionaire is a business decision - Sky News",
-            "description": "The Breaking Bad star says his casting in new film The Upside is a \"business decision\" - and describes it as a \"case of catch-22\".",
-            "url": "https://news.sky.com/story/bryan-cranston-defends-playing-disabled-character-in-the-upside-11601790",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-bryan-cranston-kevin-hart_4540563.jpg?20190108105022",
-            "publishedAt": "2019-01-08T11:45:38Z",
-            "content": "Breaking Bad star Bryan Cranston has defended playing a disabled character in his new film, saying it is an actor's job to play different people. The star plays a quadriplegic billionaire in comedy-drama The Upside, alongside comedian Kevin Hart, whose charac\u2026 [+2686 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Indy100.com"
-            },
-            "author": null,
-            "title": "Dick Cheney's daughter tried to criticise Christian Bale for his 'Satan' comment - but it badly backfired - indy100",
-            "description": "On Sunday, Christian Bale won a Golden Globe for his performance of former US vice president Dick Cheney in the biopic Vice. In his speech, the 44-year-old British actor drew controversy after he",
-            "url": "https://www.indy100.com/article/liz-cheney-christian-bale-satan-vice-golden-globes-arrested-tweet-8716856",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/08/10/lccb.jpg",
-            "publishedAt": "2019-01-08T11:00:00Z",
-            "content": "On Sunday, Christian Bale won a Golden Globe for his performance of former US vice president Dick Cheney in the biopic Vice. In his speech, the 44-year-old British actor drew controversy after he jokingly thanked \"Satan for giving me the inspiration to play t\u2026 [+3327 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Thebookseller.com"
-            },
-            "author": "Katherine Cowdrey",
-            "title": "Rooney crowned youngest ever Costa Novel Award winner - The Bookseller",
-            "description": "Irish novelist Sally Rooney, 27, has become the youngest author ever to win the Costa Novel Award, triumphing for her second novel Normal People (Faber), a coming-of-age love story the judges said \"will electrify any reader\".",
-            "url": "https://www.thebookseller.com/news/rooney-crowned-youngest-ever-costa-novel-award-winner-926381",
-            "urlToImage": null,
-            "publishedAt": "2019-01-08T10:30:00Z",
-            "content": "Irish novelist Sally Rooney, 27, has become the youngest author ever to win the Costa Novel Award, triumphing for her second novel Normal People (Faber), a coming-of-age love story the judges said \"will electrify any reader\". Celebrating \"the most enjoyable b\u2026 [+3954 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sky.com"
-            },
-            "author": "Sky News",
-            "title": "Lady Gaga and Bradley Cooper celebrate A Star Is Born co-star Sam Elliott at Hollywood ceremony - Sky News",
-            "description": "Sam Elliott plays Bobby, the older brother of Bradley Cooper's character Jackson Maine, in A Star Is Born.",
-            "url": "https://news.sky.com/story/lady-gaga-and-bradley-cooper-celebrate-a-star-is-born-co-star-sam-elliott-at-hollywood-ceremony-11601701",
-            "urlToImage": "https://e3.365dm.com/19/01/1600x900/skynews-bradley-cooper-lady-gaga_4540440.jpg?20190108090620",
-            "publishedAt": "2019-01-08T10:17:09Z",
-            "content": "Lady Gaga and Bradley Cooper turned out to celebrate their A Star Is Born co-star Sam Elliott as he officially made his mark on Hollywood Boulevard. The veteran actor, who plays Bobby, the older brother of Cooper' s character Jackson Maine in the film, imprin\u2026 [+2631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Lynnnews.co.uk"
-            },
-            "author": "Lynn News Reporter",
-            "title": "Olivia Colman left excited by member of audience coming from King's Lynn during international film festival - Lynn News",
-            "description": "Award-winning actress from The Favourite interacts with member of audience from Norfolk during award ceremony in America",
-            "url": "https://www.lynnnews.co.uk/news/olivia-colman-left-excited-by-member-of-audience-coming-from-kings-lynn-during-international-film-festival-9058524/",
-            "urlToImage": "https://www.lynnnews.co.uk/_media/img/YSYFZD0UB4Y1O66U0CAO.jpg",
-            "publishedAt": "2019-01-08T10:11:00Z",
-            "content": "Golden Globe winner Olivia Colman expressed her delight and surprise at a member of the audience saying they were from King's Lynn during a Californian film festival. The actress, who stars as Queen Anne in the new-comedy drama The Favourite, was receiving th\u2026 [+1108 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Screendaily.com"
-            },
-            "author": "Ben Dalton",
-            "title": "Jonah Hill's 'Mid90s', Brian Welsh's 'Beats' to bookend 2019 Glasgow Film Festival - Screen International",
-            "description": "The festival runs from February 20 - March 3.",
-            "url": "https://www.screendaily.com/news/jonah-hills-mid90s-brian-welshs-beats-to-bookend-2019-glasgow-film-festival/5135601.article",
-            "urlToImage": "https://d1nslcd7m2225b.cloudfront.net/Pictures/2000x2000fit/9%2F4%2F1%2F1294941_mid90sstill_83635.jpg",
-            "publishedAt": "2019-01-08T08:38:27Z",
-            "content": "The 15th edition of Glasgow Film Festival (February 20 March 3) will open with the UK premiere of Mid90s, Jonah Hills directorial debut. Brian Welshs Beats, the adaptation of Scottish playwright Kieran Hurleys play executive produced by Steven Soderbergh, wil\u2026 [+805 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Itv.com"
-            },
-            "author": null,
-            "title": "Port Talbot local who says he asked Banksy to do artwork says he wishes it was somewhere else - ITV News",
-            "description": "A local Port Talbot resident has said he wishes Banksy had created his artwork &quot;somewhere else&quot; because it is creating too much stress and disturbance for the owner of the garage it appears on.",
-            "url": "https://www.itv.com/news/wales/2019-01-08/port-talbot-local-who-says-he-asked-banksy-to-do-piece-says-he-wishes-it-was-somewhere-else/",
-            "urlToImage": "https://news.images.itv.com/image/file/1733687/img.jpg",
-            "publishedAt": "2019-01-08T07:00:00Z",
+            "author": "James Benson",
+            "title": "What Becky Lynch told WWE after beating Ronda Rousey and Charlotte Flair at WrestleMania - Express",
+            "description": "BECKY LYNCH believes anything is possible after she beat Ronda Rousey and Charlotte Flair at WrestleMania on Sunday night.",
+            "url": "https://www.express.co.uk/sport/wwe/1111283/Becky-Lynch-WWE-Ronda-Rousey-Charlotte-Flair-WrestleMania",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/171/750x445/1111283.jpg",
+            "publishedAt": "2019-04-08T09:04:00Z",
             "content": null
         },
         {
             "source": {
-                "id": "mirror",
-                "name": "Mirror"
+                "id": null,
+                "name": "Thesun.co.uk"
             },
-            "author": "Natalie Evans",
-            "title": "Golden Globes 'Fiji Water Girl' photobombs James Corden Late Late Show guests - Mirror Online",
-            "description": "Kelleth Cuthbert became a social media sensation after stealing the spotlight from the stars at the glittering Hollywood bash on Monday night",
-            "url": "https://www.mirror.co.uk/3am/celebrity-news/golden-globes-fiji-water-girl-13827120",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13827117.ece/ALTERNATES/s1200/0_Fiji-Water-Girl-on-James-Corden-late-late-show-Kelleth-Cuthbert.jpg",
-            "publishedAt": "2019-01-08T06:05:00Z",
-            "content": "She was the surprise star of the Golden Globes, and Fiji Water Girl is milking (or should that be watering) her five minutes of fame. Kelleth Cuthbert became a social media sensation with her expert photobombing at the glittering Hollywood bash on Monday nigh\u2026 [+3823 chars]"
-        },
-        {
-            "source": {
-                "id": "mirror",
-                "name": "Mirror"
-            },
-            "author": "Natalie Evans, Christopher Bucktin",
-            "title": "Kevin Spacey stopped for speeding - on way home from sex assault court hearing - Mirror.co.uk",
-            "description": "The 59-year-old House of Cards star was stopped by police as he left Reagan National Airport in Washington DC",
-            "url": "https://www.mirror.co.uk/3am/celebrity-news/kevin-spacey-stopped-speeding-way-13826901",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13826907.ece/ALTERNATES/s1200/0_PAY-EXCLUSIVE-PREMIUM-RATES-APPLYKevin-Spacey-arrives-back-in-DC-after-flying-in-from-Nantucket-and.jpg",
-            "publishedAt": "2019-01-08T00:38:00Z",
-            "content": "Actor Kevin Spacey was reportedly pulled over for speeding yesterday - on his way home from court. The 59-year-old was stopped by police as he left Reagan National Airport in Washington DC. The House of Cards star was seen talking to officers next to his vehi\u2026 [+1696 chars]"
+            "author": "Richard Wheatstone",
+            "title": "Hospital apologises to transgender woman who wore Ann Summers Mrs Claus outfit to visit pal after nurse who - The Sun",
+            "description": "Chantelle Saunders, 34, says she was addressed as 'sir' after donning full make-up, a wig and the Mrs Claus costume at Royal Devon and Exeter Hospital",
+            "url": "https://www.thesun.co.uk/news/8813814/hospital-apologises-transgender-woman-ann-summers-mrs-claus/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/AD-COMPOSITE-Hospital.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T08:26:00Z",
+            "content": "A TRANSGENDER woman mistaken for a man when she visited a hospital ward dressed in an Ann Summers Mrs Claus outfit has won an apology from NHS bosses. Chantelle Saunders, 34, said she was left \"very, very upset\" after dressing in make-up, wig and a costume to\u2026 [+2602 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Unilad.co.uk"
+                "name": "Thesun.co.uk"
             },
-            "author": "Lucy Connolly",
-            "title": "Melissa McCarthy Smuggled 40 Ham Sandwiches Into Golden Globes Last Night - UNILAD",
-            "description": null,
-            "url": "https://www.unilad.co.uk/grub/melissa-mccarthy-smuggled-40-ham-sandwiches-into-golden-globes-last-night/",
-            "urlToImage": null,
-            "publishedAt": "2019-01-07T20:48:45Z",
-            "content": "There\u2019s no doubt in my mind, Melissa McCarthy is an actual queen; you only have to look at her Sean Spicer impression to realise just how iconic she is. And now it seems she\u2019s not only a queen, but a real life hero too \u2013 all because she and her husband smuggl\u2026 [+2556 chars]"
+            "author": "Rebecca Greenow",
+            "title": "Towie\u2019s Chloe Sims cries after Dan Edgar cancels their first date and says she\u2019s \u2018fed up with his s***\u2019 - The Sun",
+            "description": "Is it already over for Essex's unlikely coupling?",
+            "url": "https://www.thesun.co.uk/tvandshowbiz/8813721/towies-chloe-sims-cries-over-dan-edgar-as-she-reveals-shes-fed-up-with-his-st-as-he-cancels-date/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/AD-COMPOSITE-Tears.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-08T08:19:00Z",
+            "content": "CHLOE Sims is devastated after Dan Edgar cancels a date and cries that she's already over their rollercoaster romance. In a preview shown on Sunday's episode, Dan, 28, backtracks on his suggestion of a first date because he's \"freaked out\" by their fledgling \u2026 [+2205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Esctoday.com"
+            },
+            "author": "https://www.facebook.com/jiandani.sergio",
+            "title": "Eurovision The Netherlands: Amsterdam ready to host Eurovision 2020 if Duncan wins in Tel Aviv - esctoday.com",
+            "description": "Eurovision news 2018: Dutch Eurovision hopeful Duncan Laurence is currently the bookies' hot favourite to win the 2019 Eurovision Song Contest in\u00a0 Tel Aviv and has gained much",
+            "url": "http://esctoday.com/173735/the-netherlands-amsterdam-ready-to-host-eurovision-2020-if-duncan-wins-in-tel-aviv/",
+            "urlToImage": "http://esct2018.storage.googleapis.com/wp-content/uploads/2019/04/wsi-imageoptim-famke.jpg",
+            "publishedAt": "2019-04-08T08:15:00Z",
+            "content": "Dutch Eurovision hopeful Duncan Laurence is currently the bookies\u2019 hot favourite to win the 2019 Eurovision Song Contest in Tel Aviv and has gained much fame and name both at home in Holland and overseas since the release of his Eurovision entry Arcade. This \u2026 [+2590 chars]"
         },
         {
             "source": {
                 "id": "mirror",
                 "name": "Mirror"
             },
-            "author": "Jo-Anne Rowney",
-            "title": "Avengers: Endgame trailers will only show footage from first 15 minutes - Mirror Online",
-            "description": "Marvel head Kevin Feige has said Avengers: Endgame trailers won't have that many spoilers as they're only showing the first 15 minutes",
-            "url": "https://www.mirror.co.uk/film/avengers-endgame-trailers-only-show-13825248",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13701055.ece/ALTERNATES/s1200/0_IMG_5070.jpg",
-            "publishedAt": "2019-01-07T17:03:00Z",
-            "content": "Marvel boss Kevin Feige dropped a bombshell at The Golden Globes red carpet. Speaking to the press, Feige revealed that the Avengers marketing won't actually have that many spoilers - if any really. The current rumour had been the Avengers: Endgame marketing,\u2026 [+963 chars]"
+            "author": null,
+            "title": "Kim Kardashian posts hilarious video of North West stealing focus from dad Kanye - Mirror Online",
+            "description": null,
+            "url": "https://www.mirror.co.uk/3am/celebrity-news/kim-kardashian-posts-hilarious-video-14251626",
+            "urlToImage": null,
+            "publishedAt": "2019-04-08T08:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Manchestereveningnews.co.uk"
+            },
+            "author": "Joanne Ridout, Todd Fitzgerald",
+            "title": "The 'normal' house named one of the most gorgeous in the UK - how yours can be just as beautiful - Manchester Evening News",
+            "description": "Miffy Shaw's pad won the Cardiff episodes of BBC One's Best House in Town and now she shares her best tips on how to make your home look amazing",
+            "url": "https://www.manchestereveningnews.co.uk/news/property/normal-house-named-one-most-16094154",
+            "urlToImage": "https://i2-prod.manchestereveningnews.co.uk/incoming/article16094183.ece/ALTERNATES/s1200/0_House.jpg",
+            "publishedAt": "2019-04-08T08:01:00Z",
+            "content": "It's rare you come home that looks so normal from the outside, yet so beautiful inside. This unique property in Penarth is one of them. Recently crowned as the Cardiff winner in the BBC One property show the Best House in Town, the three-bed semi-detached hom\u2026 [+9013 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Daniel Kilkelly",
+            "title": "Coronation Street spoilers - Gary Windass has a shock new target - DigitalSpy.com",
+            "description": "His first debt collection leaves him horrified.",
+            "url": "https://www.digitalspy.com/soaps/coronation-street/a27069319/coronation-street-spoilers-gary-windass-vicky-jefferies-visit/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/coronation-street-mikey-north-gary-windass-1552899630.jpg?crop=0.996xw:0.497xh;0,0.153xh&resize=1200:*",
+            "publishedAt": "2019-04-08T07:57:00Z",
+            "content": "Coronation Street 's Gary Windass will face a terrible dilemma when Vicky Jefferies becomes his latest target. Gary (Mikey North) is horrified when he crosses paths with Vicky while collecting debts for dangerous loan shark Rick Neelan. Upcoming episodes see \u2026 [+1412 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "BBC's hit drama Peaky Blinders 'glorifies violence and promotes toxic masculinity' - Daily Mail",
+            "description": "British researcher Dr George S Larke-Walsh, of the University of North Texas, claims the hit BBC drama about a Birmingham crime gang 'utilises nostalgia for nationalism'.",
+            "url": "https://www.dailymail.co.uk/news/article-6898063/BBCs-hit-drama-Peaky-Blinders-glorifies-violence-promotes-toxic-masculinity.html",
+            "urlToImage": "https://i.dailymail.co.uk/i/newpix/2019/04/08/08/05B93728000003E8-0-image-a-29_1554709681045.jpg",
+            "publishedAt": "2019-04-08T07:49:49Z",
+            "content": "With their flat caps and jackets, the crooks in these old mugshots might remind you of the Artful Dodger, the lovable rogue from Oliver Twist. But the Victorian boys and men, pictured in photos from a police archive, did much worse than pick a pocket or two. \u2026 [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMailCeleb",
+            "title": "Questions we needed answering after Line Of Duty, by Jim Shelley - Daily Mail",
+            "description": "Line Of Duty saw writer Jed Mercurio set a new Personal Best in the field of Head-Spinningly Complicated Storylines, smashing his own British record (created last week).",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6897947/Questions-needed-answering-Line-Duty-Jim-Shelley.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/08/11994680-0-image-a-21_1554708182537.jpg",
+            "publishedAt": "2019-04-08T07:19:39Z",
+            "content": "Line Of Duty saw writer Jed Mercurio set a new Personal Best in the field of Head-Spinningly Complicated Storylines, smashing his own British record (created last week). The bad news was we still had four episodes left, and the chances were it wouldnt necessa\u2026 [+7227 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Eight black women discuss the politics of skin tone - The Guardian",
+            "description": "As part of our Shades of Black series, we invited eight women to talk about their experience of colorism in their relationships, careers and everyday life. C...",
+            "url": "https://www.youtube.com/watch?v=i3rEZnxOWcw",
+            "urlToImage": "https://i.ytimg.com/vi/i3rEZnxOWcw/maxresdefault.jpg",
+            "publishedAt": "2019-04-08T07:08:59Z",
+            "content": "As part of our Shades of Black series, we invited eight women to talk about their experience of colorism in their relationships, careers and everyday life. Colorism is the discrimination against individuals with a dark skin tone. This means that darker skinne\u2026 [+878 chars]"
+        },
+        {
+            "source": {
+                "id": "metro",
+                "name": "Metro"
+            },
+            "author": "Louise Griffin",
+            "title": "Spice Girls' Mel B denies sleeping with Geri Horner in old interview - Metro.co.uk",
+            "description": "She dropped the bombshell claim ahead of the Spice Girls world tour.",
+            "url": "https://metro.co.uk/2019/04/08/spice-girls-mel-b-denies-having-sex-with-geri-horner-in-unearthed-interview-9130706/",
+            "urlToImage": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/03/SEC_58469800_1554707120.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
+            "publishedAt": "2019-04-08T06:59:00Z",
+            "content": "Mel claimed she and Geri slept together at the height of the Spice Girls fame (Picture: Getty) Despite sending the world into meltdown when she claimed shed slept with Spice Girls band mate Geri Horner at the height of their fame, Mel B denies the claims in a\u2026 [+2882 chars]"
         },
         {
             "source": {
                 "id": "independent",
                 "name": "Independent"
             },
-            "author": "Sirena Bergman",
-            "title": "Piers Morgan almost vomits after tasting Greggs' vegan sausage roll on Good Morning Britain - The Independent",
-            "description": "Apparently the new Greggs item is 'gastonomic appropriation'",
-            "url": "https://www.independent.co.uk/life-style/piers-morgan-greggs-vegan-sausage-roll-good-morning-britain-snowflakes-a8716071.html",
-            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/01/07/16/gmb.png",
-            "publishedAt": "2019-01-07T17:00:00Z",
-            "content": "Piers Morgan has got people riled up yet again this time by expressing his disgust for the most hotly debated baked good of 2019 so far: Greggs vegan sausage roll. The Good Morning Britain presenter was offered one of the offending rolls during the programme.\u2026 [+2532 chars]"
+            "author": "Roisin O'Connor",
+            "title": "Sleaford Mods respond to reports of female fan being groped at live show: 'We don't want your money' - The Independent",
+            "description": "'Touching anyone without their consent is not acceptable no matter how you dress it up'",
+            "url": "https://www.independent.co.uk/arts-entertainment/music/news/sleaford-mods-live-show-sexual-harassment-female-fans-album-tour-a8859376.html",
+            "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/06/24/19/pg-20-sleaford-mods-1.jpg",
+            "publishedAt": "2019-04-08T06:54:55Z",
+            "content": "Sleaford Mods have issued a statement after a female fan claimed to have been sexaully assaulted at their sold-out show in Bristol. The alleged incident apparently took place as the band were performing on stage. Following the report, the band condemned the i\u2026 [+32771 chars]"
         },
         {
             "source": {
@@ -840,77 +554,363 @@
                 "name": "BBC News"
             },
             "author": "https://www.facebook.com/bbcnews",
-            "title": "'Driven' Richard Madden ready for Bond, says drama school professor - BBC News",
-            "description": "The Elderslie actor arrived at the Royal Conservatoire of Scotland in 2004 with his sights set on stardom.",
-            "url": "https://www.bbc.co.uk/news/entertainment-arts-46779720",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C101/production/_105090494_hi051492606.jpg",
-            "publishedAt": "2019-01-07T16:38:49Z",
-            "content": "Image copyright Kevin Winter/Getty Image caption Richard Madden beams after picking up his first Golden Globe win for his performance in BBC drama Bodyguard When asked in a TV interview whether he was the most famous person from Elderslie, Richard Madden mode\u2026 [+4304 chars]"
+            "title": "Solange Knowles cancels her Coachella performance - BBC News",
+            "description": "Organisers she apologies and looks forward to performing at the Californian festival in the future.",
+            "url": "https://www.bbc.co.uk/news/newsbeat-47850138",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17330/production/_106342059_gettyimages-955815148.jpg",
+            "publishedAt": "2019-04-08T06:50:27Z",
+            "content": "Image copyright Getty Images Solange Knowles has cancelled her performance at Coachella due to \"major production delays\". The festival said: \"She sends her sincerest apologies, and looks forward to performing at Coachella in the future.\" Solange was due to pl\u2026 [+1096 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMailCeleb",
+            "title": "Reba McEntire dons SIX outfits while hosting ACM Awards and SLAMS show for lack of women nominees - Daily Mail",
+            "description": "The Queen of Country took her title seriously when she slammed the ACMs for failing to nominate women in the top category. She also fit in six different outfits for the all-star event.",
+            "url": "https://www.dailymail.co.uk/tvshowbiz/article-6897627/Reba-McEntire-dons-SIX-outfits-hosting-ACM-Awards-SLAMS-lack-women-nominees.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/05/11990996-0-image-a-33_1554698483922.jpg",
+            "publishedAt": "2019-04-08T06:29:06Z",
+            "content": "She made sure all eyes were on her, partly thanks to the six outfits she wore. But Reba McEntire also used her platform as host of the 2019 ACM Awards to lambaste the long-running country music organization for failing to nominate women in some of its most hi\u2026 [+3864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Brian McGleenon",
+            "title": "Princess Diana death: Paramedics made a 'MISTAKE' after Diana suffered 'RARE' tear in lung - Express",
+            "description": "PRINCESS Diana was killed by an exceptionally rare \u201ctiny vein tear in one of her lungs\u201d, a top pathologist has claimed.",
+            "url": "https://www.express.co.uk/news/royal/1111215/princess-diana-death-paris-princess-of-wales-dodi-fayed",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/106/750x445/1111215.jpg",
+            "publishedAt": "2019-04-08T06:27:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Express.co.uk"
+            },
+            "author": "Konstantinos Lianos",
+            "title": "Roman Reigns: What's next for WWE star after WrestleMania? Will he go after Seth Rollins? - Express",
+            "description": "ROMAN REIGNS defeated Drew McIntyre at WrestleMania 35 and is now looking forward to the new season.",
+            "url": "https://www.express.co.uk/sport/wwe/1111196/Roman-Reigns-WWE-news-WWE-WrestleMania-35-Seth-Rollins-Undertaker-John-Cena",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/171/750x445/1111196.jpg",
+            "publishedAt": "2019-04-08T02:55:00Z",
+            "content": null
         },
         {
             "source": {
                 "id": "mirror",
                 "name": "Mirror"
             },
-            "author": "Jo-Anne Rowney",
-            "title": "Sandra Bullock's best movies - guys, she's not just the lady from Bird Box - Mirror Online",
-            "description": "With everyone talking about Bird Box, and that tweet about \"the lady from Bird Box\" we take a look at Sandra Bullock's other movies",
-            "url": "https://www.mirror.co.uk/film/sandra-bullocks-best-movies-guys-13824239",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13824514.ece/ALTERNATES/s1200/0_THP_CHP_070119SLUG_0426JPG.jpg",
-            "publishedAt": "2019-01-07T15:18:00Z",
-            "content": "All anyone seems to be talking about these days is Bird Box, from the endless blindfold memes, to plot holes and things we missed. Sandra Bullock stars as Malorie in the Netflix movie based off Josh Malerman's book of the same name. A lot of people have watch\u2026 [+5500 chars]"
+            "author": "Sam Elliott",
+            "title": "Dani Dyer has huge fallout with Georgia Steel and reveals they're 'not talking' - Mirror Online",
+            "description": "The reality TV star has admitted the pair aren't speaking in the same week she broke up with her boyfriend Jack Fincham and went on a publicity tour for her new book",
+            "url": "https://www.mirror.co.uk/3am/celebrity-news/dani-dyer-georgia-steel-fallen-14251132",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article14248962.ece/ALTERNATES/s1200/0_Dani-Dyer-makes-sexual-innuendo-as-she-squeezes-pork-onto-a-skewer-on-Sunday-Brunch-Channel-4-114.jpg",
+            "publishedAt": "2019-04-08T01:45:00Z",
+            "content": "When times are tough what you need more than anything is your friends by your side. So it has probably not been the best week for Dani Dyer, who has revealed a fall out with Love Island buddy Georgia Steel. Dani failed to turn up at Georgia's 21st birthday pa\u2026 [+1840 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Digitalspy.com"
             },
-            "author": "Louise McCreesh",
-            "title": "Dancing on Ice viewers noticed something hilarious about Gemma Collins' debut appearance - DigitalSpy.com",
-            "description": "\"That's what that sound was.\"",
-            "url": "https://www.digitalspy.com/tv/reality-tv/a25774742/dancing-on-ice-gemma-collins-debut-appearance-scream/",
-            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/agemma-1546868415.jpg?crop=0.8953125xw:1xh;center,top&resize=1200:*",
-            "publishedAt": "2019-01-07T15:03:00Z",
-            "content": "Dancing on Ice returned to screens on Sunday night (January 6), and with it the much-anticipated debut skate of meme legend Gemma Collins. The TOWIE star took to the ice with her partner Matt Evers and performed a routine to Beyonc\u00e9's 'Crazy in Love'. However\u2026 [+1825 chars]"
+            "author": "Jo Berry",
+            "title": "Killing Eve season 2 is as good as ever, even without Phoebe Waller-Bridge - DigitalSpy.com",
+            "description": "The writer has taken a step back, but you wouldn't guess.",
+            "url": "https://www.digitalspy.com/tv/ustv/a27053416/killing-eve-season-2-premiere-episode-1-review/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/killing-eve-season-2-jodie-comer-1554468887.jpg?crop=1.00xw:0.501xh;0.00104xw,0.182xh&resize=1200:*",
+            "publishedAt": "2019-04-08T01:00:00Z",
+            "content": "Note: contains US-pace spoilers for season 2 of Killing Eve. The second season of Killing Eve has arrived on BBC America \u2013 UK viewers will have to wait a little longer, with a BBC air date still TBC \u2013 and it picks up the bloody, twisted and bitingly funny sto\u2026 [+4039 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Kim Foxx defends her decision to drop charges against Jussie Smollett, says race behind criticism - Daily Mail",
+            "description": "Cook County State\u2019s Attorney Kim Foxx made the comments during a defiant and emotional address at the Rev. Jesse Jackson Sr.\u2019s Rainbow Push Coalition in Chicago on Saturday.",
+            "url": "https://www.dailymail.co.uk/news/article-6897139/Kim-Foxx-defends-decision-drop-charges-against-Jussie-Smollett-says-race-criticism.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/08/01/11984442-0-image-a-15_1554682084596.jpg",
+            "publishedAt": "2019-04-08T00:09:38Z",
+            "content": "The Chicago prosecutor whose office dismissed charges against Jussie Smollett defended the decision on Saturday, saying the Empire actor was treated no differently than thousands of other defendants whose charges were similarly dropped since she took office. \u2026 [+6834 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Irishmirror.ie"
+                "name": "Express.co.uk"
             },
-            "author": "Irishmirror.ie",
-            "title": "Is EastEnders on tonight? Soap fans FURY as Monday night's episode is CANCELLED - Irish Mirror",
-            "description": "Viewers hoping to catch up with the BBC One soap on Monday night will be sorely disappointed",
-            "url": "https://www.irishmirror.ie/showbiz/celebrity-news/eastenders-tonight-soap-fans-fury-13824527",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13819077.ece/ALTERNATES/s1200/2_Week-3-Stuart-and-Dot.jpg",
-            "publishedAt": "2019-01-07T14:15:00Z",
-            "content": "EastEnders has been cancelled on Monday night - for a very good reason. Viewers hoping to catch up on the latest antics in Albert Square will be bitterly disappointed as the soap has been knocked from its usual 7:30pm slot. Instead the BBC will air the third \u2026 [+2080 chars]"
+            "author": "Konstantinos Lianos",
+            "title": "Ronda Rousey to QUIT WWE? Stephanie McMahon gives update on future of WrestleMania star - Express.co.uk",
+            "description": "STEPHANIE McMAHON is confident Ronda Rousey will not leave WWE after WrestleMania 35.",
+            "url": "https://www.express.co.uk/sport/wwe/1110820/WWE-WrestleMania-35-Stephanie-McMahon-Ronda-Rousey-WWE-news-Becky-Lynch-Charlotte-Flair",
+            "urlToImage": "https://cdn.images.express.co.uk/img/dynamic/171/750x445/1110820.jpg",
+            "publishedAt": "2019-04-08T00:09:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": "mirror",
-                "name": "Mirror"
+                "id": "bbc-news",
+                "name": "BBC News"
             },
-            "author": "Frances Kindon",
-            "title": "Has Katie Price has finally MOVED OUT of her messy mansion? - Mirror Online",
-            "description": "EXCLUSIVE: The former Page 3 pin-up got everyone confused when she appeared in court charged with drink driving today",
-            "url": "https://www.mirror.co.uk/3am/celebrity-news/katie-price-finally-moved-out-13824251",
-            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article13823357.ece/ALTERNATES/s1200/2_SWNS_KATIE_PRICE_04.jpg",
-            "publishedAt": "2019-01-07T14:06:00Z",
-            "content": "With her once-grand mansion lying in a state of disrepair, rumours have been flying for some time that Katie Price is considering selling her \u00a32million Sussex pad. And she sparked speculation that she's done exactly that when she appeared at court this mornin\u2026 [+1775 chars]"
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How pop is blurring the gender lines - BBC News",
+            "description": "From Ariana Grande to Harry Styles - pop is reflecting new attitudes towards sexuality.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-47787456",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1772/production/_106320060_ariana_grab-nc.png",
+            "publishedAt": "2019-04-07T23:33:32Z",
+            "content": "Image copyright Universal Records Image caption Ariana Grande said she \"didn't feel the need to label\" her sexuality Last week, Ariana Grande set the internet on fire with a lyric that suggested she was bisexual. But what was truly remarkable was how unremark\u2026 [+8251 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Lynnnews.co.uk"
+                "name": "Vogue.co.uk"
             },
-            "author": "Lynn News Reporter",
-            "title": "Duke and Duchess of Cambridge join Queen at Sandringham church service - Lynn News",
-            "description": "The Duke of Edinburgh again missed the service",
-            "url": "https://www.lynnnews.co.uk/news/duke-and-duchess-of-cambridge-join-queen-at-sandringham-church-service-9058421/",
-            "urlToImage": "https://www.lynnnews.co.uk/_media/img/PTMA7EOKN7EBA0R2ZJQ3.jpg",
-            "publishedAt": "2019-01-06T19:31:00Z",
-            "content": "The Queen arriving at Sandringham Church Service. (6336041) The Queen was accompanied by the Duke and Duchess of Cambridge for the first church service of the new year at Sandringham this morning. The 92-year-old monarch was driven to the service at the St Ma\u2026 [+559 chars]"
+            "author": "Vogue",
+            "title": "Richard Madden On Potentially Playing Second Fiddle To A Female Bond - Vogue.co.uk",
+            "description": "\u201cIf it was a good part, if it was an interesting part, a Bond Boy would be an interesting dynamic. Why not?\u201d",
+            "url": "https://www.vogue.co.uk/article/richard-madden-james-bond",
+            "urlToImage": "https://vg-images.condecdn.net/image/wwJ8WljvKZ0/crop/1020/0.5235602094240838/f/richard-1-high-res-online_b.jpg",
+            "publishedAt": "2019-04-07T23:02:23Z",
+            "content": "I s Richard Madden comfortable being the hottest man in film right now? He says hes flattered, but Charlotte Edwardes senses that hes baffled that his taut buttocks drew record audiences to Bodyguard, the BBC thriller for which he won Best Actor in the 2019 G\u2026 [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Megan Davies",
+            "title": "Coronation Street star Brooke Vincent confirms she's pregnant - DigitalSpy.com",
+            "description": "\"I'm beside myself with happiness.\"",
+            "url": "https://www.digitalspy.com/soaps/coronation-street/a27065025/coronation-street-brooke-vincent-pregnant-first-child/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/brooke-vincent-nta-2019-1554636701.jpg?crop=0.777xw:0.388xh;0.0734xw,0.0375xh&resize=1200:*",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "Coronation Street 's Sophie Webster will be taking a leave of absence from the Cobbles very soon, as actress Brooke Vincent has confirmed the happy news she's pregnant. The star has shared that she and partner Kean Bryan are expecting their first baby, with B\u2026 [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Meghan Markle's womb should no longer be seen as public property - The Times",
+            "description": "It\u2019s been all of about four days since the Duchess of Sussex was deemed to have done something \u201cwrong\u201d in the eyes of the press and traditionalist courtiers, so I guess we were due another \u201cmisstep\u201d.",
+            "url": "https://www.thetimes.co.uk/article/meghan-markles-womb-should-no-longer-be-seen-as-public-property-bgs3fs0sz",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F18ee03b4-5966-11e9-ad39-96aa259da63d.jpg?crop=1500%2C844%2C0%2C78",
+            "publishedAt": "2019-04-07T23:01:00Z",
+            "content": "Its been all of about four days since the Duchess of Sussex was deemed to have done something wrong in the eyes of the press and traditionalist courtiers, so I guess we were due another misstep. This time, according to The Mail on Sunday, the heavily pregnant\u2026 [+476 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Olivier Awards: Mold theatre scoops top prize at ceremony - BBC News",
+            "description": "Theatr Clwyd in Mold wins a Olivier Award for its production of Home, I'm Darling.",
+            "url": "https://www.bbc.co.uk/news/uk-wales-47847057",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DF74/production/_106340275_homedarlinggetty.jpg",
+            "publishedAt": "2019-04-07T21:59:34Z",
+            "content": "Image copyright Getty Images Image caption Writer Laura Wade and director Tamara Harvey won best new comedy for Home, I'm Darling Theatr Clwyd has won a prestigious Olivier Award for its production of Home, I'm Darling. It won the Olivier for best new comedy \u2026 [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itv.com"
+            },
+            "author": null,
+            "title": "The Inheritance, Company and Come from Away scoop four gongs each at Olivier Awards - ITV News",
+            "description": "The Inheritance, an ambitious two-part epic dealing with the impact of the Aids epidemic, has scooped four awards at the Olivier Awards.\n\nKyle Soller, was named best actor at the annual theatre awards in London for his role in the six-hour plus play,  beating\u2026",
+            "url": "https://www.itv.com/news/2019-04-07/the-inheritance-company-and-come-from-away-scoop-four-gongs-each-at-olivier-awards/",
+            "urlToImage": "https://news.images.itv.com/image/file/1821893/img.jpg",
+            "publishedAt": "2019-04-07T21:56:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Nick Pritchard",
+            "title": "Prince William could have passed for James Bond all these times - The Sun",
+            "description": "The Sun on Sunday told how the future king worked with our spooks \u2014 here we show how Wills is a 007 lookalike",
+            "url": "https://www.thesun.co.uk/news/8812251/prince-william-james-bond-lookalike/",
+            "urlToImage": "https://www.thesun.co.uk/wp-content/uploads/2019/04/DD-COMPOSITE-WILLS-007-V2.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+            "publishedAt": "2019-04-07T21:04:53Z",
+            "content": "HE is the suave, classy guy who started work in HM Forces. By day he was a threat to the nations enemies, by night he was a force to be reckoned with for the opposite sex, immaculately turned out in his tux. The future king during his stint on Her Majesty's S\u2026 [+1312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Youtube.com"
+            },
+            "author": null,
+            "title": "Game of Thrones Reaction | 5x3 \u201cHigh Sparrow\u201d - CinemaBlend",
+            "description": "CinemaBlend Managing Director Sean O\u2019Connell has somehow never seen Game of Thrones\u2026until now. Join him as he watches Game of Thrones Season 5 Episode 3 for ...",
+            "url": "https://www.youtube.com/watch?v=22ZjaxsYuoQ",
+            "urlToImage": "https://i.ytimg.com/vi/22ZjaxsYuoQ/maxresdefault.jpg",
+            "publishedAt": "2019-04-07T19:45:00Z",
+            "content": "CinemaBlend Managing Director Sean OConnell has somehow never seen Game of Thronesuntil now. Join him as he watches Game of Thrones Season 5 Episode 3 for the very first time. Please keep spoilers out of the comments! - Watch Sean react to Game of Thrones Sea\u2026 [+944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thesun.co.uk"
+            },
+            "author": "Dan Cain",
+            "title": "Ant McPartlin returns to the road a year after drink drive crash as he cycles in London - The Sun",
+            "description": "The 43-year-old presenter strapped on a helmet and wore a backpack as he pedalled in south west London",
+            "url": "https://www.thesun.co.uk/tvandshowbiz/8811572/ant-mcpartlin-returns-road-drink-drive-crash-cycles/",
+            "urlToImage": "https://i2.wp.com/www.thesun.co.uk/wp-content/uploads/2019/04/KH-COMPOSITE-ANT.jpg?crop=173px%2C38px%2C272px%2C182px&resize=1200%2C800&ssl=1",
+            "publishedAt": "2019-04-07T17:55:13Z",
+            "content": "ANT McPartlin made a return to the roads on Friday as he cycled around London nearly a year after being banned from driving following his drink drive crash. The 43-year-old presenter strapped on a helmet and wore a backpack as he pedalled in south west London\u2026 [+2793 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bt.com"
+            },
+            "author": null,
+            "title": "Holly Willoughby: I deliberately don't talk about my weight - BT TV",
+            "description": "The star said being \u2018healthy and happy\u2019 is what matters.",
+            "url": "https://tv.bt.com/tv/tv-news/holly-willoughby-i-deliberately-dont-talk-about-my-weight-11364353440623",
+            "urlToImage": "http://home.bt.com/images/holly-willoughby-i-deliberately-dont-talk-about-my-weight-136435344049510401-190407183015.jpg",
+            "publishedAt": "2019-04-07T17:30:00Z",
+            "content": "Holly Willoughby has said she avoids discussing her weight and what she eats because it is \u201cnot helpful\u201d for other women. The This Morning star, 38, said people can get too focused on weight and that after talking to those affected by eating disorders, she de\u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Glasgowlive.co.uk"
+            },
+            "author": "Magdalene Dalziel",
+            "title": "Game of Thrones fans turn out in force as Iron Throne comes to Glasgow as part of UK tour - Glasgow Live",
+            "description": "There were huge queues in Intu Braehead today as the iconic chair from the hit HBO series arrived in the city as part of the 7 Kingdoms Tour - and it's back tomorrow.",
+            "url": "https://www.glasgowlive.co.uk/news/glasgow-news/glasgow-part-uk-tour-16093502",
+            "urlToImage": "https://i2-prod.glasgowlive.co.uk/incoming/article16093538.ece/ALTERNATES/s1200/0_pizapcom15546575411633.jpg",
+            "publishedAt": "2019-04-07T17:14:00Z",
+            "content": "The final season is almost upon us - but Glaswegians had an early chance to celebrate today. Fans of Game of Thrones formed huge queues at Intu Braehead this morning as The Iron Throne stopped over as part of a massive tour. The most hotly-contested seat on T\u2026 [+1436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Chris Edwards",
+            "title": "Celebrity SAS' Foxy says Sam Thompson \"needed to be brought down a peg\" - DigitalSpy.com",
+            "description": "\"He was still in cloud cuckoo land.\"",
+            "url": "https://www.digitalspy.com/tv/reality-tv/a27065432/celebrity-sas-who-dares-wins-foxy-sam-thompson/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/saswdw-celebrity-special-sam-thompson-1553257295.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+            "publishedAt": "2019-04-07T15:33:00Z",
+            "content": "Celebrity SAS: Who Dares Wins ' Foxy doesn't take it easy on Made in Chelsea 's Sam Thompson during the show's Stand Up to Cancer series that launches tonight (April 7), and now he's explained why. Speaking to Digital Spy and other press, Foxy revealed that S\u2026 [+1571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Dan Seddon",
+            "title": "The Voice UK's Sir Tom Jones appears to swear during live final - DigitalSpy.com",
+            "description": "Did he or didn't he?",
+            "url": "https://www.digitalspy.com/tv/reality-tv/a27065230/the-voice-uk-2019-emma-willis-apologises-sir-tom-jones-swears/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tom-jones-on-the-voice-uk-1548537298.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2019-04-07T14:38:00Z",
+            "content": "The Voice UK coach Sir Tom Jones appeared to let slip some naughty verbals during yesterday's (April 6) grand finale. With two singing contenders from his team battling Olly Murs' remaining vocalists for this year's crown, emotions were high throughout the li\u2026 [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": "daily-mail",
+                "name": "Daily Mail"
+            },
+            "author": "https://www.facebook.com/DailyMail",
+            "title": "Meghan\u2019s make-up artist Daniel Martin is spotted in London - Daily Mail",
+            "description": "Daniel Martin, the American beauty guru behind the Duchess of Sussex's wedding make-up, and her long time friend, has been spotted in the UK this weekend.",
+            "url": "https://www.dailymail.co.uk/femail/article-6895949/Meghans-make-artist-Daniel-Martin-spotted-London.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2019/04/07/14/11970226-0-image-a-46_1554644909511.jpg",
+            "publishedAt": "2019-04-07T14:32:36Z",
+            "content": "Daniel Martin, the man behind the Duchess of Sussex 's wedding make-up, and her long time friend, has been spotted in the UK this weekend. The American make-up artist from New York was seen in London 's Soho district on Thursday, before he posted pictures fro\u2026 [+5087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theneweuropean.co.uk"
+            },
+            "author": "Jonathon Read",
+            "title": "Saturday Night Live mocks Theresa May's Brexit woes - with guest appearance from Kit Harington | Latest Brexit news and top stories - The New European",
+            "description": "US comedy show Saturday Night Live has made light of Theresa May\u2019s Brexit woes.",
+            "url": "https://www.theneweuropean.co.uk/top-stories/saturday-night-live-mocks-theresa-may-s-brexit-woes-1-5982688",
+            "urlToImage": "https://www.theneweuropean.co.uk/polopoly_fs/1.5982689!/image/image.jpg",
+            "publishedAt": "2019-04-07T11:53:00Z",
+            "content": "Video PUBLISHED: 12:53 07 April 2019 | UPDATED: 13:11 07 April 2019 Theresa May is mocked on Saturday Night Live. Photograph: Saturday Night Live/YouTube. Archant Everything goes wrong for the prime minister in the TV sketch, with children giving her the thum\u2026 [+1109 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sir Billy's heart 'does a wee jig' - BBC News",
+            "description": "Grand Marshall Sir Billy Connolly leads 3,000 people in the Tartan Day parade through New York.",
+            "url": "https://www.bbc.co.uk/news/av/uk-scotland-47844494/sir-billy-connolly-leads-tartan-day-parade-through-new-york",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C191/production/_106335594_p075ryjt.jpg",
+            "publishedAt": "2019-04-07T10:11:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-telegraph",
+                "name": "The Telegraph"
+            },
+            "author": null,
+            "title": "Abba stars make surprise appearance to mark Mamma Mia! milestone - The Telegraph",
+            "description": "Abba's two leading men made a surprise appearance as hit musical Mamma Mia!",
+            "url": "https://www.telegraph.co.uk/news/2019/04/07/abba-stars-make-surprise-appearance-mark-mamma-mia-milestone/",
+            "urlToImage": "https://www.telegraph.co.uk/content/dam/news/2019/04/07/TELEMMGLPICT000193548372-xlarge_trans_NvBQzQNjv4Bqkw711ayJ9_GzmfKtaJhE8ZdY1sdmeugEhXKT3fs-mo4.jpeg",
+            "publishedAt": "2019-04-07T05:00:00Z",
+            "content": "A bba's two leading men made a surprise appearance as hit musical Mamma Mia! celebrated its 20th anniversary. Benny Andersson and Bjorn Ulvaeus, one half of the Swedish pop sensation, delighted audience members on Saturday night as the musical marked two deca\u2026 [+481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "A tiara war with the Queen reveals Meghan's real offence: wanting to do things well - The Times",
+            "description": "I wasn\u2019t going to write about the royals this week \u2014 all too bonkers \u2014 but something caught my eye. The story itself was unremarkable: the Queen has \u201cbanned\u201d the Duchess of Sussex from wearing...",
+            "url": "https://www.thetimes.co.uk/edition/comment/a-tiara-war-with-the-queen-reveals-meghan-s-real-offence-wanting-to-do-things-well-9nlvlsjsp",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2F8ed5c714-588b-11e9-a28c-4153b1332dc6.jpg?crop=1736%2C977%2C26%2C15",
+            "publishedAt": "2019-04-06T23:01:00Z",
+            "content": "I wasnt going to write about the royals this week all too bonkers but something caught my eye. The story itself was unremarkable: the Queen has banned the Duchess of Sussex from wearing certain tiaras. Meghan couldnt have the one she wanted for her wedding, n\u2026 [+458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitalspy.com"
+            },
+            "author": "Dan Seddon",
+            "title": "Corrie to revamp iconic set after new Bailey family move in - DigitalSpy.com",
+            "description": "\"It wasn't a decision we took lightly.\"",
+            "url": "https://www.digitalspy.com/soaps/coronation-street/a27062550/coronation-street-episodes-revamping-number-3-new-bailey-family/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/coronation-street-cast-bailey-family-1554476296.jpg?crop=1.00xw:0.752xh;0,0.115xh&resize=1200:*",
+            "publishedAt": "2019-04-06T21:57:00Z",
+            "content": "Coronation Street producer Iain MacLeod has confirmed that the iconic Number 3 house will be revamped during the arrival of the Baileys this summer. Emily Bishop called No. 3 her home for many, many years, with Norris Cole taking the property on in recent tim\u2026 [+1935 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thetimes.co.uk"
+            },
+            "author": null,
+            "title": "Hit TV show Game of Thrones followed by army of spin-offs - The Times",
+            "description": "Game of Thrones is (nearly) dead, long live Game of Thrones! The television show reaches its climax this month as the eighth and final series of the fantasy epic finally comes to screens. However...",
+            "url": "https://www.thetimes.co.uk/edition/news/hit-tv-show-game-of-thrones-followed-by-army-of-spin-offs-mfmk2wpqt",
+            "urlToImage": "http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fcb2ab598-57ba-11e9-b872-7488e2315159.jpg?crop=3134%2C1763%2C1%2C63",
+            "publishedAt": "2019-04-05T23:00:00Z",
+            "content": "Game of Thrones is (nearly) dead, long live Game of Thrones ! The television show reaches its climax this month as the eighth and final series of the fantasy epic finally comes to screens. However, fans wondering how they will cope without regular instalments\u2026 [+489 chars]"
         }
     ]
 }
